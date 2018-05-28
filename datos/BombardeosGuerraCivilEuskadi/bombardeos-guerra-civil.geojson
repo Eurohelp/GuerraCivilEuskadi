@@ -1,0 +1,2957 @@
+{
+  "type" : "FeatureCollection",
+  "name" : "Bombardeos de la Guerra Civil en Euskadi",
+  "features" : [ {
+    "id" : 1,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0200792537391847, 43.22015890576295 ]
+    },
+    "properties" : {
+      "localidad" : "Andoain",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Andoain el 26 de agosto de 1936. Se arrojaron tan solo cuatro bombas. Hubo daÃ±os materiales, pero no vÃ­ctimas.",
+      "fuente" : "Euzkadi  La Gaceta del Norte"
+    }
+  }, {
+    "id" : 2,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.422916278216525, 43.319460289028754 ]
+    },
+    "properties" : {
+      "localidad" : "Ondarroa",
+      "numero de bombardeos" : "2",
+      "fechas" : "29/10/1936  21/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas en Ondarroa. Fue destruido un caserÃ­o en la zona sur del pueblo. No se dispone de mÃ¡s informaciÃ³n. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 3,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4440296482328074, 43.23972746013803 ]
+    },
+    "properties" : {
+      "localidad" : "Urkaregi",
+      "numero de bombardeos" : "2",
+      "fechas" : "17/10/1936  21/10/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones las posiciones republicanas en la zona del monte Urkaregi. Los bombardeos se produjeron en octubre de 1936 con cuatro dÃ­as de diferencia. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que pudieron producir.",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Testimonio de Alberto Onaindia"
+    }
+  }, {
+    "id" : 4,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.465484957626874, 43.31175469601234 ]
+    },
+    "properties" : {
+      "localidad" : "Berriatua",
+      "numero de bombardeos" : "1",
+      "fechas" : "21/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ la zona de Berriatua, donde se encontraban posiciones del bando franquista. Un caserÃ­o de la zona resultÃ³ destruido. No se dispone de mÃ¡s informaciÃ³n. "
+    }
+  }, {
+    "id" : 5,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.475242268525237, 43.27557310597095 ]
+    },
+    "properties" : {
+      "localidad" : "Akarregi",
+      "numero de bombardeos" : "1",
+      "fechas" : "14/10/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas en la zona del monte Akarregi. No se dispone de mÃ¡s informaciÃ³n sobre este ataque.",
+      "fuente" : "Euzkadi  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 6,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.476417308100992, 43.254183922324216 ]
+    },
+    "properties" : {
+      "localidad" : "Etxebarria",
+      "numero de bombardeos" : "2",
+      "fechas" : "26/04/1937  15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de Etxebarria fue bombardeado en dos ocasiones, en abril y mayo de 1937. No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudieron causar estos ataques. La calle Santa Marina resultÃ³ daÃ±ada, junto con los edificios de la zona. ",
+      "fuente" : "EjÃ©rcito del Norte. Estado Mayor. Tercera SecciÃ³n. Partes de Operaciones. (ENEMPO)  Euzkadi"
+    }
+  }, {
+    "id" : 7,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4873308574537925, 43.34632016020842 ]
+    },
+    "properties" : {
+      "localidad" : "Mendexa",
+      "numero de bombardeos" : "2",
+      "fechas" : "23/10/1936  27/10/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Mendexa fue bombardeado en dos ocasiones en octubre de 1936. Los bombardeos daÃ±aron algunas casas y destruyeron un caserÃ­o en la zona, pero no causaron vÃ­ctimas segÃºn las crÃ³nicas de la Ã©poca. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  El Liberal  El Noticiero BilbaÃ­no  Euzkadi"
+    }
+  }, {
+    "id" : 8,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.497990288314844, 43.26863057497365 ]
+    },
+    "properties" : {
+      "localidad" : "Markina",
+      "numero de bombardeos" : "20",
+      "fechas" : " Desde 29/09/1936 hasta 26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Markina fue bombardeado en al menos 20 ocasiones entre septiembre de 1936 y abril de 1937. Fue una de las poblaciones mÃ¡s castigadas por los bombardeos aÃ©reos.  Se conocen destrozos en la zona de Menive, de Urberuaga, en el Hospital de Sangre y en el convento de los Padres Carmelitas, ademÃ¡s de en diferentes casas y edificios de la poblaciÃ³n. Sabemos que hubo al menos 29 vÃ­ctimas entre muertos y heridos, si bien no se dispone de informaciÃ³n sobre varios de los bombardeos, por lo que no se puede dar una cifra definitiva. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal  El NerviÃ³n  El Noticiero BilbaÃ­no  La Gaceta del Norte  Testimonios de Alberto Onaindia y George Steer"
+    }
+  }, {
+    "id" : 9,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.502602191905672, 43.18672307562969 ]
+    },
+    "properties" : {
+      "localidad" : "Ermua",
+      "numero de bombardeos" : "2",
+      "fechas" : "24/09/1936  25/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Ermua fue bombardeado en dos ocasiones. Aviones de los modelos \"Caproni 133\"  y \"Junker Ju52\" bombardearon la zona, causando sobre todo daÃ±os materiales en los edificios. TambiÃ©n fueron atacadas las carreteras de la zona, como la que iba hacia Eibar, en las que se soltaron bombas de 250 kg. En el primer bombardeo no hubo vÃ­ctimas, sobre el segundo no se dispone de datos.",
+      "fuente" : "Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  El Noticiero BilbaÃ­no  Euzkadi  La Gaceta del Norte "
+    }
+  }, {
+    "id" : 10,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5029854897467585, 43.36349388485277 ]
+    },
+    "properties" : {
+      "localidad" : "Lekeitio",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 22/10/1936 hasta 30/10/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Lekeitio fue bombardeado en 6 ocasiones durante el mes de octubre de 1936, en un plazo de 9 dÃ­as. Zonas del muelle, el cuartel de las milicias vascas y casas del pueblo resultaron daÃ±adas. Aviones italianos del modelo â€œCaproni 133â€� participaron al menos en alguno de los ataques. En \"El Liberal\" se contabilizaron 7 muertos y 19 heridos producto de estos bombardeos, si bien no es una cifra contrastada. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  El Noticiero BilbaÃ­no  El NerviÃ³n  La Gaceta del Norte  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 11,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.50499356254171, 43.09649151471518 ]
+    },
+    "properties" : {
+      "localidad" : "Kanpantzar",
+      "numero de bombardeos" : "3",
+      "fechas" : "24/10/1936  26/10/1936  05/11/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La zona del alto de Kanpantzar fue bombardeada en 3 ocasiones entre octubre y noviembre de 1936. La aviaciÃ³n republicana bombardeÃ³ posiciones franquistas que se encontraban en esta zona cercana a Elorrio. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que pudieron producir estos bombardeos. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  El Liberal  EL Noticiero BilbaÃ­no  Euzkadi"
+    }
+  }, {
+    "id" : 12,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.505765362661843, 43.0970912282771 ]
+    },
+    "properties" : {
+      "localidad" : "Kanpantzar",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 01/10/1936 hasta  01/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona del alto de Kanpantzar fue bombardeada en 4 ocasiones entre octubre de 1936 y abril de 1937. La aviaciÃ³n franquista bombardeÃ³ posiciones republicanas que se encontraban en esta zona cercana a Elorrio. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que pudieron producir estos bombardeos. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Orden de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (OMFAN)  El Liberal  El Noticiero BilbaÃ­no  Euzkadi"
+    }
+  }, {
+    "id" : 13,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.544876619327683, 43.130650134384084 ]
+    },
+    "properties" : {
+      "localidad" : "Elorrio",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 12/11/1936 hasta 25/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Elorrio fue bombardeado en 7 ocasiones entre noviembre de 1936 y abril de 1937. En una ocasiÃ³n el bombardeo se dirigiÃ³ contra la zona de Garbe. Como consecuencia de estos bombardeos resultaron daÃ±adas varias casas y caserÃ­os de la zona, asÃ­ como el edificio del Batzoki, el de Asistencia Social, los hoteles de Paz Misericordia y Viuda de Arregui, la ermita de San Fausto y el palacio del marquÃ©s de Tola. AdemÃ¡s se registraron al menos 9 vÃ­ctimas debido a los ataques, si bien no es una cifra definitiva. En al menos 2 de los ataques no hubo vÃ­ctimas, segÃºn las crÃ³nicas de la Ã©poca. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  AttivitÃ¡ Giornaliera dellÂ´Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937, Vol. 1.(AGAL)  Ministerio de Guerra de la RepÃºblica. SecciÃ³n de informaciÃ³n. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Noticiero BilbaÃ­no  La Gaceta del Norte  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 14,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5487126709251573, 43.16906498986113 ]
+    },
+    "properties" : {
+      "localidad" : "Zaldibar",
+      "numero de bombardeos" : "1",
+      "fechas" : "29/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "SegÃºn la crÃ³nica de \"El Noticiero BilbaÃ­no\" tres bombas fueron lanzadas en la zona de Sallovente, en Zaldibar, aparentemente sin causar daÃ±os reseÃ±ables.",
+      "fuente" : "El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 15,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5493679025649087, 43.24987626972141 ]
+    },
+    "properties" : {
+      "localidad" : "Bolibar",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Bolibar el 26 de abril de 1937, siempre segÃºn el testimonio de George Steer. No se dispone de mÃ¡s informaciÃ³n.",
+      "fuente" : "Testimonio de George Steer"
+    }
+  }, {
+    "id" : 17,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.560504764428215, 43.0670744664168 ]
+    },
+    "properties" : {
+      "localidad" : "Tellamendi",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 07/04/1937 hasta 22/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ hasta en cuatro ocasiones las posiciones republicanas en la zona de Tellamendi, en el barrio de Ibarra, Aramaio. Se realizaron 4 bombardeos, todos ellos en abril de 1937.  ",
+      "fuente" : "Euzkadi  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  Testimonio de George Steer. "
+    }
+  }, {
+    "id" : 16,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.558330106358569, 43.10406257215944 ]
+    },
+    "properties" : {
+      "localidad" : "Memaia",
+      "numero de bombardeos" : "2",
+      "fechas" : "22/04/1937  23/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Memaia, perteneciente a Elorrio. No disponemos de informaciÃ³n sobre las consecuencias de estos ataques. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 19,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5669296725048274, 43.04868587188337 ]
+    },
+    "properties" : {
+      "localidad" : "Amillondo",
+      "numero de bombardeos" : "2",
+      "fechas" : "07/04/1937  08/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones las posiciones republicanas en la zona de Amillondo, perteneciente a Aramaio. Los ataques se produjeron en abril de 1937. ",
+      "fuente" : "Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)"
+    }
+  }, {
+    "id" : 18,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5626258410354827, 43.297046266004216 ]
+    },
+    "properties" : {
+      "localidad" : "Aulesti",
+      "numero de bombardeos" : "2",
+      "fechas" : "16/11/1936  18/11/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Aulesti y principalmente el barrio de Malax fueron bombardeados dos veces en noviembre de 1936. En uno de los ataques no se produjeron vÃ­ctimas, mientras que no se dispone de informaciÃ³n al respecto en el segundo caso.",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  El Liberal (17/11/1936)  El Noticiero BilbaÃ­no  Euzkadi  El NerviÃ³n  La Gaceta del Norte "
+    }
+  }, {
+    "id" : 21,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.577048655372159, 43.17489279263173 ]
+    },
+    "properties" : {
+      "localidad" : "Berriz",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 29/09/1936 hasta 17/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Berriz fue bombardeado hasta en 5 ocasiones entre septiembre de 1936 y junio de 1937, participando en los ataques la aviaciÃ³n italiana. Las zonas de Olakueta y Uribe fueron daÃ±adas debido a los bombardeos, y en las crÃ³nicas de la Ã©poca se mencionan vÃ­ctimas causadas por los ataques, si bien no disponemos de mÃ¡s informaciÃ³n a este respecto.",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Noticiero BilbaÃ­no  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 20,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5765730861887337, 43.19522486756361 ]
+    },
+    "properties" : {
+      "localidad" : "Gaztelumendi",
+      "numero de bombardeos" : "1",
+      "fechas" : "11/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en el cerro de Urruzti y en la zona del monte Gaztelumendi. La aviaciÃ³n italiana tomÃ³ parte en el bombardeo. No se dispone de informaciÃ³n al respecto de las consecuencias de este ataque. ",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 23,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.591320669472269, 43.22756492868808 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Oiz",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en el monte Oiz.  La LegiÃ³n CÃ³ndor alemana participÃ³ en el ataque. No se dispone de informaciÃ³n sobre las consecuencias del mismo. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 22,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.584164763453038, 43.129690863519556 ]
+    },
+    "properties" : {
+      "localidad" : "Apatamonasterio",
+      "numero de bombardeos" : "1",
+      "fechas" : "22/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo y las inmediaciones de Apatamonasterio, sin que se produjeran vÃ­ctimas. ",
+      "fuente" : "Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Euzkadi"
+    }
+  }, {
+    "id" : 25,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5922166162941975, 43.26560771354318 ]
+    },
+    "properties" : {
+      "localidad" : "Munitibar",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el municipio de Munitibar y los barrios de Arbatzategi y Gerrikaitz pertenecientes al mismo. El Gobierno Vasco registrÃ³ en el mes de abril de 1937 30 muertos y 12 heridos en este lugar. El corresponsal Mathieu Corman del periÃ³dico â€œParis Ce Soirâ€� hablÃ³ de 9 â€œHeinkel He51â€� que bombardearon Gerrikaitz al mediodÃ­a del 26 de abril. Richtofen escribiÃ³ en su diario: â€œA/88 y J/88 de caza sobre las carreteras de la zona de Markina-Gernika-Gerrikaitz.â€� El dÃ­a 30 aÃ±adiÃ³ que no quedaba una casa en pie en Gerrikaitz. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Testimonios de George Steer, Mathieu Corman, Enrike Goitiandia, Joxe Mari Gerrikabeitia y Alberto Onaindia"
+    }
+  }, {
+    "id" : 24,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.593409798482832, 42.97118376514407 ]
+    },
+    "properties" : {
+      "localidad" : "Isuskitza",
+      "numero de bombardeos" : "2",
+      "fechas" : "02/12/1936  03/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ la zona de Isuskitza en el frente alavÃ©s en 2 ocasiones. ",
+      "fuente" : "El Noticiero BilbaÃ­no  El Liberal "
+    }
+  }, {
+    "id" : 27,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5962491812094344, 43.08792882341815 ]
+    },
+    "properties" : {
+      "localidad" : "Anboto",
+      "numero de bombardeos" : "1",
+      "fechas" : "20/04/1937",
+      "bando" : "Franuqista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Anboto, perteneciente a AbadiÃ±o. No se dispone de informaciÃ³n sobre los efectos de este bombardeo.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 26,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5953547966939032, 43.05370771342843 ]
+    },
+    "properties" : {
+      "localidad" : "Arangio",
+      "numero de bombardeos" : "1",
+      "fechas" : "04/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bombardeo de posiciones enemigas en la zona de la sierra de Arangio. No se dispone de datos sobre el nÃºmero de vÃ­ctimas. ",
+      "fuente" : "Partes de la MisiÃ³n de las Fuerzas AÃ©reas del Norte (PMFAN)"
+    }
+  }, {
+    "id" : 29,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.605622980584958, 42.998085087766434 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Jarindo",
+      "numero de bombardeos" : "3",
+      "fechas" : "09/10/1936  31/03/1937  04/04/1937",
+      "bando" : "Republicano y Franquista",
+      "descripciÃ³n" : "La zona del monte Jarindo en Aramaio fue bombardeada, primero por el bando republicano, que bombardeÃ³ las posiciones franquistas en la zona en octubre de 1936  y despuÃ©s en dos ocasiones por el bando franquista, en marzo y abril de 1937. Estos bombardeos tuvieron como objetivo tropas enemigas. No se dispone de informaciÃ³n acerca del nÃºmero de vÃ­ctimas. ",
+      "fuente" : "El Noticiero BilbaÃ­no  Euzkadi  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  "
+    }
+  }, {
+    "id" : 28,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5974618459477323, 43.11659438606776 ]
+    },
+    "properties" : {
+      "localidad" : "Axpe",
+      "numero de bombardeos" : "3",
+      "fechas" : "22/04/1937  10/05/1937  12/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La poblaciÃ³n de Axpe fue bombardeada en tres ocasiones entre abril y mayo de 1937, tomando parte en los ataques la aviaciÃ³n italiana. En una de ellas no se produjeron vÃ­ctimas  no se dispone de datos al respecto en los otros dos casos.",
+      "fuente" : "Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  El Liberal"
+    }
+  }, {
+    "id" : 31,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.608782800195804, 43.34726389168841 ]
+    },
+    "properties" : {
+      "localidad" : "Akorda-Bollar",
+      "numero de bombardeos" : "1",
+      "fechas" : "17/10/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "SegÃºn la crÃ³nica del \"Euzkadi\" la aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Akorda-Bollar, lanzando cuatro proyectiles. No se dispone de informaciÃ³n sobre si hubo o no vÃ­ctimas. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 30,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6077734275860176, 42.93781251560984 ]
+    },
+    "properties" : {
+      "localidad" : "Ullibarri-Ganboa",
+      "numero de bombardeos" : "1",
+      "fechas" : "10/03/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Bombardeo por parte de la artillerÃ­a republicana de varios pueblos en los que se encontraban las tropas enemigas. No se da mÃ¡s informaciÃ³n",
+      "fuente" : "El Noticiero BilbaÃ­no  El Liberal "
+    }
+  }, {
+    "id" : 34,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.631707444311583, 43.16529154066121 ]
+    },
+    "properties" : {
+      "localidad" : "Durango",
+      "numero de bombardeos" : "14",
+      "fechas" : "Desde 25/09/1936 hasta 29/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Durango fue bombardeado al menos en 14 ocasiones entre septiembre de 1936 y abril de 1937. Fue una de las poblaciones mÃ¡s castigadas por los ataques aÃ©reos. Buena parte de la ciudad resultÃ³ daÃ±ada, y sabemos que sufrieron daÃ±os la estaciÃ³n de tren, el frontÃ³n Ezkurdi, la parroquia de Santa MarÃ­a, la residencia de los jesuitas,  el convento de Santa Susana y numerosos edificios y casas. Participaron en estos ataques la aviaciÃ³n alemana e italiana, con los grupos J/88 y F/88 y aviones de los modelos â€œHeinkel He51â€� , Messerschmitt Bf.109â€�,â€œHeinkel He45â€� y â€œFiat Cr.32â€�.  Buena parte de los bombardeos se produjeron en abril de 1937. Respecto al nÃºmero de vÃ­ctimas, si bien no podemos dar cifras exactas, sabemos que hubo mÃ¡s de 100 en los meses anteriores a abril de 1937, y mÃ¡s de 350 en total, pudiendo ser incluso mÃ¡s. Estas cifras convierten a Durango en una de las poblaciones que mÃ¡s vÃ­ctimas tuvo durante el conflicto en el PaÃ­s Vasco.",
+      "fuente" : "Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA) EjÃ©rcito del Norte. Estado Mayor. Tercera SecciÃ³n. Partes de Operaciones. (ENEMPO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Ministerio de Guerra de la RepÃºblica. SecciÃ³n de informaciÃ³n. Resumen de Noticias (MGSI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Euzkadi  El Liberal  El Noticiero BilbaÃ­no  La Gaceta del Norte  Testimonios de Joxe Iturria y George Steer. "
+    }
+  }, {
+    "id" : 35,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.63782725978205, 42.94363157565206 ]
+    },
+    "properties" : {
+      "localidad" : "Urbina",
+      "numero de bombardeos" : "1",
+      "fechas" : "10/03/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Bombardeo por parte de la artillerÃ­a republicana de varios pueblos en los que se encontraban las tropas enemigas. No se da mÃ¡s informaciÃ³n. ",
+      "fuente" : "El Noticiero BilbaÃ­no  El Liberal "
+    }
+  }, {
+    "id" : 32,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6102724911816892, 43.15144025095592 ]
+    },
+    "properties" : {
+      "localidad" : "AbadiÃ±o",
+      "numero de bombardeos" : "2",
+      "fechas" : "29/09/1936  22/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de AbadiÃ±o fue bombardeado en dos ocasiones durante la guerra civil, en septiembre de 1936 y en abril de 1937. No se dispone de informaciÃ³n sobre los daÃ±os o sobre el nÃºmero de vÃ­ctimas. En uno de los casos tan solo fue arrojada una bomba en el pueblo, segÃºn la crÃ³nica de la Ã©poca aparecida en \"El Noticiero BilbaÃ­no\"",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 33,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6288903658047595, 43.01770849418338 ]
+    },
+    "properties" : {
+      "localidad" : "Tantaibakar",
+      "numero de bombardeos" : "1",
+      "fechas" : "05/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Tantaibakar. No se dispone de mÃ¡s informaciÃ³n sobre este bombardeo.",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 38,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6423072744263325, 42.980029193570296 ]
+    },
+    "properties" : {
+      "localidad" : "Villarreal-Legutiano",
+      "numero de bombardeos" : "20",
+      "fechas" : "Desde 26/08/1936 hasta 31/03/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "El pueblo de Villarreal-Legutiano fue bombardeado hasta en 20 ocasiones entre agosto de 1936 y marzo de 1937 por parte de la aviaciÃ³n republicana. Era una zona estratÃ©gica en la que se encontraban posiciones franquistas que fueron atacadas en mÃºltiples ocasiones. Las zonas de Nafarrete, Urbina, Salmendi,Urrunaga, Goiain, Albierta y Ollerrieta fueron bombardeadas. Se causaron grandes destrozos en el pueblo. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que causaron los bombardeos. ",
+      "fuente" : "El Noticiero BilbaÃ­no  La Gaceta del Norte  El Liberal  El Pensamiento AlavÃ©s  Euzkadi  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Testimonio de George Steer "
+    }
+  }, {
+    "id" : 39,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.646372591119945, 43.10069634516611 ]
+    },
+    "properties" : {
+      "localidad" : "Urkiola",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 02/04/1937 hasta 17/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en la zona de Urkiola fueron bombardeadas en cinco ocasiones durante el mes de abril de 1937. La iglesia que hay en este lugar resultÃ³ daÃ±ada. En tres de estos bombardeos no hubo vÃ­ctimas, segÃºn las crÃ³nicas de \"Euzkadi\". No se dispone de datos a este respecto en los otros dos casos. En una ocasiÃ³n, siempre segÃºn \"Euzkadi\", la aviaciÃ³n franquista bombardeÃ³ sus propias posiciones.  ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  Euzkadi"
+    }
+  }, {
+    "id" : 36,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6378604091916795, 43.257625630024684 ]
+    },
+    "properties" : {
+      "localidad" : "Urrutxua",
+      "numero de bombardeos" : "2",
+      "fechas" : "20/05/1937  22/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones la zona de Urrutxua en el barrio de Albiz, en Mendata, durante el mes de mayo de 1937. No se dispone de mÃ¡s informaciÃ³n. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 37,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.64219125170959, 42.980016917183654 ]
+    },
+    "properties" : {
+      "localidad" : "Villareal",
+      "fechas" : "26/08/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Bombardeo realizado por la aviaciÃ³n republicana. Se menciona a los pilotos JosÃ© MarÃ­a Yanguas y Julio AlegrÃ­a. Se bombardeÃ³ una columna enemiga en la zona de Villarreal-Legutiano. Se ocasionaron â€œalgunas bajasâ€�",
+      "fuente" : "El Noticiero BilbaÃ­no (27/08/1936), Frente Popular (26/08/1936)"
+    }
+  }, {
+    "id" : 42,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6544755460077627, 43.03995806769819 ]
+    },
+    "properties" : {
+      "localidad" : "Otxandiano",
+      "numero de bombardeos" : "15",
+      "fechas" : "Desde 22/07/1936 hasta 25/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Otxandiano fue bombardeo al menos en 15 ocasiones entre julio  de 1936 y abril de 1937. Aviones de los modelos â€œJunker Ju52â€�, â€œHeinkel 51â€� y â€œDCAâ€� bombardearon la poblaciÃ³n en diversas ocasiones, causando importantes destrozos en todo el casco urbano de Otxandiano.  No se conoce el nÃºmero exacto de vÃ­ctimas de todos los bombardeos, pero solamente con las que estÃ¡n documentadas a travÃ©s de periÃ³dicos de la Ã©poca o de informes del Gobierno Vasco llegan a 98 entre los muertos y los heridos. Otxandiano fue uno de los pueblos mÃ¡s castigados por este tipo de bombardeos, que el comandante alemÃ¡n Richtofen calificÃ³ en una ocasiÃ³n como \"Ensayo de nuevo mÃ©todo de bombardeo\". Podemos afirmar que Otxandiano fue objeto de un experimento de guerra durante este periodo. ",
+      "fuente" : "Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Ministerio de Guerra de la RepÃºblica. SecciÃ³n de informaciÃ³n. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Orden de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (OMFAN)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1.  Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  El Liberal  El Noticiero BilbaÃ­no  El NerviÃ³n  Euzkadi  La Gaceta del Norte  Testimonios de George Steer, Carmelo Bernaola y JosÃ© Antonio Marulagoitia.  "
+    }
+  }, {
+    "id" : 43,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.659719955614938, 43.1391631041016 ]
+    },
+    "properties" : {
+      "localidad" : " MaÃ±aria",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 02/04/1937 hasta 15/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "MaÃ±aria fue bombardeada en cinco ocasiones en abril de 1937. La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona. Los grupos K/88 y A/88 de la aviaciÃ³n alemana tomaron parte en dichos ataques. Se desconoce el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132."
+    }
+  }, {
+    "id" : 40,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6462804517327942, 43.31361354678293 ]
+    },
+    "properties" : {
+      "localidad" : "Arratzu",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Arratzu el 26 de abril de 1937, causando la muerte a una persona e hiriendo a otras dos.",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937."
+    }
+  }, {
+    "id" : 41,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.649521126155989, 43.352887250117 ]
+    },
+    "properties" : {
+      "localidad" : "Gautegiz-Arteaga",
+      "numero de bombardeos" : "1",
+      "fechas" : "27/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo el pueblo de Gautegiz-Arteaga en abril de 1937, causando la muerte a cuatro personas e hiriendo a otras dos. La aviaciÃ³n italiana participÃ³ en el ataque.",
+      "fuente" : "Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937. "
+    }
+  }, {
+    "id" : 46,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6727064558586364, 42.84940723486813 ]
+    },
+    "properties" : {
+      "localidad" : "Vitoria-Gasteiz",
+      "numero de bombardeos" : "10",
+      "fechas" : "Desde 17/09/1936 hasta 29/05/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ en un total de 10 ocasiones la ciudad de Vitoria-Gasteiz. Los bombardeos se produjeron entre septiembre de 1936 y mayo de 1937. Estos ataques causaron grandes daÃ±os en fÃ¡bricas, cuarteles de CaballerÃ­a, en la estaciÃ³n del Norte asÃ­ como otros objetivos que no se especifican. No se dispone de una informaciÃ³n concreta sobre el nÃºmero de vÃ­ctimas que se pudieron producir debido a estos bombardeos. ",
+      "fuente" : "El Noticiero BilbaÃ­no  El Liberal  El Pensamiento AlavÃ©s  Euzkadi  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  "
+    }
+  }, {
+    "id" : 47,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.673723837821718, 43.30050623384947 ]
+    },
+    "properties" : {
+      "localidad" : "Ajangiz",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Ajangiz. No se dispone de mÃ¡s informaciÃ³n.",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 44,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6664003900988478, 42.93870862597411 ]
+    },
+    "properties" : {
+      "localidad" : "Betolaza",
+      "numero de bombardeos" : "2",
+      "fechas" : "15/12/1936  21/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Betolatza en Arratzua-Ubarrundia. Se produjeron dos ataques entre el 15 y el 21 de diciembre de 1936",
+      "fuente" : "Euzkadi  El Noticiero BilbaÃ­no  Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)"
+    }
+  }, {
+    "id" : 45,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6670375114344114, 43.09868528981928 ]
+    },
+    "properties" : {
+      "localidad" : "Sebigain",
+      "numero de bombardeos" : "3",
+      "fechas" : "05/04/1937  06/04/1937  13/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas situadas en el monte Sebigain fueron bombardeadas tres veces durante el mes de abril de 1937.  El propio Franco y el general KindelÃ¡n estuvieron presentes junto al comandante de la aviaciÃ³n alemana Richtofen en uno de los ataques. Este Ãºltimo escribiÃ³ esto: \"la acciÃ³n empezÃ³ en mi ausencia, algo inexactamente. Una parte de las bombas cae en la infanterÃ­a propia, que sin embargo toma Sebigan. Error particularmente penoso, porque Franco y KindelÃ¡n querÃ­an justamente contemplar el terreno de lucha en colaboraciÃ³n con nosotrosâ€�. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar estos ataques.",
+      "fuente" : "Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 51,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.678317676207287, 43.21766018535638 ]
+    },
+    "properties" : {
+      "localidad" : "Urremendi",
+      "numero de bombardeos" : "2",
+      "fechas" : "03/05/1937  10/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Urremendi los dÃ­as 3 y 10 de mayo de 1937. No se dispone de informaciÃ³n al respecto del nÃºmero de vÃ­ctimas que pudo haber a consecuencia de estos ataques.",
+      "fuente" : "Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 50,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.678731614629527, 42.975396434998494 ]
+    },
+    "properties" : {
+      "localidad" : "Elosu",
+      "numero de bombardeos" : "11",
+      "fechas" : "Desde 01/12/1936 hasta 19/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas  en el pueblo de Elosu hasta en 11 ocasiones durante le mes de diciembre de 1936. ",
+      "fuente" : "Arma de AviaciÃ³n. Parte de Operaciones (AAPO)  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  "
+    }
+  }, {
+    "id" : 49,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.676060908091267, 43.026387056286644 ]
+    },
+    "properties" : {
+      "localidad" : "Montxotegi",
+      "numero de bombardeos" : "1",
+      "fechas" : "04/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Richtofen escribiÃ³ en su diario que observÃ³ aviones del modelo Junker Ju52, luchadores del grupo Jv/88 (quizÃ¡s fueran modelos Heinkel He51 o Stuka) y a los Italianos bombardeando la zona. â€œEl macizo se vuelve un horroroso mar de llamas y de humo con las bombas-aproximadamente sesenta toneladas en el espacio de dos minutosâ€� escribiÃ³. Al dÃ­a siguiente volviÃ³ al lugar y describiÃ³ los efectos del bombardeo: â€œEn la hondonada, cuadros horribles, allÃ­ corrieron los rojos. CadÃ¡veres espantosamente destrozados. De visiÃ³n agradable-Â¡estÃ©tica!-nada. Posiciones construidas muy fuerte y aplicadamente. Alambradas en tres escalones, trampas para tanques. Si no hubiÃ©ramos sacado a bombazos al enemigo, nos hubiera costado otros dos dÃ­as de combatesâ€�. ",
+      "fuente" : "Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132."
+    }
+  }, {
+    "id" : 48,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.674844133672967, 43.24080427238833 ]
+    },
+    "properties" : {
+      "localidad" : "Ibarruri",
+      "numero de bombardeos" : "2",
+      "fechas" : "30/04/1937  02/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo la anteiglesia de Ibarruri, perteneciente a Muxika, en dos ocasiones. Aviones de los modelos â€œHeinkel He45â€� y â€œBreguet Br.19â€� participaron en los ataques. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar",
+      "fuente" : "Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi"
+    }
+  }, {
+    "id" : 55,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6877072548701038, 43.07886367219453 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeos de la carretera entre Otxandiano y Dima",
+      "numero de bombardeos" : "1",
+      "fechas" : "13/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La carretera entre Otxandiano y Dima fue bombardeada por la aviaciÃ³n franquista en un intento por daÃ±ar las comunicaciones en la zona republicana. No se dispone de mÃ¡s informaciÃ³n sobre este hecho. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)"
+    }
+  }, {
+    "id" : 54,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.685623571211609, 43.27125486978039 ]
+    },
+    "properties" : {
+      "localidad" : "Muxika",
+      "numero de bombardeos" : "3",
+      "fechas" : "09/05/1937  10/05/1937  14/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo Muxika en tres ocasiones en mayo de 1937. No disponemos de informaciÃ³n sobre las consecuencias de estos bombardeos, ya sean materiales o personales.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi"
+    }
+  }, {
+    "id" : 53,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.680793046709281, 43.15143277316295 ]
+    },
+    "properties" : {
+      "localidad" : "Mugarra",
+      "numero de bombardeos" : "1",
+      "fechas" : "22/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en la zona del monte Mugarra, en MaÃ±aria, fueron bombardeadas. No se dispone de mÃ¡s informaciÃ³n. "
+    }
+  }, {
+    "id" : 52,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6788478887039546, 43.31388281837782 ]
+    },
+    "properties" : {
+      "localidad" : "Gernika",
+      "numero de bombardeos" : "3",
+      "fechas" : "26/04/1937  27/04/1937  29/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Gernika el 26 de abril de 1937. Tomaron parte 59 aviones en el bombardeo. Se lanzaron unas 31 toneladas de bombas. Se lanzaban primero bombas explosivas que destruyeran parte de los edificios y despuÃ©s incendiarias que arrasaran lo que quedara e incendiaran el pueblo. Tomaron parte en el bombardeo aviones italianos y alemanes. La poblaciÃ³n quedÃ³ casi totalmente arrasada, sufriendo daÃ±os mÃ¡s del 90 por ciento de los edificios y siendo totalmente destruidos mÃ¡s del 80 por ciento.  No se han logrado cifras exactas pero en un informa de junio de 1937 el Gobierno Vasco hablaba de 1654 muertos y 889 heridos. El bombardeo de Gernika fue un experimento de guerra convertido en la mayor masacre en un bombardeo durante la Guerra Civil en el PaÃ­s Vasco y en un sÃ­mbolo de la barbarie bÃ©lica. Es, sin duda el acontecimiento de este tipo mÃ¡s significativo de la guerra, ademÃ¡s de haber pasado a la historia y ser uno de los episodios mÃ¡s conocidos, si no el mÃ¡s, de la historia del PaÃ­s Vasco. A dÃ­a de hoy se cifra el nÃºmero de vÃ­ctimas en mÃ¡s de dos mil. Lo que quedaba del pueblo volviÃ³ a ser atacado, aunque de manera muchÃ­simo menos virulenta, en los dÃ­as 27 y 29 de abril de 1937. ",
+      "fuente" : "SecretarÃ­a General de S.E. el Jefe de Estado. Oficina de InformaciÃ³n. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Relazione sulla Missione in Spagna. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare  Spagna, AM Busta 70, Fasc. 7. (RMS)  Euzkadi "
+    }
+  }, {
+    "id" : 59,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.705190648690365, 42.971202011629785 ]
+    },
+    "properties" : {
+      "localidad" : "Zestafe",
+      "numero de bombardeos" : "2",
+      "fechas" : "18/12/1936  20/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bombardeo de Zestafe por parte de la aviaciÃ³n franquista. Fue bombardeado 2 veces entre el 18 y el 20 de diciembre de 1936.",
+      "fuente" : "Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)"
+    }
+  }, {
+    "id" : 58,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7031413107988116, 43.079355862445716 ]
+    },
+    "properties" : {
+      "localidad" : "Altun",
+      "numero de bombardeos" : "3",
+      "fechas" : "06/04/1937  07/04/1937  22/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en la zona del monte Altun fueron bombardeadas en tres ocasiones entre abril y mayo de 1937. Aviones del modelo \"Jun ker Ju52\" tomaron parte en estos ataques. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieran causar. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132."
+    }
+  }, {
+    "id" : 57,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6994190355700174, 43.408236497647245 ]
+    },
+    "properties" : {
+      "localidad" : "Mundaka",
+      "numero de bombardeos" : "1",
+      "fechas" : "03/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista dejÃ³ caer algunas bombas sobre Mundaka. 6 aviones modelo â€œSavoia Marchetti SM.81â€� del grupo Z7 llevaron a cabo el ataque. No se dispone de informaciÃ³n al sobre el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)"
+    }
+  }, {
+    "id" : 56,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.6905592395262876, 42.85997793157914 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeo del aerÃ³dromo de Lakua",
+      "numero de bombardeos" : "1",
+      "fechas" : "12/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Bombardeo por parte de ocho aviones del aerÃ³dromo de Lakua en Vitoria. Fueron destruidos varios aviones y un hangar",
+      "fuente" : "El Noticiero BilbaÃ­no (13/12/1936), El Liberal (13/12/1936), Euzkadi (13/12/1936), La Gaceta del Norte (13/12/1936)"
+    }
+  }, {
+    "id" : 63,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.713176592665492, 42.976061186506776 ]
+    },
+    "properties" : {
+      "localidad" : "Okoizta",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 10/12/1936 hasta 21/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Okoizta, perteneciente a Zigoiti",
+      "fuente" : "Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)",
+      "observaciones" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)"
+    }
+  }, {
+    "id" : 62,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7106385577757712, 43.07014455330496 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeo del Alto de Barazar",
+      "numero de bombardeos" : "2",
+      "fechas" : "29/07/1936  18/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones la zona del Alto de Barazar, en Ubide, Zeanuri, donde se hallaban posiciones del bando republicano. Sabemos que en el primero de los bombardeos no causaron ninguna vÃ­ctima. No se dispone de datos a este respecto en el caso del segundo ataque. ",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi"
+    }
+  }, {
+    "id" : 61,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7080931977365363, 42.98698249503928 ]
+    },
+    "properties" : {
+      "localidad" : "Gorostiza",
+      "numero de bombardeos" : "3",
+      "fechas" : "13/12/1936  14/12/1936  16/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ los caserÃ­os situados en el barrio de Gorostiza, en Zigoiti, conocidos como caserÃ­os de San Pedro",
+      "fuente" : "El Liberal  Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)"
+    }
+  }, {
+    "id" : 60,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7046461082354476, 43.192078960045464 ]
+    },
+    "properties" : {
+      "localidad" : "Euba",
+      "numero de bombardeos" : "2",
+      "fechas" : "09/04/1937  28/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El barrio de Euba, perteneciente a Amorebieta, fue bombardeado en dos ocasiones en abril de 1937. En uno de los bombardeos no hubo vÃ­ctimas, mientras que en el otro, segÃºn \"Euzkadi\", se ametrallÃ³ a \"algunas personas\". No disponemos de mÃ¡s informaciÃ³n.",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 68,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7254793829015385, 43.42014736117488 ]
+    },
+    "properties" : {
+      "localidad" : "Bermeo",
+      "numero de bombardeos" : "9",
+      "fechas" : "Desde 09/04/1937 hasta 26/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bermeo fue bombardeado en 9 ocasiones entre abril y mayo de 1937. Uno de estos bombardeos fue un ataque naval, perpetrado por los barcos franquistas â€œGalernaâ€� y â€œAlmirante Cerveraâ€� , que no causaron vÃ­ctimas y solo algunos daÃ±os menores en la zona del puerto. En cuanto a los bombardeos aÃ©reos, participaron los grupos A/88, J/88, y aviones modelo â€œSavoia Marchetti SM.81â€� pertenecientes al grupo Z7,  junto a los â€œRomeo Ro.37â€� del grupo Lo-1. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Euzkadi  El LIberal  Testimonio de George Steer. "
+    }
+  }, {
+    "id" : 69,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7314811439826463, 43.21802372559141 ]
+    },
+    "properties" : {
+      "localidad" : "Amorebieta",
+      "numero de bombardeos" : "20",
+      "fechas" : "Desde 13/04/1937 hasta 13/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Amorebieta-Etxano fue bombardeado en 20 ocasiones entre abril y junio de 1937. Durante una semana de mayo el pueblo fue bombardeado a diario. Los barrios de Bernagoitia y Astepe fue daÃ±ado en algunos de estos ataques. Aviones de los modelos â€œFiat Cr.32â€� ,y \"Heinkel He51\" de la aviaciÃ³n italiana y alemana tomaron parte en estos ataques. Hasta el mes de abril el Gobierno Vasco registrÃ³ 22 muertos y 34 heridos en Amorebieta-Etxano. Durante los meses de mayo y junio se desconoce el nÃºmero de vÃ­ctimas que causaron los bombardeos. Sea como fuere, Amorebieta-Etxano fue uno de los pueblos mÃ¡s intensamente bombardeados en un corto periodo de tiempo. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  El Liberal  Euzkadi  El Pensamiento AlavÃ©s  Testimonio de George Steer. "
+    }
+  }, {
+    "id" : 70,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7330455857465306, 42.95794653042365 ]
+    },
+    "properties" : {
+      "localidad" : "Ondategi",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 16/12/1936 hasta 19/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Ondategi. Se produjeron 4 bombardeos entre el 16 y el 19 de diciembre de 1936. ",
+      "fuente" : "Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Arma de AviaciÃ³n. Parte de Operaciones. (AAPO)"
+    }
+  }, {
+    "id" : 71,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7381863655786627, 42.97693377260963 ]
+    },
+    "properties" : {
+      "localidad" : "Murua",
+      "numero de bombardeos" : "1",
+      "fechas" : "01/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas  en Murua. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas causadas. ",
+      "fuente" : "Arma de AviaciÃ³n. Parte de Operaciones (AAPO)"
+    }
+  }, {
+    "id" : 64,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7242132831490466, 43.00966720843318 ]
+    },
+    "properties" : {
+      "localidad" : "Gorbei-Txiki",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 14/12/1936 hasta 06/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bombardeo de posiciones republicanas en el monte Gorbei-Txiki por parte de la aviaciÃ³n franquista. Esta zona fue bombardeada en 5 ocasiones entre diciembre de 1936 y abril de 1937.",
+      "fuente" : "Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Orden de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (OMFAN)  Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN) "
+    }
+  }, {
+    "id" : 65,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7244204903137734, 42.98435987155439 ]
+    },
+    "properties" : {
+      "localidad" : "Etxaguen",
+      "numero de bombardeos" : "3",
+      "fechas" : "02/12/1936  10/12/1936  16/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Etxaguen, perteneciente a Zigoitia. Se produjeron 3 bombardeos en diciembre de 1936.",
+      "fuente" : "Jefatura del aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)"
+    }
+  }, {
+    "id" : 66,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7233416461714364, 43.37590777579683 ]
+    },
+    "properties" : {
+      "localidad" : "AÃ±etu",
+      "numero de bombardeos" : "1",
+      "fechas" : "06/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en el monte AÃ±etu en la zona de Busturia-Axpe.  No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudo causar este ataque.",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 67,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.725198874553971, 43.318697379052786 ]
+    },
+    "properties" : {
+      "localidad" : "Erriogiti",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 26/04/1937 hasta 10/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Errigoiti fue bombardeado en cuatro ocasiones entre abril y mayo de 1937. En abril el Gobierno Vasco contabilizÃ³ 5 muertos y 13 heridos a causa de los bombardeos. No se dispone de informaciÃ³n al respecto para el mes de mayo.",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 76,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.754180852784059, 43.14381755676975 ]
+    },
+    "properties" : {
+      "localidad" : "Dima",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 06/04/1937 hasta 23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Dima fue bombardeado en siete ocasiones durante los meses de abril y mayo de 1937. Tanto la aviaciÃ³n alemana como la italiana tomaron parte en estos ataques. El barrio de Oba sufriÃ³ daÃ±os, asÃ­ como varios edificios  del pueblo. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Parte de Radios Rojas. (PRR)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh) Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 77,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.755830817584108, 43.40251682126495 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Truende",
+      "numero de bombardeos" : "1",
+      "fechas" : "08/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Truende. No se dispone de mÃ¡s informaciÃ³n.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 78,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.760498655342972, 43.00430783357614 ]
+    },
+    "properties" : {
+      "localidad" : "Gonga",
+      "numero de bombardeos" : "1",
+      "fechas" : "02/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bombardeos de posiciones enemigas en el monte Gonga, perteneciente a Zigoiti, por parte de la aviaciÃ³n franquista",
+      "fuente" : "Partes de la MisiÃ³n de las Fuerzas AÃ©reas del Norte (PMFAN)"
+    }
+  }, {
+    "id" : 79,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.763773112492145, 43.37091713345396 ]
+    },
+    "properties" : {
+      "localidad" : "Sollube",
+      "numero de bombardeos" : "13",
+      "fechas" : "Desde 03/05/1937 hasta 12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en la zona del monte Sollube, entre Bermeo y Amorebieta-Etxano, fueron bombardeadas en 13 ocasiones en mayo y junio de 1937. La gran mayorÃ­a de estos ataques (todos excepto uno) fueron en mayo. Aviones del modelo \"Savoia Marchetti SM.81â€� del grupo Z7 participaron en los bombardeos, asÃ­ como la LegiÃ³n CÃ³ndor alemana.  La cuota 606  fue la mÃ¡s castigada. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar estos ataques.",
+      "fuente" : "Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  El Liberal  Euzkadi  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 72,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.740648474598112, 43.275429239408545 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Bizkargi",
+      "numero de bombardeos" : "11",
+      "fechas" : "Desde 09/05/1937 hasta 04/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en 11 ocasiones las posiciones republicanas en la zona del monte Bizkargi, entre Larrabetzu, Muxika , Morga y Zornotza. La zona fue una de las mÃ¡s castigadas con bombardeos durante ocho dÃ­as consecutivos de las posiciones enemigas. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas causadas por esto ataques. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 73,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7483293698190066, 43.314951163233346 ]
+    },
+    "properties" : {
+      "localidad" : "Morga",
+      "numero de bombardeos" : "3",
+      "fechas" : "12/05/1937  15/05/1937  11/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Morga fue bombardeado en tres ocasiones entre mayo y junio de 1937. El barrio de Meakaur resultÃ³ daÃ±ado en uno de los ataques. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar estos ataques.",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 74,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.749727578260709, 43.060688822788855 ]
+    },
+    "properties" : {
+      "localidad" : "Zeanuri",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 02/04/1937 hasta 10/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de Zeanuri fue bombardeado en 6 ocasiones durante la primera quincena del mes de abril de 1937. La zona de la ermita de Santa Agueda tambiÃ©n sufriÃ³ uno de estos ataques y resultÃ³ daÃ±ada. En uno de los bombardeos se registraron cuatro heridos. En otro no hubo vÃ­ctimas, y no se dispone de informaciÃ³n en el resto de los casos. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Ministerio de Guerra de la RepÃºblica. SecciÃ³n de informaciÃ³n. Resumen de Noticias (MGSI)  AttivitÃ¡ Giornaliera dellÂ´Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937, Vol. 1.(AGAL)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 75,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.750421376608699, 43.220853291246996 ]
+    },
+    "properties" : {
+      "localidad" : "Itxerango",
+      "numero de bombardeos" : "1",
+      "fechas" : "29/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Itxerango, en Amorebieta. No se dispone de informaciÃ³n sobre las consecuencias de este ataque",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 85,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.779391722741213, 43.21161090488378 ]
+    },
+    "properties" : {
+      "localidad" : "Lemoa",
+      "numero de bombardeos" : "9",
+      "fechas" : "Desde 08/05/1937 hasta 13/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Lemoa fue bombardeado en nueve ocasiones entre mayo y junio de 1937. SegÃºn las crÃ³nicas de la Ã©poca estos ataques causaron destrozos de gran consideraciÃ³n en el pueblo y las carreteras adyacentes, ademÃ¡s de un nÃºmero indeterminado de vÃ­ctimas. Tan sÃ³lo se tienen cifras de uno de los ataques, en el que segÃºn \"El Liberal\" muriÃ³ una persona y cuatro resultaron heridas.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  SecretarÃ­a General de S.E. el Jefe de Estado. Oficina de InformaciÃ³n. Salamanca. (SGOI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 84,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7775497871180654, 43.16417399757341 ]
+    },
+    "properties" : {
+      "localidad" : "Igorre",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 06/04/1937 hasta 29/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Igorre en siete ocasiones entre abril y mayo de 1937. La aviaciÃ³n italiana y la LegiÃ³n CÃ³ndor alemana tomaron parte en estos ataques. No se dispone de informaciÃ³n sobre los daÃ±os y vÃ­ctimas que se pudieron producir.",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  El Liberal  Euzkadi  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 87,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7885206137882417, 43.13288304902547 ]
+    },
+    "properties" : {
+      "localidad" : "Artea",
+      "numero de bombardeos" : "3",
+      "fechas" : "06/04/1937  11/05/1937  23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de Artea fue bombardeado en tres ocasiones en abril y mayo de 1937. La aviaciÃ³n italiana tomÃ³ parte en estos ataques, asÃ­ como la LegiÃ³n CÃ²ndor alemana. No se dispone de mÃ¡s informaciÃ³n al respecto.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 86,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.781178138836873, 43.03391283537541 ]
+    },
+    "properties" : {
+      "localidad" : "Gorbeia",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 02/04/1937 hasta 29/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bombardeo de posiciones republicanas en la zona de Gorbeia (se mencionan Orozko, Ubide, Zeanuri, Zigoiti y Zuia) por parte de la aviaciÃ³n franquista. TambiÃ©n el sanatorio situado en la campa de Arraba fue atacado. En total se bombardeÃ³ esta zona en 5 ocasiones entre abril y mayo de 1937",
+      "fuente" : "Partes de la MisiÃ³n de las Fuerzas AÃ©reas del Norte (PMFAN). Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las  Operaciones (CJEMRO) Euzkadi (03/04/1937)"
+    }
+  }, {
+    "id" : 81,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.770260028761484, 43.12100762510659 ]
+    },
+    "properties" : {
+      "localidad" : "Areatza",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 02/04/1937 hasta 23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de Areatza fue bombardeado en cinco ocasiones entre abril y mayo de 1937. Se desconoce el nÃºmero de vÃ­ctimas, y solamente en un caso se puede confirmar que hubo una herida grave. En otra ocasiÃ³n no hubo vÃ­ctimas, y en los tres casos restantes no se dispone de informaciÃ³n al respecto.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi"
+    }
+  }, {
+    "id" : 80,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7646038847531393, 43.341621963582575 ]
+    },
+    "properties" : {
+      "localidad" : "Arrieta",
+      "numero de bombardeos" : "1",
+      "fechas" : "03/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo la zona de Arrieta. No se dispone de mÃ¡s informaciÃ³n ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 83,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7725759324947106, 43.29198970622494 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Urkulu",
+      "numero de bombardeos" : "3",
+      "fechas" : "22/05/1937  28/05/1937  11/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Urkulu, en Larrabetzu, en tres ocasiones entre mayo y junio de 1937. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar estos ataques. ",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 82,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.772416458399932, 43.21882009272758 ]
+    },
+    "properties" : {
+      "localidad" : "Lemoatx",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 29/05/1937 hasta 10/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Lemoatz, perteneciente a Lemoa. La LegiÃ³n CÃ³ndor alemana participÃ³ en al menos dos de estos ataques. No se dispone de informaciÃ³n al respecto de las vÃ­ctimas que pudo haber a consecuencia de los bombardeos. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 93,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8090582725451023, 43.31037652146549 ]
+    },
+    "properties" : {
+      "localidad" : "Gamiz-Fika",
+      "numero de bombardeos" : "3",
+      "fechas" : "11/06/1937  12/06/1937  13/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Gamiz-Fika fue bombardeado en tres ocasiones durante el mes de junio de 1937. No se dispone de informaciÃ³n al respecto del nÃºmero de vÃ­ctimas que pudieron causar estos ataques.",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Pemsamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 92,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8024807492349306, 43.20800368634911 ]
+    },
+    "properties" : {
+      "localidad" : "Bedia",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 04/01/1937 hasta 07/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bedia fue bombardeado en cinco ocasiones entre enero y junio de 1937. En tres de estos ataques no se produjeron vÃ­ctimas. No se dispone de informaciÃ³n sobre este tema en los otros dos casos. Algunos edificios fueron destruidos y los daÃ±os de los bombardeos fueron sobre todo materiales, en cualquier caso.",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 95,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8136016526671446, 43.38661884088381 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Tollu",
+      "numero de bombardeos" : "2",
+      "fechas" : "12/05/1937  14/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en el monte Tollu fueron bombardeadas por la aviaciÃ³n franquista el 12 y el 14 de mayo de 1937. La aviaciÃ³n italiana participÃ³ en el ataque. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudiera haber.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi"
+    }
+  }, {
+    "id" : 94,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.813240337817161, 43.36580604865148 ]
+    },
+    "properties" : {
+      "localidad" : "Larrauri",
+      "numero de bombardeos" : "2",
+      "fechas" : "03/05/1937  17/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones la zona de Larraurti, perteneciente a Mungia. No hubo vÃ­ctimas en ninguno de los dos casos, segÃºn las crÃ³nicas de la Ã©poca.",
+      "fuente" : "El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 89,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7961445217100556, 43.26104289565506 ]
+    },
+    "properties" : {
+      "localidad" : "Larrabetzu",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 29/04/1937 hasta 11/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Larrabetzu en cinco ocasiones entre abril y junio de 1937. Aviones \"Heinkel He51\" atacaron la zona, siendo uno de ellos derribado y su piloto capturado. En dos de los bombardeos no hubo vÃ­ctimas, en uno se registraron tres muertos y dos heridos y no se dispone de informaciÃ³n al respecto en los demÃ¡s casos.",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 88,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7926077082470218, 43.32551459646251 ]
+    },
+    "properties" : {
+      "localidad" : "Fruiz",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 14/05/1937 hasta 15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Fruiz fue bombardeado en cuatro ocasiones entre mayo y junio de 1937. En al menos un caso no hubo vÃ­ctimas. En otro de estos ataques, siempre segÃºn la crÃ³nica del \"Euzkadi\", la aviaciÃ³n franquista bombardeÃ³ a sus propias tropas en la zona.  No se dispone de informaciÃ³n sobre las vÃ­ctimas o los destrozos causados en los demÃ¡s casos.",
+      "fuente" : "Euzkadi  El Liberal  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 91,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8001779486392313, 43.29135965828041 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Kantoibaso",
+      "numero de bombardeos" : "2",
+      "fechas" : "11/06/1937  12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones las posiciones republicanas en el monte Kantoibaso,en Larrabetzu. La LegiÃ³n Condor alemana participÃ³ en al menos uno de los dos ataques. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieran haber causado.",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Pensamiento AlavÃ©s  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 90,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.7980787188119374, 43.19130665693264 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Apario",
+      "numero de bombardeos" : "1",
+      "fechas" : "29/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Apario, en Lemoa. La aviaciÃ³n italiana participÃ³ en el ataque. No se dispone de datos sobre las vÃ­ctimas que pudiera haber habido a consecuencia del bombardeo.",
+      "fuente" : "Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)"
+    }
+  }, {
+    "id" : 102,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8421885024262448, 43.375355358375586 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Gondramendi",
+      "numero de bombardeos" : "2",
+      "fechas" : "19/05/1937  20/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en el monte Gondramendi, perteneciente a Mungia, en dos ocasiones durante el mes de mayo de 1937. La LegiÃ³n Condor alemana participÃ³ al menos en uno de los ataques. No se dispone de mÃ¡s informaciÃ³n.",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi"
+    }
+  }, {
+    "id" : 103,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8444603415266227, 43.023255306253006 ]
+    },
+    "properties" : {
+      "localidad" : "Burbona",
+      "numero de bombardeos" : "3",
+      "fechas" : "26/05/1937  31/05/1937  07/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo las posiciones republicanas en la zona de Burbona en 3 ocasiones entre mayo y junio de 1937",
+      "fuente" : "EL Liberal "
+    }
+  }, {
+    "id" : 100,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.839986743327565, 43.230045308064064 ]
+    },
+    "properties" : {
+      "localidad" : "Galdakao",
+      "numero de bombardeos" : "18",
+      "fechas" : "Desde 04/01/1937 hasta 15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La poblaciÃ³n de Galdakao fue bombardeada hasta en 18 ocasiones entre enero y junio de 1937. Los barrios de Tximelarre, Olabaerri y El Gallo, el polÃ­gono industrial de Erletxe, la fÃ¡brica \"La CantÃ¡brica\", las carreteras de las inmediaciones de la poblaciÃ³n y un buen nÃºmero de casas resultaron daÃ±ados o destruidas. Los daÃ±os materiales fueron cuantiosos. En estos ataques participaron los grupos VB/88, A/88 y K/88, utilizÃ¡ndose aviones de los modelos \"Junker Ju52\" y \"Heinkel He51\". Estos bombardeos causaron vÃ­ctimas, cuyo nÃºmero exacto no es posible determinar. Sin embargo, el Gobierno Vasco registrÃ³ hasta abril 22 muertos y 34 heridos. En los meses de mayo y junio se han podido registrar 14 muertos y 7 heridos, segÃºn \"Euzkadi\". En algunos de los ataques las crÃ³nicas mencionan vÃ­ctimas entre la poblaciÃ³n, sin especificar cuantas. Podemos afirmar que hubo varias decenas de vÃ­ctimas a consecuencia de estos bombardeos. ",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  El Pensamietno AlavÃ©s  Testimonio de George Steer."
+    }
+  }, {
+    "id" : 101,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.842046294479925, 43.404018101365324 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Jata",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 12/05/1937 hasta 19/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Las posiciones republicanas en la zona del monte Jata, entre Bakio, Mungia y Maruri-Jatabe, fueron bombardeadas en 7 ocasiones durante el mes de mayo de 1937. La aviaciÃ³n italiana participÃ³ en varios de estos bombardeos. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Pensamiento AlavÃ©s"
+    }
+  }, {
+    "id" : 98,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8254234024818397, 43.30287898994885 ]
+    },
+    "properties" : {
+      "localidad" : "Urrrusti",
+      "numero de bombardeos" : "1",
+      "fechas" : "13/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Urrusti, en Lezama. La LegiÃ³n Condor participÃ³ en el ataque. Se desconoce el nÃºmero de vÃ­ctimas que pudiera haber habido a consecuencia del ataque.",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 99,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.835234711781666, 43.273362812966454 ]
+    },
+    "properties" : {
+      "localidad" : "Lezama",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 21/05/1937 hasta 12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Lezama en cinco ocasiones entre mayo y junio de 1937. La LegiÃ³n Condor  participÃ³ en la menos uno de estos ataques. El pueblo sufriÃ³ importantes daÃ±os, siendo destruidas varias casas, caserÃ­os de la zona y la estaciÃ³n de ferrocarril. Se mencionan vÃ­ctimas en las crÃ³nicas, pero no se especifica cuantas. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  El Liberal  Euzkadi  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 96,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8143715498202364, 43.4263056028382 ]
+    },
+    "properties" : {
+      "localidad" : "Bakio",
+      "numero de bombardeos" : "2",
+      "fechas" : "12/05/1937  14/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bakio fue bombardeado en dos ocasiones en mayo de 1937. En uno de los casos no hubo vÃ­ctimas, mientras que no disponemos de datos al respecto para el otro.  La LegiÃ³n Condor alemana participÃ³ en al menos uno de los bombardeos. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 97,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.81856106846284, 43.21912463923976 ]
+    },
+    "properties" : {
+      "localidad" : "UsÃ¡nsolo",
+      "numero de bombardeos" : "2",
+      "fechas" : "01/04/1937  09/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de UsÃ¡nsolo, perteneciente a Galdakao, fue bombardeada dos veces en abril de 1937.  En la primera cayÃ³ tan sÃ³lo un proyectil en la zona, sin causar vÃ­ctimas. En la segunda ocasiÃ³n , los grupos VB/88, K/88 y A/88 atacaron la zona. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar, ni si Ã©stas fueron en UsÃ¡nolo o en otras zonas de Galdakao. ",
+      "fuente" : "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 110,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8735164192575837, 43.36293856933472 ]
+    },
+    "properties" : {
+      "localidad" : "Gatika",
+      "numero de bombardeos" : "3",
+      "fechas" : "21/05/1937  24/05/1937  10/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Gatika en tres ocasiones entre mayo y junio de 1937. Se causaron importantes destrozos segÃºn \"Euzkadi\". En uno de los casos no hubo vÃ­ctimas, mientras que no se dispone de informaciÃ³n al respecto en los otros dos. La LegiÃ³n Condor participÃ³ en uno de los ataques, segÃºn la crÃ³nica del \"Euzkadi\".",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi"
+    }
+  }, {
+    "id" : 111,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8750091395322417, 42.99528264084804 ]
+    },
+    "properties" : {
+      "localidad" : "Altube",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/5/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Altube,en Zuia.",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 108,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8663580808248326, 43.28449064263543 ]
+    },
+    "properties" : {
+      "localidad" : "Zamudio",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 05/05/1937 hasta 12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Zamudio fue bombardeado en seis ocasiones entre mayo y junio de 1937. La aviaciÃ³n italiana participÃ³ en al menos en alguno de estos bombardeos. En cuatro de estos ataques no se registraron vÃ­ctimas, mientras que en los otros dos no se dispone de datos al respecto. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 109,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8734122110978584, 43.211412867264315 ]
+    },
+    "properties" : {
+      "localidad" : "Zaratamo",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 24/04/1937 hasta  13/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Zaratamo fue bombardeado en cinco ocasiones en los meses de abril y mayo de 1937.  En abril el Gobierno Vasco registrÃ³ tres muertos y seis heridos. No disponemos de datos al respecto para el mes de mayo. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 106,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8632729545823836, 43.11111745786114 ]
+    },
+    "properties" : {
+      "localidad" : "Orozko",
+      "numero de bombardeos" : "1",
+      "fechas" : "15/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeo la zona de Larrondo en Orozko, segÃºn \"El Liberal\". No se da mÃ¡s informaciÃ³n al respecto. ",
+      "fuente" : "El Liberal"
+    }
+  }, {
+    "id" : 107,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8647541862075356, 43.38489990683115 ]
+    },
+    "properties" : {
+      "localidad" : "Maruri-Jatabe",
+      "numero de bombardeos" : "1",
+      "fechas" : "12/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de  Maruri-Jatabe fue bombardeado  el 12 de mayo de 1937. En la crÃ³nica del \"Euzkadi\" solo se informa del bombardeo, sin mencionar las consecuencias que pudo tener. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 104,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.846698650108325, 43.354450422092945 ]
+    },
+    "properties" : {
+      "localidad" : "Mungia",
+      "numero de bombardeos" : "19",
+      "fechas" : "Desde 01/05/1937 hasta 12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Mungia fue bombardeado en 19 ocasiones entre mayo y junio de 1937, aunque la mayorÃ­a de los ataques se concentraron en mayo. Aviones de los modelos â€œSavoia Marchetti SM.81â€� del grupo Z7  y \"Savoia Marchetti SM.79â€� , Junker Ju52â€� del grupo K/88 y â€œFiat Cr.32â€� participaron en los ataques. Tanto el pueblo como las carreteras adyacentes fueron bombardeadas. Se desconoce el nÃºmero de vÃ­ctimas que pudieron causar estos ataques, si bien en las crÃ³nicas de la Ã©poca se menciona en mÃºltiples ocasiones que hubo vÃ­ctimas. En la crÃ³nica de \"El Liberal\" del 13 de junio de 1937 se planteÃ³ un panorama de destrucciÃ³n total en el que el pueblo de Mungia ardÃ­a en gran parte. La destrucciÃ³n material debiÃ³ de ser importante. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)   AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Euzkadi  El Liberal  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 105,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8535143247740984, 43.148506778602034 ]
+    },
+    "properties" : {
+      "localidad" : "Zeberio",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 29/04/1937 hasta 24/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Zeberio fue bombardeado en cuatro ocasiones entre abril y mayo de 1937., participando en los ataques la LegiÃ³n Condor alemana. El pueblo sufriÃ³ importantes destrozos segÃºn la crÃ³nica del \"Euzkadi\". El Gobierno Vasco registrÃ³ en abril un muerto y cuatro heridos. En mayo hubo un bombardeo sin vÃ­ctimas y en los otros dos se mencionan \"algunas vÃ­ctimas\" en las crÃ³nicas de la Ã©poca. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 119,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9185809702850034, 43.27480009982861 ]
+    },
+    "properties" : {
+      "localidad" : "Artxanda",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 14/06/1937 hasta 17/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Artxanda, perteneciente a Bilbao, fue bombardeada en cuatro ocasiones en junio de 1937. Las crÃ³nicas de la Ã©poca no especifican nada al respecto de las vÃ­ctimas que pudo haber. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 118,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9055630466851885, 43.24532029118057 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeos de la zona de Ibaizabal",
+      "numero de bombardeos" : "2",
+      "fechas" : "07/05/1937  11/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Ibaizabal, en las afueras de Bilbao, y las pequeÃ±as poblaciones de que allÃ­ se encontraban. No se dispone de informaciÃ³n sobre las consecuencias de esto ataques.",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 117,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9027708359765403, 43.227347797688765 ]
+    },
+    "properties" : {
+      "localidad" : "Malmasin",
+      "numero de bombardeos" : "2",
+      "fechas" : "15/06/1937  16/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Malmasin, perteneciente a Arrigorriaga. La LegiÃ³n Condor alemana participÃ³ en estos ataques. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Mundo"
+    }
+  }, {
+    "id" : 116,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.901836244276805, 43.1794853314599 ]
+    },
+    "properties" : {
+      "localidad" : "Ugao-Miravalles",
+      "numero de bombardeos" : "12",
+      "fechas" : "Desde 09/04/1937 hasta 16/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Ugao-Miravalles fue bombardeado en 12 ocasiones entre los meses de abril y junio de 1937. Sabemos que entre otros lugares resultaron daÃ±ados el puente del ferrocarril, unos talleres de carpinterÃ­a y la casa de guardia de la zona fabril, ademÃ¡s de casas particulares. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar estos ataques. En tres de ellos no hubo ninguna vÃ­ctima. Se desconoce el dato en el resto de los casos. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO) LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 115,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.888046215721064, 43.207554510569146 ]
+    },
+    "properties" : {
+      "localidad" : "Arrigorriaga",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 09/04/1937 hasta 29/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Arrigorriaga fue bombardeado en 6 ocasiones entre abril y mayo de 1937. En dos de estos ataques no hubo vÃ­ctimas  en otros dos muriÃ³ una persona y en los dos restantes no disponemos de informaciÃ³n al respecto. La Papelera de Arrigorriaga resultÃ³ daÃ±ada, junto a otros edificios. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 114,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.885929047675976, 43.292101101158586 ]
+    },
+    "properties" : {
+      "localidad" : "Derio",
+      "numero de bombardeos" : "3",
+      "fechas" : "07/05/1937  19/05/1937  12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Derio fue bombardeado en tres ocasiones en mayo y junio de 1937. El cementerio de Vista Alegre, y el barrio de Artebakarra resultaron especialmente daÃ±ados. El pueblo se incendiÃ³ a causa del primero de los ataques, en el que muriÃ³ una persona y un nÃºmero indefinido resultaron heridas. No se dispone de datos sobre el nÃºmero de vÃ­ctimas en los otros bombardeos. ",
+      "fuente" : "SecretarÃ­a General de S.E. el Jefe de Estado. Oficina de InformaciÃ³n. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  El Liberal  Testimonio de Aitor MiÃ±ambres. "
+    }
+  }, {
+    "id" : 113,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.882657373481347, 43.236644141130995 ]
+    },
+    "properties" : {
+      "localidad" : "Basauri",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 25/09/1936 hasta 16/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Basauri fue bombardeado en 5 ocasiones entre septiembre de 1936 y junio de 1937. Los barrios de Ariz y El Boquete fueron objetivo de algunos de estos bombardeos. No disponemos de informaciÃ³n concreta sobre el nÃºmero de vÃ­ctimas consecuencia de estos ataques. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  El Noticiero BilbaÃ­no  La Gaceta del Norte  Euzkadi"
+    }
+  }, {
+    "id" : 112,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.8758359574934533, 43.01936226270521 ]
+    },
+    "properties" : {
+      "localidad" : "Andotoleta",
+      "numero de bombardeos" : "2",
+      "fechas" : "26/05/1937  31/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en Andotoleta en dos ocasiones. Se arrojaron abundantes bombas. No se dispone de mÃ¡s informaciÃ³n",
+      "fuente" : "El Lilberal"
+    }
+  }, {
+    "id" : 127,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9464248820728254, 43.40462748993057 ]
+    },
+    "properties" : {
+      "localidad" : "Plentzia",
+      "numero de bombardeos" : "2",
+      "fechas" : "14/05/1937  23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Pletzia fue bombardeado por la aviaciÃ³n franquista en dos ocasiones durante el mes de mayo de 1937. La aviaciÃ³n italiana participaron en al menos uno de los dos casos. En el primero de los bombardeos no hubo vÃ­ctimas. No se dispone de informaciÃ³n en el segundo.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)"
+    }
+  }, {
+    "id" : 126,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9448755574541625, 43.217890836547625 ]
+    },
+    "properties" : {
+      "localidad" : "Pagasarri",
+      "numero de bombardeos" : "2",
+      "fechas" : "02/04/1937  17/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona del monte Pagasarri, donde existÃ­an posiciones republicanas, fue bombardeada en dos ocasiones por la aviaciÃ³n franquista. No se dispone de mÃ¡s datos al respecto.",
+      "fuente" : "Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 125,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.943767047644361, 42.99970391323073 ]
+    },
+    "properties" : {
+      "localidad" : "Uzkiano",
+      "numero de bombardeos" : "1",
+      "fechas" : "24/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Uzkiano, en Zuia. SegÃºn la crÃ³nica del \"Euzkadi\" bombardearon tambiÃ©n sus propias posiciones. Se habla de vÃ­ctimas, pero no se dispone de mÃ¡s informaciÃ³n al respecto.",
+      "fuente" : "Euzkadi  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 124,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9392676510724183, 43.31380536743911 ]
+    },
+    "properties" : {
+      "localidad" : "Loiu",
+      "numero de bombardeos" : "1",
+      "fechas" : "14/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Loiu fue bombardeado el 14 de junio de 1937. La LegiÃ³n Condor alemana participÃ³ en el ataque. No se dispone de mÃ¡s informaciÃ³n sobre este hecho. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 123,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.934995214402033, 43.263017627053955 ]
+    },
+    "properties" : {
+      "localidad" : "Bilbao",
+      "numero de bombardeos" : "40",
+      "fechas" : "Desde 25/09/1936 hasta 19/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Bilbao y las inmediaciones de la ciudad fueron bombardeados en 40 ocasiones entre septiembre de 1936 y junio de 1937. Fue una de las ciudades mÃ¡s castigadas por la aviaciÃ³n y los destrozos causados por las bombas fueron muy graves, ademÃ¡s de las vÃ­ctimas que hubo. Tanto la aviaciÃ³n italiana con aviones de los modelos \"Caproni 133\" y Savoia Marchetti SM.79â€�, como la LegiÃ³n Condor alemana, con los modelos â€œJunker Ju52â€�, \"Messerschmitt Bf.109â€�  y â€œHeinkel He52â€�  participaron en estos ataques. Buena parte de la ciudad resultÃ³ daÃ±ada: las calles Correo, BailÃ©n, Bidebarrieta, Calzadas, El Arenal, Plaza Nueva, EstaciÃ³n, Muelle de Ripa, Plaza de Albia, Muelle de Uribitarte, ColÃ³n de Larreategui, Ledesma, Avenida Mazarredo, BerÃ¡stegui, Henao, Plaza de Zabalburu, Rampas de Uribitarte,  Hurtado de AmÃ©zaga, Plaza de Abando y GarcÃ­a Salazar, Santutxu, Zumarraga, Larrinaga, San Francisco, Iturribide, OllerÃ­as o el muelle de Marzana  asÃ­ como en los barrios de Deusto, Zorroza, Buia y Buena Vista,  la Universidad Comercial,  los Diques Euskalduna, los puentes de la ciudad y en las inmediaciones del Hospital de San Luis. Los caserÃ­os de las inmediaciones del casco urbano y las carreteras de la zona tambiÃ©n fueron atacadas y sufrieron daÃ±os considerables. En cuanto a las vÃ­ctimas, si bien es imposible dar cifras exactas, con los datos de los que se dispone, sacados de informes del Gobierno Vasco y de las crÃ³nicas periodÃ­sticas de la Ã©poca, se llega a sumar aproximadamente 354 muertos y mÃ¡s de 800 heridos. En cualquier caso, estas no serÃ­an cifras definitivas. ",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  SecretarÃ­a General de S.E. el Jefe de Estado. Oficina de InformaciÃ³n. Salamanca. (SGOI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal  El Pensamiento AlavÃ©s  La Gaceta del Norte  EL NerviÃ³n  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 122,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.934324357205706, 43.4134623384989 ]
+    },
+    "properties" : {
+      "localidad" : "Gorliz",
+      "numero de bombardeos" : "1",
+      "fechas" : "12/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Gorliz, destruyendo algunas casas y daÃ±ando el Sanatorio Marino. SegÃºn â€œEl Liberalâ€� no se registraron vÃ­ctimas. ",
+      "fuente" : "El Liberal"
+    }
+  }, {
+    "id" : 121,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9260212324528654, 43.29806765347878 ]
+    },
+    "properties" : {
+      "localidad" : "Sondika",
+      "numero de bombardeos" : "17",
+      "fechas" : "Desde 24/04/1937 hasta 15 /06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Sondika fue bombardeado en 17 ocasiones entre abril y junio de 1937. .  El grupo VB/88 compuesto por aviones de los modelos â€œJunker Ju52â€�, â€œDornier Do17â€� y â€œHeinkel He111â€�  y el grupo K/88 participaron en los ataques. El centro del pueblo y las carreteras cercanas fueron atacadas y sufrieron daÃ±os. No se dispone de datos concretos sobre el nÃºmero de vÃ­ctimas que pudieron producir estos bombardeos. Sabemos que en dos de ellos no hubo vÃ­ctimas. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 120,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9235754002447774, 43.17393361288116 ]
+    },
+    "properties" : {
+      "localidad" : "Arrankudiaga",
+      "numero de bombardeos" : "1",
+      "fechas" : "15/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Arrankudiaga lanzando proyectiles de caÃ±Ã³n del calibre 21. No se dispone de mÃ¡s informaciÃ³n.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi"
+    }
+  }, {
+    "id" : 137,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.997416573157363, 43.10279353201038 ]
+    },
+    "properties" : {
+      "localidad" : "Luyando",
+      "numero de bombardeos" : "1",
+      "fechas" : "01/01/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Tras un fallido intento de llegar a Bilbao, la aviaciÃ³n franquista dejÃ³ caer algunas bombas sobre Luyando. Una persona muriÃ³ a consecuencia del bombardeo y otras dos resultaron heridas, siempre segÃºn la crÃ³nica de \"Euzkadi\".",
+      "fuente" : "Euzkadi  El NerviÃ³n "
+    }
+  }, {
+    "id" : 136,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9973799288127982, 43.36440964428395 ]
+    },
+    "properties" : {
+      "localidad" : "Berango",
+      "numero de bombardeos" : "1",
+      "fechas" : "24/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Berango fue bombardeado el 24 de abril de 1937. Fueron lanzadas 3 bombas que segÃºn la crÃ³nica de \"El Liberal\" causaron \"algunas vÃ­ctimas. No se dispone de mÃ¡s informaciÃ³n. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  El Liberal"
+    }
+  }, {
+    "id" : 139,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.004144698698492, 43.321003664991906 ]
+    },
+    "properties" : {
+      "localidad" : "Leioa",
+      "numero de bombardeos" : "22",
+      "fechas" : "Desde 31/08/1936 hasta 16/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Leioa fue bombardeado  en 22 ocasiones entre agosto de 1936 y mayo de 1937. Buena parte de estos ataques se centraron en el barrio de Lamiako, cercano a Las Arenas, en Getxo. El barrio de Artaza tambiÃ©n fue bombardeado, y la estaciÃ³n de ferrocarril tambiÃ©n sufriÃ³ daÃ±os. En Lamiako, que fue atacado hasta en 20 ocasiones, sufrieron daÃ±os la fÃ¡brica de vidrios, la zona del campo de aviaciÃ³n y el interior del barrio. Los grupos VB/88, A/88 y J/88 de la aviaciÃ³n alemana tomaron parte al menos en algunos de estos ataques. No se dispone de datos concretos sobre el nÃºmero de vÃ­ctimas, aunque no fueron menos de 19.",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  SecretarÃ­a General de S.E. el Jefe de Estado. Oficina de InformaciÃ³n. Salamanca. (SGOI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  El Liberal  El Noticiero BilbaÃ­no  Euzkadi  Frente Popular  La Gaceta del Norte  Testimonio de George Steer "
+    }
+  }, {
+    "id" : 138,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9998868469564273, 43.05358082126767 ]
+    },
+    "properties" : {
+      "localidad" : "Amurrio",
+      "numero de bombardeos" : "2",
+      "fechas" : "26/05/1937  31/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Amurrio en dos ocasiones entre el 26 y el 31 de mayo de 1937.  Un caza alemÃ¡n lanzÃ³ desde el aire bombas de mano que causaron un muerto y un nÃºmero de heridos indefinido en uno de los casos. En el otro ataque no hubo vÃ­ctimas aunque sÃ­ destrozos materiales. ",
+      "fuente" : "Euzkadi  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI) "
+    }
+  }, {
+    "id" : 141,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.00590333604742, 43.338779013065626 ]
+    },
+    "properties" : {
+      "localidad" : "Getxo",
+      "numero de bombardeos" : "3",
+      "fechas" : "24/04/1937  29/04/1937  30/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La poblaciÃ³n de Getxo fue bombardeada en tres ocasiones durante el mes de abril de 1937. Las bombas cayeron en diferentes puntos como Negubide, Lertegi y campas de la zona. Aviones de los modelos \"Junker Ju52\" alemanes y \"Fiat Cr.32\" italianos tomaron parte en los ataques. El Gobierno Vasco contabilizÃ³ en abril de 1937 21 vÃ­ctimas consecuencia de los bombardeos, 5 muertos y 16 heridos. ",
+      "fuente" : "Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Jefatura del Aire. Resumen de las operaciones del dÃ­a. 3Âª SecciÃ³n (enero a agosto 1937). (JAROD)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  El Liberal  Testimonio de Mercedes Iribarren "
+    }
+  }, {
+    "id" : 140,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0048913991542965, 43.338593089732306 ]
+    },
+    "properties" : {
+      "localidad" : "Neguri",
+      "numero de bombardeos" : "1",
+      "fechas" : "13/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Neguri, perteneciente a Getxo. No se registraron vÃ­ctimas, segÃºn \"Euzkadi\"",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi"
+    }
+  }, {
+    "id" : 143,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0100111249938175, 42.99443735839283 ]
+    },
+    "properties" : {
+      "localidad" : "OrduÃ±a",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 31/12/1936 hasta 07/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "OrduÃ±a fue bombardeado en 7 ocasiones entre diciembre de 1936 y junio de 1937.  ParticipÃ³ en los ataques el grupo de la aviaciÃ³n italiana Lo-1 con aviones de los modelos â€œRomeo  Ro.37â€� y â€œSavoia Marchetti SM.79â€�, y en algunos casos la LegiÃ³n Condor. Varios edificios del pueblo sufrieron daÃ±os de consideraciÃ³n durante los bombardeos. En dos de ellos no hubo vÃ­ctimas, mientras que no se dispone de informaciÃ³n al respecto en los demÃ¡s casos. ",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Comando Aviazione Legionaria. Jefatura delâ€™Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El NerviÃ³n  EL Liberal "
+    }
+  }, {
+    "id" : 142,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0092163874940066, 43.328771761738636 ]
+    },
+    "properties" : {
+      "localidad" : "Areeta",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 22/04/1937 hasta 13/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Areeta, perteneciente a Getxo, fue bombardeada en seis ocasiones entre abril y junio de 1937. Aviones italiano y alemanes tomaron parte en estos ataques. Las zonas del puerto, el centro del pueblo, la carretera que conecta con Portugalete y el convento de los Padres Trinitarios resultaron daÃ±ados. Sobre el nÃºmero de vÃ­ctimas, se pueden registrar al menos 4, si bien en tres de los ataques no disponemos de informaciÃ³n a este respecto. ",
+      "fuente" : "Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 129,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9510002354509486, 43.0081631744596 ]
+    },
+    "properties" : {
+      "localidad" : "Txibiarte",
+      "numero de bombardeos" : "2",
+      "fechas" : "26/05/1937  27/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en Txibiarte",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca (LCIJA)  Euzkadi  El Pensamiento AlavÃ©s "
+    }
+  }, {
+    "id" : 128,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9473640592157713, 43.30383375691087 ]
+    },
+    "properties" : {
+      "localidad" : "Erandio",
+      "numero de bombardeos" : "10",
+      "fechas" : "Desde 04/01/1937 hasta 15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Erandio fue bombardeado en diez ocasiones entre enero y junio de 1937. El barrio de AsÃºa, las calles de Jado, Ibarra, Obieta, Urioste y San Vicente, la zona del ferrocarril y la iglesia de San AgustÃ­n resultaron daÃ±adas y varias casas destruidas completamente. En enero se registraron 17 vÃ­ctimas, al menos una de ellas mortal. En abril el Gobierno Vasco registrÃ³ 29 muertos y 37 heridos en Erandio. En mayo la crÃ³nica del \"Euzkadi\" hablÃ³ de 16 heridos en el bombardeo de Erandio. No se dispone de mÃ¡s informaciÃ³n al respecto. ",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi  El Liberal El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 131,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9641676387539366, 43.14007551674298 ]
+    },
+    "properties" : {
+      "localidad" : "Laudio",
+      "numero de bombardeos" : "2",
+      "fechas" : "24/05/1937  14/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Varios aviones franquistas bombardearon Laudio, cayendo proyectiles en la plaza y en el rÃ­o. Se produjeron dos ataques, en mayo y en junio. Al menos en el primero no hubo vÃ­ctimas.",
+      "fuente" : "Euzkadi  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 130,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.954222293380596, 43.29742125184578 ]
+    },
+    "properties" : {
+      "localidad" : "Asua",
+      "numero de bombardeos" : "2",
+      "fechas" : "14/06/1937  15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Asua en Erandio fue bombardeada en dos ocasiones en junio de 1937. No se dispone de informaciÃ³n sobre las consecuencias de dichos ataques.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 133,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.987751791245489, 43.24094818181043 ]
+    },
+    "properties" : {
+      "localidad" : "Alonsotegi",
+      "numero de bombardeos" : "3",
+      "fechas" : "13/05/1937  13/06/1937  19/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Alonsotegi fue bombardeada en tres ocasiones entre mayo y junio de 1937. La LegiÃ³n Condor alemana participÃ³ al menos en uno de los ataques. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar.",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Euzkadi"
+    }
+  }, {
+    "id" : 132,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9815819415142437, 43.38073824282397 ]
+    },
+    "properties" : {
+      "localidad" : "Sopela",
+      "numero de bombardeos" : "1",
+      "fechas" : "23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ el pueblo de Sopela el 23 de mayo de 1937. No se dispone de informaciÃ³n sobre las consecuencias del ataque. ",
+      "fuente" : "Testimonio de Mercedes Iribarren "
+    }
+  }, {
+    "id" : 135,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.994945530091461, 43.31052264374865 ]
+    },
+    "properties" : {
+      "localidad" : "Sestao",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 04/01/1937 hasta 23/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Sestao fue bombardeado en seis ocasiones entre enero y mayo de 1937. Las fÃ¡bricas de â€œAltos Hornosâ€�, â€œAurrerÃ¡â€� y â€œLa Navalâ€�, la zona junto al tren, la campa de San Francisco y la carretera de entrada al pueblo sufrieron daÃ±os de consideraciÃ³n, asÃ­ como las calles y casas del pueblo. TambiÃ©n quedaron destruidos completamente varios edificios en las calles Txabarri, Lorenzo Llona e Iberia, asÃ­ como en los barrios de Vista Alegre y la UniÃ³n. Hasta el mes de abril el Gobierno Vasco registrÃ³ 14 muertos y 18 heridos, a los que habrÃ­a que sumar los 22 muertos y 80 heridos que se produjeron, segÃºn el Secretario General de GobernaciÃ³n en testimonio dado al \"Euzkadi\" tras el bombardeo del 23 de mayo. No se dispone de mÃ¡s datos a este respecto, por lo que no se puede dar un nÃºmero exacto de vÃ­ctimas. ",
+      "fuente" : "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 134,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.9910573704621677, 43.29494324683427 ]
+    },
+    "properties" : {
+      "localidad" : "Barakaldo",
+      "numero de bombardeos" : "10",
+      "fechas" : "Desde 25/09/1936 hasta 18/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Barakaldo fue bombardeado por la aviaciÃ³n franquista en 10 ocasiones entre septiembre de 1936 y junio de 1937. Los barrios de Ariz, Lutxana y BurceÃ±a fueron objetivo de estos ataques. MÃ¡s concretamente, sabemos que en uno de los bombardeos resultaron daÃ±adas la cooperativa Bide Onera, los comedores de Asistencia Social y el Matadero Municipal. Sobre el nÃºmero de vÃ­ctimas no se tienen datos concretos, pero en abril de 1937 el Gobierno Vasco registrÃ³ 30 muertos y 22 heridos, a los que habrÃ­a que sumar algunas vÃ­ctimas tanto anteriores como posteriores. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  El Liberal  EL Noticiero BilbaÃ­no  La Gaceta del Norte  Testimonio de George Steer."
+    }
+  }, {
+    "id" : 152,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.05541471567653, 43.309910346122386 ]
+    },
+    "properties" : {
+      "localidad" : "Ortuella",
+      "numero de bombardeos" : "1",
+      "fechas" : "16/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Ortuella fue bombardeado por la aviaciÃ³n franquista el 16 de junio de 1937. No se dispone de informaciÃ³n  sobre las consecuencias de dicho ataque.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 153,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0751694127336835, 43.31617438145609 ]
+    },
+    "properties" : {
+      "localidad" : "Gallarta",
+      "numero de bombardeos" : "1",
+      "fechas" : "08/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Una avioneta franquista que volaba a unos 1500 metros de altura se acercÃ³ hasta la zona soltando propaganda en varios lugares de camino. DespuÃ©s, bombardeo la zona de Gallarta tras pasar por Santurtzi. HiriÃ³ a algunas vecinas, sin que se especifique mÃ¡s. En â€œEl Noticiero BilbaÃ­noâ€� se habla del bombardeo y de los heridos causados, pero se afirma que no se pudo â€œconfirmar el rumorâ€�.  ",
+      "fuente" : "El Liberal  EL Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 154,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.097690628715575, 43.319234744743106 ]
+    },
+    "properties" : {
+      "localidad" : "Abanto-Zierbena",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 29/04/1937 hasta 17/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "El pueblo de Abanto-Zierbena fue bombardeado en cuatro ocasiones entre abril y junio de 1937. En uno de los casos no se produjeron vÃ­ctimas  no se tiene informaciÃ³n al respecto en los demÃ¡s. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 155,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.1188352601008966, 43.210839205265565 ]
+    },
+    "properties" : {
+      "localidad" : "Zalla",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 13/05/1937 hasta 25/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Zalla fue bombardeado en cinco ocasiones entre mayo y junio de 1937. En uno de estos bombardeos el barrio de Aranguren resultÃ³ daÃ±ado. En dos de ellas no hubo ninguna vÃ­ctimas. No se dispone de informaciÃ³n a este respecto en el resto de los casos. La LegiÃ³n Condor alemana participÃ³ en estos ataques. ",
+      "fuente" : "Parte de Radios Rojas. (PRR)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 156,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.123119390361697, 43.322383702931695 ]
+    },
+    "properties" : {
+      "localidad" : "Muskiz",
+      "numero de bombardeos" : "3",
+      "fechas" : "13/06/1937  30/06/1937  01/07/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Muskiz fue bombardeado en tres ocasiones entre junio y julio de 1937. La LegiÃ³n Condor alemana participÃ³ en estos ataques. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)"
+    }
+  }, {
+    "id" : 157,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.1300398866632637, 43.12158687246922 ]
+    },
+    "properties" : {
+      "localidad" : "Beratza (Artziniega)",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Baratza, en Artziniega. Las crÃ³nicas de la Ã©poca no reflejaron las consecuencias del ataque. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 158,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.154097401313555, 43.26129857874397 ]
+    },
+    "properties" : {
+      "localidad" : "Sopuerta",
+      "numero de bombardeos" : "2",
+      "fechas" : "22/06/1937  25/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Sopuerta fue bombardeado en dos ocasiones en junio de 1937. El barrio de Mercadillo fue especialmente castigado. No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudiera haber habido",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 159,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.196915657603684, 43.19313831019622 ]
+    },
+    "properties" : {
+      "localidad" : "Balmaseda",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 21/06/1937 hasta 14/08/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Balmaseda fue bombardeado en seis ocasiones entre junio y agosto de 1937. Tanto la LegiÃ³n Condor alemana como la aviaciÃ³n italiana participaron en varios de estos ataques. No0 se dispone de informaciÃ³n sobre las vÃ­ctimas que pudieron haber causado. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Estado Mayor del Aire. Operaciones. (EMAO)"
+    }
+  }, {
+    "id" : 144,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.010624256663858, 43.346996799605435 ]
+    },
+    "properties" : {
+      "localidad" : "Algorta",
+      "numero de bombardeos" : "2",
+      "fechas" : "13/05/1937  26/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Algorta, perteneciente a Getxo,, en dos ocasiones durante el mes de mayo de 1937. En el primero no hubo vÃ­ctimas, mientras que las crÃ³nicas de \"El Liberal\" no especifican nada al respecto en el segundo caso. ",
+      "fuente" : "El Liberal"
+    }
+  }, {
+    "id" : 145,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0152239828870675, 43.328536577818994 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeo de la Zona Internacional en Las Arenas",
+      "numero de bombardeos" : "1",
+      "fechas" : "21/10/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Dos aviones franquistas bombardearon la zona internacional situada en Las Arenas.  Tres de los proyectiles cayeron al mar, cerca de los barcos â€œAltuna Mendiâ€� y â€œEskâ€�, asÃ­ como del Club MarÃ­timo del Abra. Otro cayÃ³ en la carretera, frente al cuartel de la PolicÃ­a Internacional, y otro al lado del Consulado de PerÃº. En lo que a las vÃ­ctimas se refiere, oscilan dependiendo de la fuente. AsÃ­, en â€œEuzkadiâ€�  y â€œEl NerviÃ³nâ€� se contabilizan, dando los nombres de varios de ellos, 8 muertos y 4 heridos. En â€œEl Liberalâ€� y â€œEl Noticiero BilbaÃ­noâ€� y â€œLa Gaceta del Norteâ€� se mencionan 5 muertos y cuatro heridos graves (2 en el caso de â€œEl Liberalâ€�). Un artÃ­culo publicado en â€œEuzkadiâ€� el 8 de noviembre de 1936 mostraba que las bombas lanzadas eran de procedencia alemana.",
+      "fuente" : "Euzkadi  El Liberal  El Noticiero BilbaÃ­no  El NerviÃ³n  La Gaceta del Norte  Testimonios de George Steer y JesÃºs de Luisa"
+    }
+  }, {
+    "id" : 146,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.016924189252101, 43.320054413337154 ]
+    },
+    "properties" : {
+      "localidad" : "Portugalete",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 31/08/1936 hasta 15/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La zona de Portugalete fue bombardeada en 7 ocasiones entre agosto de 1936 y junio de 1937. Los bombardeos causaron daÃ±os en numerosos edificios. El convento de los Carmelitas, el puente de Vizcaya y en las zonas de el Abra, Villanueva y Repelega. Se desconoce el numero total de vÃ­ctimas, pero sabemos que el Gobierno Vasco contabilizÃ³ en abril de 1937 9 vÃ­ctimas, a las que habrÃ­a que sumar al menos 3 registradas y un nÃºmero indeterminado sin registrar en los meses posteriores.",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  El Liberal  El Noticiero BilbaÃ­no  Euzkadi  Frente Popular  La Gaceta del Norte."
+    }
+  }, {
+    "id" : 147,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0226430960716426, 43.223375129650826 ]
+    },
+    "properties" : {
+      "localidad" : "GÃ¼eÃ±es",
+      "numero de bombardeos" : "3",
+      "fechas" : "14/06/1937  22/06/1937  25/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "GÃ¼eÃ±es fue bombardeado en tres ocasiones en junio de 1937. La zona de Quadra-Lakabex resultÃ³ daÃ±ada. La LegiÃ³n Condor alemana participÃ³ al menos en uno de los ataques. No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudieron haber causado.",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi"
+    }
+  }, {
+    "id" : 148,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0283581310332037, 43.239681223334024 ]
+    },
+    "properties" : {
+      "localidad" : "Zaramillo",
+      "numero de bombardeos" : "1",
+      "fechas" : "13/06/1937",
+      "bando" : "Franuiqsta",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Zaramillo en junio de 1937. La LegiÃ³n Condor alemana tomÃ³ parte en el ataque. No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudiera haber habido. ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  testimonio de George Steer"
+    }
+  }, {
+    "id" : 149,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0322440413706704, 43.32938712064132 ]
+    },
+    "properties" : {
+      "localidad" : "Santurtzi",
+      "numero de bombardeos" : "6",
+      "fechas" : "Desde 08/08/1936 hasta 20/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Santurtzi fue bombardeado al menos en 6 ocasiones durante la guerra civil. Estos ataques sucedieron entre agosto de 1936 y mayo de 1937. Entre las zonas que resultaron daÃ±adas conocemos el puerto, el rompeolas, la iglesia de San Jorge y las zonas de alrededor de la misma. Uno de los ataques no fue un bombardeo aÃ©reo, si no que se realizÃ³ desde el barco de guerra \"Velasco\", que intentaba destruir, como tambiÃ©n lo intentÃ³ la aviaciÃ³n, los depÃ³sitos de combustible de \"CAMPSA\" que se hallaban en la zona. No se conoce el nÃºmero exacto de vÃ­ctimas de estos seis bombardeos, pero con las que hay documentadas fueron al menos 14.",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  El Liberal  El NerviÃ³n  El Noticiero BilbaÃ­no  Euzkadi  Frente Popular  La Gaceta del Norte  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 150,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0372340542555536, 42.982246819104496 ]
+    },
+    "properties" : {
+      "localidad" : "Txarlazo",
+      "numero de bombardeos" : "1",
+      "fechas" : "31/05/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Quince bombarderos y ocho cazas bombardearon las posiciones republicanas en la zona de Txarlazo el 31 de mayo de 1937",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 151,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.0378260926275797, 43.30429217586893 ]
+    },
+    "properties" : {
+      "localidad" : "Trapagaran",
+      "numero de bombardeos" : "1",
+      "fechas" : "16/06/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Trapagaran el 16 de junio de 1937. No se dispone de informaciÃ³n sobre las consecuencias de este ataque. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 171,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9908040761072612, 43.31469239262327 ]
+    },
+    "properties" : {
+      "localidad" : "Donostia-San Sebastian",
+      "numero de bombardeos" : "7",
+      "fechas" : "Desde 12/08/1936 hasta 11/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Donostia fue bombardeado en siete ocasiones entre agosto y septiembre de 1936. La zona de Errondo, el balneario de La Perla, las calles San JerÃ³nimo, EmbeltrÃ¡n, Garibay, San Marcial, Easo, Urbieta, Plaza del Centenario,  Amara y Urdaneta, asÃ­ como  la iglesia de Santa MarÃ­a, los Cuarteles de Loyola y en la bahÃ­a de la Concha resultaron daÃ±adas a consecuencia de estos ataques. AdemÃ¡s de la aviaciÃ³n, los buques de guerra \"EspaÃ±a\" y \"Almirante Cervera\" atacaron tambiÃ©n en dos ocasiones. Los destrozo materiales fueron cuantiosos. En cuanto al nÃºmero de vÃ­ctimas, no se dispone de una cifra exacta, pero con los registrados habrÃ­a al menos 11 muertos y 25 heridos. De cuatro de los bombardeos no se tienen datos sobre el nÃºmero de vÃ­ctimas.",
+      "fuente" : "La Gaceta del Norte  Frente Popular  El Noticiero BilbaÃ­no  Euzkadi  Testimonio de George Steer "
+    }
+  }, {
+    "id" : 170,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9825213901494092, 43.314895336995754 ]
+    },
+    "properties" : {
+      "localidad" : "Donostia-San Sebastian",
+      "numero de bombardeos" : "1",
+      "fechas" : "27/09/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ Donostia en Septiembre de 1936. No se dispone de mÃ¡s informaciÃ³n. ",
+      "fuente" : "El Noticiero BilbaÃ­no  Euzkadi"
+    }
+  }, {
+    "id" : 169,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.353742281049089, 43.29486474679779 ]
+    },
+    "properties" : {
+      "localidad" : "Deba",
+      "numero de bombardeos" : "2",
+      "fechas" : "09/10/1936  24/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La zona de Deba fue bombardeada por la aviaciÃ³n republicana en dos ocasiones entre septiembre y diciembre de 1936. No se dispone de informaciÃ³n sobre las consecuencias de estos ataques. ",
+      "fuente" : "El Liberal  El Noticiero BilbaÃ­no  Euzkadi  El NerviÃ³n "
+    }
+  }, {
+    "id" : 168,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.15932976606319, 43.13964660268876 ]
+    },
+    "properties" : {
+      "localidad" : "Bidania",
+      "numero de bombardeos" : "1",
+      "fechas" : "10/09/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ la zona del pueblo de Bidania. No se dispone de informaciÃ³n sobre las consecuencias de dicho ataque. ",
+      "fuente" : "El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 175,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.486976310831276, 43.13743224713822 ]
+    },
+    "properties" : {
+      "localidad" : "Elgeta",
+      "numero de bombardeos" : "3",
+      "fechas" : "25/10/1936  30/10/1936  22/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas en la zona de Elgeta en tres ocasiones entre octubre y diciembre de 1936. No se dispone de informaciÃ³n sobe las consecuencias de estos ataques. ",
+      "fuente" : "Euzkadi  El Liberal  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 174,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.486235996395036, 43.13912326862013 ]
+    },
+    "properties" : {
+      "localidad" : "Elgeta",
+      "numero de bombardeos" : "8",
+      "fechas" : "Desde 08/10/1936 hasta 24/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Elgeta en ocho ocasiones. Los daÃ±os materiales fueron cuantiosos. En abril de 1937, el comandante de la LegiÃ³n Condor Richtofen escribiÃ³: â€œ Elgeta, de la que se encargaron totalmente los italianos el dÃ­a 23, presenta un aspecto horroroso. Muy buenos efectos del bombardeo, los impactos cayeron muy apretadamente. Mejor que entre nosotros. Cuando ellos encuentran objetivo y atinan lo cual no ocurre a menudo, no vuelve a crecer la hierba.â€� Al visitar el dÃ­a 26 Elgeta escribiÃ³: â€œTodavÃ­a examinamos Elgeta a fondo. ImpresiÃ³n de un magnÃ­fico efecto de los bombardeos italianos, plenamente confirmada mediante un examen mÃ¡s precisoâ€�. No se tiene datos sobre el nÃºmero de vÃ­ctimas que pudieron causar estos bombardeos.  ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  El Liberal  El Noticiero BilbaÃ­no  Euzkadi  El NerviÃ³n  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 173,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.46540753075727, 43.186234798685035 ]
+    },
+    "properties" : {
+      "localidad" : "Eibar",
+      "numero de bombardeos" : "18",
+      "fechas" : "Desde 29/08/1936 hasta 25/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Eibar fue bombardeado en 18 ocasiones, 14 de ellas entre septiembre y noviembre de 1936 y las otras en abril de 1937. Fue una de las poblaciones mÃ¡s castigadas de Gipuzkoa. Los daÃ±os materiales fueron muy importantes, tanto en el casco urbano como en las afueras y en las carreteras adyacentes. Barrios como Jardines y Arragueta sufrieron grandes destrozos, y edificios como la estaciÃ³n, fÃ¡bricas de la zona fabril, la Casa del Pueblo, la Aberri-Etxea, el ayuntamiento o e el local del orfeÃ³n fueron al menos parcialmente destruidos. La LegiÃ³n Condor participÃ³ en estos ataques, y en abril de 1937 el comandante alemÃ¡n Richtofen describÃ­a la ciudad incendiada, especialmente el centro de la misma, y mencionaba la labor de la aviaciÃ³n italiana en dichos ataques. No se dispone de informaciÃ³n suficiente para especificar el nÃºmero de vÃ­ctimas, pero faltando datos de bastantes de estos bombardeos al menos hubo al menos 77 muertos y 116 heridos. ",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. RelaciÃ³n de vÃ­ctimas causadas por la aviaciÃ³n facciosa en sus incursiones del mes de abril de 1937.  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  La Gaceta del Norte  El Noticiero BilbaÃ­no  El NerviÃ³n  Testimonio de George Steer"
+    }
+  }, {
+    "id" : 172,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0095741982944753, 43.32138610565713 ]
+    },
+    "properties" : {
+      "localidad" : "Igeldo y San Marcos",
+      "numero de bombardeos" : "1",
+      "fechas" : "06/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Un aviÃ³n sobrevolÃ³ la zona arrojando dos bombas en Igeldo y otras dos en San Marcos. Las arrojadas en Igeldo tenÃ­an la intenciÃ³n de destruir las antenas de radio que allÃ­ habÃ­a. Se produjeron daÃ±os materiales de escasa gravedad en ambos lugares. No hubo vÃ­ctimas.",
+      "fuente" : "Frente Popular  El Liberal  La Gaceta del Norte"
+    }
+  }, {
+    "id" : 163,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4720749271751603, 43.11357975624507 ]
+    },
+    "properties" : {
+      "localidad" : "Angiozar",
+      "numero de bombardeos" : "3",
+      "fechas" : "30/10/1936  17/12/1936  19/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ la zona de Angiozar, perteneciente a Begara, en tres ocasiones entre octubre y diciembre de 1936. Hubo daÃ±os materiales de importancia, quedando la zona de la plaza destruida. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudiera haber habido. ",
+      "fuente" : "El Liberal  El Noticiero BilbaÃ­no  La Gaceta del Norte  El NerviÃ³n  Euzkadi"
+    }
+  }, {
+    "id" : 162,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.472581262247711, 43.11370691690923 ]
+    },
+    "properties" : {
+      "localidad" : "Angiozar",
+      "numero de bombardeos" : "1",
+      "fechas" : "17/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Angiozar, perteneciente a Bergara, el 176 de diciembre de 1936. No se dispone de informaciÃ³n al respecto de las consecuencias de este ataque",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)"
+    }
+  }, {
+    "id" : 161,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.3638133060901163, 43.242031481354225 ]
+    },
+    "properties" : {
+      "localidad" : "Karrantza",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 17/06/1937 hasta 02/07/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Karrantza en cinco ocasiones entre junio y julio de 1937. La LegiÃ³n Condor alemana participÃ³ en todos estos ataques, mientras que la aviaciÃ³n italiana lo hizo al menos en una ocasiÃ³n. El barrio de Molinar fue especialmente castigado por estos bombardeos. No disponemos de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudieron causar.  ",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Testimonio de Mercedes Iribarren "
+    }
+  }, {
+    "id" : 160,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.231614008209371, 43.238248675686506 ]
+    },
+    "properties" : {
+      "localidad" : "Artzentales",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 22/06/1937 hasta 02/07/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Artzentales fue bombardeado en cinco ocasiones entre junio y julio de 1937. La zona de TraslaviÃ±a fue especialmente castigada. La LegiÃ³n Condor alemana participÃ³ en varios de estos bombardeos, y la aviaciÃ³n italiana la menos en uno. No se dispone de informaciÃ³n sobre el nÃºmero de vÃ­ctimas que pudo haber.",
+      "fuente" : "LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. AttivitÃ  di Volo. (ALAVO)"
+    }
+  }, {
+    "id" : 167,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.41192880292023, 43.119211661178944 ]
+    },
+    "properties" : {
+      "localidad" : "Bergara",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 05/10/1936 hasta 09/04/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Bergara fue bombardeado por la aviaciÃ³n republicana en cuatro ocasiones. Las crÃ³nicas periodÃ­sticas afirman que se atacaron objetivos militares. No se dispone de informaciÃ³n sobre las consecuencias de estos ataques.",
+      "fuente" : "El Liberal  Euzkadi  El NerviÃ³n"
+    }
+  }, {
+    "id" : 166,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4131657759181095, 43.1155893180005 ]
+    },
+    "properties" : {
+      "localidad" : "Bergara",
+      "numero de bombardeos" : "1",
+      "fechas" : "28/12/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Un bimotor â€œDragÃ³nâ€�, al ser derribado por aviones republicanos en un combate aÃ©reo, soltÃ³ las bombas que llevaba sobre la poblaciÃ³n de Bergara, segÃºn la crÃ³nica de \"El Liberal\"",
+      "fuente" : "El Liberal"
+    }
+  }, {
+    "id" : 165,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4866244807659994, 43.065938951009194 ]
+    },
+    "properties" : {
+      "localidad" : "Arrasate",
+      "numero de bombardeos" : "3",
+      "fechas" : "21/10/1936  17/12/1936  19/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ Arrasate en tres ocasiones entre octubre y diciembre de 1936. Las zonas de Santa BÃ¡rbara y Kurtze Txiki fueron daÃ±adas en estos ataques, y varios edificios fueron destruidos. ",
+      "fuente" : "El Liberal  El Noticiero BilbaÃ­no  Euzkadi  La Gaceta del Norte  El NerviÃ³n "
+    }
+  }, {
+    "id" : 164,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.513987967313754, 43.07818575629772 ]
+    },
+    "properties" : {
+      "localidad" : "Arrasate",
+      "numero de bombardeos" : "8",
+      "fechas" : "Desde 26/10/1936 hasta 24/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Arrasate en ocho ocasiones. Las zonas de Udala y Maitena resultaron especialmente daÃ±adas. Se desconoce el nÃºmero de vÃ­ctimas que pudieron causar estos ataques. La LegiÃ³n Condor alemana participÃ³ en los mismos.",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 186,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9661372798080134, 43.309886374591414 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeo de los Cuarteles de Loyola (Donostia)",
+      "numero de bombardeos" : "1",
+      "fechas" : "27/07/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Los Cuarteles de Loyola, en los que se habÃ­an atrincherado algunos sublevados, fueron bombardeados primero por una avioneta y despuÃ©s por un trimotor, mediante obuses y bombas incendiarias. En â€œEl Liberalâ€� del dÃ­a 29 de julio se menciona el bombardeo y se habla de un enorme crÃ¡ter abierto por el trimotor y de 6 heridos, cuatro graves y dos muy graves. ",
+      "fuente" : "El Liberal  Frente Popular"
+    }
+  }, {
+    "id" : 187,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.529398429570387, 43.05229843030347 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Murugain",
+      "numero de bombardeos" : "2",
+      "fechas" : "02/04/1937  04/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Murugain, entre Aramaio y Arrasate. No se dispone de informaciÃ³n sobre las consecuencias de dichos ataques. ",
+      "fuente" : "Partes de MisiÃ³n de las Fuerzas AÃ©reas del Norte. (PMFAN)  Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)"
+    }
+  }, {
+    "id" : 184,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.5685156658087376, 42.98675304112059 ]
+    },
+    "properties" : {
+      "localidad" : "Leintz-Gatzaga",
+      "numero de bombardeos" : "1",
+      "fechas" : "10/03/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ el 10 de marzo de 1936 la zona de San MartÃ­n en Leintz-Gatzaga, destruyendo las posiciones franquistas de dicho sector. Las crÃ³nicas periodÃ­sticas no daban mÃ¡s informaciÃ³n. ",
+      "fuente" : "El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 185,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.899803389046937, 43.32119017109809 ]
+    },
+    "properties" : {
+      "localidad" : "Lezo",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Lezo. Fue daÃ±ado el local de Izquierda Republicana en esta localidad. Hubo tres muertos y cinco heridos a causa de este ataque. ",
+      "fuente" : "El Liberal  Euzkadi  La Gaceta del Norte  El Noticiero BilbaÃ­no  Frente Popular  El NerviÃ³n"
+    }
+  }, {
+    "id" : 190,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9080605028105735, 43.320170038205696 ]
+    },
+    "properties" : {
+      "localidad" : "Pasaia",
+      "numero de bombardeos" : "1",
+      "fechas" : "04/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Un trimotor republicano bombardeÃ³ el puerto de Pasaia, pero debido a la niebla no pudo cumplir con todos los objetivos asignados. No se da mÃ¡s informaciÃ³n.",
+      "fuente" : "El Liberal  El Noticiero BilibaÃ­no  Euzkadi  La Gaceta del Norte"
+    }
+  }, {
+    "id" : 191,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9283814634654286, 43.32457635021348 ]
+    },
+    "properties" : {
+      "localidad" : "Pasaia",
+      "numero de bombardeos" : "3",
+      "fechas" : "12/08/1936  19/08/1936  01/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Pasaia fue bombardeado dos veces por la aviaciÃ³n y una tercera por el buque de guerra \"EspaÃ±a\". En este Ãºltimo caso  el objetivo serÃ­an los depÃ³sitos de CAMPSA y los polvorines, que no fueron alcanzados. El buque fue atacado por las baterÃ­as republicanas y se tuvo que retirar. En los otros dos casos los proyectiles alcanzaron el Cementerio InglÃ©s, el caserÃ­o \"Larrabide\" y  \"Carchegui\", donde se hallaba el Cuartel General de las milicias vascas. Murieron al menos tres personas.",
+      "fuente" : "Frente Popular  EL Noticiero BilbaÃ­no  Euzkadi  El NerviÃ³n"
+    }
+  }, {
+    "id" : 188,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.3849588096630665, 43.30644029257394 ]
+    },
+    "properties" : {
+      "localidad" : "Mutriku",
+      "numero de bombardeos" : "2",
+      "fechas" : "24/10/1936  23/12/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ Mutriku en dos ocasiones, en octubre  y en diciembre de 1936. SegÃºn las crÃ³nicas, se lanzaron gran cantidad de proyectiles. No se dispone de informaciÃ³n sobre las vÃ­ctimas que pudiera haber habido. ",
+      "fuente" : "El Liberal  El Noticiero BilbaÃ­no  Euzkadi  La Gaceta del Norte"
+    }
+  }, {
+    "id" : 189,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.8603191226098021, 43.299012159151765 ]
+    },
+    "properties" : {
+      "localidad" : "Oiartzun",
+      "fechas" : "08/08/1936  09/08/1936  11/08/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Oiartzun, y en concreto las zonas de Arkale y Pokokieta, fueron bombardeadas en tres ocasiones por la aviaciÃ³n republicana. Un caserÃ­o llamado \"Ugandecho\" fue destruido. Se \"El Liberal\" estaba siendo utilizado como cuartel por los franquistas. ",
+      "fuente" : "Frente Popular  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 178,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4992656566155325, 43.13048570114413 ]
+    },
+    "properties" : {
+      "localidad" : "Intxorta",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 01/04/1937 hasta 24/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en cinco ocasiones la zona de Intxorta en abril de 1937. La LegiÃ³n Condor alemana, especÃ­ficamente los grupos J/88 y K/88 participaron en estos ataques, asÃ­ como la aviaciÃ³n italiana. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que pudieran haber causado. ",
+      "fuente" : "Coronel Jefe de Estado Mayor. Tercera SecciÃ³n. Resumen de las Operaciones. (CJEMRO)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  LegiÃ³n CÃ³ndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervenciÃ³n alemana en EspaÃ±a y el â€œcaso Guernicaâ€�, Sedmay, Madrid, 1976, pp. 98-132.  Euzkadi"
+    }
+  }, {
+    "id" : 179,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.7896184568835065, 43.33916712666336 ]
+    },
+    "properties" : {
+      "localidad" : "Irun",
+      "numero de bombardeos" : "1",
+      "fechas" : "28/08/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana bombardeÃ³ las posiciones franquistas en la zona de IrÃºn. No se dispone de informaciÃ³n acerca de las consecuencias de dicho ataque. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 176,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4150022985668707, 43.21507874778615 ]
+    },
+    "properties" : {
+      "localidad" : "Elgoibar",
+      "numero de bombardeos" : "1",
+      "fechas" : "31/03/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Elgoibar el 31 de marzo de 1937, causando daÃ±os importantes en la fÃ¡brica de San Pedro. No se dispone de informaciÃ³n sobre si hubo vÃ­ctimas. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 177,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.9740740807319264, 43.26766195408631 ]
+    },
+    "properties" : {
+      "localidad" : "Hernani",
+      "numero de bombardeos" : "4",
+      "fechas" : "Desde 20/08/1937 hasta 11/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Hernani fue bombardeado en cuatro ocasiones entre agosto y septiembre de 1936. Fueron alcanzados el convento de los Agustinos, utilizados por las milicias nacionalistas y el local de Izquierda Republicana asÃ­ como la zona entre el cementerio y el hospital, ademÃ¡s de otros edificios. Hubo un total de 5 muertos y 11 heridos a consecuencia de estos ataques. ",
+      "fuente" : "El Liberal  Euzkadi  El Noticiero BilbaÃ­no  Frente Popular  La Gaceta del Norte  El NerviÃ³n"
+    }
+  }, {
+    "id" : 182,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.4804799790531407, 43.14821563247795 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Karabieta",
+      "numero de bombardeos" : "1",
+      "fechas" : "18/11/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona de Karabieta, en Elgeta, el 18 de noviembre de 1936. No hubo vÃ­ctimas. ",
+      "fuente" : "Euzkadi"
+    }
+  }, {
+    "id" : 183,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.0201002827183743, 43.26850705142196 ]
+    },
+    "properties" : {
+      "localidad" : "Lasarte",
+      "numero de bombardeos" : "5",
+      "fechas" : "Desde 27/08/1936 hasta 11/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Lasarte en cinco ocasiones entre agosto y septiembre de 1936. Varios edificios fueron gravemente daÃ±ados. Se registraron un muerto y tres heridos, si bien en dos de los ataques no se dispone de informaciÃ³n a este respecto. ",
+      "fuente" : "Frente Popular  Euzkadi  El Liberal  El Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 180,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.7981372029244025, 43.338480492105475 ]
+    },
+    "properties" : {
+      "localidad" : "Irun",
+      "numero de bombardeos" : "13",
+      "fechas" : "Desde 20/08/1936 hasta 04/09/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "IrÃºn fue bombardeado en trece ocasiones entre agosto y septiembre de 1936. Las zonas de Saroya y San Marcial, la plaza, la estaciÃ³n ferroviaria, el ayuntamiento, el cuartel, el convento de los Escolapios, el CÃ­rculo Republicano y la fÃ¡brica de cerillas resultaron daÃ±ados. La LegiÃ³n Condor alemana y la aviaciÃ³n italiana participaron en estos ataques. Para el final de la ofensiva, las crÃ³nicas del \"Euzkadi\" hablan de que â€œIrÃºn estÃ¡ ardiendo. Es una inmensa hogueraâ€�. Se desconoce el nÃºmero de vÃ­ctimas que pudieron causar estos ataques. ",
+      "fuente" : "AttivitÃ¡ Giornaliera dellâ€™Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran BretaÃ±a, a los servicios de inteligencia aÃ©rea britÃ¡nicos. (IHCh)  Euzkadi  El Liberal  El Noticiero BilbaÃ­no  Frente Popular  La Gaceta del Norte  El NerviÃ³n"
+    }
+  }, {
+    "id" : 181,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.8562406720572318, 43.34508629937447 ]
+    },
+    "properties" : {
+      "localidad" : "Jaizkibel",
+      "numero de bombardeos" : "1",
+      "fechas" : "10/09/1936",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "La aviaciÃ³n republicana dejÃ³ caer muchas bombas en la zona de Jaizkibel, entre Pasaia, Lezo y Hondarribia, causando grandes daÃ±os y bajas en las filas franquistas, segÃºn las crÃ³nicas.",
+      "fuente" : "El Noticiero BilbaÃ­no  El Liberal  Euzkadi"
+    }
+  }, {
+    "id" : 197,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.2584855117465583, 43.29654295508591 ]
+    },
+    "properties" : {
+      "localidad" : "Zumaia",
+      "numero de bombardeos" : "1",
+      "fechas" : "23/12/1937",
+      "bando" : "Republicano",
+      "descripciÃ³n" : "Algunos cazas y bombardero republicanos bombardearon las posiciones enemigas de Zumaia, arrojando gran cantidad de proyectiles. Las crÃ³nicas periodÃ­sticas no proporcionan mÃ¡s informaciÃ³n.",
+      "fuente" : "El Liberal  El Noticiero BilbaÃ­no  Euzkadi  La Gaceta del Norte"
+    }
+  }, {
+    "id" : 196,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.990661102175164, 43.247940877568055 ]
+    },
+    "properties" : {
+      "localidad" : "Urnieta",
+      "numero de bombardeos" : "1",
+      "fechas" : "28/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ la zona de Urnieta el 28 de agosto de 1936. Un miliciano muriÃ³ a consecuencia de este ataque. ",
+      "fuente" : "El  Noticiero BilbaÃ­no"
+    }
+  }, {
+    "id" : 193,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.075125034600915, 43.134842549840606 ]
+    },
+    "properties" : {
+      "localidad" : "Tolosa",
+      "numero de bombardeos" : "1",
+      "fechas" : "01/08/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ Tolosa, segÃºn la crÃ³nica del \"Frente Popular\", que no daba mÃ¡s informaciÃ³n acerca de las consecuencias del acto. ",
+      "fuente" : "Frente Popular"
+    }
+  }, {
+    "id" : 192,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.89861271355048, 43.31264076199007 ]
+    },
+    "properties" : {
+      "localidad" : "Errenteria",
+      "numero de bombardeos" : "2",
+      "fechas" : "01/09/1936  26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "Errenteria fue bombardeado en dos ocasiones, una en septiembre de 1936 y la otra en abril de 1937. En el primero de los ataques se registraron un muertos y dos heridos, ademÃ¡s de los daÃ±os materiales. Sobre el segundo no se dispone de informaciÃ³n la respecto del nÃºmero de vÃ­ctimas. ",
+      "fuente" : "Euzkadi  El Liberal"
+    }
+  }, {
+    "id" : 195,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.487043750749297, 43.201404210637904 ]
+    },
+    "properties" : {
+      "localidad" : "Monte Urko",
+      "numero de bombardeos" : "1",
+      "fechas" : "26/04/1937",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ las posiciones republicanas en la zona del monte Urko, entre Eibar, Ermua y Markina. No se dispone de informaciÃ³n sobre las consecuencias de dicho ataque. ",
+      "fuente" : "Partes de operaciones de las Fuerzas AÃ©reas del Norte. (POFAN)"
+    }
+  }, {
+    "id" : 194,
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.443686375876638, 43.23975876645047 ]
+    },
+    "properties" : {
+      "localidad" : "Bombardeo de la zona de Urkaregi",
+      "numero de bombardeos" : "2",
+      "fechas" : "17/10/1936  21/10/1936",
+      "bando" : "Franquista",
+      "descripciÃ³n" : "La aviaciÃ³n franquista bombardeÃ³ en dos ocasiones las posiciones republicanas en la zona del monte Urkaregi. Los bombardeos se produjeron en octubre de 1936 con cuatro dÃ­as de diferencia. No se dispone de datos sobre el nÃºmero de vÃ­ctimas que pudieron producir.",
+      "fuente" : "Jefatura del Aire. Estado Mayor. InformaciÃ³n (octubre a diciembre 1936). (JAEMI)  Testimonio de Alberto Onaindia"
+    }
+  } ]
+}

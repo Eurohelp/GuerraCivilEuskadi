@@ -1,0 +1,63 @@
+<rdf:RDF
+    xmlns:tema="http://datos.gob.es/kos/sector-publico/sector/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <dcat:Dataset rdf:about="http://opendata.euskadi.eus/catalogo/-/listado-de-personas-desaparecidas-durante-la-guerra-civil-y-el-franquismo/">
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_general/personas_desaparecidas/opendata/personas_desaparecidas.csv">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>CSV</rdfs:label>
+            <rdf:value>text/csv</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >819200</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_general/personas_desaparecidas/opendata/personas_desaparecidas.csv</dcat:accessURL>
+        <dct:title xml:lang="es">Personas desaparecidas</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/A16003011"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_general/personas_desaparecidas/opendata/personas_desaparecidas.xlsx">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>XLSX</rdfs:label>
+            <rdf:value>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >1153434</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_general/personas_desaparecidas/opendata/personas_desaparecidas.xlsx</dcat:accessURL>
+        <dct:title xml:lang="es">Personas desaparecidas</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="es">desaparecidos</dcat:keyword>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2017-02-13T00:00:00</dct:modified>
+    <dct:references rdf:resource="http://www.gogora.euskadi.eus/"/>
+    <dc:language>es</dc:language>
+    <dct:identifier>http://opendata.euskadi.eus/catalogo/-/listado-de-personas-desaparecidas-durante-la-guerra-civil-y-el-franquismo/</dct:identifier>
+    <dct:description xml:lang="es">El listado de personas muertas, fusiladas y/o desaparecidas en Euskadi durante la Guerra Civil y la dictadura franquista tiene como objetivo ser, entre otras cosas, un reconocimiento pÃºblico a dichas vÃ­ctimas. Y un acto de recuperaciÃ³n de la memoria histÃ³rica que permita romper el silencio que envuelve a quienes lucharon en defensa de la libertad y los valores democrÃ¡ticos. Se pueden consultar el nombre y apellidos, vecindad, lugar,Â fecha y modo en que falleciÃ³ cada persona en diversos formatos (xml, xls y csv).Para notificar las omisiones u otro tipo de errores que se puedan observar, asÃ­ como para solicitar la cancelaciÃ³n de datos, se debe presentar escrito dirigido a la DirecciÃ³n de Derechos Humanos del Gobierno Vasco (C/Donostia-San SebastiÃ¡n, nÂº 1; 01010 Vitoria-Gasteiz), aportando la informaciÃ³n de que se disponga, al objeto de justificar la peticiÃ³n. Una vez se analice el caso y en funciÃ³n del expediente que se pueda conformar se actuarÃ­a en consecuencia, incluyendo, rectificando o retirando los datos del fichero.</dct:description>
+    <dct:references rdf:resource="http://www.euskadi.eus/gobierno-vasco/politica-memoria-historica/"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2010-11-12T00:00:00</dct:issued>
+    <dcat:keyword xml:lang="es">guerra civil</dcat:keyword>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.es_ES"/>
+    <dcat:keyword xml:lang="es">franquismo</dcat:keyword>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/autonomia/pais-vasco"/>
+    <dcat:keyword xml:lang="es">memoria histÃ³rica</dcat:keyword>
+    <dcat:keyword xml:lang="es">dictadura</dcat:keyword>
+    <dcat:keyword xml:lang="es">fusilados</dcat:keyword>
+    <dct:title xml:lang="es">Listado de personas desaparecidas durante la Guerra Civil y el Franquismo</dct:title>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/legislacion-justicia"/>
+  </dcat:Dataset>
+</rdf:RDF>

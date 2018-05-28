@@ -1,0 +1,79 @@
+<rdf:RDF
+    xmlns:tema="http://datos.gob.es/kos/sector-publico/sector/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <dcat:Dataset rdf:about="http://opendata.euskadi.eus/catalogo/-/bombardeos-de-la-guerra-civil-en-euskadi/">
+    <dct:title xml:lang="es">Bombardeos de la Guerra Civil en Euskadi</dct:title>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.xlsx">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>XLSX</rdfs:label>
+            <rdf:value>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >54129</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.xlsx</dcat:accessURL>
+        <dct:title xml:lang="es">Bombardeos de la Guerra Civil</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2017-12-21T00:00:00</dct:issued>
+    <dcat:keyword xml:lang="es">franquismo</dcat:keyword>
+    <dct:references rdf:resource="http://www.gogora.euskadi.eus/"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/A16003011"/>
+    <dcat:keyword xml:lang="es">desaparecidos</dcat:keyword>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/autonomia/pais-vasco"/>
+    <dcat:keyword xml:lang="es">Guerra Civil</dcat:keyword>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sociedad-bienestar"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.xml">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>XML</rdfs:label>
+            <rdf:value>application/xml</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >157245</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.xml</dcat:accessURL>
+        <dct:title xml:lang="es">Bombardeos de la Guerra Civil</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="es">dictadura</dcat:keyword>
+    <dcat:keyword xml:lang="es">memoria histÃ³rica</dcat:keyword>
+    <dc:language>es</dc:language>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.csv">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>CSV</rdfs:label>
+            <rdf:value>text/csv</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >117688</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_localizaciones/bombardeos_guerra_civil/opendata/bombardeos-guerra-civil.csv</dcat:accessURL>
+        <dct:title xml:lang="es">Bombardeos de la Guerra Civil</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/demografia"/>
+    <dct:identifier>http://opendata.euskadi.eus/catalogo/-/bombardeos-de-la-guerra-civil-en-euskadi/</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2017-12-26T00:00:00</dct:modified>
+    <dcat:keyword xml:lang="es">bombardeos</dcat:keyword>
+    <dct:description xml:lang="es">El listado de bombardeosÂ de la Guerra Civil en EuskadiÂ tiene como objetivo ser, entre otras cosas, un reconocimiento pÃºblico a las vÃ­ctimas,Â y un acto de recuperaciÃ³n de la memoria histÃ³rica que permita romper el silencio que envuelve a quienes lucharon en defensa de la libertad y los valores democrÃ¡ticos.</dct:description>
+    <dct:references rdf:resource="http://www.euskadi.eus/gobierno-vasco/politica-memoria-historica/"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.es_ES"/>
+  </dcat:Dataset>
+</rdf:RDF>

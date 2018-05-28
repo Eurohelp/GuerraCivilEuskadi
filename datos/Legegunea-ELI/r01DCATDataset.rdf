@@ -1,0 +1,105 @@
+<rdf:RDF
+    xmlns:tema="http://datos.gob.es/kos/sector-publico/sector/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <dcat:Dataset rdf:about="http://opendata.euskadi.eus/catalogo/-/legislacion-de-la-comunidad-autonoma-de-euskadi-bopv-european-legislation-identifier-eli/">
+    <dct:references rdf:resource="http://www.legegunea.euskadi.eus/x59-home/es/"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/A16003011"/>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/legislacion-justicia"/>
+    <dct:references rdf:resource="http://opendata.euskadi.eus/como-utilizar-datos/"/>
+    <dct:identifier>http://opendata.euskadi.eus/catalogo/-/legislacion-de-la-comunidad-autonoma-de-euskadi-bopv-european-legislation-identifier-eli/</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2018-04-16T00:00:00</dct:issued>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.es_ES"/>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
+    <dct:description xml:lang="es">EsteÂ conjunto de datos contiene la legislaciÃ³nÂ de la Comunidad AutÃ³noma de Euskadi.</dct:description>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_2016_2018.ttl">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>RDF-Turtle</rdfs:label>
+            <rdf:value>text/turtle</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >0</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_2016_2018.ttl</dcat:accessURL>
+        <dct:title xml:lang="es">LegislaciÃ³n BOPV (2016-2018) - ELI</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="es">normas#normativa#leyes#paÃ­s vasco#euskadi#decreto#orden#ley#instrucciÃ³n#directiva#circular#acuerdo#recurso#reglamento#resoluciÃ³n#decisiÃ³n#BOPV#legegunea#</dcat:keyword>
+    <dct:references rdf:resource="http://www.legegunea.euskadi.eus/x59-formbusa/es/contenidos/recurso_tecnico/legesarea_comun/es_busqueda/index.html#normativa"/>
+    <dct:temporal>
+      <dct:PeriodOfTime>
+        <time:hasEnd>
+          <time:Instant>
+            <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-05-20T00:00:00</time:inXSDDateTime>
+          </time:Instant>
+        </time:hasEnd>
+        <time:hasBeginning>
+          <time:Instant>
+            <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >1936-01-01T00:00:00</time:inXSDDateTime>
+          </time:Instant>
+        </time:hasBeginning>
+        <rdf:type rdf:resource="http://www.w3.org/2006/time#Interval"/>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:accrualPeriodicity>
+      <dct:Frequency>
+        <rdf:value>
+          <time:DurationDescription>
+            <time:weeks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >1</time:weeks>
+            <rdfs:label>Semanal</rdfs:label>
+          </time:DurationDescription>
+        </rdf:value>
+      </dct:Frequency>
+    </dct:accrualPeriodicity>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_1936_1999.ttl">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>RDF-Turtle</rdfs:label>
+            <rdf:value>text/turtle</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >0</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_1936_1999.ttl</dcat:accessURL>
+        <dct:title xml:lang="es">LegislaciÃ³n BOPV (1936-1999) - ELI</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:title xml:lang="es">Legislaci?n de la Comunidad Aut?noma de Euskadi (BOPV) - European Legislation Identifier (ELI)</dct:title>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/autonomia/pais-vasco"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2018-05-20T00:00:00</dct:modified>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_2000_2015.ttl">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>RDF-Turtle</rdfs:label>
+            <rdf:value>text/turtle</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >0</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/contenidos/ds_juridicos/dataset_eli/opendata/dataset_eli_2000_2015.ttl</dcat:accessURL>
+        <dct:title xml:lang="es">LegislaciÃ³n BOPV (2000-2015) - ELI</dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:references rdf:resource="http://opendata.euskadi.eus/w79-resformx/es/w79-resformx/es?r01kQry=tC:euskadi;tF:opendata;tT:ds_juridicos;m:contentName.LIKE.normas_leyes_euskadi,documentLanguage.EQ.es;p:Inter;"/>
+    <dc:language>es</dc:language>
+    <dct:references rdf:resource="http://opendata.euskadi.eus/como-reutilizar/-/contenidos/informacion/api_buscador_euskadinet/es_java/como_utilizar.html"/>
+  </dcat:Dataset>
+</rdf:RDF>

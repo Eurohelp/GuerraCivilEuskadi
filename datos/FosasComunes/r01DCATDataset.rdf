@@ -1,0 +1,79 @@
+<rdf:RDF
+    xmlns:tema="http://datos.gob.es/kos/sector-publico/sector/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:time="http://www.w3.org/2006/time#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <dcat:Dataset rdf:about="http://opendata.euskadi.eus/catalogo/-/localizacion-de-la-fosas-comunes-de-la-guerra-civil-y-del-franquismo-en-euskadi/">
+    <dct:description xml:lang="es">El Gobierno Vasco, junto con la Sociedad de Ciencias Aranzadi, ha elaborado informes tÃ©cnicos sobre lugares en los que existen fosas comunes. Ahora, los terrenos en los que se localizan las fosas relacionadas con la Guerra Civil y la represiÃ³n franquista, pueden ser descargados desde este conjunto de datos y se encuentran en los formatos xml, excel y csv.</dct:description>
+    <dct:identifier>http://opendata.euskadi.eus/catalogo/-/localizacion-de-la-fosas-comunes-de-la-guerra-civil-y-del-franquismo-en-euskadi/</dct:identifier>
+    <dcat:keyword xml:lang="es">dictadura</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2010-11-12T00:00:00</dct:issued>
+    <dcat:keyword xml:lang="es">franquismo</dcat:keyword>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+    <dcat:keyword xml:lang="es">fosas comunes</dcat:keyword>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.xls">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>XLS</rdfs:label>
+            <rdf:value>application/vnd.ms-excel</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >40960</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.xls</dcat:accessURL>
+        <dct:title xml:lang="es"></dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:title xml:lang="es">Localizaci?n de la fosas comunes de la Guerra Civil y del Franquismo en Euskadi</dct:title>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/A16003011"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.csv">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>CSV</rdfs:label>
+            <rdf:value>text/csv</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >10240</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.csv</dcat:accessURL>
+        <dct:title xml:lang="es"></dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dct:references rdf:resource="http://opendata.euskadi.eus/r47-shomemh2/es/"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/autonomia/pais-vasco"/>
+    <dc:language>es</dc:language>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2012-11-05T00:00:00</dct:modified>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/legislacion-justicia"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.xml">
+        <dct:format>
+          <dct:IMT>
+            <rdfs:label>XML</rdfs:label>
+            <rdf:value>application/xml</rdf:value>
+          </dct:IMT>
+        </dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >12288</dcat:byteSize>
+        <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/fosas_euskadi/opendata/fosas.xml</dcat:accessURL>
+        <dct:title xml:lang="es"></dct:title>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:keyword xml:lang="es">guerra civil</dcat:keyword>
+    <dcat:keyword xml:lang="es">fusilados</dcat:keyword>
+    <dct:references rdf:resource="http://opendata.euskadi.eus/w79-contdata/es/contenidos/ds_localizaciones/personas_desaparecidas/es_desapare/personas_desaparecidas.html"/>
+    <dcat:keyword xml:lang="es">memoria histÃ³rica</dcat:keyword>
+    <dcat:keyword xml:lang="es">desaparecidos</dcat:keyword>
+  </dcat:Dataset>
+</rdf:RDF>
