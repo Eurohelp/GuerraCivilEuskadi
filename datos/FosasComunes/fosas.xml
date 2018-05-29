@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fosas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<fosa>
+		<poblacion>Amurrio (Cementerio)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>43,055292</latitud>
+		<longitud>-2.998044</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Arraia-Maeztu (En el Km 29 de la carretera que asciende de Maeztu a Corres)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,716821</latitud>
+		<longitud>-2.44525</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Arraia-Maeztu (Puerto de Azazeta)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,716871</latitud>
+		<longitud>-2.445286</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Arrazua-Barrundia (Cementerio de Luko)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,934879</latitud>
+		<longitud>-2.642821</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Etxagüen y Murua (Murua)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,97283333</latitud>
+		<longitud>-2.73874166</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Kuartango (Cuneta y Ladera)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,927564</latitud>
+		<longitud>-2.892232</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Laguardia (Cementerio)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,55087777</latitud>
+		<longitud>-2.58459166</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Legutiano (Cementerio)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,98132777</latitud>
+		<longitud>-2.64271111</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Pobes [La Tejera (Ribera Alta)] o Salinas de Añana</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,797544</latitud>
+		<longitud>-2.960506</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Unza-Untzaga (Cruce de la carretera A-2521 (Izarra a Orduña) con la que se dirige a Unza-Untzaga)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,98820</latitud>
+		<longitud>-2.95086</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zigoitia (Etxagüen-Murua, Etxaguen I)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,98471666</latitud>
+		<longitud>-2.72255833</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zigoitia (Etxagüen-Murua, Etxagüen II)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,98536388</latitud>
+		<longitud>-2.72190833</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zigoitia (Etxagüen-Murua, Etxagüen III)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,98531111</latitud>
+		<longitud>-2.72193888</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zigoitia (Zestafe)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,96241388</latitud>
+		<longitud>-2.68523333</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Amorebieta (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,21658888</latitud>
+		<longitud>-2.737325</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Amorebieta (Monte Ganzabal)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,21380176</latitud>
+		<longitud>-2.69563801</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Arrieta (Entorno de Libao)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,340865</latitud>
+		<longitud>-2.766694</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Carranza (Monte Burgüeño)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,19326323</latitud>
+		<longitud>-3.27567133</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Elorrio (Cima Monte Santa Luzia)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,10356666</latitud>
+		<longitud>-2.53129722</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Galdakao (Barrio de Arteta-Ordañe)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,21115335</latitud>
+		<longitud>-2.84220588</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Gernika (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,31027777</latitud>
+		<longitud>-2.68439722</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Morga (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,31730555</latitud>
+		<longitud>-2.74764722</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Muxika (Caserios de Zubieta)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,29228</latitud>
+		<longitud>-2.69444</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Muxika (Cementerio Ugarte-Muxica)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,29141</latitud>
+		<longitud>-2.7113</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Otxandio (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,03597222</latitud>
+		<longitud>-2.65039444</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Trucios (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,274984</latitud>
+		<longitud>-3.25242</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Andoain (Bº Buruntza, Bº Leizotz, Bº Sorabilla)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,23451227</latitud>
+		<longitud>-2.00967523</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Antzuola (Deskarga Alde)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,08808029</latitud>
+		<longitud>-2.36053598</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Aretxabaleta (Cruce que asciende al centro educativo Almen. Crta. Aretxabaleta-Eskoriatza)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,02565099</latitud>
+		<longitud>-2.51030032</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Arrasate (Sima de Kurtzetxiki, Bº Bedoña)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,05440552</latitud>
+		<longitud>-2.48605193</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Ataun-Aia (Cementerio)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>42,96833333</latitud>
+		<longitud>-2.15111111</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Azkoitia (Alto de Madariaga)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,209067</latitud>
+		<longitud>-2.344713</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Azpeitia (Urrestilla)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,15773568</latitud>
+		<longitud>-2.24874972</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Bergara (Monte Sagasti, Intxorta)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,11786051</latitud>
+		<longitud>-2.49545127</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Deba (Proximidad Caserío Arronamendi)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,299937</latitud>
+		<longitud>-2.335646</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Donostia (Alto de Ametzagaina)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,30849109</latitud>
+		<longitud>-1.95206417</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Donostia (Puente de Hierro, Riberas de Loiola)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,30833333</latitud>
+		<longitud>-1.97083333</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Donostia (Ulia)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,32863885</latitud>
+		<longitud>-1.95951274</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Elgeta (Terrenos Caserío Anzuategi II)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,13521919</latitud>
+		<longitud>-2.49079558</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Elgoibar (Alto de Azcarate y Alto de San Miguel)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,20309968</latitud>
+		<longitud>-2.37529757</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Hernani (Cementerio)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,26222222</latitud>
+		<longitud>-1.97694444</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Idiazabal (Pto. Etxegarate)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>42,95381407</latitud>
+		<longitud>-2.23447109</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Irún (Caserio Zinkoene, Bº Behobia)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,33007602</latitud>
+		<longitud>-1.75159103</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Mutriku (Bº Saturraran)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,318685</latitud>
+		<longitud>-2.413483</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Mutriku (Terrenos Caserío Zalabe)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,31679531</latitud>
+		<longitud>-2.41495199</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Oiartzun (Caserio Pikoketa)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,29630466</latitud>
+		<longitud>-1.80583493</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Oiartzun (Iragorri -Katin Txiki-)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,27967536</latitud>
+		<longitud>-1.8579471</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Tolosa (Bº Aldaba Txiki)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,118846</latitud>
+		<longitud>-2.097893</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Tolosa (Cima monte Olamunio y Ermita de Izaskun, Albiztur e Ibarra)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,13889838</latitud>
+		<longitud>-2.06269351</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Tolosa (Montezkue)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,14583333</latitud>
+		<longitud>-2.07583333</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Usurbil (Zona de Irubide)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,27845512</latitud>
+		<longitud>-2.01811832</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zaldibia (Paraje denominado Matazal)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,04875776</latitud>
+		<longitud>-2.14856822</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zumarraga (Cima monte Beloki)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,09517862</latitud>
+		<longitud>-2.30255026</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Castro Urdiales (Cementerio de Talledo, Cantabria)</poblacion>
+		<provincia>Otras</provincia>
+		<latitud>43,31939166</latitud>
+		<longitud>-3.171075</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>El Haya (Baltezana, Cantabria)</poblacion>
+		<provincia>Otras</provincia>
+		<latitud>43,33736936</latitud>
+		<longitud>-3.15735878</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Aprikano (Cementerio)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,849128</latitud>
+		<longitud>-2.892636</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Luminabaso (Lemoa)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,225247</latitud>
+		<longitud>-2.777057</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Lantaron (Orillas río Ebro)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,76736</latitud>
+		<longitud>-3.07762</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Bilbao (Montes Abril-Ganguren Fosa I)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,266445</latitud>
+		<longitud>-2.886309</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Bilbao (Montes Abril-Ganguren Fosa II)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,265941</latitud>
+		<longitud>-2.884276</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Orduña (Cementerio)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>42,993023</latitud>
+		<longitud>-3.002564</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Zamudio (Caserio Angiñena)</poblacion>
+		<provincia>Bizkaia</provincia>
+		<latitud>43,30598</latitud>
+		<longitud>-2.843783</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Araia (Cementerio)</poblacion>
+		<provincia>Araba</provincia>
+		<latitud>42,892272</latitud>
+		<longitud>-2.323946</longitud>
+	</fosa>
+	<fosa>
+		<poblacion>Asteasu (Cementerio)</poblacion>
+		<provincia>Gipuzkoa</provincia>
+		<latitud>43,1995</latitud>
+		<longitud>-2.098918</longitud>
+	</fosa>
+</fosas>
