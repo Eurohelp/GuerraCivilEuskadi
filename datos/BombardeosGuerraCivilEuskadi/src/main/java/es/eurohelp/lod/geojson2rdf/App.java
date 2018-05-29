@@ -24,47 +24,39 @@ public class App {
 	}
 
 	private static void processFeature(JSONObject feature) {
-		// System.out.print("<" + generateMainURI((JSONObject)feature.get("properties"))
-		// + ">");
+		 System.out.print("<" + generateMainURI((JSONObject)feature.get("properties")) + ">");
 		processGeometry((JSONObject) feature.get("geometry"));
 		processProperties((JSONObject) feature.get("properties"));
-		// System.out.println("");
+		 System.out.println("");
 	}
 
 	private static void processGeometry(JSONObject geometry) {
 		JSONArray coordinates = (JSONArray) geometry.get("coordinates");
-		// System.out.println("<http://www.w3.org/2003/01/geo/wgs84_pos#lat>\"" +
-		// coordinates.get(1) + "\"^^<http://www.w3.org/2001/XMLSchema#double> ;");
-		// System.out.println("<http://www.w3.org/2003/01/geo/wgs84_pos#long>\"" +
-		// coordinates.get(0) + "\"^^<http://www.w3.org/2001/XMLSchema#double> ;");
+		 System.out.println("<http://www.w3.org/2003/01/geo/wgs84_pos#lat>\"" + coordinates.get(1) + "\"^^<http://www.w3.org/2001/XMLSchema#double> ;");
+		 System.out.println("<http://www.w3.org/2003/01/geo/wgs84_pos#long>\"" + coordinates.get(0) + "\"^^<http://www.w3.org/2001/XMLSchema#double> ;");
 	}
 
 	private static void processProperties(JSONObject properties) {
-		// System.out.println("<http://schema.org/location>\"" +
-		// properties.get("localidad") + "\"^^<http://www.w3.org/2001/XMLSchema#string>
-		// ;");
-		// System.out.println("<http://id.euskadi.eus/def/euskadipedia/numerobombardeos>\""
-		// + properties.get("numero de bombardeos") +
-		// "\"^^<http://www.w3.org/2001/XMLSchema#int> ;");
-		// System.out.println("fechas: " + );
+		 System.out.println("<http://schema.org/location>\"" + properties.get("localidad") + "\"^^<http://www.w3.org/2001/XMLSchema#string> ;");
+		 System.out.println("<http://id.euskadi.eus/def/euskadipedia/numerobombardeos>\""+ properties.get("numero de bombardeos") + "\"^^<http://www.w3.org/2001/XMLSchema#int> ;");
 
 		String fechastotal = trimFechas((String) properties.get("fechas"));
-		System.out.println(">>>" + fechastotal);
 		String[] fechas = fechastotal.trim().split("\\s");
 		for (String fecha : fechas) {
 			if (!fecha.isEmpty()) {
-				String[] fechadecomp = fecha.split("/");
-				System.out.println(fechadecomp[0]);
-				System.out.println(fechadecomp[1]);
-				System.out.println(fechadecomp[2]);
+				 System.out.println("<http://dbpedia.org/property/date>\"" + normalizarFecha(fecha) + "\"^^<http://www.w3.org/2001/XMLSchema#date> ;");
 			}
 		}
 
-		// http://dbpedia.org/ontology/date
-
-		// System.out.println("bando: " + properties.get("bando"));
-		// System.out.println("descripcion: " + properties.get("descripcion"));
-		// System.out.println("fuente: "+ properties.get("fuente"));
+		String bando = (String) properties.get("bando");
+		if(bando.contains("Republicano")) {
+			 System.out.println("<http://dbpedia.org/property/plannedBy><http://dbpedia.org/resource/Spanish_Republican_Army> ;");
+		}
+		else {
+			System.out.println("<http://dbpedia.org/property/plannedBy><http://dbpedia.org/resource/Francoist_Spain> ;");
+		}
+		System.out.println("<http://www.w3.org/2000/01/rdf-schema#comment>\"" + ((String)properties.get("descripcion")).replace("\"","") + "\"^^<http://www.w3.org/2001/XMLSchema#string> ;");
+		System.out.println("<http://purl.org/dc/terms/source>\"" + properties.get("fuente") + "\"^^<http://www.w3.org/2001/XMLSchema#string> .");
 	}
 
 	private static String generateMainURI(JSONObject properties) {
@@ -72,11 +64,15 @@ public class App {
 				+ trimFechas((String) properties.get("fechas")) + (String) properties.get("bando"));
 	}
 
-	// "fechas" : " Desde 29/09/1936 hasta 26/04/1937",
 	private static String trimFechas(String fechas) {
 		return fechas.replace("Desde", "").replace("hasta", "");
 	}
 
+	private static String normalizarFecha(String fecha) {
+		String [] fechadecomp = fecha.split("/");
+		return fechadecomp[2] + "-" + fechadecomp[1] + "-" + fechadecomp[0];
+	}
+	
 	private static String urify(String regexp, String replacement, String targetstring) {
 		String result = null;
 		String regularExpression = null;
