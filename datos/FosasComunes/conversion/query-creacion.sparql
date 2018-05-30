@@ -24,7 +24,7 @@ INSERT{
   BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/mass-grave/{?1}-{?2}", ENCODE_FOR_URI(?PoblacionUri) , ENCODE_FOR_URI(?ProvinciaUri))) AS ?mainUri)
     BIND(IRI(spif:buildString("http://datos.gob.es/recurso/sector-publico/territorio/Provincia/{?1}" , ENCODE_FOR_URI(?Provincia))) AS ?uriProvinciaCreada)
   BIND(IRI("http://rdf.muninn-project.org/ontologies/graves#Mass_grave") as ?ontologiaGraves)
-  BIND(IRI("http://dbpedia.org/page/Mass_grave") as ?dbpediaMassGraves)
+  BIND(IRI("http://dbpedia.org/resource/Mass_grave") as ?dbpediaMassGraves)
 
 
 } 

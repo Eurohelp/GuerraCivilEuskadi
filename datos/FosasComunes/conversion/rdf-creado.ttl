@@ -13,133 +13,133 @@
 @prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
 
 <http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> geo-pos:lat "43.21658888"^^xsd:double .
 
