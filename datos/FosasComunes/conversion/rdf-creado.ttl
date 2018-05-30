@@ -13,642 +13,642 @@
 @prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amurrio-cementerio-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-puerto-de-azazeta-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrazua-barrundia-cementerio-de-luko-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/etxaguen-y-murua-murua-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/kuartango-cuneta-y-ladera-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/laguardia-cementerio-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/legutiano-cementerio-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-zestafe-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-monte-ganzabal-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrieta-entorno-de-libao-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/carranza-monte-burgueno-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elorrio-cima-monte-santa-luzia-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/galdakao-barrio-de-arteta-ordane-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/gernika-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/morga-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-caserios-de-zubieta-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-cementerio-ugarte-muxica-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/otxandio-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/trucios-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/antzuola-deskarga-alde-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/ataun-aia-cementerio-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/azkoitia-alto-de-madariaga-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/azpeitia-urrestilla-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/deba-proximidad-caserio-arronamendi-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-alto-de-ametzagaina-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-ulia-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/hernani-cementerio-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/idiazabal-pto.-etxegarate-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-b--saturraran-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-terrenos-caserio-zalabe-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-caserio-pikoketa-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-iragorri--katin-txiki--gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-b--aldaba-txiki-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-montezkue-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/usurbil-zona-de-irubide-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zaldibia-paraje-denominado-matazal-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zumarraga-cima-monte-beloki-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/aprikano-cementerio-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/luminabaso-lemoa-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/lantaron-orillas-rio-ebro-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-i-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/orduna-cementerio-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zamudio-caserio-anginena-bizkaia> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/araia-cementerio-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/asteasu-cementerio-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/pobes-la-tejera-ribera-alta-o-salinas-de-anana-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-i-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-ii-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-iii-araba> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bergara-monte-sagasti--intxorta-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/irun-caserio-zinkoene--b--behobia-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/castro-urdiales-cementerio-de-talledo--cantabria-otras> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/el-haya-baltezana--cantabria-otras> a <http://id.euskadi.eus/resource/euskadipedia/spit> .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> a <http://dbpedia.org/page/Mass_grave> , <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amurrio-cementerio-araba> geo-pos:lat "43.055292"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> geo-pos:lat "43.21658888"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-araba> geo-pos:lat "42.716821"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> geo-pos:lat "43.21380176"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-puerto-de-azazeta-araba> geo-pos:lat "42.716871"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> geo-pos:lat "43.340865"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrazua-barrundia-cementerio-de-luko-araba> geo-pos:lat "42.934879"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> geo-pos:lat "43.19326323"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/etxaguen-y-murua-murua-araba> geo-pos:lat "42.97283333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> geo-pos:lat "43.10356666"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/kuartango-cuneta-y-ladera-araba> geo-pos:lat "42.927564"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> geo-pos:lat "43.21115335"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/laguardia-cementerio-araba> geo-pos:lat "42.55087777"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> geo-pos:lat "43.31027777"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/legutiano-cementerio-araba> geo-pos:lat "42.98132777"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> geo-pos:lat "43.31730555"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-araba> geo-pos:lat "42.9882"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> geo-pos:lat "43.29228"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-zestafe-araba> geo-pos:lat "42.96241388"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> geo-pos:lat "43.29141"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-cementerio-bizkaia> geo-pos:lat "43.21658888"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> geo-pos:lat "43.03597222"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-monte-ganzabal-bizkaia> geo-pos:lat "43.21380176"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> geo-pos:lat "43.274984"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrieta-entorno-de-libao-bizkaia> geo-pos:lat "43.340865"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> geo-pos:lat "43.23451227"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/carranza-monte-burgueno-bizkaia> geo-pos:lat "43.19326323"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> geo-pos:lat "43.08808029"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elorrio-cima-monte-santa-luzia-bizkaia> geo-pos:lat "43.10356666"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> geo-pos:lat "43.02565099"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/galdakao-barrio-de-arteta-ordane-bizkaia> geo-pos:lat "43.21115335"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> geo-pos:lat "43.05440552"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/gernika-cementerio-bizkaia> geo-pos:lat "43.31027777"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> geo-pos:lat "42.96833333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/morga-cementerio-bizkaia> geo-pos:lat "43.31730555"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> geo-pos:lat "43.209067"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-caserios-de-zubieta-bizkaia> geo-pos:lat "43.29228"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> geo-pos:lat "43.15773568"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-cementerio-ugarte-muxica-bizkaia> geo-pos:lat "43.29141"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> geo-pos:lat "43.11786051"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/otxandio-cementerio-bizkaia> geo-pos:lat "43.03597222"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> geo-pos:lat "43.299937"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/trucios-cementerio-bizkaia> geo-pos:lat "43.274984"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> geo-pos:lat "43.30849109"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/antzuola-deskarga-alde-gipuzkoa> geo-pos:lat "43.08808029"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> geo-pos:lat "43.30833333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> geo-pos:lat "43.02565099"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> geo-pos:lat "43.32863885"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/ataun-aia-cementerio-gipuzkoa> geo-pos:lat "42.96833333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> geo-pos:lat "43.13521919"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/azkoitia-alto-de-madariaga-gipuzkoa> geo-pos:lat "43.209067"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> geo-pos:lat "43.20309968"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/azpeitia-urrestilla-gipuzkoa> geo-pos:lat "43.15773568"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> geo-pos:lat "43.26222222"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/deba-proximidad-caserio-arronamendi-gipuzkoa> geo-pos:lat "43.299937"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> geo-pos:lat "42.95381407"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-alto-de-ametzagaina-gipuzkoa> geo-pos:lat "43.30849109"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> geo-pos:lat "43.33007602"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-ulia-gipuzkoa> geo-pos:lat "43.32863885"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> geo-pos:lat "43.318685"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> geo-pos:lat "43.13521919"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> geo-pos:lat "43.31679531"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> geo-pos:lat "43.20309968"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> geo-pos:lat "43.29630466"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/hernani-cementerio-gipuzkoa> geo-pos:lat "43.26222222"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> geo-pos:lat "43.27967536"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/idiazabal-pto.-etxegarate-gipuzkoa> geo-pos:lat "42.95381407"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> geo-pos:lat "43.118846"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-b--saturraran-gipuzkoa> geo-pos:lat "43.318685"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> geo-pos:lat "43.13889838"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-terrenos-caserio-zalabe-gipuzkoa> geo-pos:lat "43.31679531"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> geo-pos:lat "43.14583333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-caserio-pikoketa-gipuzkoa> geo-pos:lat "43.29630466"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> geo-pos:lat "43.27845512"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-iragorri--katin-txiki--gipuzkoa> geo-pos:lat "43.27967536"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> geo-pos:lat "43.04875776"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-b--aldaba-txiki-gipuzkoa> geo-pos:lat "43.118846"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> geo-pos:lat "43.09517862"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-montezkue-gipuzkoa> geo-pos:lat "43.14583333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> geo-pos:lat "43.31939166"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/usurbil-zona-de-irubide-gipuzkoa> geo-pos:lat "43.27845512"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> geo-pos:lat "43.33736936"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zaldibia-paraje-denominado-matazal-gipuzkoa> geo-pos:lat "43.04875776"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> geo-pos:lat "43.225247"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zumarraga-cima-monte-beloki-gipuzkoa> geo-pos:lat "43.09517862"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> geo-pos:lat "43.266445"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/aprikano-cementerio-araba> geo-pos:lat "42.849128"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> geo-pos:lat "43.265941"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/luminabaso-lemoa-bizkaia> geo-pos:lat "43.225247"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> geo-pos:lat "42.993023"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/lantaron-orillas-rio-ebro-araba> geo-pos:lat "42.76736"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> geo-pos:lat "43.30598"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-i-bizkaia> geo-pos:lat "43.266445"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> geo-pos:lat "43.1995"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> geo-pos:lat "43.265941"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> geo-pos:lat "43.055292"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/orduna-cementerio-bizkaia> geo-pos:lat "42.993023"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> geo-pos:lat "42.716821"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zamudio-caserio-anginena-bizkaia> geo-pos:lat "43.30598"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> geo-pos:lat "42.716871"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/araia-cementerio-araba> geo-pos:lat "42.892272"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> geo-pos:lat "42.934879"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/asteasu-cementerio-gipuzkoa> geo-pos:lat "43.1995"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> geo-pos:lat "42.97283333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/pobes-la-tejera-ribera-alta-o-salinas-de-anana-araba> geo-pos:lat "42.797544"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> geo-pos:lat "42.927564"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-i-araba> geo-pos:lat "42.98471666"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> geo-pos:lat "42.55087777"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-ii-araba> geo-pos:lat "42.98536388"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> geo-pos:lat "42.98132777"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-iii-araba> geo-pos:lat "42.98531111"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> geo-pos:lat "42.797544"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> geo-pos:lat "43.23451227"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> geo-pos:lat "42.9882"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> geo-pos:lat "43.05440552"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> geo-pos:lat "42.98471666"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bergara-monte-sagasti--intxorta-gipuzkoa> geo-pos:lat "43.11786051"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> geo-pos:lat "42.98536388"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> geo-pos:lat "43.30833333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> geo-pos:lat "42.98531111"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/irun-caserio-zinkoene--b--behobia-gipuzkoa> geo-pos:lat "43.33007602"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> geo-pos:lat "42.96241388"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> geo-pos:lat "43.13889838"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> geo-pos:lat "42.849128"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/castro-urdiales-cementerio-de-talledo--cantabria-otras> geo-pos:lat "43.31939166"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> geo-pos:lat "42.76736"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/el-haya-baltezana--cantabria-otras> geo-pos:lat "43.33736936"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> geo-pos:lat "42.892272"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amurrio-cementerio-araba> geo-pos:long "-2.998044"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> geo-pos:long "-2.737325"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-araba> geo-pos:long "-2.44525"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> geo-pos:long "-2.69563801"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-puerto-de-azazeta-araba> geo-pos:long "-2.445286"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> geo-pos:long "-2.766694"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrazua-barrundia-cementerio-de-luko-araba> geo-pos:long "-2.642821"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> geo-pos:long "-3.27567133"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/etxaguen-y-murua-murua-araba> geo-pos:long "-2.73874166"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> geo-pos:long "-2.53129722"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/kuartango-cuneta-y-ladera-araba> geo-pos:long "-2.892232"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> geo-pos:long "-2.84220588"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/laguardia-cementerio-araba> geo-pos:long "-2.58459166"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> geo-pos:long "-2.68439722"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/legutiano-cementerio-araba> geo-pos:long "-2.64271111"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> geo-pos:long "-2.74764722"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-araba> geo-pos:long "-2.95086"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> geo-pos:long "-2.69444"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-zestafe-araba> geo-pos:long "-2.68523333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> geo-pos:long "-2.7113"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-cementerio-bizkaia> geo-pos:long "-2.737325"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> geo-pos:long "-2.65039444"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-monte-ganzabal-bizkaia> geo-pos:long "-2.69563801"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> geo-pos:long "-3.25242"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrieta-entorno-de-libao-bizkaia> geo-pos:long "-2.766694"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> geo-pos:long "-2.00967523"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/carranza-monte-burgueno-bizkaia> geo-pos:long "-3.27567133"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> geo-pos:long "-2.36053598"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elorrio-cima-monte-santa-luzia-bizkaia> geo-pos:long "-2.53129722"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> geo-pos:long "-2.51030032"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/galdakao-barrio-de-arteta-ordane-bizkaia> geo-pos:long "-2.84220588"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> geo-pos:long "-2.48605193"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/gernika-cementerio-bizkaia> geo-pos:long "-2.68439722"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> geo-pos:long "-2.15111111"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/morga-cementerio-bizkaia> geo-pos:long "-2.74764722"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> geo-pos:long "-2.344713"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-caserios-de-zubieta-bizkaia> geo-pos:long "-2.69444"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> geo-pos:long "-2.24874972"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-cementerio-ugarte-muxica-bizkaia> geo-pos:long "-2.7113"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> geo-pos:long "-2.49545127"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/otxandio-cementerio-bizkaia> geo-pos:long "-2.65039444"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> geo-pos:long "-2.335646"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/trucios-cementerio-bizkaia> geo-pos:long "-3.25242"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> geo-pos:long "-1.95206417"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/antzuola-deskarga-alde-gipuzkoa> geo-pos:long "-2.36053598"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> geo-pos:long "-1.97083333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> geo-pos:long "-2.51030032"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> geo-pos:long "-1.95951274"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/ataun-aia-cementerio-gipuzkoa> geo-pos:long "-2.15111111"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> geo-pos:long "-2.49079558"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/azkoitia-alto-de-madariaga-gipuzkoa> geo-pos:long "-2.344713"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> geo-pos:long "-2.37529757"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/azpeitia-urrestilla-gipuzkoa> geo-pos:long "-2.24874972"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> geo-pos:long "-1.97694444"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/deba-proximidad-caserio-arronamendi-gipuzkoa> geo-pos:long "-2.335646"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> geo-pos:long "-2.23447109"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-alto-de-ametzagaina-gipuzkoa> geo-pos:long "-1.95206417"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> geo-pos:long "-1.75159103"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-ulia-gipuzkoa> geo-pos:long "-1.95951274"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> geo-pos:long "-2.413483"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> geo-pos:long "-2.49079558"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> geo-pos:long "-2.41495199"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> geo-pos:long "-2.37529757"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> geo-pos:long "-1.80583493"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/hernani-cementerio-gipuzkoa> geo-pos:long "-1.97694444"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> geo-pos:long "-1.8579471"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/idiazabal-pto.-etxegarate-gipuzkoa> geo-pos:long "-2.23447109"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> geo-pos:long "-2.097893"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-b--saturraran-gipuzkoa> geo-pos:long "-2.413483"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> geo-pos:long "-2.06269351"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-terrenos-caserio-zalabe-gipuzkoa> geo-pos:long "-2.41495199"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> geo-pos:long "-2.07583333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-caserio-pikoketa-gipuzkoa> geo-pos:long "-1.80583493"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> geo-pos:long "-2.01811832"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-iragorri--katin-txiki--gipuzkoa> geo-pos:long "-1.8579471"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> geo-pos:long "-2.14856822"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-b--aldaba-txiki-gipuzkoa> geo-pos:long "-2.097893"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> geo-pos:long "-2.30255026"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-montezkue-gipuzkoa> geo-pos:long "-2.07583333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> geo-pos:long "-3.171075"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/usurbil-zona-de-irubide-gipuzkoa> geo-pos:long "-2.01811832"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> geo-pos:long "-3.15735878"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zaldibia-paraje-denominado-matazal-gipuzkoa> geo-pos:long "-2.14856822"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> geo-pos:long "-2.777057"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zumarraga-cima-monte-beloki-gipuzkoa> geo-pos:long "-2.30255026"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> geo-pos:long "-2.886309"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/aprikano-cementerio-araba> geo-pos:long "-2.892636"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> geo-pos:long "-2.884276"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/luminabaso-lemoa-bizkaia> geo-pos:long "-2.777057"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> geo-pos:long "-3.002564"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/lantaron-orillas-rio-ebro-araba> geo-pos:long "-3.07762"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> geo-pos:long "-2.843783"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-i-bizkaia> geo-pos:long "-2.886309"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> geo-pos:long "-2.098918"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> geo-pos:long "-2.884276"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> geo-pos:long "-2.998044"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/orduna-cementerio-bizkaia> geo-pos:long "-3.002564"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> geo-pos:long "-2.44525"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zamudio-caserio-anginena-bizkaia> geo-pos:long "-2.843783"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> geo-pos:long "-2.445286"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/araia-cementerio-araba> geo-pos:long "-2.323946"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> geo-pos:long "-2.642821"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/asteasu-cementerio-gipuzkoa> geo-pos:long "-2.098918"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> geo-pos:long "-2.73874166"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/pobes-la-tejera-ribera-alta-o-salinas-de-anana-araba> geo-pos:long "-2.960506"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> geo-pos:long "-2.892232"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-i-araba> geo-pos:long "-2.72255833"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> geo-pos:long "-2.58459166"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-ii-araba> geo-pos:long "-2.72190833"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> geo-pos:long "-2.64271111"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-iii-araba> geo-pos:long "-2.72193888"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> geo-pos:long "-2.960506"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> geo-pos:long "-2.00967523"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> geo-pos:long "-2.95086"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> geo-pos:long "-2.48605193"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> geo-pos:long "-2.72255833"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/bergara-monte-sagasti--intxorta-gipuzkoa> geo-pos:long "-2.49545127"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> geo-pos:long "-2.72190833"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> geo-pos:long "-1.97083333"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> geo-pos:long "-2.72193888"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/irun-caserio-zinkoene--b--behobia-gipuzkoa> geo-pos:long "-1.75159103"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> geo-pos:long "-2.68523333"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> geo-pos:long "-2.06269351"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> geo-pos:long "-2.892636"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/castro-urdiales-cementerio-de-talledo--cantabria-otras> geo-pos:long "-3.171075"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> geo-pos:long "-3.07762"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/el-haya-baltezana--cantabria-otras> geo-pos:long "-3.15735878"^^xsd:double .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> geo-pos:long "-2.323946"^^xsd:double .
 
-<http://id.euskadi.eus/public-sector/history/spits/amurrio-cementerio-araba> <http://schema.org/City> "Amurrio (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> <http://schema.org/City> "Amorebieta (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-araba> <http://schema.org/City> "Arraia-Maeztu (En el Km 29 de la carretera que asciende de Maeztu a Corres)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> <http://schema.org/City> "Amorebieta (Monte Ganzabal)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-puerto-de-azazeta-araba> <http://schema.org/City> "Arraia-Maeztu (Puerto de Azazeta)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> <http://schema.org/City> "Arrieta (Entorno de Libao)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrazua-barrundia-cementerio-de-luko-araba> <http://schema.org/City> "Arrazua-Barrundia (Cementerio de Luko)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> <http://schema.org/City> "Carranza (Monte Burgueno)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/etxaguen-y-murua-murua-araba> <http://schema.org/City> "Etxaguen y Murua (Murua)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> <http://schema.org/City> "Elorrio (Cima Monte Santa Luzia)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/kuartango-cuneta-y-ladera-araba> <http://schema.org/City> "Kuartango (Cuneta y Ladera)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> <http://schema.org/City> "Galdakao (Barrio de Arteta-Ordane)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/laguardia-cementerio-araba> <http://schema.org/City> "Laguardia (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> <http://schema.org/City> "Gernika (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/legutiano-cementerio-araba> <http://schema.org/City> "Legutiano (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> <http://schema.org/City> "Morga (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-araba> <http://schema.org/City> "Unza-Untzaga (Cruce de la carretera A-2521 (Izarra a Orduna) con la que se dirige a Unza-Untzaga)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> <http://schema.org/City> "Muxika (Caserios de Zubieta)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-zestafe-araba> <http://schema.org/City> "Zigoitia (Zestafe)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> <http://schema.org/City> "Muxika (Cementerio Ugarte-Muxica)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-cementerio-bizkaia> <http://schema.org/City> "Amorebieta (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> <http://schema.org/City> "Otxandio (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-monte-ganzabal-bizkaia> <http://schema.org/City> "Amorebieta (Monte Ganzabal)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> <http://schema.org/City> "Trucios (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrieta-entorno-de-libao-bizkaia> <http://schema.org/City> "Arrieta (Entorno de Libao)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> <http://schema.org/City> "Andoain (B Buruntza, B  Leizotz, B  Sorabilla)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/carranza-monte-burgueno-bizkaia> <http://schema.org/City> "Carranza (Monte Burgueno)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> <http://schema.org/City> "Antzuola (Deskarga Alde)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/elorrio-cima-monte-santa-luzia-bizkaia> <http://schema.org/City> "Elorrio (Cima Monte Santa Luzia)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> <http://schema.org/City> "Aretxabaleta (Cruce que asciende al centro educativo Almen. Crta. Aretxabaleta-Eskoriatza)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/galdakao-barrio-de-arteta-ordane-bizkaia> <http://schema.org/City> "Galdakao (Barrio de Arteta-Ordane)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> <http://schema.org/City> "Arrasate (Sima de Kurtzetxiki, B  Bedona)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/gernika-cementerio-bizkaia> <http://schema.org/City> "Gernika (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> <http://schema.org/City> "Ataun-Aia (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/morga-cementerio-bizkaia> <http://schema.org/City> "Morga (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> <http://schema.org/City> "Azkoitia (Alto de Madariaga)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-caserios-de-zubieta-bizkaia> <http://schema.org/City> "Muxika (Caserios de Zubieta)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> <http://schema.org/City> "Azpeitia (Urrestilla)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-cementerio-ugarte-muxica-bizkaia> <http://schema.org/City> "Muxika (Cementerio Ugarte-Muxica)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> <http://schema.org/City> "Bergara (Monte Sagasti, Intxorta)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/otxandio-cementerio-bizkaia> <http://schema.org/City> "Otxandio (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> <http://schema.org/City> "Deba (Proximidad Caserio Arronamendi)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/trucios-cementerio-bizkaia> <http://schema.org/City> "Trucios (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> <http://schema.org/City> "Donostia (Alto de Ametzagaina)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/antzuola-deskarga-alde-gipuzkoa> <http://schema.org/City> "Antzuola (Deskarga Alde)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> <http://schema.org/City> "Donostia (Puente de Hierro, Riberas de Loiola)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> <http://schema.org/City> "Aretxabaleta (Cruce que asciende al centro educativo Almen. Crta. Aretxabaleta-Eskoriatza)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> <http://schema.org/City> "Donostia (Ulia)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/ataun-aia-cementerio-gipuzkoa> <http://schema.org/City> "Ataun-Aia (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> <http://schema.org/City> "Elgeta (Terrenos Caserio Anzuategi II)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/azkoitia-alto-de-madariaga-gipuzkoa> <http://schema.org/City> "Azkoitia (Alto de Madariaga)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> <http://schema.org/City> "Elgoibar (Alto de Azcarate y Alto de San Miguel)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/azpeitia-urrestilla-gipuzkoa> <http://schema.org/City> "Azpeitia (Urrestilla)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> <http://schema.org/City> "Hernani (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/deba-proximidad-caserio-arronamendi-gipuzkoa> <http://schema.org/City> "Deba (Proximidad Caserio Arronamendi)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> <http://schema.org/City> "Idiazabal (Pto. Etxegarate)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-alto-de-ametzagaina-gipuzkoa> <http://schema.org/City> "Donostia (Alto de Ametzagaina)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> <http://schema.org/City> "Irun (Caserio Zinkoene, B  Behobia)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-ulia-gipuzkoa> <http://schema.org/City> "Donostia (Ulia)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> <http://schema.org/City> "Mutriku (B  Saturraran)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> <http://schema.org/City> "Elgeta (Terrenos Caserio Anzuategi II)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> <http://schema.org/City> "Mutriku (Terrenos Caserio Zalabe)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> <http://schema.org/City> "Elgoibar (Alto de Azcarate y Alto de San Miguel)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> <http://schema.org/City> "Oiartzun (Caserio Pikoketa)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/hernani-cementerio-gipuzkoa> <http://schema.org/City> "Hernani (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> <http://schema.org/City> "Oiartzun (Iragorri -Katin Txiki-)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/idiazabal-pto.-etxegarate-gipuzkoa> <http://schema.org/City> "Idiazabal (Pto. Etxegarate)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> <http://schema.org/City> "Tolosa (B  Aldaba Txiki)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-b--saturraran-gipuzkoa> <http://schema.org/City> "Mutriku (B  Saturraran)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> <http://schema.org/City> "Tolosa (Cima monte Olamunio y Ermita de Izaskun, Albiztur e Ibarra)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-terrenos-caserio-zalabe-gipuzkoa> <http://schema.org/City> "Mutriku (Terrenos Caserio Zalabe)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> <http://schema.org/City> "Tolosa (Montezkue)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-caserio-pikoketa-gipuzkoa> <http://schema.org/City> "Oiartzun (Caserio Pikoketa)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> <http://schema.org/City> "Usurbil (Zona de Irubide)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-iragorri--katin-txiki--gipuzkoa> <http://schema.org/City> "Oiartzun (Iragorri -Katin Txiki-)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> <http://schema.org/City> "Zaldibia (Paraje denominado Matazal)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-b--aldaba-txiki-gipuzkoa> <http://schema.org/City> "Tolosa (B  Aldaba Txiki)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> <http://schema.org/City> "Zumarraga (Cima monte Beloki)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-montezkue-gipuzkoa> <http://schema.org/City> "Tolosa (Montezkue)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> <http://schema.org/City> "Castro Urdiales (Cementerio de Talledo, Cantabria)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/usurbil-zona-de-irubide-gipuzkoa> <http://schema.org/City> "Usurbil (Zona de Irubide)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> <http://schema.org/City> "El Haya (Baltezana, Cantabria)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zaldibia-paraje-denominado-matazal-gipuzkoa> <http://schema.org/City> "Zaldibia (Paraje denominado Matazal)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> <http://schema.org/City> "Luminabaso (Lemoa)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zumarraga-cima-monte-beloki-gipuzkoa> <http://schema.org/City> "Zumarraga (Cima monte Beloki)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> <http://schema.org/City> "Bilbao (Montes Abril-Ganguren Fosa I)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/aprikano-cementerio-araba> <http://schema.org/City> "Aprikano (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> <http://schema.org/City> "Bilbao (Montes Abril-Ganguren Fosa II)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/luminabaso-lemoa-bizkaia> <http://schema.org/City> "Luminabaso (Lemoa)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> <http://schema.org/City> "Orduna (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/lantaron-orillas-rio-ebro-araba> <http://schema.org/City> "Lantaron (Orillas rio Ebro)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> <http://schema.org/City> "Zamudio (Caserio Anginena)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-i-bizkaia> <http://schema.org/City> "Bilbao (Montes Abril-Ganguren Fosa I)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> <http://schema.org/City> "Asteasu (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> <http://schema.org/City> "Bilbao (Montes Abril-Ganguren Fosa II)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> <http://schema.org/City> "Amurrio (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/orduna-cementerio-bizkaia> <http://schema.org/City> "Orduna (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> <http://schema.org/City> "Arraia-Maeztu (En el Km 29 de la carretera que asciende de Maeztu a Corres)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zamudio-caserio-anginena-bizkaia> <http://schema.org/City> "Zamudio (Caserio Anginena)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> <http://schema.org/City> "Arraia-Maeztu (Puerto de Azazeta)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/araia-cementerio-araba> <http://schema.org/City> "Araia (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> <http://schema.org/City> "Arrazua-Barrundia (Cementerio de Luko)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/asteasu-cementerio-gipuzkoa> <http://schema.org/City> "Asteasu (Cementerio)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> <http://schema.org/City> "Etxaguen y Murua (Murua)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/pobes-la-tejera-ribera-alta-o-salinas-de-anana-araba> <http://schema.org/City> "Pobes [La Tejera (Ribera Alta)] o Salinas de Anana" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> <http://schema.org/City> "Kuartango (Cuneta y Ladera)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-i-araba> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen I)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> <http://schema.org/City> "Laguardia (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-ii-araba> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen II)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> <http://schema.org/City> "Legutiano (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-iii-araba> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen III)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> <http://schema.org/City> "Pobes [La Tejera (Ribera Alta)] o Salinas de Anana" .
 
-<http://id.euskadi.eus/public-sector/history/spits/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> <http://schema.org/City> "Andoain (B Buruntza, B  Leizotz, B  Sorabilla)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> <http://schema.org/City> "Unza-Untzaga (Cruce de la carretera A-2521 (Izarra a Orduna) con la que se dirige a Unza-Untzaga)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> <http://schema.org/City> "Arrasate (Sima de Kurtzetxiki, B  Bedona)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen I)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/bergara-monte-sagasti--intxorta-gipuzkoa> <http://schema.org/City> "Bergara (Monte Sagasti, Intxorta)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen II)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> <http://schema.org/City> "Donostia (Puente de Hierro, Riberas de Loiola)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> <http://schema.org/City> "Zigoitia (Etxaguen-Murua, Etxaguen III)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/irun-caserio-zinkoene--b--behobia-gipuzkoa> <http://schema.org/City> "Irun (Caserio Zinkoene, B  Behobia)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> <http://schema.org/City> "Zigoitia (Zestafe)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> <http://schema.org/City> "Tolosa (Cima monte Olamunio y Ermita de Izaskun, Albiztur e Ibarra)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> <http://schema.org/City> "Aprikano (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/castro-urdiales-cementerio-de-talledo--cantabria-otras> <http://schema.org/City> "Castro Urdiales (Cementerio de Talledo, Cantabria)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> <http://schema.org/City> "Lantaron (Orillas rio Ebro)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/el-haya-baltezana--cantabria-otras> <http://schema.org/City> "El Haya (Baltezana, Cantabria)" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> <http://schema.org/City> "Araia (Cementerio)" .
 
-<http://id.euskadi.eus/public-sector/history/spits/amurrio-cementerio-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-monte-ganzabal-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arraia-maeztu-puerto-de-azazeta-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-entorno-de-libao-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrazua-barrundia-cementerio-de-luko-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza-monte-burgueno-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/etxaguen-y-murua-murua-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-cima-monte-santa-luzia-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/kuartango-cuneta-y-ladera-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-barrio-de-arteta-ordane-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/laguardia-cementerio-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/legutiano-cementerio-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-caserios-de-zubieta-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-zestafe-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-cementerio-ugarte-muxica-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/amorebieta-monte-ganzabal-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrieta-entorno-de-libao-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/carranza-monte-burgueno-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-deskarga-alde-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elorrio-cima-monte-santa-luzia-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/galdakao-barrio-de-arteta-ordane-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/gernika-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-aia-cementerio-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/morga-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-alto-de-madariaga-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-caserios-de-zubieta-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-urrestilla-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/muxika-cementerio-ugarte-muxica-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-monte-sagasti--intxorta-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/otxandio-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-proximidad-caserio-arronamendi-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/trucios-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-alto-de-ametzagaina-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/antzuola-deskarga-alde-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/aretxabaleta-cruce-que-asciende-al-centro-educativo-almen.-crta.-aretxabaleta-eskoriatza-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-ulia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/ataun-aia-cementerio-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/azkoitia-alto-de-madariaga-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/azpeitia-urrestilla-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-cementerio-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/deba-proximidad-caserio-arronamendi-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-pto.-etxegarate-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-alto-de-ametzagaina-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-caserio-zinkoene--b--behobia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-ulia-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-b--saturraran-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgeta-terrenos-caserio-anzuategi-ii-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-terrenos-caserio-zalabe-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/elgoibar-alto-de-azcarate-y-alto-de-san-miguel-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-caserio-pikoketa-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/hernani-cementerio-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-iragorri--katin-txiki--gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/idiazabal-pto.-etxegarate-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-b--aldaba-txiki-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-b--saturraran-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/mutriku-terrenos-caserio-zalabe-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-montezkue-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-caserio-pikoketa-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-zona-de-irubide-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/oiartzun-iragorri--katin-txiki--gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-paraje-denominado-matazal-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-b--aldaba-txiki-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zumarraga-cima-monte-beloki-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-montezkue-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-cementerio-de-talledo--cantabria-otras> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Otras> .
 
-<http://id.euskadi.eus/public-sector/history/spits/usurbil-zona-de-irubide-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/el-haya-baltezana--cantabria-otras> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Otras> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zaldibia-paraje-denominado-matazal-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/luminabaso-lemoa-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zumarraga-cima-monte-beloki-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-i-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/aprikano-cementerio-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/luminabaso-lemoa-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/orduna-cementerio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/lantaron-orillas-rio-ebro-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-caserio-anginena-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-i-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-cementerio-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bilbao-montes-abril-ganguren-fosa-ii-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-cementerio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/orduna-cementerio-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-en-el-km-29-de-la-carretera-que-asciende-de-maeztu-a-corres-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zamudio-caserio-anginena-bizkaia> <http://schema.org/State> "Bizkaia" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-puerto-de-azazeta-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/araia-cementerio-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-barrundia-cementerio-de-luko-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/asteasu-cementerio-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/etxaguen-y-murua-murua-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/pobes-la-tejera-ribera-alta-o-salinas-de-anana-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-cuneta-y-ladera-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-i-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-cementerio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-ii-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-cementerio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/zigoitia-etxaguen-murua--etxaguen-iii-araba> <http://schema.org/State> "Araba" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/pobes-la-tejera-ribera-alta-o-salinas-de-anana-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/andoain-b-buruntza--b--leizotz--b--sorabilla-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/unza-untzaga-cruce-de-la-carretera-a-2521-izarra-a-orduna-con-la-que-se-dirige-a-unza-untzaga-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/arrasate-sima-de-kurtzetxiki--b--bedona-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-i-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/bergara-monte-sagasti--intxorta-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-ii-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/donostia-puente-de-hierro--riberas-de-loiola-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-etxaguen-murua--etxaguen-iii-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/irun-caserio-zinkoene--b--behobia-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-zestafe-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/tolosa-cima-monte-olamunio-y-ermita-de-izaskun--albiztur-e-ibarra-gipuzkoa> <http://schema.org/State> "Gipuzkoa" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-cementerio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/castro-urdiales-cementerio-de-talledo--cantabria-otras> <http://schema.org/State> "Otras" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantaron-orillas-rio-ebro-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
 
-<http://id.euskadi.eus/public-sector/history/spits/el-haya-baltezana--cantabria-otras> <http://schema.org/State> "Otras" .
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia-cementerio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .

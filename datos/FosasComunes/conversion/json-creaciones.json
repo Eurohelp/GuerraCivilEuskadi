@@ -393,5 +393,31 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Provincia using expression grel:value.replace(\"Araba\",\"Alava\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Provincia",
+    "expression": "grel:value.replace(\"Araba\",\"Alava\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ProvinciaUri using expression grel:value.replace(\"araba\",\"alava\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "ProvinciaUri",
+    "expression": "grel:value.replace(\"araba\",\"alava\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
