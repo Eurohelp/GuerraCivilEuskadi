@@ -1,0 +1,118 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Battle_of_bilbao	dbo:wikiPageRedirects	dbr:Battle_of_Bilbao .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Battle_of_Bilbao	foaf:primaryTopic	dbr:Battle_of_Bilbao .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbr:Battle_of_Bilbao	rdf:type	dbo:SocietalEvent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Battle_of_Bilbao	rdf:type	yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:GroupAction101080366 .
+@prefix schema:	<http://schema.org/> .
+dbr:Battle_of_Bilbao	rdf:type	schema:Event ,
+		yago:PsychologicalFeature100023100 .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Battle_of_Bilbao	rdf:type	geo:SpatialThing ,
+		yago:WikicatConflictsIn1937 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatBattlesInvolvingSpain ,
+		yago:WikicatBattlesInvolvingItaly ,
+		yago:Event100029378 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Battle_of_Bilbao	rdf:type	ns8:Event ,
+		yago:WikicatBattlesOfTheSpanishCivilWar .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Battle_of_Bilbao	rdf:type	owl:Thing .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Battle_of_Bilbao	rdf:type	umbel-rc:ConflictEvent .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Battle_of_Bilbao	rdf:type	wikidata:Q1656682 ,
+		yago:Act100030358 ,
+		yago:Abstraction100002137 ,
+		umbel-rc:Event .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Battle_of_Bilbao	rdfs:label	"Batalha de Bilbao"@pt ,
+		"Bataille de Bilbao"@fr ,
+		"Battaglia di Bilbao"@it ,
+		"Battle of Bilbao"@en ,
+		"Batalla de Bilbao"@es ,
+		"\u0411\u0438\u0442\u0432\u0430 \u043F\u0440\u0438 \u0411\u0438\u043B\u044C\u0431\u0430\u043E"@ru ;
+	rdfs:comment	"45\u00B0 15\u2032 N 2\u00B0 55\u2032 W A batalha de Bilbao ou batalha de Bilbau foi uma batalha que fez parte da Campanha do Norte, durante a Guerra Civil Espanhola, na qual o Ex\u00E9rcito Nacionalista capturou a cidade de Bilbau e as partes restantes do Pa\u00EDs Basco ainda sob controle da Segunda Rep\u00FAblica Espanhola."@pt ,
+		"La batalla de Bilbao tuvo lugar en la ciudad del mismo nombre, la margen derecha de la r\u00EDa y la Sierra del Ganguren entre Bilbao y Gald\u00E1cano durante junio de 1937, en el contexto la Guerra Civil Espa\u00F1ola y, m\u00E1s concretamente, de los combates que estaban teniendo lugar en Vizcaya. Su posesi\u00F3n era elemental para ambos bandos, tanto por su situaci\u00F3n estrat\u00E9gica en la franja cant\u00E1brica controlada por la Rep\u00FAblica, como por sus industrias pesadas y f\u00E1bricas de armas. Despu\u00E9s de una larga y sangrienta ofensiva del Bando sublevado, a principios de junio sus tropas se hallaban frente a la capital vizca\u00EDna, aunque les quedaba superar una \u00FAltima barrera: el Cintur\u00F3n de Hierro."@es ,
+		"\u0411\u0438\u0442\u0432\u0430 \u043F\u0440\u0438 \u0411\u0438\u043B\u044C\u0431\u0430\u043E (\u0438\u0441\u043F. Batalla de Bilbao, \u0431\u0430\u0441\u043A. Bilboko gudua) \u2014 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C \u043C\u0435\u0436\u0434\u0443 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u043C\u0438 \u0432\u043E\u0439\u0441\u043A\u0430\u043C\u0438 \u0438 \u0444\u0440\u0430\u043D\u043A\u0438\u0441\u0442\u0430\u043C\u0438 (\u043F\u0440\u0438 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0445 \u0434\u043E\u0431\u0440\u043E\u0432\u043E\u043B\u044C\u0447\u0435\u0441\u043A\u0438\u0445 \u043A\u043E\u0440\u043F\u0443\u0441\u043E\u0432) 12 \u0438\u044E\u043D\u044F \u2014 19 \u0438\u044E\u043D\u044F 1937 \u0433\u043E\u0434\u0430 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0413\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438. \u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u0435 \u0441\u0435\u0432\u0435\u0440\u043E-\u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0439 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438. \u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0431\u043E\u0435\u0432\u044B\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0441\u0442\u0430\u043B \u0437\u0430\u0445\u0432\u0430\u0442 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0438\u0441\u0442\u0430\u043C\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0438\u043B\u044C\u0431\u0430\u043E \u0438 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043C\u044B\u0445 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0446\u0430\u043C\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0439 \u0421\u0442\u0440\u0430\u043D\u044B \u0431\u0430\u0441\u043A\u043E\u0432."@ru ,
+		"La bataille de Bilbao fait partie des batailles du front du Nord qui oppos\u00E8rent, durant la guerre d'Espagne les forces r\u00E9publicaines et les insurg\u00E9s nationalistes. Elle se d\u00E9roula durant le printemps 1937 en Biscaye et se solda par l'occupation au 19 juin par les nationalistes de Bilbao et du reste du Pays basque r\u00E9publicain."@fr ,
+		"The Battle of Bilbao was part of the War in the North, during the Spanish Civil War where the Nationalist Army captured the city of Bilbao and the remaining parts of the Basque Country still held by the Republic."@en ,
+		"La battaglia di Bilbao si svolse nella primavera del 1937 nel quadro della Guerra del Nord durante la guerra civile spagnola."@it .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-fr:Bataille_de_Bilbao .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	yago-res:Battle_of_Bilbao .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-es:Batalla_de_Bilbao .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-wikidata:Q2726112 ,
+		dbr:Battle_of_Bilbao .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-it:Battaglia_di_Bilbao .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-pt:Batalha_de_Bilbao ,
+		<http://rdf.freebase.com/ns/m.02q15ds> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Battle_of_Bilbao	owl:sameAs	dbpedia-eu:Bilboko_gudua ,
+		wikidata:Q2726112 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Battle_of_Bilbao	dct:subject	dbc:Battles_involving_Italy ,
+		dbc:Bilbao ,
+		dbc:Battles_of_the_Spanish_Civil_War ,
+		<http://dbpedia.org/resource/Category:1937_in_Spain> ,
+		dbc:Conflicts_in_1937 ,
+		dbc:Battles_involving_Spain ;
+	foaf:name	"Battle of Bilbao"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Battle_of_Bilbao	geo:lat	"43.25"^^xsd:float ;
+	geo:long	"-2.9166667461395263672"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Frente_del_Norte_-_Spanish_Civil_War_(March-Sept_1937).svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Battle_of_Bilbao .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Battle_of_Bilbao	geo:geometry	"POINT(-2.9166667461395 43.25)"^^virtrdf:Geometry ;
+	dbo:causalties	"Unknown" ;
+	dbo:combatant	"Basque Army" ,
+		"(CTV)" ;
+	dbo:date	"1937-06-19"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Decisive Nationalist victory" ;
+	dbo:strength	"60,000 Nationalist troops" ,
+		"50,000 troops and militia" ,
+		"15,000 Italian troops" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Battle_of_Bilbao	dbp:casualties	"Italy: 105 dead"^^rdf:langString ,
+		427 ,
+		"Nationalist Spain: Unknown"^^rdf:langString ,
+		"three missing"^^rdf:langString ;
+	dbp:territory	"Nationalists capture Biscay from the republicans"^^rdf:langString .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Battle_of_Bilbao	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Battle_of_Bilbao?oldid=674630208> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Battle_of_Bilbao	georss:point	"43.25 -2.9166666666666665" ;
+	dbp:caption	"The Northern Front. Bilbao is on the right of the red area."^^rdf:langString ;
+	dbo:abstract	"La batalla de Bilbao tuvo lugar en la ciudad del mismo nombre, la margen derecha de la r\u00EDa y la Sierra del Ganguren entre Bilbao y Gald\u00E1cano durante junio de 1937, en el contexto la Guerra Civil Espa\u00F1ola y, m\u00E1s concretamente, de los combates que estaban teniendo lugar en Vizcaya. Su posesi\u00F3n era elemental para ambos bandos, tanto por su situaci\u00F3n estrat\u00E9gica en la franja cant\u00E1brica controlada por la Rep\u00FAblica, como por sus industrias pesadas y f\u00E1bricas de armas. Despu\u00E9s de una larga y sangrienta ofensiva del Bando sublevado, a principios de junio sus tropas se hallaban frente a la capital vizca\u00EDna, aunque les quedaba superar una \u00FAltima barrera: el Cintur\u00F3n de Hierro."@es ,
+		"The Battle of Bilbao was part of the War in the North, during the Spanish Civil War where the Nationalist Army captured the city of Bilbao and the remaining parts of the Basque Country still held by the Republic."@en ,
+		"La battaglia di Bilbao si svolse nella primavera del 1937 nel quadro della Guerra del Nord durante la guerra civile spagnola."@it ,
+		"La bataille de Bilbao fait partie des batailles du front du Nord qui oppos\u00E8rent, durant la guerre d'Espagne les forces r\u00E9publicaines et les insurg\u00E9s nationalistes. Elle se d\u00E9roula durant le printemps 1937 en Biscaye et se solda par l'occupation au 19 juin par les nationalistes de Bilbao et du reste du Pays basque r\u00E9publicain."@fr ,
+		"45\u00B0 15\u2032 N 2\u00B0 55\u2032 W A batalha de Bilbao ou batalha de Bilbau foi uma batalha que fez parte da Campanha do Norte, durante a Guerra Civil Espanhola, na qual o Ex\u00E9rcito Nacionalista capturou a cidade de Bilbau e as partes restantes do Pa\u00EDs Basco ainda sob controle da Segunda Rep\u00FAblica Espanhola."@pt ,
+		"\u0411\u0438\u0442\u0432\u0430 \u043F\u0440\u0438 \u0411\u0438\u043B\u044C\u0431\u0430\u043E (\u0438\u0441\u043F. Batalla de Bilbao, \u0431\u0430\u0441\u043A. Bilboko gudua) \u2014 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0430\u0441\u044C \u043C\u0435\u0436\u0434\u0443 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u043C\u0438 \u0432\u043E\u0439\u0441\u043A\u0430\u043C\u0438 \u0438 \u0444\u0440\u0430\u043D\u043A\u0438\u0441\u0442\u0430\u043C\u0438 (\u043F\u0440\u0438 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0435 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0445 \u0434\u043E\u0431\u0440\u043E\u0432\u043E\u043B\u044C\u0447\u0435\u0441\u043A\u0438\u0445 \u043A\u043E\u0440\u043F\u0443\u0441\u043E\u0432) 12 \u0438\u044E\u043D\u044F \u2014 19 \u0438\u044E\u043D\u044F 1937 \u0433\u043E\u0434\u0430 \u0432\u043E \u0432\u0440\u0435\u043C\u044F \u0413\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438. \u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0435\u043D\u0438\u0435 \u0441\u0435\u0432\u0435\u0440\u043E-\u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0439 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438. \u0420\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0431\u043E\u0435\u0432\u044B\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0441\u0442\u0430\u043B \u0437\u0430\u0445\u0432\u0430\u0442 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0438\u0441\u0442\u0430\u043C\u0438 \u0433\u043E\u0440\u043E\u0434\u0430 \u0411\u0438\u043B\u044C\u0431\u0430\u043E \u0438 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043C\u044B\u0445 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0446\u0430\u043C\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0439 \u0421\u0442\u0440\u0430\u043D\u044B \u0431\u0430\u0441\u043A\u043E\u0432."@ru ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Frente_del_Norte_-_Spanish_Civil_War_(March-Sept_1937).svg?width=300> ;
+	dbo:wikiPageRevisionID	674630208 ;
+	dbo:wikiPageID	10081225 .
+@prefix ns27:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:Battle_of_Bilbao	dbp:wordnet_type	ns27:synset-war-noun-1 ;
+	dbo:place	dbr:Spain ,
+		dbr:Biscay .
+@prefix ns28:	<http://purl.org/linguistics/gold/> .
+dbr:Battle_of_Bilbao	ns28:hypernym	dbr:Part .

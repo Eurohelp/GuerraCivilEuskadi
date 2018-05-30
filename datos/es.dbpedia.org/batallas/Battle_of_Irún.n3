@@ -1,0 +1,99 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Battle_of_Ir\u00FAn>	foaf:primaryTopic	<http://dbpedia.org/resource/Battle_of_Ir\u00FAn> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	dbo:SocietalEvent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix schema:	<http://schema.org/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	schema:Event ,
+		yago:WikicatBattlesOfTheSpanishCivilWar ,
+		yago:WikicatConflictsIn1936 ,
+		yago:Event100029378 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	owl:Thing ,
+		yago:Abstraction100002137 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	umbel-rc:ConflictEvent ,
+		umbel-rc:Event ,
+		yago:Act100030358 ,
+		yago:PsychologicalFeature100023100 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	wikidata:Q1656682 .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	ns8:Event .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdf:type	geo:SpatialThing ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:GroupAction101080366 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	rdfs:label	"Battle of Ir\u00FAn"@en ,
+		"Batalla de Ir\u00FAn"@es ,
+		"Batalha de Ir\u00FAn"@pt ,
+		"Bataille d'Irun"@fr ;
+	rdfs:comment	"The Battle of Ir\u00FAn was the critical battle of the Campaign of Gipuzkoa prior to the War in the North, during the Spanish Civil War. The Nationalist Army, under Alfonso Beorlegui, captured the city of Ir\u00FAn cutting off the northern provinces of Gipuzkoa, Biscay, Santander, and Asturias from their source of arms and support in France."@en ,
+		"A Batalha de Ir\u00FAn foi a mais cr\u00EDtica da Campanha de Guip\u00FAscoa, durante a Guerra Civil Espanhola, antecedendo a Ofensiva do Norte. Os combates se realizaram entre 19 de agosto a 5 de setembro de 1936. O Ex\u00E9rcito Nacionalista, sob o comando de Alfonso Beorlegui, capturou a cidade de Ir\u00FAn isolando as prov\u00EDncias do norte de Guip\u00FAscoa, Biscaia, Santander e Ast\u00FArias de sua fonte de armas e de suprimentos da Fran\u00E7a."@pt ,
+		"La bataille d'Irun fut le principal combat livr\u00E9 lors de la campagne du Guipuscoa, durant la guerre d'Espagne. Elle opposa les forces nationalistes et les troupes r\u00E9publicaines entre le 19 ao\u00FBt 1936 et le 5 septembre 1936. Elle se solda par la prise de la ville par les franquistes, sous les ordres du lieutenant-colonel Alfonso Beorlegui."@fr ,
+		"La batalla de Ir\u00FAn fue un combate crucial en el conjunto de operaciones de la campa\u00F1a de Guip\u00FAzcoa durante la Guerra Civil Espa\u00F1ola, antes de que comenzara la ofensiva del Norte. El hecho decisivo reside en que al tomar la ciudad guipuzcoana de Ir\u00FAn, se cortaba la v\u00EDa de comunicaci\u00F3n terrestre con Francia, reduciendo en gran medida el suministro de armamento a la franja norte que se manten\u00EDa fiel a la Rep\u00FAblica."@es ;
+	owl:sameAs	wikidata:Q2887997 ,
+		<http://dbpedia.org/resource/Battle_of_Ir\u00FAn> ,
+		<http://fr.dbpedia.org/resource/Bataille_d\u0027Irun> ,
+		<http://pt.dbpedia.org/resource/Batalha_de_Ir\u00FAn> ,
+		<http://es.dbpedia.org/resource/Batalla_de_Ir\u00FAn> ,
+		<http://eu.dbpedia.org/resource/Irungo_gudua_(1936)> ,
+		<http://yago-knowledge.org/resource/Battle_of_Ir\u00FAn> .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	owl:sameAs	dbpedia-wikidata:Q2887997 ,
+		<http://rdf.freebase.com/ns/m.03h4n48> ,
+		<http://dbpedia.org/resource/Battle_of_Ir\u00FAn> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dct:subject	<http://dbpedia.org/resource/Category:1936_in_Spain> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dct:subject	dbc:Battles_of_the_Spanish_Civil_War ,
+		dbc:Conflicts_in_1936 ,
+		dbc:Gipuzkoa ;
+	foaf:name	"Battle of Ir\u00FAn"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	geo:lat	"43.333332061767578125"^^xsd:float ;
+	geo:long	"-1.7833333015441894531"^^xsd:float ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Battle_of_Ir\u00FAn> .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	geo:geometry	"POINT(-1.7833333015442 43.333332061768)"^^virtrdf:Geometry ;
+	dbo:causalties	"?" ;
+	dbo:combatant	"Spanish Republic" ,
+		"Nationalists" .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dbo:commander	dbr:Alfonso_Beorlegui_Canet ,
+		dbr:Manuel_Margarida_Valdes ,
+		<http://dbpedia.org/resource/Antonio_Ortega_(lieutenant)> ;
+	dbo:date	"1936-09-05"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Decisive Nationalist victory" ;
+	dbo:strength	"some tanks PanzerMark I" ,
+		"some Ju 52 bombers" ,
+		"a battery of 155 mm guns" ,
+		"over 2,000" ,
+		"over 2,000-3,000" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dbp:casualties	"?"^^rdf:langString .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Battle_of_Ir\u00FAn?oldid=666592720> .
+@prefix georss:	<http://www.georss.org/georss/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	georss:point	"43.333333333333336 -1.7833333333333332" ;
+	dbo:wikiPageExternalLink	<http://www.gipuzkoa1936.com/verano-e.php> ,
+		<http://www.asociacionrepublicanairunesa.org/cas/batalla_irun.php> ;
+	dbo:abstract	"La batalla de Ir\u00FAn fue un combate crucial en el conjunto de operaciones de la campa\u00F1a de Guip\u00FAzcoa durante la Guerra Civil Espa\u00F1ola, antes de que comenzara la ofensiva del Norte. El hecho decisivo reside en que al tomar la ciudad guipuzcoana de Ir\u00FAn, se cortaba la v\u00EDa de comunicaci\u00F3n terrestre con Francia, reduciendo en gran medida el suministro de armamento a la franja norte que se manten\u00EDa fiel a la Rep\u00FAblica."@es ,
+		"La bataille d'Irun fut le principal combat livr\u00E9 lors de la campagne du Guipuscoa, durant la guerre d'Espagne. Elle opposa les forces nationalistes et les troupes r\u00E9publicaines entre le 19 ao\u00FBt 1936 et le 5 septembre 1936. Elle se solda par la prise de la ville par les franquistes, sous les ordres du lieutenant-colonel Alfonso Beorlegui."@fr ,
+		"The Battle of Ir\u00FAn was the critical battle of the Campaign of Gipuzkoa prior to the War in the North, during the Spanish Civil War. The Nationalist Army, under Alfonso Beorlegui, captured the city of Ir\u00FAn cutting off the northern provinces of Gipuzkoa, Biscay, Santander, and Asturias from their source of arms and support in France."@en ,
+		"A Batalha de Ir\u00FAn foi a mais cr\u00EDtica da Campanha de Guip\u00FAscoa, durante a Guerra Civil Espanhola, antecedendo a Ofensiva do Norte. Os combates se realizaram entre 19 de agosto a 5 de setembro de 1936. O Ex\u00E9rcito Nacionalista, sob o comando de Alfonso Beorlegui, capturou a cidade de Ir\u00FAn isolando as prov\u00EDncias do norte de Guip\u00FAscoa, Biscaia, Santander e Ast\u00FArias de sua fonte de armas e de suprimentos da Fran\u00E7a."@pt ;
+	dbo:wikiPageRevisionID	666592720 ;
+	dbo:wikiPageID	15012929 ;
+	dbo:place	dbr:Spain ,
+		dbr:Gipuzkoa .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	ns20:hypernym	dbr:Battle .
+dbr:Battle_of_Irun	dbo:wikiPageRedirects	<http://dbpedia.org/resource/Battle_of_Ir\u00FAn> .
