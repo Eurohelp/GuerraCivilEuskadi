@@ -2,16 +2,19 @@ PREFIX mydata: <http://example.com/resource/>
 PREFIX spif: <http://spinrdf.org/spif#>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX dbpediaowl: <http://dbpedia.org/ontology/>
-
-INSERT {
-  GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
+PREFIX schema: <http://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+INSERT{
+GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
     ?mainUri a ?personasDesaparecida ;
     a foaf:Person;
+    a schema:Person;
     foaf:name ?Nombre;
     dbpediaowl:birthPlace ?Vencidad;
     dbpediaowl:deathPlace ?LugarMuerte;
     dbpediaowl:date ?Fecha;
-    ?modoMuerte ?Modo.
+    ?modoMuerte ?tipoModoMuerte.
+    ?tipoModoMuerte rdfs:label ?Modo.
   }
 } WHERE {
   service<http://localhost:7200/rdf-bridge/1691332933099>{
@@ -23,10 +26,13 @@ INSERT {
 		mydata:LugarMuerte ?LugarMuerte ;
   		mydata:LugarMuerteUri ?LugarMuerteUri ;
 		mydata:Fecha ?Fecha ;
-		mydata:Modo ?Modo .
+		mydata:Modo ?Modo ;
+    	mydata:ModoUri ?ModoUri .
   }
   BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/missing-person/{?1}-{?2}-{?3}", ENCODE_FOR_URI(?NombreUri),ENCODE_FOR_URI(?VencidadUri), ENCODE_FOR_URI(?LugarMuerteUri))) as ?mainUri)
   BIND(IRI("http://id.euskadi.eus/def/euskadipedia/missing-person") as ?personasDesaparecida)
   BIND(IRI("http://id.euskadi.eus/def/euskadipedia/death-mode") as ?modoMuerte)
+  BIND(IRI(spif:buildString("http://id.euskadi.eus/resource/euskadipedia/death-mode/{?1}", ENCODE_FOR_URI(?ModoUri))) as ?tipoModoMuerte)
+
 
 }

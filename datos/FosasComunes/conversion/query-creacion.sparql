@@ -3,7 +3,7 @@ PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX spif: <http://spinrdf.org/spif#>
 PREFIX schema: <http://schema.org/>
 INSERT{
-  graph<http://id.euskadi.eus/catalogo/mass_grave>{
+  GRAPH<http://id.euskadi.eus/catalogo/mass_grave>{
 	?mainUri a ?dbpediaMassGraves ;
      a ?ontologiaGraves ;
 	schema:City ?Poblacion ;
@@ -12,7 +12,7 @@ INSERT{
 	geo:long ?Longitud .
   }
   } WHERE {
-  service<http://localhost:7200/rdf-bridge/1810998186867>{
+  SERVICE<http://localhost:7200/rdf-bridge/1810998186867>{
 	?row a mydata:Row ;
 		mydata:Poblacion ?Poblacion ;
   		mydata:PoblacionUri ?PoblacionUri ;
