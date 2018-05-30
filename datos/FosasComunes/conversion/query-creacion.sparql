@@ -2,11 +2,12 @@ PREFIX mydata: <http://example.com/resource/>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX spif: <http://spinrdf.org/spif#>
 PREFIX schema: <http://schema.org/>
-INSERT {
-  graph<http://id.euskadi.eus/catalogo/spits>{
-	?mainUri a ?spit ;
+INSERT{
+  graph<http://id.euskadi.eus/catalogo/mass_grave>{
+	?mainUri a ?dbpediaMassGraves ;
+     a ?ontologiaGraves ;
 	schema:City ?Poblacion ;
-	schema:State ?Provincia ;
+	schema:State ?uriProvinciaCreada ;
 	geo:lat ?Latitud ;
 	geo:long ?Longitud .
   }
@@ -20,8 +21,10 @@ INSERT {
 		mydata:Latitud ?Latitud ;
 		mydata:Longitud ?Longitud .
   }
-	# Example construction of new IRIs for each row
-  BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/spits/{?1}-{?2}", ENCODE_FOR_URI(?PoblacionUri) , ENCODE_FOR_URI(?ProvinciaUri))) AS ?mainUri)
-  BIND(IRI("http://id.euskadi.eus/resource/euskadipedia/spit") as ?spit)
+  BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/mass-grave/{?1}-{?2}", ENCODE_FOR_URI(?PoblacionUri) , ENCODE_FOR_URI(?ProvinciaUri))) AS ?mainUri)
+    BIND(IRI(spif:buildString("http://datos.gob.es/recurso/sector-publico/territorio/Provincia/{?1}" , ENCODE_FOR_URI(?Provincia))) AS ?uriProvinciaCreada)
+  BIND(IRI("http://rdf.muninn-project.org/ontologies/graves#Mass_grave") as ?ontologiaGraves)
+  BIND(IRI("http://dbpedia.org/page/Mass_grave") as ?dbpediaMassGraves)
+
 
 } 
