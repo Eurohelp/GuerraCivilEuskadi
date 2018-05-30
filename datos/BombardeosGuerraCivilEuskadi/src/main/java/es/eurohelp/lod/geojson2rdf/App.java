@@ -50,7 +50,7 @@ public class App {
 		String[] fechas = fechastotal.trim().split("\\s");
 		for (String fecha : fechas) {
 			if (!fecha.isEmpty()) {
-				System.out.println("<http://dbpedia.org/property/date>\"" + normalizarFecha(fecha)
+				System.out.println("<http://dbpedia.org/ontology/date>\"" + normalizarFecha(fecha)
 						+ "\"^^<http://www.w3.org/2001/XMLSchema#date> ;");
 			}
 		}
