@@ -1,0 +1,100 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix geo:	<http://www.w3.org/2003/01/geo/wgs84_pos#> .
+dbr:Villarreal_Offensive	rdf:type	geo:SpatialThing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Villarreal_Offensive	rdf:type	yago:Abstraction100002137 ,
+		yago:Event100029378 .
+@prefix schema:	<http://schema.org/> .
+dbr:Villarreal_Offensive	rdf:type	schema:Event .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Villarreal_Offensive	rdf:type	dbo:SocietalEvent ,
+		yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict ,
+		yago:Act100030358 ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:WikicatBattlesOfTheSpanishCivilWar ,
+		yago:GroupAction101080366 .
+@prefix ns6:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Villarreal_Offensive	rdf:type	ns6:Event ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:PsychologicalFeature100023100 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Villarreal_Offensive	rdf:type	wikidata:Q1656682 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Villarreal_Offensive	rdf:type	owl:Thing ,
+		yago:WikicatConflictsIn1936 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Villarreal_Offensive	rdfs:label	"Villarreal Offensive"@en ,
+		"Ofensiva de Villarreal"@es ,
+		"Offensive de Villareal"@fr ;
+	rdfs:comment	"L\u2019offensive de Villarreal est une op\u00E9ration militaire qui s'est d\u00E9roul\u00E9e lors de la guerre d'Espagne et qui opposa les forces nationalistes et les troupes r\u00E9publicaines entre le 30 novembre 1936 et le 24 d\u00E9cembre 1936. Les troupes r\u00E9publicaines tent\u00E8rent de s'emparer de la ville de Vitoria, dans la province d'Alava, tomb\u00E9e aux mains des militaires rebelles depuis le soul\u00E8vement de juillet, mais furent arr\u00EAt\u00E9es pr\u00E8s de Villarreal de \u00C1lava."@fr ,
+		"La Ofensiva de Villarreal fue un episodio b\u00E9lico acontecido durante la Guerra Civil Espa\u00F1ola, donde tropas republicanas del frente de Vizcaya intentaron tomar la ciudad vasca de Vitoria, la cual se hallaba en poder de los sublevados desde julio de 1936."@es ,
+		"The Villarreal Offensive (Spanish: Ofensiva de Villarreal) was an offensive of the Spanish Civil War which lasted from 30 November to 24 December 1936. Eusko Gudarostea's 4,300 men fought 600 men of the insurgent forces."@en ;
+	owl:sameAs	dbr:Villarreal_Offensive ,
+		wikidata:Q3077872 .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Villarreal_Offensive	owl:sameAs	yago-res:Villarreal_Offensive ,
+		<http://rdf.freebase.com/ns/m.0h1dl7v> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Villarreal_Offensive	owl:sameAs	dbpedia-eu:Legutioko_gudua .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Villarreal_Offensive	owl:sameAs	dbpedia-fr:Offensive_de_Villareal .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Villarreal_Offensive	owl:sameAs	dbpedia-wikidata:Q3077872 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Villarreal_Offensive	owl:sameAs	dbpedia-es:Ofensiva_de_Villarreal .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Villarreal_Offensive	dct:subject	dbc:Conflicts_in_1936 ,
+		<http://dbpedia.org/resource/Category:\u00C1lava> ,
+		dbc:Battles_of_the_Spanish_Civil_War ,
+		<http://dbpedia.org/resource/Category:1936_in_Spain> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Villarreal_Offensive	foaf:name	"Villareal Offensive"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Villarreal_Offensive	geo:lat	"42.96666717529296875"^^xsd:float ;
+	geo:long	"-2.6333334445953369141"^^xsd:float ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Basque_Country.svg> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+dbr:Villarreal_Offensive	foaf:isPrimaryTopicOf	wikipedia-en:Villarreal_Offensive .
+@prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
+dbr:Villarreal_Offensive	geo:geometry	"POINT(-2.6333334445953 42.966667175293)"^^virtrdf:Geometry ;
+	dbo:causalties	"1,000 dead" ;
+	dbo:combatant	"Spanish Republic" ,
+		"22px|Bandera del Pa\u00EDs Vasco.Euzko Gudarostea" ,
+		"Nationalist Spain" ;
+	dbo:commander	dbr:Emilio_Mola ,
+		dbr:Francisco_Llano_de_la_Encomienda ,
+		dbr:Camilo_Alonso_Vega ,
+		dbr:Francisco_Ciutat_de_Miguel ,
+		dbr:Alberto_de_Montaud_y_Noguerol ;
+	dbo:date	"1936-11-30"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Nationalist victory" ;
+	dbo:strength	"5 guns" ,
+		"8 armored vehicles" ,
+		"4,300 men" ,
+		"25 guns" ,
+		"600 men" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Villarreal_Offensive	dbp:casualties	"?"^^rdf:langString .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Villarreal_Offensive	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Villarreal_Offensive?oldid=679149729> .
+@prefix georss:	<http://www.georss.org/georss/> .
+dbr:Villarreal_Offensive	georss:point	"42.96666666666667 -2.6333333333333333" ;
+	dbo:abstract	"The Villarreal Offensive (Spanish: Ofensiva de Villarreal) was an offensive of the Spanish Civil War which lasted from 30 November to 24 December 1936. Eusko Gudarostea's 4,300 men fought 600 men of the insurgent forces."@en ,
+		"L\u2019offensive de Villarreal est une op\u00E9ration militaire qui s'est d\u00E9roul\u00E9e lors de la guerre d'Espagne et qui opposa les forces nationalistes et les troupes r\u00E9publicaines entre le 30 novembre 1936 et le 24 d\u00E9cembre 1936. Les troupes r\u00E9publicaines tent\u00E8rent de s'emparer de la ville de Vitoria, dans la province d'Alava, tomb\u00E9e aux mains des militaires rebelles depuis le soul\u00E8vement de juillet, mais furent arr\u00EAt\u00E9es pr\u00E8s de Villarreal de \u00C1lava."@fr ,
+		"La Ofensiva de Villarreal fue un episodio b\u00E9lico acontecido durante la Guerra Civil Espa\u00F1ola, donde tropas republicanas del frente de Vizcaya intentaron tomar la ciudad vasca de Vitoria, la cual se hallaba en poder de los sublevados desde julio de 1936."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Basque_Country.svg?width=300> ;
+	dbo:wikiPageRevisionID	679149729 ;
+	dbo:wikiPageID	32528848 ;
+	dbo:place	<http://dbpedia.org/resource/Basque_Country_(autonomous_community)> ,
+		dbr:Legutio ,
+		dbr:Vitoria-Gasteiz .
+@prefix ns24:	<http://purl.org/linguistics/gold/> .
+dbr:Villarreal_Offensive	ns24:hypernym	dbr:Offensive .
+wikipedia-en:Villarreal_Offensive	foaf:primaryTopic	dbr:Villarreal_Offensive .
+dbr:Camilo_Alonso_Vega	dbo:battle	dbr:Villarreal_Offensive .

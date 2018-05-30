@@ -1,0 +1,87 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:Siege_of_Cuartel_de_Loyola	foaf:primaryTopic	dbr:Siege_of_Cuartel_de_Loyola .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	yago:YagoPermanentlyLocatedEntity .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	owl:Thing ,
+		yago:WikicatConflictsIn1936 ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:GroupAction101080366 .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	dbo:SocietalEvent ,
+		yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict .
+@prefix schema:	<http://schema.org/> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	schema:Event ,
+		yago:WikicatBattlesOfTheSpanishCivilWar .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	ns8:Event ,
+		yago:Event100029378 ,
+		yago:Abstraction100002137 ,
+		yago:Act100030358 ,
+		yago:Siege101075117 ,
+		yago:Blockade100954086 .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Siege_of_Cuartel_de_Loyola	rdf:type	wikidata:Q1656682 ,
+		yago:WikicatSiegesInvolvingSpain ,
+		yago:PsychologicalFeature100023100 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Siege_of_Cuartel_de_Loyola	rdfs:label	"Siege of Cuartel de Loyola"@en ,
+		"Si\u00E8ge de la caserne de Loyola"@fr ,
+		"Sitio del Cuartel de Loyola"@es ;
+	rdfs:comment	"The Siege of Cuartel de Loyola was a siege and uprising in San Sebasti\u00E1n, Spain, on 21 July 1936, at the start of the Spanish Civil War. A group of soldiers attempted to form a coup against the Second Spanish Republic."@en ,
+		"El Sitio del Cuartel de Loyola fue un episodio de la Guerra Civil Espa\u00F1ola ocurrido en la ciudad vasca de San Sebasti\u00E1n (Guip\u00FAzcoa) el 21 de julio de 1936, donde un grupo de militares intent\u00F3 que la guarnici\u00F3n de la ciudad se adhiriera al golpe de estado contra la Segunda Rep\u00FAblica Espa\u00F1ola."@es ,
+		"Le si\u00E8ge de la caserne de Loyola a lieu du 19 au 27 juillet 1936 au d\u00E9but de la guerre d'Espagne lorsque les nationalistes tent\u00E8rent de s'emparer d'une caserne de l'arm\u00E9e populaire de la R\u00E9publique espagnole \u00E0 Saint-S\u00E9bastien (situ\u00E9e dans la communaut\u00E9 autonome du Pays-Basque). Durant le si\u00E8ge, les rebelles ex\u00E9cut\u00E8rent plusieurs prisonniers d'extr\u00EAme-droite apr\u00E8s avoir saisi des armes, d\u00E9gradant leurs relations avec les nationalistes basques."@fr ;
+	owl:sameAs	<http://fr.dbpedia.org/resource/Si\u00E8ge_de_la_caserne_de_Loyola> ,
+		wikidata:Q3891492 .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Siege_of_Cuartel_de_Loyola	owl:sameAs	dbpedia-wikidata:Q3891492 .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Siege_of_Cuartel_de_Loyola	owl:sameAs	dbpedia-es:Sitio_del_Cuartel_de_Loyola ,
+		dbr:Siege_of_Cuartel_de_Loyola .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Siege_of_Cuartel_de_Loyola	owl:sameAs	yago-res:Siege_of_Cuartel_de_Loyola .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Siege_of_Cuartel_de_Loyola	owl:sameAs	dbpedia-eu:Loiolako_kuarteleko_setioa ,
+		<http://rdf.freebase.com/ns/m.0h1h1vc> .
+@prefix dct:	<http://purl.org/dc/terms/> .
+dbr:Siege_of_Cuartel_de_Loyola	dct:subject	<http://dbpedia.org/resource/Category:San_Sebasti\u00E1n> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Siege_of_Cuartel_de_Loyola	dct:subject	dbc:Battles_of_the_Spanish_Civil_War ,
+		<http://dbpedia.org/resource/Category:1936_in_Spain> ,
+		dbc:Conflicts_in_1936 ,
+		dbc:Sieges_involving_Spain ;
+	foaf:name	"Siege of Cuartel de Loyola"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_Maria_Cristina_San_Sebastian.jpg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Siege_of_Cuartel_de_Loyola ;
+	dbo:causalties	"?" ;
+	dbo:combatant	"Spanish Republic" ,
+		"Nationalist Spain" ;
+	dbo:commander	<http://dbpedia.org/resource/Augusto_P\u00E9rez_Garmendia> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Siege_of_Cuartel_de_Loyola	dbo:date	"1936-07-27"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Republican victory" ;
+	dbo:strength	"?" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Siege_of_Cuartel_de_Loyola	dbp:casualties	"?"^^rdf:langString .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Siege_of_Cuartel_de_Loyola	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Siege_of_Cuartel_de_Loyola?oldid=681735133> ;
+	dbp:caption	"Hotel Maria Cristina, one of the buildings held by the rebel troops"^^rdf:langString ;
+	dbo:abstract	"Le si\u00E8ge de la caserne de Loyola a lieu du 19 au 27 juillet 1936 au d\u00E9but de la guerre d'Espagne lorsque les nationalistes tent\u00E8rent de s'emparer d'une caserne de l'arm\u00E9e populaire de la R\u00E9publique espagnole \u00E0 Saint-S\u00E9bastien (situ\u00E9e dans la communaut\u00E9 autonome du Pays-Basque). Il d\u00E9bute lorsque le gouverneur militaire de Saint-S\u00E9bastien, le Colonel Carrasco, est arr\u00EAt\u00E9 par les rebelles nationalistes qui s'emparent de la caserne et de plusieurs autres b\u00E2timents de la ville. Le lendemain, une colonne r\u00E9publicaine venue de Eibar sous le commandement du Colonel P\u00E9rez Garmendia entre dans la ville et encercle les positions des nationalistes retranch\u00E9s dans les b\u00E2timents. Le 23 juillet, l'h\u00F4tel Maria Cristina est repris par les r\u00E9publicains. Le 27 juillet, les nationalistes retranch\u00E9s dans la caserne de Loyola se rendent. Durant le si\u00E8ge, les rebelles ex\u00E9cut\u00E8rent plusieurs prisonniers d'extr\u00EAme-droite apr\u00E8s avoir saisi des armes, d\u00E9gradant leurs relations avec les nationalistes basques."@fr ,
+		"El Sitio del Cuartel de Loyola fue un episodio de la Guerra Civil Espa\u00F1ola ocurrido en la ciudad vasca de San Sebasti\u00E1n (Guip\u00FAzcoa) el 21 de julio de 1936, donde un grupo de militares intent\u00F3 que la guarnici\u00F3n de la ciudad se adhiriera al golpe de estado contra la Segunda Rep\u00FAblica Espa\u00F1ola."@es ,
+		"The Siege of Cuartel de Loyola was a siege and uprising in San Sebasti\u00E1n, Spain, on 21 July 1936, at the start of the Spanish Civil War. A group of soldiers attempted to form a coup against the Second Spanish Republic."@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_Maria_Cristina_San_Sebastian.jpg?width=300> ;
+	dbo:wikiPageRevisionID	681735133 ;
+	dbo:wikiPageID	32531952 ;
+	dbp:commander	"Colonel Villaespin"^^rdf:langString ,
+		"Colonel Carrasco"^^rdf:langString ;
+	dbo:place	dbr:Guipuzcoa ,
+		dbr:Spain .
+@prefix ns20:	<http://purl.org/linguistics/gold/> .
+dbr:Siege_of_Cuartel_de_Loyola	ns20:hypernym	dbr:Siege .
