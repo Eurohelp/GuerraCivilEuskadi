@@ -1,0 +1,27 @@
+PREFIX mydata: <http://example.com/resource/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX spif: <http://spinrdf.org/spif#>
+PREFIX schema: <http://schema.org/>
+INSERT {
+  graph<http://id.euskadi.eus/catalogo/spits>{
+	?mainUri a ?spit ;
+	schema:City ?Poblacion ;
+	schema:State ?Provincia ;
+	geo:lat ?Latitud ;
+	geo:long ?Longitud .
+  }
+  } WHERE {
+  service<http://localhost:7200/rdf-bridge/1810998186867>{
+	?row a mydata:Row ;
+		mydata:Poblacion ?Poblacion ;
+  		mydata:PoblacionUri ?PoblacionUri ;
+		mydata:Provincia ?Provincia ;
+  		mydata:ProvinciaUri ?ProvinciaUri ;
+		mydata:Latitud ?Latitud ;
+		mydata:Longitud ?Longitud .
+  }
+	# Example construction of new IRIs for each row
+  BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/spits/{?1}-{?2}", ENCODE_FOR_URI(?PoblacionUri) , ENCODE_FOR_URI(?ProvinciaUri))) AS ?mainUri)
+  BIND(IRI("http://id.euskadi.eus/resource/euskadipedia/spit") as ?spit)
+
+} 
