@@ -1,0 +1,125 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column NombreUri at index 1 based on column Nombre using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "NombreUri",
+    "columnInsertIndex": 1,
+    "baseColumnName": "Nombre",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column NombreUri using expression grel:value.replace(\" \",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "NombreUri",
+    "expression": "grel:value.replace(\" \",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column NombreUri using expression grel:value.replace(\".\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "NombreUri",
+    "expression": "grel:value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column NombreUri using expression grel:value.replace(\",\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "NombreUri",
+    "expression": "grel:value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Lugar Muerte to LugarMuerte",
+    "oldColumnName": "Lugar Muerte",
+    "newColumnName": "LugarMuerte"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column VencidadUri at index 3 based on column Vecindad using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "VencidadUri",
+    "columnInsertIndex": 3,
+    "baseColumnName": "Vecindad",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column VencidadUri using expression grel:value.replace(\" \",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "VencidadUri",
+    "expression": "grel:value.replace(\" \",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column NombreUri using expression grel:value.replace(\"�\",\"u\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "NombreUri",
+    "expression": "grel:value.replace(\"�\",\"u\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column LugarMuerteUri at index 5 based on column LugarMuerte using expression grel:value.replace(\" \",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "LugarMuerteUri",
+    "columnInsertIndex": 5,
+    "baseColumnName": "LugarMuerte",
+    "expression": "grel:value.replace(\" \",\"-\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Fecha using expression value.toDate()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Fecha",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
