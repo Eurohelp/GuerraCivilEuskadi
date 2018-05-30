@@ -91,16 +91,16 @@ dbr:Battle_of_Bilbao	geo:geometry	"POINT(-2.9166667461395 43.25)"^^virtrdf:Geome
 		"50,000 troops and militia" ,
 		"15,000 Italian troops" .
 @prefix dbp:	<http://dbpedia.org/property/> .
-dbr:Battle_of_Bilbao	dbp:casualties	"Italy: 105 dead"^^rdf:langString ,
+dbr:Battle_of_Bilbao	dbp:casualties	"Italy: 105 dead"@en ,
 		427 ,
-		"Nationalist Spain: Unknown"^^rdf:langString ,
-		"three missing"^^rdf:langString ;
-	dbp:territory	"Nationalists capture Biscay from the republicans"^^rdf:langString .
+		"Nationalist Spain: Unknown"@en ,
+		"three missing"@en ;
+	dbp:territory	"Nationalists capture Biscay from the republicans"@en .
 @prefix prov:	<http://www.w3.org/ns/prov#> .
 dbr:Battle_of_Bilbao	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Battle_of_Bilbao?oldid=674630208> .
 @prefix georss:	<http://www.georss.org/georss/> .
 dbr:Battle_of_Bilbao	georss:point	"43.25 -2.9166666666666665" ;
-	dbp:caption	"The Northern Front. Bilbao is on the right of the red area."^^rdf:langString ;
+	dbp:caption	"The Northern Front. Bilbao is on the right of the red area."@en ;
 	dbo:abstract	"La batalla de Bilbao tuvo lugar en la ciudad del mismo nombre, la margen derecha de la r\u00EDa y la Sierra del Ganguren entre Bilbao y Gald\u00E1cano durante junio de 1937, en el contexto la Guerra Civil Espa\u00F1ola y, m\u00E1s concretamente, de los combates que estaban teniendo lugar en Vizcaya. Su posesi\u00F3n era elemental para ambos bandos, tanto por su situaci\u00F3n estrat\u00E9gica en la franja cant\u00E1brica controlada por la Rep\u00FAblica, como por sus industrias pesadas y f\u00E1bricas de armas. Despu\u00E9s de una larga y sangrienta ofensiva del Bando sublevado, a principios de junio sus tropas se hallaban frente a la capital vizca\u00EDna, aunque les quedaba superar una \u00FAltima barrera: el Cintur\u00F3n de Hierro."@es ,
 		"The Battle of Bilbao was part of the War in the North, during the Spanish Civil War where the Nationalist Army captured the city of Bilbao and the remaining parts of the Basque Country still held by the Republic."@en ,
 		"La battaglia di Bilbao si svolse nella primavera del 1937 nel quadro della Guerra del Nord durante la guerra civile spagnola."@it ,

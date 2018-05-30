@@ -79,7 +79,7 @@
 		"over 2,000" ,
 		"over 2,000-3,000" .
 @prefix dbp:	<http://dbpedia.org/property/> .
-<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dbp:casualties	"?"^^rdf:langString .
+<http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	dbp:casualties	"?"@en .
 @prefix prov:	<http://www.w3.org/ns/prov#> .
 <http://dbpedia.org/resource/Battle_of_Ir\u00FAn>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Battle_of_Ir\u00FAn?oldid=666592720> .
 @prefix georss:	<http://www.georss.org/georss/> .

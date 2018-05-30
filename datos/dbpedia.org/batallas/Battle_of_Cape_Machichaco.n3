@@ -86,13 +86,13 @@ dbr:Battle_of_Cape_Machichaco	dbp:casualties	1 ,
 dbr:Battle_of_Cape_Machichaco	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Battle_of_Cape_Machichaco?oldid=725822212> .
 @prefix georss:	<http://www.georss.org/georss/> .
 dbr:Battle_of_Cape_Machichaco	georss:point	"43.873894444444446 -2.7382222222222223" ;
-	dbp:caption	"Cape Machichaco"^^rdf:langString ;
+	dbp:caption	"Cape Machichaco"@en ;
 	dbo:abstract	"La batalla del cabo Machichaco fue un enfrentamiento naval que tuvo lugar el 5 de marzo de 1937, durante la Guerra Civil Espa\u00F1ola, entre la Marina de Guerra Auxiliar de Euzkadi (Euzko itsas Gudarostea), la marina del gobierno aut\u00F3nomo vasco, fiel a la Rep\u00FAblica, y el crucero Canarias, perteneciente a la marina franquista, en aguas del cabo Machichaco, frente a las costas de Vizcaya. El 5 de marzo de 1937, el Canarias lleg\u00F3 al Cant\u00E1brico y apres\u00F3 al mercante Galdames, que se dirig\u00EDa a Bilbao con 173 pasajeros (entre refugiados y pol\u00EDticos republicanos, como Manuel Carrasco Formiguera), a la altura del cabo Machichaco. Para ello tuvo que enfrentarse a los bous vascos (barcos bacaladeros armados con ca\u00F1ones), resultando hundido uno de ellos (el Nabarra) y averiados los otros dos."@es ,
 		"The Battle of Cape Machichaco was a naval battle which took place on 5 March 1937 off Bermeo, during the Spanish Civil War, between the Spanish Nationalist heavy cruiser Canarias and four Republican Basque armed trawlers escorting a convoy. The trawlers were protecting the transport ship Galdames, which was sailing to Bilbao with 173 passengers. They were confronted by the rebel cruiser Canarias off Cape Machichaco."@en ;
 	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Matxitxako_cape.JPG?width=300> ;
 	dbo:wikiPageRevisionID	725822212 ;
 	dbo:wikiPageID	32574488 ;
-	dbp:commander	"Salvador Moreno Fern\u00E1ndez"^^rdf:langString ,
+	dbp:commander	"Salvador Moreno Fern\u00E1ndez"@en ,
 		22 ;
 	dbo:place	dbr:Bermeo ,
 		dbr:Spain ,

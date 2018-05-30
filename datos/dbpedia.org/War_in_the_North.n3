@@ -100,7 +100,7 @@ dbr:War_in_the_North	dbo:date	"1937-10-21"^^xsd:date ;
 		"100,000 Nationalist soldiers" ,
 		"40 tanks" .
 @prefix dbp:	<http://dbpedia.org/property/> .
-dbr:War_in_the_North	dbp:casualties	"one battleship"^^rdf:langString ,
+dbr:War_in_the_North	dbp:casualties	"one battleship"@en ,
 		10000 .
 @prefix prov:	<http://www.w3.org/ns/prov#> .
 dbr:War_in_the_North	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/War_in_the_North?oldid=738550403> ;
@@ -108,7 +108,7 @@ dbr:War_in_the_North	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/War_in_th
 		<http://www.speleogroup.org/files/ElMazuco-LaDefensaImposible.pdf> ,
 		<http://www.speleogroup.org/files/ElMazuco-impossible-defence.html> ,
 		<https://web.archive.org/web/20091027111235/http:/es.geocities.com/su_biografia/guerra_civil.htm> ;
-	dbp:caption	"Map of the campaign"^^rdf:langString ;
+	dbp:caption	"Map of the campaign"@en ;
 	dbo:abstract	"A Campanha do Norte foi uma serie de opera\u00E7\u00F5es militares, durante a Guerra Civil Espanhola, na qual as for\u00E7as nacionalistas ocuparam as partes do norte da Espanha que ainda permaneciam leais ao governo republicano. A campanha incluiu v\u00E1rias batalhas separadas. A Campanha da Biscaia resultou na perda de parte do Pa\u00EDs Basco ainda controlada pela Rep\u00FAblica e a Bilbao, o maior centro industrial espanhol. Esta parte da campanha viu o  bombardeio de Durango e o de  Guernica. A Batalha de Santander causou a perda da prov\u00EDncia de Santander na Cant\u00E1bria  e a Batalha de El Mazuco levou \u00E0 captura de parte controlada pelos republicanos da Asturias e a queda de Gij\u00F3n, \u00FAltimo reduto da Rep\u00FAblica no Norte. A campanha terminou no dia 21 de outubro de 1937 com uma vit\u00F3ria nacionalista decisiva e total."@pt ,
 		"The War in the North, in the Spanish Civil War was the campaign in which the Nationalist forces defeated and occupied the parts of northern Spain that remained loyal to the Republican government. The campaign included several separate battles. The Biscay Campaign resulted in the loss of the part of the Basque Country still held by the Republic and Bilbao, the greatest Spanish industrial center. This part of the campaign saw the Bombing of Guernica and Durango. The Battle of Santander caused the loss of the province of Santander in Cantabrian Castile for the Republic. The Battle of El Mazuco lead to the capture of the Republican-controlled part of Asturias and the fall of Gij\u00F3n, the Republic's last stronghold in the North, to the Nationalists. The campaign ended on October 21, 1937 with a decisive and total Nationalist victory."@en ,
 		"Der Krieg im Norden fand w\u00E4hrend des Spanischen B\u00FCrgerkriegs im Norden Spaniens zwischen dem 31. M\u00E4rz 1937 und dem 21. Oktober 1937 statt. Die nationalistischen Kr\u00E4fte unter Franco besiegten dabei in mehreren Schlachten die republikanischen Truppen."@de ,

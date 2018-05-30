@@ -80,7 +80,7 @@ dbr:Villarreal_Offensive	geo:geometry	"POINT(-2.6333334445953 42.966667175293)"^
 		"25 guns" ,
 		"600 men" .
 @prefix dbp:	<http://dbpedia.org/property/> .
-dbr:Villarreal_Offensive	dbp:casualties	"?"^^rdf:langString .
+dbr:Villarreal_Offensive	dbp:casualties	"?"@en .
 @prefix prov:	<http://www.w3.org/ns/prov#> .
 dbr:Villarreal_Offensive	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Villarreal_Offensive?oldid=679149729> .
 @prefix georss:	<http://www.georss.org/georss/> .
