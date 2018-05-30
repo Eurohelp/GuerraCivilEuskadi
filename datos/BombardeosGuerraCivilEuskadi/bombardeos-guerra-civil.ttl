@@ -1,5 +1,7 @@
 <http://id.euskadi.eus/public-sector/history/bombardment/andoain26-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.22015890576295"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.0200792537391847"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Andoain"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -9,6 +11,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ondarroa29-10-1936-21-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.319460289028754"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.422916278216525"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ondarroa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -19,6 +23,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urkaregi17-10-1936-21-10-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.23972746013803"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4440296482328074"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urkaregi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -29,6 +35,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/berriatua21-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31175469601234"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.465484957626874"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Berriatua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -38,6 +46,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/akarregi14-10-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.27557310597095"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.475242268525237"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Akarregi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -47,6 +57,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/etxebarria26-04-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.254183922324216"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.476417308100992"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Etxebarria"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -57,6 +69,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mendexa23-10-1936-27-10-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.34632016020842"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4873308574537925"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Mendexa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -67,6 +81,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/markina-29-09-1936-26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26863057497365"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.497990288314844"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Markina"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"20"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -77,6 +93,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ermua24-09-1936-25-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.18672307562969"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.502602191905672"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ermua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -87,6 +105,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lekeitio-22-10-1936-30-10-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.36349388485277"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5029854897467585"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lekeitio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -97,6 +117,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/kanpantzar24-10-1936-26-10-1936-05-11-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.09649151471518"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.50499356254171"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Kanpantzar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -108,6 +130,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/kanpantzar-01-10-1936-01-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.0970912282771"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.505765362661843"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Kanpantzar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -118,6 +142,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elorrio-12-11-1936-25-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.130650134384084"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.544876619327683"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Elorrio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-11-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -128,6 +154,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zaldibar29-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.16906498986113"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5487126709251573"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zaldibar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -137,6 +165,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bolibar26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.24987626972141"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5493679025649087"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bolibar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -146,6 +176,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/tellamendi-07-04-1937-22-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.0670744664168"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.560504764428215"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Tellamendi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -156,6 +188,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/memaia22-04-1937-23-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.10406257215944"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.558330106358569"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Memaia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -166,6 +200,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amillondo07-04-1937-08-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.04868587188337"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5669296725048274"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Amillondo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -176,6 +212,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/aulesti16-11-1936-18-11-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.297046266004216"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5626258410354827"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Aulesti"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-11-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -186,6 +224,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/berriz-29-09-1936-17-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.17489279263173"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.577048655372159"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Berriz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -196,6 +236,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gaztelumendi11-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.19522486756361"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5765730861887337"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gaztelumendi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -205,6 +247,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-oiz26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.22756492868808"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.591320669472269"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Oiz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -214,6 +258,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/apatamonasterio22-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.129690863519556"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.584164763453038"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Apatamonasterio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -223,6 +269,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/munitibar26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26560771354318"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5922166162941975"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Munitibar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -232,6 +280,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/isuskitza02-12-1936-03-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.97118376514407"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.593409798482832"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Isuskitza"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -242,6 +292,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/anboto20-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.08792882341815"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5962491812094344"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Anboto"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -251,6 +303,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arangio04-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.05370771342843"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5953547966939032"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arangio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -260,6 +314,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-jarindo09-10-1936-31-03-1937-04-04-1937republicano-y-franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.998085087766434"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.605622980584958"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Jarindo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -271,6 +327,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/axpe22-04-1937-10-05-1937-12-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.11659438606776"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5974618459477323"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Axpe"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -282,6 +340,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/akorda-bollar17-10-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.34726389168841"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.608782800195804"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Akorda-Bollar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-10-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -291,6 +351,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ullibarri-ganboa10-03-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.93781251560984"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6077734275860176"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ullibarri-Ganboa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -300,6 +362,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/durango-25-09-1936-29-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.16529154066121"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.631707444311583"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Durango"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"14"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -310,6 +374,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urbina10-03-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.94363157565206"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.63782725978205"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urbina"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -319,6 +385,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/abadiãƒâ±o29-09-1936-22-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.15144025095592"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6102724911816892"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"AbadiÃƒÂ±o"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -329,6 +397,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/tantaibakar05-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.01770849418338"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6288903658047595"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Tantaibakar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -338,6 +408,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/villarreal-legutiano-26-08-1936-31-03-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.980029193570296"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6423072744263325"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Villarreal-Legutiano"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"20"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -348,6 +420,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urkiola-02-04-1937-17-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.10069634516611"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.646372591119945"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urkiola"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -358,6 +432,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urrutxua20-05-1937-22-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.257625630024684"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6378604091916795"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urrutxua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -368,6 +444,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/villareal26-08-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.980016917183654"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.64219125170959"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Villareal"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"null"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -377,6 +455,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/otxandiano-22-07-1936-25-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.03995806769819"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6544755460077627"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Otxandiano"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"15"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-07-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -387,6 +467,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/maãƒâ±aria-02-04-1937-15-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.1391631041016"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.659719955614938"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>" MaÃƒÂ±aria"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -397,6 +479,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arratzu26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31361354678293"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6462804517327942"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arratzu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -406,6 +490,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga27-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.352887250117"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.649521126155989"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gautegiz-Arteaga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -415,6 +501,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz-17-09-1936-29-05-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.84940723486813"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6727064558586364"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Vitoria-Gasteiz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"10"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -425,6 +513,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ajangiz26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.30050623384947"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.673723837821718"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ajangiz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -434,6 +524,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/betolaza15-12-1936-21-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.93870862597411"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6664003900988478"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Betolaza"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -444,6 +536,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sebigain05-04-1937-06-04-1937-13-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.09868528981928"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6670375114344114"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sebigain"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -455,6 +549,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urremendi03-05-1937-10-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21766018535638"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.678317676207287"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urremendi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -465,6 +561,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elosu-01-12-1936-19-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.975396434998494"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.678731614629527"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Elosu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"11"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -475,6 +573,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/montxotegi04-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.026387056286644"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.676060908091267"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Montxotegi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -484,6 +584,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ibarruri30-04-1937-02-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.24080427238833"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.674844133672967"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ibarruri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -494,6 +596,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeos-de-la-carretera-entre-otxandiano-y-dima13-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.07886367219453"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6877072548701038"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeos de la carretera entre Otxandiano y Dima"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -503,6 +607,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/muxika09-05-1937-10-05-1937-14-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.27125486978039"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.685623571211609"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Muxika"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -514,6 +620,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mugarra22-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.15143277316295"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.680793046709281"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Mugarra"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -523,6 +631,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gernika26-04-1937-27-04-1937-29-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31388281837782"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6788478887039546"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gernika"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -534,6 +644,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zestafe18-12-1936-20-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.971202011629785"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.705190648690365"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zestafe"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -544,6 +656,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/altun06-04-1937-07-04-1937-22-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.079355862445716"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7031413107988116"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Altun"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -555,6 +669,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mundaka03-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.408236497647245"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6994190355700174"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Mundaka"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -564,6 +680,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeo-del-aerãƒâ³dromo-de-lakua12-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.85997793157914"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.6905592395262876"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeo del aerÃƒÂ³dromo de Lakua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -573,6 +691,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/okoizta-10-12-1936-21-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.976061186506776"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.713176592665492"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Okoizta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -583,6 +703,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeo-del-alto-de-barazar29-07-1936-18-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.07014455330496"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7106385577757712"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeo del Alto de Barazar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-07-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -593,6 +715,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorostiza13-12-1936-14-12-1936-16-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.98698249503928"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7080931977365363"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gorostiza"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -604,6 +728,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/euba09-04-1937-28-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.192078960045464"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7046461082354476"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Euba"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -614,6 +740,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bermeo-09-04-1937-26-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.42014736117488"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7254793829015385"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bermeo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"9"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -624,6 +752,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-13-04-1937-13-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21802372559141"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7314811439826463"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Amorebieta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"20"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -634,6 +764,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ondategi-16-12-1936-19-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.95794653042365"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7330455857465306"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ondategi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -644,6 +776,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/murua01-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.97693377260963"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7381863655786627"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Murua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -653,6 +787,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorbei-txiki-14-12-1936-06-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.00966720843318"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7242132831490466"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gorbei-Txiki"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -663,6 +799,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/etxaguen02-12-1936-10-12-1936-16-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.98435987155439"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7244204903137734"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Etxaguen"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -674,6 +812,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/aãƒâ±etu06-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.37590777579683"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7233416461714364"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"AÃƒÂ±etu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -683,6 +823,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/erriogiti-26-04-1937-10-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.318697379052786"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.725198874553971"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Erriogiti"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -693,6 +835,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/dima-06-04-1937-23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.14381755676975"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.754180852784059"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Dima"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -703,6 +847,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-truende08-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.40251682126495"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.755830817584108"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Truende"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -712,6 +858,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gonga02-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.00430783357614"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.760498655342972"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gonga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -721,6 +869,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sollube-03-05-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.37091713345396"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.763773112492145"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sollube"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"13"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -731,6 +881,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-bizkargi-09-05-1937-04-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.275429239408545"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.740648474598112"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Bizkargi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"11"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -741,6 +893,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/morga12-05-1937-15-05-1937-11-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.314951163233346"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7483293698190066"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Morga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -752,6 +906,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zeanuri-02-04-1937-10-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.060688822788855"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.749727578260709"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zeanuri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -762,6 +918,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/itxerango29-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.220853291246996"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.750421376608699"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Itxerango"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -771,6 +929,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lemoa-08-05-1937-13-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21161090488378"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.779391722741213"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lemoa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"9"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -781,6 +941,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/igorre-06-04-1937-29-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.16417399757341"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7775497871180654"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Igorre"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -791,6 +953,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/artea06-04-1937-11-05-1937-23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.13288304902547"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7885206137882417"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Artea"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -802,6 +966,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-02-04-1937-29-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.03391283537541"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.781178138836873"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gorbeia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -812,6 +978,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/areatza-02-04-1937-23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.12100762510659"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.770260028761484"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Areatza"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -822,6 +990,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrieta03-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.341621963582575"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7646038847531393"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arrieta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -831,6 +1001,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-urkulu22-05-1937-28-05-1937-11-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29198970622494"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7725759324947106"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Urkulu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -842,6 +1014,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lemoatx-29-05-1937-10-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21882009272758"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.772416458399932"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lemoatx"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -852,6 +1026,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika11-06-1937-12-06-1937-13-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31037652146549"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8090582725451023"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gamiz-Fika"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -863,6 +1039,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bedia-04-01-1937-07-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.20800368634911"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8024807492349306"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bedia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -873,6 +1051,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-tollu12-05-1937-14-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.38661884088381"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8136016526671446"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Tollu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -883,6 +1063,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/larrauri03-05-1937-17-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.36580604865148"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.813240337817161"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Larrauri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-03"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -893,6 +1075,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu-29-04-1937-11-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26104289565506"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7961445217100556"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Larrabetzu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -903,6 +1087,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/fruiz-14-05-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.32551459646251"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7926077082470218"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Fruiz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -913,6 +1099,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-kantoibaso11-06-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29135965828041"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8001779486392313"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Kantoibaso"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-11"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -923,6 +1111,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-apario29-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.19130665693264"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.7980787188119374"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Apario"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -932,6 +1122,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-gondramendi19-05-1937-20-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.375355358375586"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8421885024262448"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Gondramendi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-19"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -942,6 +1134,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/burbona26-05-1937-31-05-1937-07-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.023255306253006"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8444603415266227"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Burbona"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -953,6 +1147,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/galdakao-04-01-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.230045308064064"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.839986743327565"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Galdakao"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"18"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -963,6 +1159,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-jata-12-05-1937-19-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.404018101365324"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.842046294479925"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Jata"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -973,6 +1171,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urrrusti13-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.30287898994885"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8254234024818397"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urrrusti"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -982,6 +1182,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lezama-21-05-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.273362812966454"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.835234711781666"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lezama"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -992,6 +1194,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bakio12-05-1937-14-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.4263056028382"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8143715498202364"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bakio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1002,6 +1206,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/usãƒâ¡nsolo01-04-1937-09-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21912463923976"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.81856106846284"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"UsÃƒÂ¡nsolo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1012,6 +1218,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gatika21-05-1937-24-05-1937-10-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.36293856933472"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8735164192575837"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gatika"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1023,6 +1231,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/altube26-5-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.99528264084804"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8750091395322417"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Altube"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-5-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1032,6 +1242,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zamudio-05-05-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.28449064263543"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8663580808248326"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zamudio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1042,6 +1254,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zaratamo-24-04-1937-13-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.211412867264315"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8734122110978584"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zaratamo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1052,6 +1266,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/orozko15-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.11111745786114"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8632729545823836"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Orozko"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1061,6 +1277,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe12-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.38489990683115"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8647541862075356"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Maruri-Jatabe"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1070,6 +1288,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mungia-01-05-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.354450422092945"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.846698650108325"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Mungia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"19"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1080,6 +1300,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zeberio-29-04-1937-24-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.148506778602034"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8535143247740984"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zeberio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1090,6 +1312,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/artxanda-14-06-1937-17-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.27480009982861"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9185809702850034"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Artxanda"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1100,6 +1324,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeos-de-la-zona-de-ibaizabal07-05-1937-11-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.24532029118057"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9055630466851885"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeos de la zona de Ibaizabal"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1110,6 +1336,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/malmasin15-06-1937-16-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.227347797688765"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9027708359765403"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Malmasin"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1120,6 +1348,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ugao-miravalles-09-04-1937-16-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.1794853314599"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.901836244276805"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ugao-Miravalles"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"12"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1130,6 +1360,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga-09-04-1937-29-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.207554510569146"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.888046215721064"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arrigorriaga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1140,6 +1372,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/derio07-05-1937-19-05-1937-12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.292101101158586"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.885929047675976"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Derio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-07"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1151,6 +1385,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/basauri-25-09-1936-16-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.236644141130995"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.882657373481347"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Basauri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1161,6 +1397,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/andotoleta26-05-1937-31-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.01936226270521"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.8758359574934533"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Andotoleta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1171,6 +1409,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/plentzia14-05-1937-23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.40462748993057"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9464248820728254"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Plentzia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1181,6 +1421,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pagasarri02-04-1937-17-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.217890836547625"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9448755574541625"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Pagasarri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1191,6 +1433,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/uzkiano24-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.99970391323073"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.943767047644361"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Uzkiano"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1200,6 +1444,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/loiu14-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31380536743911"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9392676510724183"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Loiu"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1209,6 +1455,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bilbao-25-09-1936-19-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.263017627053955"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.934995214402033"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bilbao"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"40"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1219,6 +1467,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorliz12-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.4134623384989"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.934324357205706"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gorliz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1228,6 +1478,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sondika-24-04-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29806765347878"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9260212324528654"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sondika"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"17"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1238,6 +1490,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga15-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.17393361288116"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9235754002447774"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arrankudiaga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-15"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1247,6 +1501,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/luyando01-01-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.10279353201038"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.997416573157363"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Luyando"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1256,6 +1512,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/berango24-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.36440964428395"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9973799288127982"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Berango"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1265,6 +1523,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/leioa-31-08-1936-16-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.321003664991906"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.004144698698492"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Leioa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"22"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1275,6 +1535,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amurrio26-05-1937-31-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.05358082126767"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9998868469564273"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Amurrio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1285,6 +1547,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/getxo24-04-1937-29-04-1937-30-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.338779013065626"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.00590333604742"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Getxo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1296,6 +1560,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/neguri13-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.338593089732306"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0048913991542965"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Neguri"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1305,6 +1571,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/orduãƒâ±a-31-12-1936-07-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.99443735839283"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0100111249938175"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"OrduÃƒÂ±a"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1315,6 +1583,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/areeta-22-04-1937-13-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.328771761738636"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0092163874940066"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Areeta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1325,6 +1595,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/txibiarte26-05-1937-27-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.0081631744596"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9510002354509486"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Txibiarte"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1335,6 +1607,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/erandio-04-01-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.30383375691087"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9473640592157713"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Erandio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"10"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1345,6 +1619,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/laudio24-05-1937-14-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.14007551674298"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9641676387539366"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Laudio"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1355,6 +1631,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/asua14-06-1937-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29742125184578"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.954222293380596"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Asua"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1365,6 +1643,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi13-05-1937-13-06-1937-19-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.24094818181043"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.987751791245489"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Alonsotegi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1376,6 +1656,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sopela23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.38073824282397"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9815819415142437"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sopela"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1385,6 +1667,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sestao-04-01-1937-23-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31052264374865"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.994945530091461"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sestao"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-01-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1395,6 +1679,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/barakaldo-25-09-1936-18-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29494324683427"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.9910573704621677"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Barakaldo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"10"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1405,6 +1691,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ortuella16-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.309910346122386"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.05541471567653"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Ortuella"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1414,6 +1702,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gallarta08-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31617438145609"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0751694127336835"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Gallarta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1423,6 +1713,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena-29-04-1937-17-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.319234744743106"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.097690628715575"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Abanto-Zierbena"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1433,6 +1725,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zalla-13-05-1937-25-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.210839205265565"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.1188352601008966"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zalla"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1443,6 +1737,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/muskiz13-06-1937-30-06-1937-01-07-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.322383702931695"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.123119390361697"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Muskiz"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1454,6 +1750,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/beratza-artziniega-26-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.12158687246922"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.1300398866632637"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Beratza (Artziniega)"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1463,6 +1761,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sopuerta22-06-1937-25-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26129857874397"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.154097401313555"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Sopuerta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1473,6 +1773,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/balmaseda-21-06-1937-14-08-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.19313831019622"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.196915657603684"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Balmaseda"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1483,6 +1785,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/algorta13-05-1937-26-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.346996799605435"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.010624256663858"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Algorta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1493,6 +1797,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeo-de-la-zona-internacional-en-las-arenas21-10-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.328536577818994"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0152239828870675"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeo de la Zona Internacional en Las Arenas"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1502,6 +1808,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/portugalete-31-08-1936-15-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.320054413337154"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.016924189252101"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Portugalete"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1512,6 +1820,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gãƒâ¼eãƒâ±es14-06-1937-22-06-1937-25-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.223375129650826"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0226430960716426"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"GÃƒÂ¼eÃƒÂ±es"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-14"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1523,6 +1833,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zaramillo13-06-1937franuiqsta><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.239681223334024"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0283581310332037"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zaramillo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-13"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1532,6 +1844,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/santurtzi-08-08-1936-20-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.32938712064132"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0322440413706704"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Santurtzi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"6"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1542,6 +1856,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/txarlazo31-05-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.982246819104496"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0372340542555536"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Txarlazo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-05-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1551,6 +1867,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/trapagaran16-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.30429217586893"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.0378260926275797"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Trapagaran"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-16"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1560,6 +1878,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebastian-12-08-1936-11-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31469239262327"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9908040761072612"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Donostia-San Sebastian"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"7"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1570,6 +1890,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebastian27-09-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.314895336995754"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9825213901494092"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Donostia-San Sebastian"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1579,6 +1901,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/deba09-10-1936-24-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29486474679779"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.353742281049089"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Deba"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1589,6 +1913,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bidania10-09-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.13964660268876"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.15932976606319"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bidania"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1598,6 +1924,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elgeta25-10-1936-30-10-1936-22-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.13743224713822"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.486976310831276"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Elgeta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-25"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1609,6 +1937,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elgeta-08-10-1936-24-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.13912326862013"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.486235996395036"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Elgeta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"8"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1619,6 +1949,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/eibar-29-08-1936-25-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.186234798685035"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.46540753075727"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Eibar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"18"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-29"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1629,6 +1961,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/igeldo-y-san-marcos06-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.32138610565713"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.0095741982944753"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Igeldo y San Marcos"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-06"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1638,6 +1972,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/angiozar30-10-1936-17-12-1936-19-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.11357975624507"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4720749271751603"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Angiozar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-30"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1649,6 +1985,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/angiozar17-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.11370691690923"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.472581262247711"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Angiozar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1658,6 +1996,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/karrantza-17-06-1937-02-07-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.242031481354225"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.3638133060901163"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Karrantza"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1668,6 +2008,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/artzentales-22-06-1937-02-07-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.238248675686506"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.231614008209371"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Artzentales"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-06-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1678,6 +2020,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bergara-05-10-1936-09-04-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.119211661178944"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.41192880292023"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bergara"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1688,6 +2032,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bergara28-12-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.1155893180005"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4131657759181095"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bergara"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1697,6 +2043,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrasate21-10-1936-17-12-1936-19-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.065938951009194"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4866244807659994"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arrasate"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1708,6 +2056,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrasate-26-10-1936-24-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.07818575629772"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.513987967313754"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Arrasate"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"8"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1718,6 +2068,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeo-de-los-cuarteles-de-loyola-donostia-27-07-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.309886374591414"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9661372798080134"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeo de los Cuarteles de Loyola (Donostia)"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-07-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1727,6 +2079,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-murugain02-04-1937-04-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.05229843030347"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.529398429570387"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Murugain"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-02"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1737,6 +2091,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga10-03-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"42.98675304112059"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.5685156658087376"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Leintz-Gatzaga"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-03-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1746,6 +2102,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lezo26-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.32119017109809"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.899803389046937"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lezo"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1755,6 +2113,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pasaia04-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.320170038205696"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9080605028105735"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Pasaia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1764,6 +2124,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pasaia12-08-1936-19-08-1936-01-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.32457635021348"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9283814634654286"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Pasaia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"3"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-12"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1775,6 +2137,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mutriku24-10-1936-23-12-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.30644029257394"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.3849588096630665"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Mutriku"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-24"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1785,6 +2149,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/oiartzun08-08-1936-09-08-1936-11-08-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.299012159151765"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.8603191226098021"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Oiartzun"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"null"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1796,6 +2162,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/intxorta-01-04-1937-24-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.13048570114413"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4992656566155325"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Intxorta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1806,6 +2174,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/irun28-08-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.33916712666336"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.7896184568835065"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Irun"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1815,6 +2185,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elgoibar31-03-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.21507874778615"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4150022985668707"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Elgoibar"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-03-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1824,6 +2196,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/hernani-20-08-1937-11-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26766195408631"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.9740740807319264"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Hernani"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"4"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-08-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1834,6 +2208,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-karabieta18-11-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.14821563247795"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.4804799790531407"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Karabieta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-11-18"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1843,6 +2219,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lasarte-27-08-1936-11-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.26850705142196"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.0201002827183743"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Lasarte"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"5"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-27"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1853,6 +2231,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/irun-20-08-1936-04-09-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.338480492105475"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.7981372029244025"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Irun"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"13"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1863,6 +2243,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel10-09-1936republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.34508629937447"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.8562406720572318"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Jaizkibel"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1872,6 +2254,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zumaia23-12-1937republicano><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.29654295508591"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.2584855117465583"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Zumaia"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-12-23"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1881,6 +2265,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/urnieta28-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.247940877568055"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.990661102175164"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Urnieta"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-28"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1890,6 +2276,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/tolosa01-08-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.134842549840606"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.075125034600915"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Tolosa"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-08-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1899,6 +2287,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/errenteria01-09-1936-26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.31264076199007"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-1.89861271355048"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Errenteria"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-09-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1909,6 +2299,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/monte-urko26-04-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.201404210637904"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.487043750749297"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Monte Urko"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"1"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1937-04-26"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -1918,6 +2310,8 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bombardeo-de-la-zona-de-urkaregi17-10-1936-21-10-1936franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.23975876645047"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-2.443686375876638"^^<http://www.w3.org/2001/XMLSchema#double> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/resource/Aerial_bombing_of_cities> ;
 <http://schema.org/location>"Bombardeo de la zona de Urkaregi"^^<http://www.w3.org/2001/XMLSchema#string> ;
 <http://id.euskadi.eus/def/euskadipedia/numerobombardeos>"2"^^<http://www.w3.org/2001/XMLSchema#int> ;
 <http://dbpedia.org/property/date>"1936-10-17"^^<http://www.w3.org/2001/XMLSchema#date> ;
