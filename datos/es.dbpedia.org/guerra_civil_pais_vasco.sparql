@@ -1,0 +1,7 @@
+# http://es.dbpedia.org/sparql
+
+PREFIX dcterms:<http://purl.org/dc/terms/>
+
+SELECT ?x WHERE{
+   ?x dcterms:subject <http://es.dbpedia.org/resource/Categoría:Guerra_Civil_Española_en_el_País_Vasco> 
+}
