@@ -1,0 +1,9 @@
+PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+select * where { 
+	?person dbo:deathPlace ?place .
+    ?person dbo:date"1939-09-28"^^xsd:date .
+    ?person foaf:name ?name
+} 
