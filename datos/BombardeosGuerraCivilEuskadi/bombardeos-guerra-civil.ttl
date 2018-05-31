@@ -1,5 +1,3 @@
-<http://purl.org/dc/terms/source>"Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal"^^<http://www.w3.org/2001/XMLSchema#string> .
-
 <http://id.euskadi.eus/public-sector/history/bombardment/zalla-13-05-1937-25-06-1937franquista><http://www.w3.org/2003/01/geo/wgs84_pos#lat>"43.210839205265565"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/2003/01/geo/wgs84_pos#long>"-3.1188352601008966"^^<http://www.w3.org/2001/XMLSchema#double> ;
 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type><http://dbpedia.org/ontology/MilitaryConflict> ;
