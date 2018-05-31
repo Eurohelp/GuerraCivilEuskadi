@@ -1,0 +1,16 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/> 
+PREFIX eli: <http://data.europa.eu/eli/ontology#> 
+PREFIX graph:<http://data.euskadi.eus/graph/>
+
+SELECT  DISTINCT ?legeguneaurl ?title 
+WHERE {
+	GRAPH graph:bopv-european-legislation-identifier-eli {
+		?legalresource eli:date_publication "1936-10-09"^^xsd:date .
+		?legalresource eli:is_realized_by ?legalexpresion .
+        ?legalexpresion eli:language  <http://publications.europa.eu/resource/authority/language/SPA> .
+    	?legalexpresion eli:title ?title .
+		?eliformat eli:embodies ?legalexpresion .
+		?eliformat schema:mainEntityOfPage ?legeguneaurl .
+	}
+}
