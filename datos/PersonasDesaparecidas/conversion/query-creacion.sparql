@@ -10,7 +10,7 @@ GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
     a foaf:Person;
     a schema:Person;
     foaf:name ?Nombre;
-    dbpediaowl:birthPlace ?Vencidad;
+    dbpediaowl:birthPlace ?lugarNacimiento;
     dbpediaowl:deathPlace ?LugarMuerte;
     dbpediaowl:date ?Fecha;
     ?modoMuerte ?tipoModoMuerte.
@@ -21,7 +21,7 @@ GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
 	?row a mydata:Row ;
 		mydata:Nombre ?Nombre ;
 		mydata:NombreUri ?NombreUri ;
-		mydata:Vecindad ?Vecindad ;
+		mydata:LugarNacimiento ?lugarNacimiento ;
 		mydata:VencidadUri ?VencidadUri ;
 		mydata:LugarMuerte ?LugarMuerte ;
   		mydata:LugarMuerteUri ?LugarMuerteUri ;

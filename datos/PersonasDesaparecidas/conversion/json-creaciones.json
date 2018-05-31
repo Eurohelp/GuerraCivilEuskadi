@@ -121,5 +121,37 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ModoUri at index 8 based on column Modo using expression grel:value.replace(\" \", \"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "ModoUri",
+    "columnInsertIndex": 8,
+    "baseColumnName": "Modo",
+    "expression": "grel:value.replace(\" \", \"-\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Vecindad using expression value.toString()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Vecindad",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Vecindad to LugarNacimiento",
+    "oldColumnName": "Vecindad",
+    "newColumnName": "LugarNacimiento"
   }
 ]
