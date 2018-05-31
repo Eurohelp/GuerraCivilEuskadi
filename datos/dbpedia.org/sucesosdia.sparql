@@ -1,0 +1,9 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT * 
+FROM <http://data.euskadi.eus/graph/dbpedia>
+where { 
+	?dbpediaresource dbo:date "1937-05-06"^^xsd:date .
+    OPTIONAL {?dbpediaurl foaf:primaryTopic ?dbpediaresource} .
+    OPTIONAL {?dbpediaresource foaf:isPrimaryTopicOf ?dbpediaurl2}
+} 

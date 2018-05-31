@@ -1,0 +1,6 @@
+PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+select * where { 
+	?place geo-pos:lat "43.21658888"^^xsd:double .
+    ?place geo-pos:long "-2.737325"^^xsd:double .
+}
