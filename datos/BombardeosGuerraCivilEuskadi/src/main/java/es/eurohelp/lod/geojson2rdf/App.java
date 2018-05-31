@@ -17,7 +17,6 @@ public class App {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
         JSONParser parser = new JSONParser();
-        System.err.println(new FileReader("bombardeos-guerra-civil.geojson").getEncoding());
         JSONObject obj = (JSONObject) parser
                 .parse(new InputStreamReader(new FileInputStream("bombardeos-guerra-civil.geojson"), "UTF8"));
         JSONArray features = (JSONArray) obj.get("features");
