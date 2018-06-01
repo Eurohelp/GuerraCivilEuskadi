@@ -7,3 +7,8 @@
 * Battle_of_Cape_Machichaco dbr:Battle_of_Cape_Machichaco
 * Battle_of_Irún <http://dbpedia.org/resource/Battle_of_Ir\u00FAn>
 * es.dbpedia.org.resource.Batalla_de_sollube <http://es.dbpedia.org/resource/Batalla_de_Sollube> [foaf:isPrimaryTopicOf instead of foaf:primaryTopic]
+
+* Bombardeos
+* Fosas comunes
+* Personas desaparecidas
+* Normas legegunea
