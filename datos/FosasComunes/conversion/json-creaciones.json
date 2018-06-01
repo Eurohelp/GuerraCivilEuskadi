@@ -1,6 +1,12 @@
 [
   {
     "op": "core/column-rename",
+    "description": "Rename column PoblacionUri to PoblacionUriDbpedia",
+    "oldColumnName": "PoblacionUri",
+    "newColumnName": "PoblacionUriDbpedia"
+  },
+  {
+    "op": "core/column-rename",
     "description": "Rename column Poblaci�n to Poblacion",
     "oldColumnName": "Poblaci�n",
     "newColumnName": "Poblacion"
