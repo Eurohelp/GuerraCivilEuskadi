@@ -1,0 +1,3 @@
+
+<http://id.euskadi.eus/public-sector/history/missing-person/Abad-Fernandez-Jesus-Balmaseda-Prision-de-Astorga> a <http://schema.org/Person> , <http://id.euskadi.eus/def/euskadipedia/missing-person> , <http://xmlns.com/foaf/0.1/Person> .
+<http://id.euskadi.eus/public-sector/history/missing-person/Abad-Fernandez-Jesus-Balmaseda-Prision-de-Astorga> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Bilbao> .
