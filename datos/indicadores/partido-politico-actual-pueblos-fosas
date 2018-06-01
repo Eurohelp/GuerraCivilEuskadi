@@ -1,0 +1,15 @@
+# ¿Cual es el partido politico actual en poder en pueblos que han tenido fosas comunes?
+
+PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX schema:<http://schema.org/>
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT *
+WHERE {
+    ?fosa rdf:type <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> .
+	?fosa schema:location ?pueblofosa .
+	SERVICE <https://dbpedia.org/sparql> {
+		?pueblofosa dbo:leaderParty ?party .
+	}
+}
