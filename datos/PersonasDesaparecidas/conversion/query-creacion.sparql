@@ -10,20 +10,24 @@ GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
     a foaf:Person;
     a schema:Person;
     foaf:name ?Nombre;
-    dbpediaowl:birthPlace ?lugarNacimiento;
-    dbpediaowl:deathPlace ?LugarMuerte;
+    dbpediaowl:birthPlace ?uriDbpediaLugNac;
+    dbpediaowl:deathPlace ?uriDbpediaLugMuert;
+    rdfs:comment ?lugarNacimiento;
+    rdfs:comment ?LugarMuerte;
     dbpediaowl:date ?Fecha;
     ?modoMuerte ?tipoModoMuerte.
     ?tipoModoMuerte rdfs:label ?Modo.
   }
 } WHERE {
-  service<http://localhost:7200/rdf-bridge/1691332933099>{
+  service<http://localhost:7200/rdf-bridge/1973703287064>{
 	?row a mydata:Row ;
 		mydata:Nombre ?Nombre ;
 		mydata:NombreUri ?NombreUri ;
 		mydata:LugarNacimiento ?lugarNacimiento ;
 		mydata:VencidadUri ?VencidadUri ;
 		mydata:LugarMuerte ?LugarMuerte ;
+  		mydata:VecindadUriDbpedia ?VecindadUriDbpedia;  		
+        mydata:LugarMuerteUriDbpedia ?LugarMuerteUriDbpedia;
   		mydata:LugarMuerteUri ?LugarMuerteUri ;
 		mydata:Fecha ?Fecha ;
 		mydata:Modo ?Modo ;
@@ -32,6 +36,8 @@ GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
   BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/missing-person/{?1}-{?2}-{?3}", ENCODE_FOR_URI(?NombreUri),ENCODE_FOR_URI(?VencidadUri), ENCODE_FOR_URI(?LugarMuerteUri))) as ?mainUri)
   BIND(IRI("http://id.euskadi.eus/def/euskadipedia/missing-person") as ?personasDesaparecida)
   BIND(IRI("http://id.euskadi.eus/def/euskadipedia/death-mode") as ?modoMuerte)
+  BIND(IRI(?VecindadUriDbpedia) as ?uriDbpediaLugNac)
+  BIND(IRI(?LugarMuerteUriDbpedia) as ?uriDbpediaLugMuert)
   BIND(IRI(spif:buildString("http://id.euskadi.eus/resource/euskadipedia/death-mode/{?1}", ENCODE_FOR_URI(?ModoUri))) as ?tipoModoMuerte)
 
 

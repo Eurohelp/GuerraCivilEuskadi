@@ -17,9 +17,9 @@ public class App {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
         JSONParser parser = new JSONParser();
-        JSONObject obj = (JSONObject) parser
-                .parse(new InputStreamReader(new FileInputStream("bombardeos-guerra-civil.geojson"), "UTF8"));
-        JSONArray features = (JSONArray) obj.get("features");
+        JSONArray obj = (JSONArray) parser
+                .parse(new InputStreamReader(new FileInputStream("conversion/jsonReconciliado.json"), "UTF8"));
+        JSONArray features = (JSONArray) obj.iterator();
         Iterator<JSONObject> iterator = features.iterator();
         while (iterator.hasNext()) {
             processFeature(iterator.next());
