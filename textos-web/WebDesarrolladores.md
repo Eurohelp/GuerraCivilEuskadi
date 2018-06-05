@@ -104,7 +104,7 @@ Todos los datos en RDF Turtle: [dump.zip](https://github.com/mikel-egana-arangur
 
 # Herramientas usadas
 
-Triple Store: [Blazegraph](https://www.blazegraph.com/).
+Triple Store: [Blazegraph](https://www.blazegraph.com/). La Triple Store se despliega como un war de solo lectura en un ^[container Docker que incluye Tomcat](https://github.com/mikel-egana-aranguren/BlazegraphDocker/tree/READONLY-WAR-BLAZEGRAPH_RELEASE_2_1_4-ConcursoOpenDataEuskadi-2018).
 
 Transformación de datos a RDF:
 * Programas ad-hoc.
