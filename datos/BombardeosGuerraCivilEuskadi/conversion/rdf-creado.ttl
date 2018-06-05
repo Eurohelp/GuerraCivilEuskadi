@@ -353,175 +353,175 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> rdfs:comment "La aviación franquista bombardeó Tolosa, según la crónica del \"Frente Popular\", que no daba más información acerca de las consecuencias del acto. " , "Tolosa, Spain" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://dbpedia.org/ontology/date> "1936-12-21T00:00:00.000Z"^^xsd:dateTime , "1936-10-29T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://dbpedia.org/ontology/date> "1936-12-21"^^xsd:date , "1936-10-29"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-17T00:00:00.000Z"^^xsd:dateTime , "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-17"^^xsd:date , "1936-10-21"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://dbpedia.org/ontology/date> "1936-10-14T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://dbpedia.org/ontology/date> "1936-10-14"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://dbpedia.org/ontology/date> "1937-04-26"^^xsd:date , "1937-06-15"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://dbpedia.org/ontology/date> "1936-10-23T00:00:00.000Z"^^xsd:dateTime , "1936-10-27T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://dbpedia.org/ontology/date> "1936-10-23"^^xsd:date , "1936-10-27"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1936-09-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26"^^xsd:date , "1936-09-29"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1937-04-25T00:00:00.000+01:00"^^xsd:dateTime , "1936-09-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1937-04-25"^^xsd:date , "1936-09-24"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://dbpedia.org/ontology/date> "1936-05-11T00:00:00.000+01:00"^^xsd:dateTime , "1936-10-26T00:00:00.000Z"^^xsd:dateTime , "1936-10-24T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://dbpedia.org/ontology/date> "1936-05-11"^^xsd:date , "1936-10-26"^^xsd:date , "1936-10-24"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://dbpedia.org/ontology/date> "1937-01-04T00:00:00.000Z"^^xsd:dateTime , "1936-01-10T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://dbpedia.org/ontology/date> "1937-01-04"^^xsd:date , "1936-01-10"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1936-12-11T00:00:00.000Z"^^xsd:dateTime , "1937-04-25T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1936-12-11"^^xsd:date , "1937-04-25"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://dbpedia.org/ontology/date> "1937-04-20T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://dbpedia.org/ontology/date> "1937-04-20"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-03-31T00:00:00.000Z"^^xsd:dateTime , "1936-09-10T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04"^^xsd:date , "1937-03-31"^^xsd:date , "1936-09-10"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://dbpedia.org/ontology/date> "1937-04-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "1937-10-05T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://dbpedia.org/ontology/date> "1937-04-22"^^xsd:date , "1937-12-05"^^xsd:date , "1937-10-05"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-13T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04"^^xsd:date , "1937-06-04"^^xsd:date , "1937-04-13"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://dbpedia.org/ontology/date> "1937-04-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://dbpedia.org/ontology/date> "1937-04-13"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://dbpedia.org/ontology/date> "1937-05-14T00:00:00.000+01:00"^^xsd:dateTime , "1937-09-05T00:00:00.000+01:00"^^xsd:dateTime , "1937-10-05T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://dbpedia.org/ontology/date> "1937-05-14"^^xsd:date , "1937-09-05"^^xsd:date , "1937-10-05"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-29T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27"^^xsd:date , "1937-04-26"^^xsd:date , "1937-04-29"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://dbpedia.org/ontology/date> "1937-05-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://dbpedia.org/ontology/date> "1937-05-22"^^xsd:date , "1937-07-04"^^xsd:date , "1937-06-04"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://dbpedia.org/ontology/date> "1936-12-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://dbpedia.org/ontology/date> "1936-12-12"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-12-13T00:00:00.000Z"^^xsd:dateTime , "1936-12-16T00:00:00.000Z"^^xsd:dateTime , "1936-12-14T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-12-13"^^xsd:date , "1936-12-16"^^xsd:date , "1936-12-14"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://dbpedia.org/ontology/date> "1936-01-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://dbpedia.org/ontology/date> "1936-01-12"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-02-12T00:00:00.000Z"^^xsd:dateTime , "1936-10-12T00:00:00.000Z"^^xsd:dateTime , "1936-12-16T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-02-12"^^xsd:date , "1936-10-12"^^xsd:date , "1936-12-16"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://dbpedia.org/ontology/date> "1937-06-05T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://dbpedia.org/ontology/date> "1937-06-05"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://dbpedia.org/ontology/date> "1937-08-05T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://dbpedia.org/ontology/date> "1937-08-05"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://dbpedia.org/ontology/date> "1937-02-04T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://dbpedia.org/ontology/date> "1937-02-04"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-05-15T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-12-05"^^xsd:date , "1937-11-06"^^xsd:date , "1937-05-15"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://dbpedia.org/ontology/date> "1937-11-05T00:00:00.000Z"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-23T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://dbpedia.org/ontology/date> "1937-11-05"^^xsd:date , "1937-06-04"^^xsd:date , "1937-05-23"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-05-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-05-28T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-05-22"^^xsd:date , "1937-11-06"^^xsd:date , "1937-05-28"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-12-06T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13"^^xsd:date , "1937-11-06"^^xsd:date , "1937-12-06"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-31T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-06T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://dbpedia.org/ontology/date> "1937-05-26"^^xsd:date , "1937-05-31"^^xsd:date , "1937-07-06"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://dbpedia.org/ontology/date> "1937-05-24T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-21T00:00:00.000+01:00"^^xsd:dateTime , "1937-10-06T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://dbpedia.org/ontology/date> "1937-05-24"^^xsd:date , "1937-05-21"^^xsd:date , "1937-10-06"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://dbpedia.org/ontology/date> "1937-05-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13"^^xsd:date , "1937-04-24"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://dbpedia.org/ontology/date> "1937-04-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://dbpedia.org/ontology/date> "1937-04-15"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://dbpedia.org/ontology/date> "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://dbpedia.org/ontology/date> "1937-12-05"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://dbpedia.org/ontology/date> "1937-05-19T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-05T00:00:00.000+01:00"^^xsd:dateTime , "1937-12-06T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://dbpedia.org/ontology/date> "1937-05-19"^^xsd:date , "1937-07-05"^^xsd:date , "1937-12-06"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://dbpedia.org/ontology/date> "1937-05-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://dbpedia.org/ontology/date> "1937-05-24"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://dbpedia.org/ontology/date> "1937-12-06T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://dbpedia.org/ontology/date> "1937-12-06"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://dbpedia.org/ontology/date> "1937-05-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://dbpedia.org/ontology/date> "1937-05-15"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://dbpedia.org/ontology/date> "1937-01-01T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://dbpedia.org/ontology/date> "1937-01-01"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-30T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-29T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24"^^xsd:date , "1937-04-30"^^xsd:date , "1937-04-29"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-19T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13"^^xsd:date , "1937-05-13"^^xsd:date , "1937-06-19"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://dbpedia.org/ontology/date> "1937-05-23T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://dbpedia.org/ontology/date> "1937-05-23"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://dbpedia.org/ontology/date> "1936-08-08T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://dbpedia.org/ontology/date> "1936-08-08"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-30T00:00:00.000+01:00"^^xsd:dateTime , "1937-01-07T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://dbpedia.org/ontology/date> "1937-06-13"^^xsd:date , "1937-06-30"^^xsd:date , "1937-01-07"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://dbpedia.org/ontology/date> "1937-05-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-21"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-25T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14"^^xsd:date , "1937-06-22"^^xsd:date , "1937-06-25"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://dbpedia.org/ontology/date> "1936-09-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://dbpedia.org/ontology/date> "1936-09-27"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://dbpedia.org/ontology/date> "1936-10-30T00:00:00.000Z"^^xsd:dateTime , "1936-12-22T00:00:00.000Z"^^xsd:dateTime , "1936-10-25T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://dbpedia.org/ontology/date> "1936-10-30"^^xsd:date , "1936-12-22"^^xsd:date , "1936-10-25"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://dbpedia.org/ontology/date> "1936-06-08T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://dbpedia.org/ontology/date> "1936-06-08"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://dbpedia.org/ontology/date> "1936-12-28T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://dbpedia.org/ontology/date> "1936-12-28"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://dbpedia.org/ontology/date> "1936-12-17T00:00:00.000Z"^^xsd:dateTime , "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "1936-12-19T00:00:00.000Z"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://dbpedia.org/ontology/date> "1936-12-17"^^xsd:date , "1936-10-21"^^xsd:date , "1936-12-19"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://dbpedia.org/ontology/date> "1937-07-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://dbpedia.org/ontology/date> "1937-07-27"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://dbpedia.org/ontology/date> "1936-04-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://dbpedia.org/ontology/date> "1936-04-12"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://dbpedia.org/ontology/date> "1936-01-09T00:00:00.000Z"^^xsd:dateTime , "1936-12-08T00:00:00.000Z"^^xsd:dateTime , "1936-08-19T00:00:00.000+01:00"^^xsd:dateTime .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://dbpedia.org/ontology/date> "1936-01-09"^^xsd:date , "1936-12-08"^^xsd:date , "1936-08-19"^^xsd:date .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://dbpedia.org/ontology/date> "1937-03-31T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://dbpedia.org/ontology/date> "1937-03-31"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://dbpedia.org/ontology/date> "1936-11-18T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://dbpedia.org/ontology/date> "1936-11-18"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://dbpedia.org/ontology/date> "1936-10-09T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://dbpedia.org/ontology/date> "1936-10-09"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://dbpedia.org/ontology/date> "1937-12-23T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://dbpedia.org/ontology/date> "1937-12-23"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28"^^xsd:date  .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://dbpedia.org/ontology/date> "1936-01-08T00:00:00.000Z"^^xsd:dateTime , "NA" .
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://dbpedia.org/ontology/date> "1936-01-08"^^xsd:date  .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Andoain> .
 
