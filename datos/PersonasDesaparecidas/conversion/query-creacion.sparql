@@ -19,7 +19,7 @@ GRAPH<http://id.euskadi.eus/catalogo/missing-person>{
     ?tipoModoMuerte rdfs:label ?Modo.
   }
 } WHERE {
-  service<http://localhost:7200/rdf-bridge/1973703287064>{
+  service<http://localhost:7200/rdf-bridge/2506244125325>{
 	?row a mydata:Row ;
 		mydata:Nombre ?Nombre ;
 		mydata:NombreUri ?NombreUri ;
