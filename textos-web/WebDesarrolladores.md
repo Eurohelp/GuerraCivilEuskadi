@@ -64,6 +64,27 @@ ORDER BY (?numeroMode)
 
 ([Ejecutar](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=SELECT+%3Fmode+%28COUNT%28%3Fperson%29+as+%3FnumeroMode%29%0D%0AWHERE+%7B%0D%0A%09%3Fperson+%3Chttp%3A%2F%2Fid.euskadi.eus%2Fdef%2Feuskadipedia%2Fdeath-mode%3E+%3Fmode%0D%0A%7D%0D%0AGROUP+BY+%3Fmode%0D%0AORDER+BY+%28%3FnumeroMode%29))
 
+** Bombardeos del bando franquista **
+
+```
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX schema: <http://schema.org/>
+SELECT * 
+WHERE { 
+	?bombardment dbp:plannedBy dbr:Francoist_Spain .
+   ?bombardment geo-pos:lat ?latitude .
+   ?bombardment geo-pos:long ?longitude .
+   ?bombardment dbo:date ?date .
+   ?bombardment schema:location ?location .
+}
+```
+
+([Ejecutar](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=PREFIX+dbp%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+dbr%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F%3E%0D%0APREFIX+geo-pos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23%3E%0D%0APREFIX+dbo%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0ASELECT+%2A+%0D%0AWHERE+%7B+%0D%0A%09%3Fbombardment+dbp%3AplannedBy+dbr%3AFrancoist_Spain+.%0D%0A+++%3Fbombardment+geo-pos%3Alat+%3Flatitude+.%0D%0A+++%3Fbombardment+geo-pos%3Along+%3Flongitude+.%0D%0A+++%3Fbombardment+dbo%3Adate+%3Fdate+.%0D%0A+++%3Fbombardment+schema%3Alocation+%3Flocation+.%0D%0A%7D))
+
+
 TODO: otros indicadores
 TODO: otras consultas
 
