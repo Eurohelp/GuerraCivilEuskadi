@@ -1,0 +1,508 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column geometry/coordinates/0 using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "geometry/coordinates/0",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column geometry/coordinates/1 using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "geometry/coordinates/1",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column fechaTrim at index 9 based on column properties/fechas using expression grel:value.replace(\"/\",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "fechaTrim",
+    "columnInsertIndex": 9,
+    "baseColumnName": "properties/fechas",
+    "expression": "grel:value.replace(\"/\",\"-\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas using expression grel:value.replace(\"Desde\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas",
+    "expression": "grel:value.replace(\"Desde\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fechaTrim using expression grel:value.replace(\"Desde\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "fechaTrim",
+    "expression": "grel:value.replace(\"Desde\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas using expression grel:value.replace(\"hasta\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas",
+    "expression": "grel:value.replace(\"hasta\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fechaTrim using expression grel:value.replace(\"hasta\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "fechaTrim",
+    "expression": "grel:value.replace(\"hasta\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fechaTrim using expression grel:value.replace(\" \",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "fechaTrim",
+    "expression": "grel:value.replace(\" \",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fechaTrim using expression grel:value.replace(\"--\",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "fechaTrim",
+    "expression": "grel:value.replace(\"--\",\"-\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas using expression grel:value.replace(\"  \",\" \")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas",
+    "expression": "grel:value.replace(\"  \",\" \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column fechaTrim using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "fechaTrim",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column properties/fechas by separator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": " ",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas 1 using expression value.toDate()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas 1",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas 2 using expression value.toDate()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas 2",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column properties/fechas 3 using expression value.toDate()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "properties/fechas 3",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column geometry/coordinates/0 to lat",
+    "oldColumnName": "geometry/coordinates/0",
+    "newColumnName": "lat"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column geometry/coordinates/1 to long",
+    "oldColumnName": "geometry/coordinates/1",
+    "newColumnName": "long"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/localidad to location",
+    "oldColumnName": "properties/localidad",
+    "newColumnName": "location"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/LocalidadUriDbpedia to LocalidadUriDbpedia",
+    "oldColumnName": "properties/LocalidadUriDbpedia",
+    "newColumnName": "LocalidadUriDbpedia"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/numero de bombardeos to numBombardeos",
+    "oldColumnName": "properties/numero de bombardeos",
+    "newColumnName": "numBombardeos"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/fechas 1 to fecha1",
+    "oldColumnName": "properties/fechas 1",
+    "newColumnName": "fecha1"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/fechas 2 to fecha2",
+    "oldColumnName": "properties/fechas 2",
+    "newColumnName": "fecha2"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/fechas 3 to fecha3",
+    "oldColumnName": "properties/fechas 3",
+    "newColumnName": "fecha3"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/bando to bando",
+    "oldColumnName": "properties/bando",
+    "newColumnName": "bando"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/descripcion to descripcion",
+    "oldColumnName": "properties/descripcion",
+    "newColumnName": "descripcion"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/fuente to fuente",
+    "oldColumnName": "properties/fuente",
+    "newColumnName": "fuente"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column properties/observaciones to observaciones",
+    "oldColumnName": "properties/observaciones",
+    "newColumnName": "observaciones"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column locationParaUri at index 6 based on column location using expression grel:value.replace(\" \",\"-\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "locationParaUri",
+    "columnInsertIndex": 6,
+    "baseColumnName": "location",
+    "expression": "grel:value.replace(\" \",\"-\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression grel:value.replace(\".\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "grel:value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression grel:value.replace(\",\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "grel:value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column geometry/type to geometry_type",
+    "oldColumnName": "geometry/type",
+    "newColumnName": "geometry_type"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column geometry_type",
+    "columnName": "geometry_type"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column type",
+    "columnName": "type"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column id",
+    "columnName": "id"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column numBombardeos using expression value.toNumber()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "numBombardeos",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression grel:value.replace(\".\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "grel:value.replace(\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression grel:value.replace(\",\",\"\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "grel:value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column locationParaUri using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "locationParaUri",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column fecha2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "fecha2",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "fecha2"
+        }
+      ]
+    },
+    "columnName": "fecha2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          ""
+        ],
+        "to": "NA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column fecha2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "fecha2",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "fecha2"
+        },
+        {
+          "omitError": false,
+          "expression": "isBlank(value)",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "fecha3",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "fecha3"
+        }
+      ]
+    },
+    "columnName": "fecha2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          ""
+        ],
+        "to": "NA"
+      }
+    ]
+  }
+]

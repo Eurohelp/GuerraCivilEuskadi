@@ -1,0 +1,1544 @@
+@prefix : <http://purl.org/dc/terms/> .
+@prefix umbel-rc: <http://umbel.org/umbel/rc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix gr_data: <http://genomic-resources.eu/resource/> .
+@prefix geo-ont: <http://www.geonames.org/ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix gr_ont: <http://genomic-resources.eu/ontology/> .
+@prefix contact: <http://www.w3.org/2000/10/swap/pim/contact#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> rdfs:comment "Andoain" , "La aviación franquista bombardeó el pueblo de Andoain el 26 de agosto de 1936. Se arrojaron tan solo cuatro bombas. Hubo daños materiales, pero no víctimas." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> rdfs:comment "Ondarroa" , "La aviación republicana bombardeó las posiciones franquistas en Ondarroa. Fue destruido un caserío en la zona sur del pueblo. No se dispone de más información. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> rdfs:comment "Ermua" , "La aviación franquista bombardeó en dos ocasiones las posiciones republicanas en la zona del monte Urkaregi. Los bombardeos se produjeron en octubre de 1936 con cuatro días de diferencia. No se dispone de datos sobre el número de víctimas que pudieron producir." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> rdfs:comment "La aviación republicana bombardeó las posiciones franquistas en la zona del monte Akarregi. No se dispone de más información sobre este ataque." , "Hernani, Spain" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> rdfs:comment "Etxebarria" , "El pueblo de Etxebarria fue bombardeado en dos ocasiones, en abril y mayo de 1937. No se dispone de información sobre las víctimas que pudieron causar estos ataques. La calle Santa Marina resultó dañada, junto con los edificios de la zona. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> rdfs:comment "Mendexa" , "Mendexa fue bombardeado en dos ocasiones en octubre de 1936. Los bombardeos dañaron algunas casas y destruyeron un caserío en la zona, pero no causaron víctimas según las crónicas de la época. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> rdfs:comment "Markina" , "Markina fue bombardeado en al menos 20 ocasiones entre septiembre de 1936 y abril de 1937. Fue una de las poblaciones más castigadas por los bombardeos aéreos.  Se conocen destrozos en la zona de Menive, de Urberuaga, en el Hospital de Sangre y en el convento de los Padres Carmelitas, además de en diferentes casas y edificios de la población. Sabemos que hubo al menos 29 víctimas entre muertos y heridos, si bien no se dispone de información sobre varios de los bombardeos, por lo que no se puede dar una cifra definitiva. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> rdfs:comment "Ermua" , "Ermua fue bombardeado en dos ocasiones. Aviones de los modelos \"Caproni 133\"  y \"Junker Ju52\" bombardearon la zona, causando sobre todo daños materiales en los edificios. También fueron atacadas las carreteras de la zona, como la que iba hacia Eibar, en las que se soltaron bombas de 250 kg. En el primer bombardeo no hubo víctimas, sobre el segundo no se dispone de datos." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> rdfs:comment "Portugalete" , "La zona del alto de Kanpantzar fue bombardeada en 3 ocasiones entre octubre y noviembre de 1936. La aviación republicana bombardeó posiciones franquistas que se encontraban en esta zona cercana a Elorrio. No se dispone de datos sobre el número de víctimas que pudieron producir estos bombardeos. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> rdfs:comment "Portugalete" , "La zona del alto de Kanpantzar fue bombardeada en 4 ocasiones entre octubre de 1936 y abril de 1937. La aviación franquista bombardeó posiciones republicanas que se encontraban en esta zona cercana a Elorrio. No se dispone de datos sobre el número de víctimas que pudieron producir estos bombardeos. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> rdfs:comment "Elorrio" , "Elorrio fue bombardeado en 7 ocasiones entre noviembre de 1936 y abril de 1937. En una ocasión el bombardeo se dirigió contra la zona de Garbe. Como consecuencia de estos bombardeos resultaron dañadas varias casas y caseríos de la zona, así como el edificio del Batzoki, el de Asistencia Social, los hoteles de Paz Misericordia y Viuda de Arregui, la ermita de San Fausto y el palacio del marqués de Tola. Además se registraron al menos 9 víctimas debido a los ataques, si bien no es una cifra definitiva. En al menos 2 de los ataques no hubo víctimas, según las crónicas de la época. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> rdfs:comment "La aviación franquista bombardeó el municipio de Munitibar y los barrios de Arbatzategi y Gerrikaitz pertenecientes al mismo. El Gobierno Vasco registró en el mes de abril de 1937 30 muertos y 12 heridos en este lugar. El corresponsal Mathieu Corman del periódico “Paris Ce Soir�? habló de 9 “Heinkel He51�? que bombardearon Gerrikaitz al mediodía del 26 de abril. Richtofen escribió en su diario: “A/88 y J/88 de caza sobre las carreteras de la zona de Markina-Gernika-Gerrikaitz.�? El día 30 añadió que no quedaba una casa en pie en Gerrikaitz. " , "Munitibar-Arbatzegi-Gerrikaitz" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> rdfs:comment "Anboto" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Anboto, perteneciente a Abadiño. No se dispone de información sobre los efectos de este bombardeo." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> rdfs:comment "Anboto" , "Bombardeo de posiciones enemigas en la zona de la sierra de Arangio. No se dispone de datos sobre el número de víctimas. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> rdfs:comment "La zona del monte Jarindo en Aramaio fue bombardeada, primero por el bando republicano, que bombardeó las posiciones franquistas en la zona en octubre de 1936  y después en dos ocasiones por el bando franquista, en marzo y abril de 1937. Estos bombardeos tuvieron como objetivo tropas enemigas. No se dispone de información acerca del número de víctimas. " , "Pais Vasco" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> rdfs:comment "Axpe Achondo" , "La población de Axpe fue bombardeada en tres ocasiones entre abril y mayo de 1937, tomando parte en los ataques la aviación italiana. En una de ellas no se produjeron víctimas  no se dispone de datos al respecto en los otros dos casos." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> rdfs:comment "Bombardeo por parte de la artillería republicana de varios pueblos en los que se encontraban las tropas enemigas. No se da más información" , "Arrazua-Ubarrundia" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> rdfs:comment "Álava" , "Bombardeo por parte de la artillería republicana de varios pueblos en los que se encontraban las tropas enemigas. No se da más información. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> rdfs:comment "Álava" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Tantaibakar. No se dispone de más información sobre este bombardeo." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> rdfs:comment "Arratzu" , "La aviación franquista bombardeó Arratzu el 26 de abril de 1937, causando la muerte a una persona e hiriendo a otras dos." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> rdfs:comment "Gautegiz Arteaga" , "La aviación franquista bombardeo el pueblo de Gautegiz-Arteaga en abril de 1937, causando la muerte a cuatro personas e hiriendo a otras dos. La aviación italiana participó en el ataque." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> rdfs:comment "Ajangiz" , "La aviación franquista bombardeó el pueblo de Ajangiz. No se dispone de más información." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> rdfs:comment "Pais Vasco" , "Las posiciones republicanas situadas en el monte Sebigain fueron bombardeadas tres veces durante el mes de abril de 1937.  El propio Franco y el general Kindelán estuvieron presentes junto al comandante de la aviación alemana Richtofen en uno de los ataques. Este último escribió esto: \"la acción empezó en mi ausencia, algo inexactamente. Una parte de las bombas cae en la infantería propia, que sin embargo toma Sebigan. Error particularmente penoso, porque Franco y Kindelán querían justamente contemplar el terreno de lucha en colaboración con nosotros�?. No se dispone de información sobre el número de víctimas que pudieron causar estos ataques." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> rdfs:comment "Álava" , "Richtofen escribió en su diario que observó aviones del modelo Junker Ju52, luchadores del grupo Jv/88 (quizás fueran modelos Heinkel He51 o Stuka) y a los Italianos bombardeando la zona. “El macizo se vuelve un horroroso mar de llamas y de humo con las bombas-aproximadamente sesenta toneladas en el espacio de dos minutos�? escribió. Al día siguiente volvió al lugar y describió los efectos del bombardeo: “En la hondonada, cuadros horribles, allí corrieron los rojos. Cadáveres espantosamente destrozados. De visión agradable-¡estética!-nada. Posiciones construidas muy fuerte y aplicadamente. Alambradas en tres escalones, trampas para tanques. Si no hubiéramos sacado a bombazos al enemigo, nos hubiera costado otros dos días de combates�?. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> rdfs:comment "La carretera entre Otxandiano y Dima fue bombardeada por la aviación franquista en un intento por dañar las comunicaciones en la zona republicana. No se dispone de más información sobre este hecho. " , "Ochandiano" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> rdfs:comment "Muxika" , "La aviación franquista bombardeo Muxika en tres ocasiones en mayo de 1937. No disponemos de información sobre las consecuencias de estos bombardeos, ya sean materiales o personales." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> rdfs:comment "Gernika" , "La aviación franquista bombardeó Gernika el 26 de abril de 1937. Tomaron parte 59 aviones en el bombardeo. Se lanzaron unas 31 toneladas de bombas. Se lanzaban primero bombas explosivas que destruyeran parte de los edificios y después incendiarias que arrasaran lo que quedara e incendiaran el pueblo. Tomaron parte en el bombardeo aviones italianos y alemanes. La población quedó casi totalmente arrasada, sufriendo daños más del 90 por ciento de los edificios y siendo totalmente destruidos más del 80 por ciento.  No se han logrado cifras exactas pero en un informa de junio de 1937 el Gobierno Vasco hablaba de 1654 muertos y 889 heridos. El bombardeo de Gernika fue un experimento de guerra convertido en la mayor masacre en un bombardeo durante la Guerra Civil en el País Vasco y en un símbolo de la barbarie bélica. Es, sin duda el acontecimiento de este tipo más significativo de la guerra, además de haber pasado a la historia y ser uno de los episodios más conocidos, si no el más, de la historia del País Vasco. A día de hoy se cifra el número de víctimas en más de dos mil. Lo que quedaba del pueblo volvió a ser atacado, aunque de manera muchísimo menos virulenta, en los días 27 y 29 de abril de 1937. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> rdfs:comment "Álava" , "Las posiciones republicanas en la zona del monte Altun fueron bombardeadas en tres ocasiones entre abril y mayo de 1937. Aviones del modelo \"Jun ker Ju52\" tomaron parte en estos ataques. No se dispone de información sobre el número de víctimas que pudieran causar. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> rdfs:comment "Mundaka" , "La aviación franquista dejó caer algunas bombas sobre Mundaka. 6 aviones modelo “Savoia Marchetti SM.81�? del grupo Z7 llevaron a cabo el ataque. No se dispone de información al sobre el número de víctimas que pudieron causar. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> rdfs:comment "Bombardeo por parte de ocho aviones del aeródromo de Lakua en Vitoria. Fueron destruidos varios aviones y un hangar" , "Lakua" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> rdfs:comment "Álava" , "La aviación franquista bombardeó los caseríos situados en el barrio de Gorostiza, en Zigoiti, conocidos como caseríos de San Pedro" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> rdfs:comment "Álava" , "La aviación republicana bombardeó las posiciones franquistas  en Murua. No se dispone de información sobre el número de víctimas causadas. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> rdfs:comment "Aramayona" , "La aviación franquista bombardeó las posiciones republicanas en la zona de Etxaguen, perteneciente a Zigoitia. Se produjeron 3 bombardeos en diciembre de 1936." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> rdfs:comment "Busturia" , "La aviación franquista bombardeó las posiciones republicanas en el monte Añetu en la zona de Busturia-Axpe.  No se dispone de información sobre las víctimas que pudo causar este ataque." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> rdfs:comment "Pais Vasco" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Truende. No se dispone de más información." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> rdfs:comment "Álava" , "Bombardeos de posiciones enemigas en el monte Gonga, perteneciente a Zigoiti, por parte de la aviación franquista" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> rdfs:comment "Morga" , "Morga fue bombardeado en tres ocasiones entre mayo y junio de 1937. El barrio de Meakaur resultó dañado en uno de los ataques. No disponemos de información sobre el número de víctimas que pudieron causar estos ataques." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> rdfs:comment "Amorebieta-Etxano" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Itxerango, en Amorebieta. No se dispone de información sobre las consecuencias de este ataque" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> rdfs:comment "Artea" , "El pueblo de Artea fue bombardeado en tres ocasiones en abril y mayo de 1937. La aviación italiana tomó parte en estos ataques, así como la Legión Còndor alemana. No se dispone de más información al respecto." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> rdfs:comment "La aviación franquista bombardeo la zona de Arrieta. No se dispone de más información " , "Arrieta (Bizkaia)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> rdfs:comment "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Urkulu, en Larrabetzu, en tres ocasiones entre mayo y junio de 1937. No se dispone de información sobre el número de víctimas que pudieron causar estos ataques. " , "Urkulu (monte)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> rdfs:comment "Gamiz-Fika" , "Gamiz-Fika fue bombardeado en tres ocasiones durante el mes de junio de 1937. No se dispone de información al respecto del número de víctimas que pudieron causar estos ataques." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> rdfs:comment "Bizkaia" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Apario, en Lemoa. La aviación italiana participó en el ataque. No se dispone de datos sobre las víctimas que pudiera haber habido a consecuencia del bombardeo." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> rdfs:comment "Pais Vasco" , "La aviación franquista bombardeo las posiciones republicanas en la zona de Burbona en 3 ocasiones entre mayo y junio de 1937" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> rdfs:comment "Pais Vasco" , "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Urrusti, en Lezama. La Legión Condor participó en el ataque. Se desconoce el número de víctimas que pudiera haber habido a consecuencia del ataque." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> rdfs:comment "Gatika" , "La aviación franquista bombardeó Gatika en tres ocasiones entre mayo y junio de 1937. Se causaron importantes destrozos según \"Euzkadi\". En uno de los casos no hubo víctimas, mientras que no se dispone de información al respecto en los otros dos. La Legión Condor participó en uno de los ataques, según la crónica del \"Euzkadi\"." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> rdfs:comment "La aviación franquista bombardeó las posiciones republicanas en la zona de Altube,en Zuia." , "Zuya" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> rdfs:comment "Zaratamo" , "Zaratamo fue bombardeado en cinco ocasiones en los meses de abril y mayo de 1937.  En abril el Gobierno Vasco registró tres muertos y seis heridos. No disponemos de datos al respecto para el mes de mayo. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> rdfs:comment "Orozko" , "La aviación franquista bombardeo la zona de Larrondo en Orozko, según \"El Liberal\". No se da más información al respecto. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> rdfs:comment "El pueblo de  Maruri-Jatabe fue bombardeado  el 12 de mayo de 1937. En la crónica del \"Euzkadi\" solo se informa del bombardeo, sin mencionar las consecuencias que pudo tener. " , "Maruri-Jatabe" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> rdfs:comment "Derio" , "Derio fue bombardeado en tres ocasiones en mayo y junio de 1937. El cementerio de Vista Alegre, y el barrio de Artebakarra resultaron especialmente dañados. El pueblo se incendió a causa del primero de los ataques, en el que murió una persona y un número indefinido resultaron heridas. No se dispone de datos sobre el número de víctimas en los otros bombardeos. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> rdfs:comment "La aviación franquista bombardeó las posiciones republicanas en la zona de Uzkiano, en Zuia. Según la crónica del \"Euzkadi\" bombardearon también sus propias posiciones. Se habla de víctimas, pero no se dispone de más información al respecto." , "Uzkiano" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> rdfs:comment "Loiu" , "Loiu fue bombardeado el 14 de junio de 1937. La Legión Condor alemana participó en el ataque. No se dispone de más información sobre este hecho. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> rdfs:comment "Gorliz" , "La aviación franquista bombardeó la zona de Gorliz, destruyendo algunas casas y dañando el Sanatorio Marino. Según “El Liberal�? no se registraron víctimas. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> rdfs:comment "Arrankudiaga" , "La aviación franquista bombardeó la zona de Arrankudiaga lanzando proyectiles de cañón del calibre 21. No se dispone de más información." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> rdfs:comment "Luyando" , "Tras un fallido intento de llegar a Bilbao, la aviación franquista dejó caer algunas bombas sobre Luyando. Una persona murió a consecuencia del bombardeo y otras dos resultaron heridas, siempre según la crónica de \"Euzkadi\"." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> rdfs:comment "Berango" , "Berango fue bombardeado el 24 de abril de 1937. Fueron lanzadas 3 bombas que según la crónica de \"El Liberal\" causaron \"algunas víctimas. No se dispone de más información. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> rdfs:comment "Getxo" , "La población de Getxo fue bombardeada en tres ocasiones durante el mes de abril de 1937. Las bombas cayeron en diferentes puntos como Negubide, Lertegi y campas de la zona. Aviones de los modelos \"Junker Ju52\" alemanes y \"Fiat Cr.32\" italianos tomaron parte en los ataques. El Gobierno Vasco contabilizó en abril de 1937 21 víctimas consecuencia de los bombardeos, 5 muertos y 16 heridos. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> rdfs:comment "Neguri" , "La aviación franquista bombardeó la zona de Neguri, perteneciente a Getxo. No se registraron víctimas, según \"Euzkadi\"" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> rdfs:comment "Alonsotegi" , "La zona de Alonsotegi fue bombardeada en tres ocasiones entre mayo y junio de 1937. La Legión Condor alemana participó al menos en uno de los ataques. No disponemos de información sobre el número de víctimas que pudieron causar." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> rdfs:comment "Sopela" , "La aviación franquista bombardeó el pueblo de Sopela el 23 de mayo de 1937. No se dispone de información sobre las consecuencias del ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> rdfs:comment "Ortuella" , "Ortuella fue bombardeado por la aviación franquista el 16 de junio de 1937. No se dispone de información  sobre las consecuencias de dicho ataque." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> rdfs:comment "Valle de Trápaga-Trapagaran" , "Una avioneta franquista que volaba a unos 1500 metros de altura se acercó hasta la zona soltando propaganda en varios lugares de camino. Después, bombardeo la zona de Gallarta tras pasar por Santurtzi. Hirió a algunas vecinas, sin que se especifique más. En “El Noticiero Bilbaíno�? se habla del bombardeo y de los heridos causados, pero se afirma que no se pudo “confirmar el rumor�?.  " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> rdfs:comment "Muskiz" , "Muskiz fue bombardeado en tres ocasiones entre junio y julio de 1937. La Legión Condor alemana participó en estos ataques. No se dispone de información sobre el número de víctimas que pudieron causar. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> rdfs:comment "Artziniega" , "La aviación franquista bombardeó la zona de Baratza, en Artziniega. Las crónicas de la época no reflejaron las consecuencias del ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> rdfs:comment "Pais Vasco" , "Dos aviones franquistas bombardearon la zona internacional situada en Las Arenas.  Tres de los proyectiles cayeron al mar, cerca de los barcos “Altuna Mendi�? y “Esk�?, así como del Club Marítimo del Abra. Otro cayó en la carretera, frente al cuartel de la Policía Internacional, y otro al lado del Consulado de Perú. En lo que a las víctimas se refiere, oscilan dependiendo de la fuente. Así, en “Euzkadi�?  y “El Nervión�? se contabilizan, dando los nombres de varios de ellos, 8 muertos y 4 heridos. En “El Liberal�? y “El Noticiero Bilbaíno�? y “La Gaceta del Norte�? se mencionan 5 muertos y cuatro heridos graves (2 en el caso de “El Liberal�?). Un artículo publicado en “Euzkadi�? el 8 de noviembre de 1936 mostraba que las bombas lanzadas eran de procedencia alemana." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> rdfs:comment "Güeñes" , "Güeñes fue bombardeado en tres ocasiones en junio de 1937. La zona de Quadra-Lakabex resultó dañada. La Legión Condor alemana participó al menos en uno de los ataques. No se dispone de información sobre las víctimas que pudieron haber causado." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> rdfs:comment "Trapagaran" , "La aviación franquista bombardeó Trapagaran el 16 de junio de 1937. No se dispone de información sobre las consecuencias de este ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> rdfs:comment "Donostia-San Sebastián" , "La aviación republicana bombardeó Donostia en Septiembre de 1936. No se dispone de más información. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> rdfs:comment "Elgeta" , "La aviación republicana bombardeó las posiciones franquistas en la zona de Elgeta en tres ocasiones entre octubre y diciembre de 1936. No se dispone de información sobe las consecuencias de estos ataques. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> rdfs:comment "Un avión sobrevoló la zona arrojando dos bombas en Igeldo y otras dos en San Marcos. Las arrojadas en Igeldo tenían la intención de destruir las antenas de radio que allí había. Se produjeron daños materiales de escasa gravedad en ambos lugares. No hubo víctimas." , "Cuevas de San Marcos, Spain" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> rdfs:comment "Bergara" , "Un bimotor “Dragón�?, al ser derribado por aviones republicanos en un combate aéreo, soltó las bombas que llevaba sobre la población de Bergara, según la crónica de \"El Liberal\"" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> rdfs:comment "Arrasate" , "La aviación republicana bombardeó Arrasate en tres ocasiones entre octubre y diciembre de 1936. Las zonas de Santa Bárbara y Kurtze Txiki fueron dañadas en estos ataques, y varios edificios fueron destruidos. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> rdfs:comment "Los Cuarteles de Loyola, en los que se habían atrincherado algunos sublevados, fueron bombardeados primero por una avioneta y después por un trimotor, mediante obuses y bombas incendiarias. En “El Liberal�? del día 29 de julio se menciona el bombardeo y se habla de un enorme cráter abierto por el trimotor y de 6 heridos, cuatro graves y dos muy graves. " , "Loyola, San Sebastián" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> rdfs:comment "Leintz Gatzaga" , "La aviación republicana bombardeó el 10 de marzo de 1936 la zona de San Martín en Leintz-Gatzaga, destruyendo las posiciones franquistas de dicho sector. Las crónicas periodísticas no daban más información. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> rdfs:comment "Lezo" , "La aviación franquista bombardeó la zona de Lezo. Fue dañado el local de Izquierda Republicana en esta localidad. Hubo tres muertos y cinco heridos a causa de este ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> rdfs:comment "Pasaia" , "Un trimotor republicano bombardeó el puerto de Pasaia, pero debido a la niebla no pudo cumplir con todos los objetivos asignados. No se da más información." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> rdfs:comment "Pasaia" , "Pasaia fue bombardeado dos veces por la aviación y una tercera por el buque de guerra \"España\". En este último caso  el objetivo serían los depósitos de CAMPSA y los polvorines, que no fueron alcanzados. El buque fue atacado por las baterías republicanas y se tuvo que retirar. En los otros dos casos los proyectiles alcanzaron el Cementerio Inglés, el caserío \"Larrabide\" y  \"Carchegui\", donde se hallaba el Cuartel General de las milicias vascas. Murieron al menos tres personas." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> rdfs:comment "Irun" , "La aviación republicana bombardeó las posiciones franquistas en la zona de Irún. No se dispone de información acerca de las consecuencias de dicho ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> rdfs:comment "Elgoibar" , "La aviación franquista bombardeó la zona de Elgoibar el 31 de marzo de 1937, causando daños importantes en la fábrica de San Pedro. No se dispone de información sobre si hubo víctimas. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> rdfs:comment "Pais Vasco" , "La aviación franquista bombardeó las posiciones republicanas en la zona de Karabieta, en Elgeta, el 18 de noviembre de 1936. No hubo víctimas. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> rdfs:comment "La aviación republicana dejó caer muchas bombas en la zona de Jaizkibel, entre Pasaia, Lezo y Hondarribia, causando grandes daños y bajas en las filas franquistas, según las crónicas." , "Jaizkibel" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> rdfs:comment "Zumaia" , "Algunos cazas y bombardero republicanos bombardearon las posiciones enemigas de Zumaia, arrojando gran cantidad de proyectiles. Las crónicas periodísticas no proporcionan más información." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> rdfs:comment "Urnieta" , "La aviación franquista bombardeó la zona de Urnieta el 28 de agosto de 1936. Un miliciano murió a consecuencia de este ataque. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> rdfs:comment "La aviación franquista bombardeó Tolosa, según la crónica del \"Frente Popular\", que no daba más información acerca de las consecuencias del acto. " , "Tolosa, Spain" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://dbpedia.org/ontology/date> "1936-12-21T00:00:00.000Z"^^xsd:dateTime , "1936-10-29T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-17T00:00:00.000Z"^^xsd:dateTime , "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://dbpedia.org/ontology/date> "1936-10-14T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://dbpedia.org/ontology/date> "1936-10-23T00:00:00.000Z"^^xsd:dateTime , "1936-10-27T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1936-09-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1937-04-25T00:00:00.000+01:00"^^xsd:dateTime , "1936-09-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://dbpedia.org/ontology/date> "1936-05-11T00:00:00.000+01:00"^^xsd:dateTime , "1936-10-26T00:00:00.000Z"^^xsd:dateTime , "1936-10-24T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://dbpedia.org/ontology/date> "1937-01-04T00:00:00.000Z"^^xsd:dateTime , "1936-01-10T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://dbpedia.org/ontology/date> "1936-12-11T00:00:00.000Z"^^xsd:dateTime , "1937-04-25T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://dbpedia.org/ontology/date> "1937-04-20T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-03-31T00:00:00.000Z"^^xsd:dateTime , "1936-09-10T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://dbpedia.org/ontology/date> "1937-04-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "1937-10-05T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://dbpedia.org/ontology/date> "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://dbpedia.org/ontology/date> "1937-05-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-13T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://dbpedia.org/ontology/date> "1937-04-04T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://dbpedia.org/ontology/date> "1937-04-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://dbpedia.org/ontology/date> "1937-05-14T00:00:00.000+01:00"^^xsd:dateTime , "1937-09-05T00:00:00.000+01:00"^^xsd:dateTime , "1937-10-05T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://dbpedia.org/ontology/date> "1937-04-27T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-29T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://dbpedia.org/ontology/date> "1937-05-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://dbpedia.org/ontology/date> "1936-12-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-12-13T00:00:00.000Z"^^xsd:dateTime , "1936-12-16T00:00:00.000Z"^^xsd:dateTime , "1936-12-14T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://dbpedia.org/ontology/date> "1936-01-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://dbpedia.org/ontology/date> "1936-02-12T00:00:00.000Z"^^xsd:dateTime , "1936-10-12T00:00:00.000Z"^^xsd:dateTime , "1936-12-16T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://dbpedia.org/ontology/date> "1937-06-05T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://dbpedia.org/ontology/date> "1937-08-05T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://dbpedia.org/ontology/date> "1937-02-04T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-05-15T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://dbpedia.org/ontology/date> "1937-11-05T00:00:00.000Z"^^xsd:dateTime , "1937-06-04T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-23T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://dbpedia.org/ontology/date> "1937-03-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://dbpedia.org/ontology/date> "1937-05-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-05-28T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-11-06T00:00:00.000Z"^^xsd:dateTime , "1937-12-06T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://dbpedia.org/ontology/date> "1937-05-29T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-31T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-06T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://dbpedia.org/ontology/date> "1937-05-24T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-21T00:00:00.000+01:00"^^xsd:dateTime , "1937-10-06T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://dbpedia.org/ontology/date> "1937-04-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://dbpedia.org/ontology/date> "1937-12-05T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://dbpedia.org/ontology/date> "1937-05-19T00:00:00.000+01:00"^^xsd:dateTime , "1937-07-05T00:00:00.000+01:00"^^xsd:dateTime , "1937-12-06T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://dbpedia.org/ontology/date> "1937-05-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://dbpedia.org/ontology/date> "1937-12-06T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://dbpedia.org/ontology/date> "1937-05-15T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://dbpedia.org/ontology/date> "1937-01-01T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://dbpedia.org/ontology/date> "1937-04-24T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-30T00:00:00.000+01:00"^^xsd:dateTime , "1937-04-29T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://dbpedia.org/ontology/date> "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-05-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-19T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://dbpedia.org/ontology/date> "1937-05-23T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://dbpedia.org/ontology/date> "1936-08-08T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://dbpedia.org/ontology/date> "1937-06-13T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-30T00:00:00.000+01:00"^^xsd:dateTime , "1937-01-07T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://dbpedia.org/ontology/date> "1937-05-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://dbpedia.org/ontology/date> "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://dbpedia.org/ontology/date> "1937-06-14T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-22T00:00:00.000+01:00"^^xsd:dateTime , "1937-06-25T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://dbpedia.org/ontology/date> "1937-06-16T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://dbpedia.org/ontology/date> "1936-09-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://dbpedia.org/ontology/date> "1936-10-30T00:00:00.000Z"^^xsd:dateTime , "1936-12-22T00:00:00.000Z"^^xsd:dateTime , "1936-10-25T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://dbpedia.org/ontology/date> "1936-06-08T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://dbpedia.org/ontology/date> "1936-12-28T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://dbpedia.org/ontology/date> "1936-12-17T00:00:00.000Z"^^xsd:dateTime , "1936-10-21T00:00:00.000Z"^^xsd:dateTime , "1936-12-19T00:00:00.000Z"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://dbpedia.org/ontology/date> "1937-07-27T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://dbpedia.org/ontology/date> "1937-10-03T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://dbpedia.org/ontology/date> "1936-08-26T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://dbpedia.org/ontology/date> "1936-04-12T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://dbpedia.org/ontology/date> "1936-01-09T00:00:00.000Z"^^xsd:dateTime , "1936-12-08T00:00:00.000Z"^^xsd:dateTime , "1936-08-19T00:00:00.000+01:00"^^xsd:dateTime .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://dbpedia.org/ontology/date> "1937-03-31T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://dbpedia.org/ontology/date> "1936-11-18T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://dbpedia.org/ontology/date> "1936-10-09T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://dbpedia.org/ontology/date> "1937-12-23T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://dbpedia.org/ontology/date> "1936-08-28T00:00:00.000+01:00"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://dbpedia.org/ontology/date> "1936-01-08T00:00:00.000Z"^^xsd:dateTime , "NA" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Andoain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Ondarroa> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://schema.org/location> <http://dbpedia.org/resource/Ermua> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://schema.org/location> <http://dbpedia.org/resource/Hernani,_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Etxebarria> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://schema.org/location> <http://dbpedia.org/resource/Mendexa> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Marquina,_Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Ermua> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://schema.org/location> <http://dbpedia.org/resource/Portugalete> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Portugalete> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Elorrio> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Munitibar-Arbatzegi-Gerrikaitz> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Anboto> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Anboto> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Atxondo> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://schema.org/location> <http://dbpedia.org/resource/Arratzua-Ubarrundia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Arratzu> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Gautegiz_Arteaga> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Ajangiz> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Otxandio> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Muxika> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Guernica> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Mundaka> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Lakua> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Aramaio> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Busturia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Álava> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Morga> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Amorebieta-Etxano> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Artea> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Arrieta> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Urkulu> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Gamiz-Fika> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Gatika> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://schema.org/location> <http://dbpedia.org/resource/Zuia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Zaratamo> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Orozko> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Maruri-Jatabe> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Derio> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Uzkiano> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Loiu> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Gorliz> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Arrankudiaga> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://schema.org/location> <http://dbpedia.org/resource/Luyando> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Berango> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://schema.org/location> <http://dbpedia.org/resource/Getxo> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Neguri> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Alonsotegi> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Sopela> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Ortuella> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Valle_de_Trápaga-Trapagaran> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://schema.org/location> <http://dbpedia.org/resource/Muskiz> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://schema.org/location> <http://dbpedia.org/resource/Artziniega> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Güeñes> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://schema.org/location> <http://dbpedia.org/resource/Trapagaran> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://schema.org/location> <http://dbpedia.org/resource/Donostia-San_Sebastián> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Elgeta> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Cuevas_de_San_Marcos,_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Bergara> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Mondragón> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://schema.org/location> <http://dbpedia.org/resource/Loyola,_San_Sebastián> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://schema.org/location> <http://dbpedia.org/resource/Leintz_Gatzaga> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Lezo,_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://schema.org/location> <http://dbpedia.org/resource/Pasaia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://schema.org/location> <http://dbpedia.org/resource/Pasaia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Irun> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://schema.org/location> <http://dbpedia.org/resource/Elgoibar> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://schema.org/location> <http://dbpedia.org/resource/Pais_Vasco> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://schema.org/location> <http://dbpedia.org/resource/Jaizkibel> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://schema.org/location> <http://dbpedia.org/resource/Zumaia> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Urnieta> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://schema.org/location> <http://dbpedia.org/resource/Tolosa,_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.0200792537391847"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.422916278216525"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4440296482328074"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.475242268525237"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.476417308100992"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4873308574537925"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.497990288314844"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.502602191905672"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.50499356254171"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.505765362661843"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.544876619327683"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.5922166162941975"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.5962491812094344"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.5953547966939032"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.605622980584958"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.5974618459477323"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6077734275860176"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.63782725978205"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6288903658047595"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6462804517327942"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.649521126155989"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.673723837821718"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6670375114344114"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.676060908091267"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6877072548701038"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.685623571211609"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6788478887039546"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7031413107988116"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6994190355700174"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.6905592395262876"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7080931977365363"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7381863655786627"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7244204903137734"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7233416461714364"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.755830817584108"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.760498655342972"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7483293698190066"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.750421376608699"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7885206137882417"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7646038847531393"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7725759324947106"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8090582725451023"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.7980787188119374"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8444603415266227"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8254234024818397"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8735164192575837"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8750091395322417"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8734122110978584"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8632729545823836"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.8647541862075356"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.885929047675976"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.943767047644361"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.9392676510724183"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.934324357205706"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.9235754002447774"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.997416573157363"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.9973799288127982"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.00590333604742"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.0048913991542965"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.987751791245489"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.9815819415142437"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.05541471567653"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.0751694127336835"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.123119390361697"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.1300398866632637"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.0152239828870675"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.0226430960716426"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-3.0378260926275797"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.9825213901494092"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.486976310831276"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.0095741982944753"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4131657759181095"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4866244807659994"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.9661372798080134"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.5685156658087376"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.899803389046937"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.9080605028105735"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.9283814634654286"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.7896184568835065"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4150022985668707"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.4804799790531407"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.8562406720572318"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.2584855117465583"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-1.990661102175164"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslat> "-2.075125034600915"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.22015890576295"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.319460289028754"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.23972746013803"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.27557310597095"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.254183922324216"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.34632016020842"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.26863057497365"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.18672307562969"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.09649151471518"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.0970912282771"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.130650134384084"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.26560771354318"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.08792882341815"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.05370771342843"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.998085087766434"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.11659438606776"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.93781251560984"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.94363157565206"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.01770849418338"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.31361354678293"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.352887250117"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.30050623384947"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.09868528981928"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.026387056286644"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.07886367219453"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.27125486978039"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.31388281837782"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.079355862445716"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.408236497647245"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.85997793157914"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.98698249503928"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.97693377260963"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.98435987155439"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.37590777579683"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.40251682126495"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.00430783357614"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.314951163233346"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.220853291246996"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.13288304902547"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.341621963582575"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.29198970622494"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.31037652146549"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.19130665693264"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.023255306253006"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.30287898994885"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.36293856933472"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.99528264084804"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.211412867264315"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.11111745786114"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.38489990683115"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.292101101158586"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.99970391323073"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.31380536743911"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.4134623384989"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.17393361288116"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.10279353201038"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.36440964428395"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.338779013065626"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.338593089732306"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.24094818181043"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.38073824282397"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.309910346122386"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.31617438145609"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.322383702931695"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.12158687246922"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.328536577818994"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.223375129650826"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.30429217586893"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.314895336995754"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.13743224713822"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.32138610565713"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.1155893180005"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.065938951009194"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.309886374591414"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "42.98675304112059"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.32119017109809"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.320170038205696"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.32457635021348"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.33916712666336"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.21507874778615"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.14821563247795"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.34508629937447"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.29654295508591"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.247940877568055"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://www.w3.org/2003/01/geo/wgs84_poslong> "43.134842549840606"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "2"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "2"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "2"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "2"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "20"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "2"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "4"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "7"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "5"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "3"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://id.euskadi.eus/def/euskadipedia/numerobombardeos> "1"^^xsd:long .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> <http://dbpedia.org/property/plannedBy> <http://dbpedia.org/resource/Francoist_Spain> .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> :source "Euzkadi  La Gaceta del Norte" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Testimonio de Alberto Onaindia" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> :source "Euzkadi  El Noticiero Bilbaíno" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> :source "Ejército del Norte. Estado Mayor. Tercera Sección. Partes de Operaciones. (ENEMPO)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  El Liberal  El Noticiero Bilbaíno  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  El Nervión  El Noticiero Bilbaíno  La Gaceta del Norte  Testimonios de Alberto Onaindia y George Steer" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  El Noticiero Bilbaíno  Euzkadi  La Gaceta del Norte " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  El Liberal  EL Noticiero Bilbaíno  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Orden de Misión de las Fuerzas Aéreas del Norte. (OMFAN)  El Liberal  El Noticiero Bilbaíno  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Arma de Aviación. Parte de Operaciones. (AAPO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Attivitá Giornaliera dell´Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937, Vol. 1.(AGAL)  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Noticiero Bilbaíno  La Gaceta del Norte  El Pensamiento Alavés" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Testimonios de George Steer, Mathieu Corman, Enrike Goitiandia, Joxe Mari Gerrikabeitia y Alberto Onaindia" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> :source "Partes de la Misión de las Fuerzas Aéreas del Norte (PMFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> :source "El Noticiero Bilbaíno  Euzkadi  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  El Liberal" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> :source "El Noticiero Bilbaíno  El Liberal " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> :source "El Noticiero Bilbaíno  El Liberal " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> :source "Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> :source "Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Relazione sulla Missione in Spagna. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare  Spagna, AM Busta 70, Fasc. 7. (RMS)  Euzkadi " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132." .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> :source "Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> :source "El Noticiero Bilbaíno (13/12/1936), El Liberal (13/12/1936), Euzkadi (13/12/1936), La Gaceta del Norte (13/12/1936)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> :source "El Liberal  Jefatura del aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> :source "Arma de Aviación. Parte de Operaciones (AAPO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> :source "Jefatura del aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> :source "Partes de la Misión de las Fuerzas Aéreas del Norte (PMFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  Testimonio de George Steer" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  Testimonio de George Steer" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Pemsamiento Alavés" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> :source "EL Liberal " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> :source "El Liberal" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> :source "Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  El Liberal  Testimonio de Aitor Miñambres. " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> :source "Euzkadi  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> :source "El Liberal" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> :source "Euzkadi  El Nervión " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> :source "Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  El Liberal  Testimonio de Mercedes Iribarren " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> :source "Testimonio de Mercedes Iribarren " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> :source "El Liberal  EL Noticiero Bilbaíno" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> :source "Euzkadi  El Liberal  El Noticiero Bilbaíno  El Nervión  La Gaceta del Norte  Testimonios de George Steer y Jesús de Luisa" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> :source "El Noticiero Bilbaíno  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> :source "Euzkadi  El Liberal  El Noticiero Bilbaíno" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> :source "Frente Popular  El Liberal  La Gaceta del Norte" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> :source "El Liberal" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> :source "El Liberal  El Noticiero Bilbaíno  Euzkadi  La Gaceta del Norte  El Nervión " .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> :source "El Liberal  Frente Popular" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> :source "El Liberal  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> :source "El Liberal  Euzkadi  La Gaceta del Norte  El Noticiero Bilbaíno  Frente Popular  El Nervión" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> :source "El Liberal  El Noticiero Bilibaíno  Euzkadi  La Gaceta del Norte" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> :source "Frente Popular  EL Noticiero Bilbaíno  Euzkadi  El Nervión" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> :source "Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> :source "El Noticiero Bilbaíno  El Liberal  Euzkadi" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> :source "El Liberal  El Noticiero Bilbaíno  Euzkadi  La Gaceta del Norte" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> :source "El  Noticiero Bilbaíno" .
+
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> :source "Frente Popular" .

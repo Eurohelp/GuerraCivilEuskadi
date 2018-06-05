@@ -1,0 +1,50 @@
+PREFIX mydata: <http://example.com/resource/>
+PREFIX spif: <http://spinrdf.org/spif#>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos>
+PREFIX schema: <http://schema.org/>
+PREFIX dbpediaowl: <http://dbpedia.org/ontology/>
+PREFIX dbpedia2: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+INSERT {
+    GRAPH<http://id.euskadi.eus/catalogo/bombardment>{
+  ?mainUri a ?tipo1;
+    a ?tipo2;
+    geo:lat ?lat;
+    geo:long ?long;
+    schema:location ?uriLocaldad;
+    ?prediNumeroBombardeos ?numBombardeos;
+	dbpediaowl:date ?fecha1;
+    dbpediaowl:date ?fecha2;
+	dbpediaowl:date ?fecha3;
+    dbpedia2:plannedBy ?franco;
+    rdfs:comment ?descripcion;
+    rdfs:comment ?location;
+    dcterms:source ?fuente.
+  }
+} WHERE {
+  SERVICE<http://localhost:7200/rdf-bridge/1849476599470>{
+	?row a mydata:Row ;
+		mydata:lat ?lat ;
+		mydata:long ?long ;
+		mydata:location ?location ;
+		mydata:LocalidadUriDbpedia ?LocalidadUriDbpedia ;
+  		mydata:numBombardeos ?numBombardeos ;
+      	mydata:locationParaUri ?locationParaUri;
+      	mydata:fecha1 ?fecha1 ;
+		mydata:fecha2 ?fecha2 ;
+		mydata:fecha3 ?fecha3 ;
+  		mydata:fechaTrim ?fechaTrim ;
+		mydata:bando ?bando ;
+		mydata:descripcion ?descripcion ;
+  		mydata:fuente ?fuente ;
+    }
+  BIND(IRI(spif:buildString("http://id.euskadi.eus/public-sector/history/bombardment/{?1}-{?2}", ENCODE_FOR_URI(?locationParaUri), ENCODE_FOR_URI(?fechaTrim))) AS ?mainUri)
+  BIND(IRI("http://dbpedia.org/ontology/MilitaryConflict") as ?tipo1)
+  BIND(IRI("http://dbpedia.org/resource/Aerial_bombing_of_cities") as ?tipo2)
+  BIND(IRI(?LocalidadUriDbpedia) as ?uriLocaldad)
+  BIND(IRI("http://id.euskadi.eus/def/euskadipedia/numerobombardeos") as ?prediNumeroBombardeos)
+      BIND(IRI("http://dbpedia.org/resource/Francoist_Spain") as ?franco)
+  
+
+}
