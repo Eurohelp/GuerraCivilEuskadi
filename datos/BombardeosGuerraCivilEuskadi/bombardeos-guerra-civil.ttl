@@ -1,4 +1,0 @@
-Exception in thread "main" java.lang.NullPointerException
-	at es.eurohelp.lod.geojson2rdf.App.generateMainURI(App.java:79)
-	at es.eurohelp.lod.geojson2rdf.App.processFeature(App.java:30)
-	at es.eurohelp.lod.geojson2rdf.App.main(App.java:25)
