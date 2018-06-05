@@ -28,3 +28,13 @@ Estos datos han sido enlazados, en la medida de lo posible, localidades descrita
 ## Partidos políticos y fosas comunes
 
 [¿Cuál es el partido politico actual en poder en pueblos que han tenido fosas comunes?](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=PREFIX+dbo%3A%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+schema%3A%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0APREFIX+rdf%3A%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX+rdfs%3A%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0D%0A%0D%0ASELECT+DISTINCT+%2A%0D%0AWHERE+%7B%0D%0A++++%3Ffosa+rdf%3Atype+%3Chttp%3A%2F%2Frdf.muninn-project.org%2Fontologies%2Fgraves%23Mass_grave%3E+.%0D%0A%09%3Ffosa+schema%3Alocation+%3Fpueblofosa+.%0D%0A%09SERVICE+%3Chttps%3A%2F%2Fdbpedia.org%2Fsparql%3E+%7B%0D%0A%09%09%3Fpueblofosa+dbo%3AleaderParty+%3Fparty+.%0D%0A%09%7D%0D%0A%7D)
+
+## Desaparecidos y causas de muerte
+
+[De las causas de muerte recogidas en los datos de desaparaciones, ¿Cuál es la que más muertos causó?](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=SELECT+%3Fmode+%28COUNT%28%3Fperson%29+as+%3FnumeroMode%29%0D%0AWHERE+%7B%0D%0A%09%3Fperson+%3Chttp%3A%2F%2Fid.euskadi.eus%2Fdef%2Feuskadipedia%2Fdeath-mode%3E+%3Fmode%0D%0A%7D%0D%0AGROUP+BY+%3Fmode%0D%0AORDER+BY+%28%3FnumeroMode%29)
+
+## Bombardeos de la legión Cóndor
+
+Fecha, lugar, y descripción de los bombardeos efectuados por la Legión Cóndor
+
+## Algo con datos DBPedia???

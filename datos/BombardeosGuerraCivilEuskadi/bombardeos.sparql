@@ -4,7 +4,6 @@ PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX schema: <http://schema.org/>
 select * 
-from <http://data.euskadi.eus/graph/bombardeos>
 where { 
 	?bombardment dbp:plannedBy dbr:Francoist_Spain .
     ?bombardment geo-pos:lat ?latitude .
