@@ -25,7 +25,7 @@ Personas con interés en la Guerra Civil en Euskadi y la memoria histórica en gen
 |War in the North|http://dbpedia.org/resource/War_in_the_North|
 |Battle of Bilbao|http://dbpedia.org/resource/Battle_of_Bilbao|
 |Battle of Cape Machichaco|http://dbpedia.org/resource/Battle_of_Cape_Machichaco|
-|Battle of Irún|http://dbpedia.org/resource/Battle_of_Ir\u00FAn|
+|Battle of Irún|http://dbpedia.org/resource/Battle_of_Irún|
 |Batalla de sollube|http://es.dbpedia.org/resource/Batalla_de_Sollube|
 
 ## URL del proyecto
