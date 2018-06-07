@@ -64,7 +64,7 @@ ORDER BY (?numeroMode)
 
 ([Ejecutar](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=SELECT+%3Fmode+%28COUNT%28%3Fperson%29+as+%3FnumeroMode%29%0D%0AWHERE+%7B%0D%0A%09%3Fperson+%3Chttp%3A%2F%2Fid.euskadi.eus%2Fdef%2Feuskadipedia%2Fdeath-mode%3E+%3Fmode%0D%0A%7D%0D%0AGROUP+BY+%3Fmode%0D%0AORDER+BY+%28%3FnumeroMode%29))
 
-** Bombardeos del bando franquista **
+**Bombardeos del bando franquista**
 
 ```
 PREFIX dbp: <http://dbpedia.org/property/>
@@ -85,7 +85,7 @@ WHERE {
 ([Ejecutar](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=PREFIX+dbp%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+dbr%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F%3E%0D%0APREFIX+geo-pos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23%3E%0D%0APREFIX+dbo%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0ASELECT+%2A+%0D%0AWHERE+%7B+%0D%0A%09%3Fbombardment+dbp%3AplannedBy+dbr%3AFrancoist_Spain+.%0D%0A+++%3Fbombardment+geo-pos%3Alat+%3Flatitude+.%0D%0A+++%3Fbombardment+geo-pos%3Along+%3Flongitude+.%0D%0A+++%3Fbombardment+dbo%3Adate+%3Fdate+.%0D%0A+++%3Fbombardment+schema%3Alocation+%3Flocation+.%0D%0A%7D))
 
 
-** Bombardeos de la Legión Cóndor **
+**Bombardeos de la Legión Cóndor**
 
 ```
 SELECT  DISTINCT ?location ?date ?source ?comment
@@ -102,7 +102,7 @@ ORDER BY ?date
 
 ([Ejecutar](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=SELECT++DISTINCT+%3Flocation+%3Fdate+%3Fsource+%3Fcomment%0D%0AWHERE+%7B%0D%0A%09%3Fbombing+rdf%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAerial_bombing_of_cities%3E+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fschema.org%2Flocation%3E+%3Flocation+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fdate%3E+%3Fdate+.+++++++++%0D%0A++%09%3Fbombing+rdfs%3Acomment+%3Fcomment+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fsource%3E+%3Fsource%0D%0A++++FILTER+regex+%28str%28%3Fsource%29%2C+%22C%C3%B3ndor%22%2C+%22i%22%29%0D%0A%7D%0D%0AORDER+BY+%3Fdate))
 
-** Eventos de un rango de fechas**
+**Eventos de un rango de fechas**
 
 ```
 PREFIX dbo: <http://dbpedia.org/ontology/>
@@ -115,7 +115,7 @@ WHERE {
 ```
 ([Ejecutar](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=PREFIX+dbo%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+foaf%3A+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0D%0ASELECT+%3Fevento+%0D%0AWHERE+%7B+%0D%0A%09%3Fevento+dbo%3Adate+%3Fdate+.%0D%0A++++FILTER+%28%3Fdate+%3E+%221937-05-06%22%5E%5Exsd%3Adate++%26%26+%3Fdate+%3C+%221937-07-31%22%5E%5Exsd%3Adate%29++++++++%0D%0A%7D))
 
-** Fosas comunes en una área, su población, y la página wikipedia de esa población**
+**Fosas comunes en una área, su población, y la página wikipedia de esa población**
 
 ```
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
@@ -139,7 +139,7 @@ SELECT ?place ?location ?web WHERE {
 ([Ejecutar](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=PREFIX+foaf%3A+%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0D%0APREFIX+geo-pos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23%3E%0D%0APREFIX+xsd%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0A%0D%0A%0D%0ASELECT+%3Fplace+%3Flocation+%3Fweb+WHERE+%7B+%0D%0A%09%3Fplace+geo-pos%3Alat+%3Flatitude+.%0D%0A++++%3Fplace+geo-pos%3Along+%3Flongitude+.%0D%0A++++%3Fplace+schema%3Alocation+%3Flocation+.%0D%0A++++SERVICE+%3Chttp%3A%2F%2Fdbpedia.org%2Fsparql%3E+%7B%0D%0A++%09%09%3Flocation+foaf%3AisPrimaryTopicOf+%3Fweb+.%0D%0A++++++%7D%0D%0A++++FILTER+%28%3Flatitude+%3E+%2242.1%22%5E%5Exsd%3Adouble++%26%26+%3Flatitude+%3C+%2242.99%22%5E%5Exsd%3Adouble%29%0D%0A++++FILTER+%28%3Flongitude+%3C+%22-2.5%22%5E%5Exsd%3Adouble++%26%26+%3Flongitude+%3E+%22-2.9%22%5E%5Exsd%3Adouble%29%0D%0A%7D))
 
 
-** DBpedia **
+**DBpedia**
 
 Datos de la DBpedia almacenados, y su página web:
 
