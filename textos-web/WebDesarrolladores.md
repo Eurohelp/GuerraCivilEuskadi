@@ -85,6 +85,26 @@ WHERE {
 ([Ejecutar](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=PREFIX+dbp%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+dbr%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2F%3E%0D%0APREFIX+geo-pos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23%3E%0D%0APREFIX+dbo%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0ASELECT+%2A+%0D%0AWHERE+%7B+%0D%0A%09%3Fbombardment+dbp%3AplannedBy+dbr%3AFrancoist_Spain+.%0D%0A+++%3Fbombardment+geo-pos%3Alat+%3Flatitude+.%0D%0A+++%3Fbombardment+geo-pos%3Along+%3Flongitude+.%0D%0A+++%3Fbombardment+dbo%3Adate+%3Fdate+.%0D%0A+++%3Fbombardment+schema%3Alocation+%3Flocation+.%0D%0A%7D))
 
 
+** Bombardeos de la Legión Cóndor **
+
+```
+SELECT  DISTINCT ?location ?date ?source ?comment
+WHERE {
+	?bombing rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+    ?bombing <http://schema.org/location> ?location .
+    ?bombing <http://dbpedia.org/ontology/date> ?date .         
+  	?bombing rdfs:comment ?comment .
+    ?bombing <http://purl.org/dc/terms/source> ?source
+    FILTER regex (str(?source), "Cóndor", "i")
+}
+ORDER BY ?date
+```
+
+([Ejecutar](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=SELECT++DISTINCT+%3Flocation+%3Fdate+%3Fsource+%3Fcomment%0D%0AWHERE+%7B%0D%0A%09%3Fbombing+rdf%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAerial_bombing_of_cities%3E+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fschema.org%2Flocation%3E+%3Flocation+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fdate%3E+%3Fdate+.+++++++++%0D%0A++%09%3Fbombing+rdfs%3Acomment+%3Fcomment+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fsource%3E+%3Fsource%0D%0A++++FILTER+regex+%28str%28%3Fsource%29%2C+%22C%C3%B3ndor%22%2C+%22i%22%29%0D%0A%7D%0D%0AORDER+BY+%3Fdate))
+
+
+
+
 TODO: otros indicadores
 TODO: otras consultas
 

@@ -1,9 +1,10 @@
-SELECT ?comment ?location ?date
+SELECT  DISTINCT ?location ?date ?source ?comment
 WHERE {
 	?bombing rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
     ?bombing <http://schema.org/location> ?location .
     ?bombing <http://dbpedia.org/ontology/date> ?date .         
   	?bombing rdfs:comment ?comment .
-  	FILTER regex (str(?comment), "C(o|ó)ndor", "i")
+    ?bombing <http://purl.org/dc/terms/source> ?source
+    FILTER regex (str(?source), "Cóndor", "i")
 }
 ORDER BY ?date

@@ -35,6 +35,6 @@ Estos datos han sido enlazados, en la medida de lo posible, localidades descrita
 
 ## Bombardeos de la legión Cóndor
 
-Fecha, lugar, y descripción de los bombardeos efectuados por la Legión Cóndor
+[Bombardeos efectuados por la Legión Cóndor](http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql?query=SELECT++DISTINCT+%3Flocation+%3Fdate+%3Fsource+%3Fcomment%0D%0AWHERE+%7B%0D%0A%09%3Fbombing+rdf%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAerial_bombing_of_cities%3E+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fschema.org%2Flocation%3E+%3Flocation+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fdate%3E+%3Fdate+.+++++++++%0D%0A++%09%3Fbombing+rdfs%3Acomment+%3Fcomment+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fsource%3E+%3Fsource%0D%0A++++FILTER+regex+%28str%28%3Fsource%29%2C+%22C%C3%B3ndor%22%2C+%22i%22%29%0D%0A%7D%0D%0AORDER+BY+%3Fdate)
 
 ## Algo con datos DBPedia???
