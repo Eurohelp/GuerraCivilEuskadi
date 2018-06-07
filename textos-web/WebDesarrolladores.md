@@ -165,18 +165,6 @@ SELECT ?x WHERE{
 
 ([Ejecutar](http:es.dbpedia.org/sparql?query=PREFIX+dcterms%3A%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0D%0A%0D%0ASELECT+%3Fx+WHERE%7B%0D%0A+++%3Fx+dcterms%3Asubject+%3Chttp%3A%2F%2Fes.dbpedia.org%2Fresource%2FCategor%C3%ADa%3AGuerra_Civil_Espa%C3%B1ola_en_el_Pa%C3%ADs_Vasco%3E+%0D%0A%7D))
 
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-([Ejecutar]())
-
 # Descarga de datos
 
 Todos los datos en RDF Turtle: [dump.zip](https://github.com/mikel-egana-aranguren/GuerraCivilEuskadi/tree/master/datos/dump.zip).
