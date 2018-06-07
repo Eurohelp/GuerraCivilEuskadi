@@ -4,7 +4,7 @@
 Las consultas SPARQL se pueden hacer directamente en el SPARQL endpoint de  sólo lectura: [http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query).
 
 ## Ejemplos
-A continuación se muestran algunas consultas SPARQL de ejemplo, junto a un enlace en el que se pueden ejecutar:
+A continuación se muestran algunas consultas SPARQL de ejemplo. Estos ejemplos se pueden ejecutar pinchando en el enlace "Ejecutar" o copiando y pegando la consulta en el SPARQL endpoint ([http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query)):
 
 **Leyes emitidas por el gobierno provisional de Euzkadi sobre alistamiento**
 
