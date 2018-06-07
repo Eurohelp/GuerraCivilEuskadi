@@ -179,4 +179,6 @@ Transformación de datos a RDF:
 	
 Reconciliación de entidades con DBPedia: [Open Refine](http://openrefine.org/) con plugin RDF.
 
+Fuente de fotos: [Fuente de fotos](http://www.guregipuzkoa.eus/?s=guerra+civil&lang=eu).
+
 Repositorio GitHub: [GuerraCivilEuskadi](https://github.com/mikel-egana-aranguren/GuerraCivilEuskadi).
