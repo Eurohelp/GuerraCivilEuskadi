@@ -1,7 +1,7 @@
 # Consultas SPARQL
 
 ## SPARQL endpoint
-Las consultas SPARQL se pueden hacer directamente en el SPARQL endpoint de  sólo lectura: [http://172.16.0.81:58080/blazegraph/#query](http://172.16.0.81:58080/blazegraph/#query).
+Las consultas SPARQL se pueden hacer directamente en el SPARQL endpoint de  sólo lectura: [http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query](http://guerracivileuskadi.eurohelp.es:18888/blazegraph/#query).
 
 ## Ejemplos
 A continuación se muestran algunas consultas SPARQL de ejemplo, junto a un enlace en el que se pueden ejecutar:
