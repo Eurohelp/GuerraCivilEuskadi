@@ -1,6 +1,6 @@
 PREFIX mydata: <http://example.com/resource/>
 PREFIX spif: <http://spinrdf.org/spif#>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX schema: <http://schema.org/>
 PREFIX dbpediaowl: <http://dbpedia.org/ontology/>
 PREFIX dbpedia2: <http://dbpedia.org/property/>
@@ -10,20 +10,19 @@ INSERT {
     GRAPH<http://id.euskadi.eus/catalogo/bombardment>{
   ?mainUri a ?tipo1;
     a ?tipo2;
+    rdfs:label ?location;
     geo:lat ?lat;
     geo:long ?long;
     schema:location ?uriLocaldad;
     ?prediNumeroBombardeos ?numBombardeos;
 	dbpediaowl:date ?fecha1;
     dbpediaowl:date ?fecha2;
-	dbpediaowl:date ?fecha3;
     dbpedia2:plannedBy ?franco;
     rdfs:comment ?descripcion;
-    rdfs:comment ?location;
     dcterms:source ?fuente.
-  }
+    }
 } WHERE {
-  SERVICE<http://localhost:7200/rdf-bridge/1849476599470>{
+  SERVICE<http://localhost:7200/rdf-bridge/2276313129940>{
 	?row a mydata:Row ;
 		mydata:lat ?lat ;
 		mydata:long ?long ;
