@@ -44,6 +44,4 @@ INSERT {
   BIND(IRI(?LocalidadUriDbpedia) as ?uriLocaldad)
   BIND(IRI("http://id.euskadi.eus/def/euskadipedia/numerobombardeos") as ?prediNumeroBombardeos)
       BIND(IRI("http://dbpedia.org/resource/Francoist_Spain") as ?franco)
-  
-
 }
