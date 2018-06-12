@@ -1,0 +1,534 @@
+@prefix : <http://purl.org/dc/terms/> .
+@prefix umbel-rc: <http://umbel.org/umbel/rc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix gr_data: <http://genomic-resources.eu/resource/> .
+@prefix geo-ont: <http://www.geonames.org/ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix gr_ont: <http://genomic-resources.eu/ontology/> .
+@prefix contact: <http://www.w3.org/2000/10/swap/pim/contact#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-ubarrundia-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mur%C3%BAa-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/salinas-de-a%C3%B1ana-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/untzaga-apregindana-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-%C3%A1lava-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza--bizkaia-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-turtzioz-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-fluss-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-san-sebasti%C3%A1n-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zum%C3%A1rraga-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-otras> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/cantabria-otras> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lemoa-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantar%C3%B3n-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ordu%C3%B1a-spanien-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-bizkaia-bizkaia> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia--alava-alava> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-gipuzkoa> a <http://rdf.muninn-project.org/ontologies/graves#Mass_grave> , <http://dbpedia.org/resource/Mass_grave> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-alava> geo-pos:lat "43.055292"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-alava> geo-pos:lat "42.716821"^^xsd:double , "42.716871"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-ubarrundia-alava> geo-pos:lat "42.934879"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mur%C3%BAa-alava> geo-pos:lat "42.97283333"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-alava> geo-pos:lat "42.927564"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-alava> geo-pos:lat "42.55087777"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-alava> geo-pos:lat "42.98132777"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/salinas-de-a%C3%B1ana-alava> geo-pos:lat "42.797544"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/untzaga-apregindana-alava> geo-pos:lat "42.9882"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-alava> geo-pos:lat "42.98471666"^^xsd:double , "42.98536388"^^xsd:double , "42.98531111"^^xsd:double , "42.96241388"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-bizkaia> geo-pos:lat "43.21658888"^^xsd:double , "43.21380176"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-%C3%A1lava-bizkaia> geo-pos:lat "43.340865"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza--bizkaia-bizkaia> geo-pos:lat "43.19326323"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-bizkaia> geo-pos:lat "43.10356666"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-bizkaia> geo-pos:lat "43.21115335"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-bizkaia> geo-pos:lat "43.31027777"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-bizkaia> geo-pos:lat "43.31730555"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-bizkaia> geo-pos:lat "43.29228"^^xsd:double , "43.29141"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-bizkaia> geo-pos:lat "43.03597222"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-turtzioz-bizkaia> geo-pos:lat "43.274984"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-gipuzkoa> geo-pos:lat "43.23451227"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-gipuzkoa> geo-pos:lat "43.08808029"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-gipuzkoa> geo-pos:lat "43.02565099"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-gipuzkoa> geo-pos:lat "43.05440552"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-gipuzkoa> geo-pos:lat "42.96833333"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-gipuzkoa> geo-pos:lat "43.209067"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-gipuzkoa> geo-pos:lat "43.15773568"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-gipuzkoa> geo-pos:lat "43.11786051"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-fluss-gipuzkoa> geo-pos:lat "43.299937"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-gipuzkoa> geo-pos:lat "43.30849109"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-san-sebasti%C3%A1n-gipuzkoa> geo-pos:lat "43.30833333"^^xsd:double , "43.32863885"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-gipuzkoa> geo-pos:lat "43.13521919"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-gipuzkoa> geo-pos:lat "43.20309968"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-gipuzkoa> geo-pos:lat "43.26222222"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-gipuzkoa> geo-pos:lat "42.95381407"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-gipuzkoa> geo-pos:lat "43.33007602"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-gipuzkoa> geo-pos:lat "43.318685"^^xsd:double , "43.31679531"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-gipuzkoa> geo-pos:lat "43.29630466"^^xsd:double , "43.27967536"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-gipuzkoa> geo-pos:lat "43.118846"^^xsd:double , "43.13889838"^^xsd:double , "43.14583333"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-gipuzkoa> geo-pos:lat "43.27845512"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-gipuzkoa> geo-pos:lat "43.04875776"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zum%C3%A1rraga-gipuzkoa> geo-pos:lat "43.09517862"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-otras> geo-pos:lat "43.31939166"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/cantabria-otras> geo-pos:lat "43.33736936"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-alava> geo-pos:lat "42.849128"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lemoa-bizkaia> geo-pos:lat "43.225247"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantar%C3%B3n-alava> geo-pos:lat "42.76736"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-bizkaia> geo-pos:lat "43.266445"^^xsd:double , "43.265941"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ordu%C3%B1a-spanien-bizkaia> geo-pos:lat "42.993023"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-bizkaia-bizkaia> geo-pos:lat "43.30598"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia--alava-alava> geo-pos:lat "42.892272"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-gipuzkoa> geo-pos:lat "43.1995"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-alava> geo-pos:long "-2.998044"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-alava> geo-pos:long "-2.44525"^^xsd:double , "-2.445286"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-ubarrundia-alava> geo-pos:long "-2.642821"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mur%C3%BAa-alava> geo-pos:long "-2.73874166"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-alava> geo-pos:long "-2.892232"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-alava> geo-pos:long "-2.58459166"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-alava> geo-pos:long "-2.64271111"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/salinas-de-a%C3%B1ana-alava> geo-pos:long "-2.960506"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/untzaga-apregindana-alava> geo-pos:long "-2.95086"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-alava> geo-pos:long "-2.72255833"^^xsd:double , "-2.72190833"^^xsd:double , "-2.72193888"^^xsd:double , "-2.68523333"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-bizkaia> geo-pos:long "-2.737325"^^xsd:double , "-2.69563801"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-%C3%A1lava-bizkaia> geo-pos:long "-2.766694"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza--bizkaia-bizkaia> geo-pos:long "-3.27567133"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-bizkaia> geo-pos:long "-2.53129722"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-bizkaia> geo-pos:long "-2.84220588"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-bizkaia> geo-pos:long "-2.68439722"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-bizkaia> geo-pos:long "-2.74764722"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-bizkaia> geo-pos:long "-2.69444"^^xsd:double , "-2.7113"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-bizkaia> geo-pos:long "-2.65039444"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-turtzioz-bizkaia> geo-pos:long "-3.25242"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-gipuzkoa> geo-pos:long "-2.00967523"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-gipuzkoa> geo-pos:long "-2.36053598"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-gipuzkoa> geo-pos:long "-2.51030032"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-gipuzkoa> geo-pos:long "-2.48605193"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-gipuzkoa> geo-pos:long "-2.15111111"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-gipuzkoa> geo-pos:long "-2.344713"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-gipuzkoa> geo-pos:long "-2.24874972"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-gipuzkoa> geo-pos:long "-2.49545127"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-fluss-gipuzkoa> geo-pos:long "-2.335646"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-gipuzkoa> geo-pos:long "-1.95206417"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-san-sebasti%C3%A1n-gipuzkoa> geo-pos:long "-1.97083333"^^xsd:double , "-1.95951274"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-gipuzkoa> geo-pos:long "-2.49079558"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-gipuzkoa> geo-pos:long "-2.37529757"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-gipuzkoa> geo-pos:long "-1.97694444"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-gipuzkoa> geo-pos:long "-2.23447109"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-gipuzkoa> geo-pos:long "-1.75159103"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-gipuzkoa> geo-pos:long "-2.413483"^^xsd:double , "-2.41495199"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-gipuzkoa> geo-pos:long "-1.80583493"^^xsd:double , "-1.8579471"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-gipuzkoa> geo-pos:long "-2.097893"^^xsd:double , "-2.06269351"^^xsd:double , "-2.07583333"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-gipuzkoa> geo-pos:long "-2.01811832"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-gipuzkoa> geo-pos:long "-2.14856822"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zum%C3%A1rraga-gipuzkoa> geo-pos:long "-2.30255026"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-otras> geo-pos:long "-3.171075"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/cantabria-otras> geo-pos:long "-3.15735878"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-alava> geo-pos:long "-2.892636"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lemoa-bizkaia> geo-pos:long "-2.777057"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantar%C3%B3n-alava> geo-pos:long "-3.07762"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-bizkaia> geo-pos:long "-2.886309"^^xsd:double , "-2.884276"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ordu%C3%B1a-spanien-bizkaia> geo-pos:long "-3.002564"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-bizkaia-bizkaia> geo-pos:long "-2.843783"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia--alava-alava> geo-pos:long "-2.323946"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-gipuzkoa> geo-pos:long "-2.098918"^^xsd:double .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-ubarrundia-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mur%C3%BAa-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/salinas-de-a%C3%B1ana-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/untzaga-apregindana-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-%C3%A1lava-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza--bizkaia-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-turtzioz-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-fluss-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-san-sebasti%C3%A1n-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zum%C3%A1rraga-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-otras> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Otras> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/cantabria-otras> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Otras> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lemoa-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantar%C3%B3n-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ordu%C3%B1a-spanien-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-bizkaia-bizkaia> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia--alava-alava> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-gipuzkoa> <http://schema.org/State> <http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Gipuzkoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amurrio-alava> <http://schema.org/location> <http://dbpedia.org/resource/Amurrio> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arraia-maeztu-alava> <http://schema.org/location> <http://dbpedia.org/resource/Arraia-Maeztu> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrazua-ubarrundia-alava> <http://schema.org/location> <http://dbpedia.org/resource/Arratzua-Ubarrundia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mur%C3%BAa-alava> <http://schema.org/location> <http://dbpedia.org/resource/Murua> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/kuartango-alava> <http://schema.org/location> <http://dbpedia.org/resource/Kuartango> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/laguardia-alava> <http://schema.org/location> <http://dbpedia.org/resource/Laguardia,_Álava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/legutiano-alava> <http://schema.org/location> <http://dbpedia.org/resource/Legutio> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/salinas-de-a%C3%B1ana-alava> <http://schema.org/location> <http://dbpedia.org/resource/Salinas_de_Añana> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/untzaga-apregindana-alava> <http://schema.org/location> <http://dbpedia.org/resource/Unzá-Apreguíndana> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zigoitia-alava> <http://schema.org/location> <http://dbpedia.org/resource/Zigoitia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/amorebieta-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Amorebieta> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrieta-%C3%A1lava-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Arrieta,_Álava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/carranza--bizkaia-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Carranza,_Bizkaia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elorrio-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Elorrio> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/galdakao-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Galdakao> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/gernika-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Guernica> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/morga-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Morga> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/muxika-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Muxika> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/otxandio-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Otxandio> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/trucios-turtzioz-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Trucios-Turtzioz> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/andoain-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Andoain> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/antzuola-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Antzuola> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aretxabaleta-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Aretxabaleta> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/arrasate-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Mondragón> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ataun-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Ataun> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azkoitia-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Azkoitia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/azpeitia-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Azpeitia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bergara-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Bergara> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/deba-fluss-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Deba_(river)> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Donostia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/donostia-san-sebasti%C3%A1n-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Donostia-San_Sebastián> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgeta-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Elgeta> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/elgoibar-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Elgoibar> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/hernani-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Hernani> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/idiazabal-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Idiazabal> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/irun-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Irun> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/mutriku-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Mutriku> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/oiartzun-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Oiartzun> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/tolosa-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Tolosa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/usurbil-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Usurbil> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zaldibia-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Zaldibia> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zum%C3%A1rraga-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Zumárraga> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/castro-urdiales-otras> <http://schema.org/location> <http://dbpedia.org/resource/Castro_Urdiales> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/cantabria-otras> <http://schema.org/location> <http://dbpedia.org/resource/Cantabria> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/aprikano-alava> <http://schema.org/location> <http://www.wikidata.org/entity/Q2858965> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lemoa-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Lemoa> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/lantar%C3%B3n-alava> <http://schema.org/location> <http://dbpedia.org/resource/Lantarón> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/bilbao-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Bilbao> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/ordu%C3%B1a-spanien-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Orduña-Urduña> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/zamudio-bizkaia-bizkaia> <http://schema.org/location> <http://dbpedia.org/resource/Zamudio> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/araia--alava-alava> <http://schema.org/location> <http://dbpedia.org/resource/Araia,_Alava> .
+
+<http://id.euskadi.eus/public-sector/history/mass-grave/asteasu-gipuzkoa> <http://schema.org/location> <http://dbpedia.org/resource/Asteasu> .
