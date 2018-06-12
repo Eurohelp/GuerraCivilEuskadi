@@ -1,0 +1,11 @@
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX schema: <http://schema.org/>
+SELECT * 
+WHERE { 
+   ?resource rdf:type ?type .	
+   ?resource geo-pos:lat ?latitude .
+   ?resource geo-pos:long ?longitude .
+}
