@@ -21,11 +21,6 @@ function generarMapa() {
 
     var mymap = L.map('mapid').setView([43.2603479, -2.9334110], 13);
 
-    //L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-    //    maxZoom: 22,
-    //    id: 'mapbox.streets'
-    //}).addTo(mymap);
-
     L.tileLayer('https://{s}.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png?apikey={apikey}', {
         attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         apikey: '97fe5e926bfa4a0d8e4d894799973f6a',
@@ -40,6 +35,21 @@ function generarMapa() {
             .setContent("You clicked the map at " + e.latlng.toString())
             .openOn(mymap);
     }
+
+    var LeafIcon = L.Icon.extend({
+        options: {
+            shadowUrl: 'dist/images/markers-shadow.png',
+            iconSize: [38, 95],
+            shadowSize: [50, 64],
+            iconAnchor: [22, 94],
+            shadowAnchor: [4, 62],
+            popupAnchor: [-3, -76]
+        }
+    });
+
+    var bombingIcon = new LeafIcon({ iconUrl: 'dist/images/2079_-_Explosion_I-512.png' });
+
+    var infrastructureIcon = new LeafIcon({ iconUrl: 'dist/images/09_home-3-512.png' });
 
     mymap.on('click', onMapClick);
 
@@ -81,7 +91,13 @@ function generarMapa() {
 
             longitud = $(element).find("binding[name='longitude']").find("literal").text();
 
-            var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(name));
+            if (name.includes("bombing")) {
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(name));
+            } else if (name.includes("Mass_grave")) {
+                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(name));
+            } else {
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(name));
+            }
 
         });
     });
