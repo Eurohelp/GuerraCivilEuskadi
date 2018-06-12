@@ -11,43 +11,13 @@ var longitud;
 var arrayLatitud = [];
 var arrayLongitud = [];
 var resultadosPosicion = [];
-var url = "http://172.16.0.81:58080/blazegraph/namespace/ConcursoOpenDataEuskadi/sparql";
+var url = "http://guerracivileuskadi.eurohelp.es:18888/blazegraph/namespace/kb/sparql";
 var sentencia = "";
 /***************************************************************************** */
 
 /*Scripts mapa*/
 
 function generarMapa() {
-
-    //    var options = {
-    //        "async": true,
-    //        "crossDomain": true,
-    //        "url": url,
-    //        "method": "POST",
-    //        "dataType": "xml",
-    //        "headers": {
-    //            "Content-Type": "application/x-www-form-urlencoded",
-    //            "Accept": "application/sparql-results+xml;charset=UTF-8",
-    //            "Cache-Control": "true",
-    //        },
-    //
-    //        "data": "query=PREFIX dbp: <http://dbpedia.org/property/>" +
-    //            "PREFIX dbr: <http://dbpedia.org/resource/>" +
-    //            "PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>" +
-    //            "PREFIX dbo: <http://dbpedia.org/ontology/>" +
-    //            "PREFIX schema: <http://schema.org/>" +
-    //            "SELECT * " +
-    //            "WHERE { " +
-    //            "" +
-    //            "   ?bombardment dbo:date ?date ." +
-    //            "" +
-    //            "}"
-    //
-    //    }
-    //
-    //    $.ajax(options).done(function(respuesta) {
-    //        console.log(respuesta);
-    //    });
 
     var mymap = L.map('mapid').setView([43.2603479, -2.9334110], 13);
 
@@ -62,11 +32,6 @@ function generarMapa() {
         maxZoom: 22
     }).addTo(mymap);
 
-
-    L.marker([43.2603479, -2.9334110]).addTo(mymap)
-        .bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
-
-
     var popup = L.popup();
 
     function onMapClick(e) {
@@ -77,6 +42,51 @@ function generarMapa() {
     }
 
     mymap.on('click', onMapClick);
+
+    var options = {
+        "async": true,
+        "crossDomain": true,
+        "url": url,
+        "method": "POST",
+        "dataType": "xml",
+        "headers": {
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Accept": "application/sparql-results+xml;charset=UTF-8",
+            "Cache-Control": "true",
+        },
+
+        "data": "query=PREFIX dbp: <http://dbpedia.org/property/>" +
+            "PREFIX dbr: <http://dbpedia.org/resource/>" +
+            "PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>" +
+            "PREFIX dbo: <http://dbpedia.org/ontology/>" +
+            "PREFIX schema: <http://schema.org/>" +
+            "SELECT * " +
+            "WHERE { " +
+            "   ?resource rdf:type ?type .	" +
+            "   ?resource geo-pos:lat ?latitude ." +
+            "   ?resource geo-pos:long ?longitude ." +
+            "}"
+
+    }
+
+    $.ajax(options).done(function(respuesta) {
+
+        console.log(respuesta);
+
+        $(respuesta).find("results").find("result").each(function(index, element) {
+
+            name = $(element).find("binding[name='type']").find("uri").text();
+
+            latitud = $(element).find("binding[name='latitude']").find("literal").text();
+
+            longitud = $(element).find("binding[name='longitude']").find("literal").text();
+
+            var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(name));
+
+        });
+    });
+
+
 
     /******************************************** */
     //Llamada a la Triple Store
