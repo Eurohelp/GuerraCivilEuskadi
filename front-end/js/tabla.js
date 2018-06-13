@@ -61,8 +61,7 @@ function generarTabla() {
                 deathPlace + '</a></td>';
             tabla += '<td>' + '<a href=' + deathMode + ' target="_blank">' +
                 deathMode + '</a></td>';
-            tabla += '<td>' + '<a href=' + label + ' target="_blank">' +
-                label + '</a></td>';
+            tabla += '<td>' + label + '</a></td>';
 
             tabla += "</tr>";
             console.log(person + birthPlace + deathPlace + deathMode + label);
