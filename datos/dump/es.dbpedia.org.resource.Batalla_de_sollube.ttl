@@ -1,0 +1,61 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns0: <http://dbpedia.org/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://es.dbpedia.org/property/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix ns2: <http://www.georss.org/georss/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>
+  a <http://dbpedia.org/ontology/SocietalEvent>, <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>, owl:Thing, <http://dbpedia.org/ontology/MilitaryConflict>, schema:Event, <http://dbpedia.org/ontology/Event>, geo:SpatialThing ;
+  ns0:abstract "La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizcaína de Bermeo en el País Vasco, España. Enfrentó a las fuerzas sublevadas contra la segunda república española de Bautista Sánchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao."@es ;
+  ns0:causalties "400 muertos"^^xsd:string, "600 muertos"^^xsd:string ;
+  ns0:combatant "22px República española"^^xsd:string, "23px|Bandera de las fuerzas sublevadas en 1937. Bando sublevado"^^xsd:string ;
+  ns0:commander "http://es.dbpedia.org/resource/Sandro_Piazzoni"^^xsd:string, "http://es.dbpedia.org/resource/Juan_Bautista_Sánchez"^^xsd:string, "http://es.dbpedia.org/resource/Pablo_Belderrain"^^xsd:string, "http://es.dbpedia.org/resource/Wolfram_von_Richthofen"^^xsd:string ;
+  ns0:place "http://es.dbpedia.org/resource/Sollube"^^xsd:string ;
+  ns0:result "Victoria de los sublevados."^^xsd:string ;
+  ns0:thumbnail "http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG?width=300"^^xsd:string ;
+  ns0:wikiPageExternalLink "http://www.edsombra.com/sotano/index.asp?rev=76&sec=7&pag=1"^^xsd:string ;
+  ns0:wikiPageID 5014938 ;
+  ns0:wikiPageLength 9016 ;
+  ns0:wikiPageOutDegree 96 ;
+  ns0:wikiPageRevisionID 69393668 ;
+  ns0:wikiPageWikiLink "http://es.dbpedia.org/resource/Bando_republicano"^^xsd:string, "http://es.dbpedia.org/resource/14_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Segunda_República_Española"^^xsd:string, "http://es.dbpedia.org/resource/1_de_julio"^^xsd:string, "http://es.dbpedia.org/resource/Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Río_Butrón"^^xsd:string, "http://es.dbpedia.org/resource/1_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/12_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Bermeo"^^xsd:string, "http://es.dbpedia.org/resource/10_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Campaña_de_Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Busturialdea_-_Urdaibai"^^xsd:string, "http://es.dbpedia.org/resource/1937"^^xsd:string, "http://es.dbpedia.org/resource/31_de_marzo"^^xsd:string, "http://es.dbpedia.org/resource/6_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Segunda_república_española"^^xsd:string, "http://es.dbpedia.org/resource/8_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Bombardeo_de_Guernica"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:España_en_1937"^^xsd:string, "http://es.dbpedia.org/resource/IV_Brigada_de_Navarra"^^xsd:string, "http://es.dbpedia.org/resource/Legión_Cóndor"^^xsd:string, "http://es.dbpedia.org/resource/4_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/IV_Brigada_Navarra"^^xsd:string, "http://es.dbpedia.org/resource/Valle_de_Asúa"^^xsd:string, "http://es.dbpedia.org/resource/Bombardeo_de_Durango"^^xsd:string, "http://es.dbpedia.org/resource/Cabo_Machichaco"^^xsd:string, "http://es.dbpedia.org/resource/Pablo_Belderrain"^^xsd:string, "http://es.dbpedia.org/resource/7_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/España"^^xsd:string, "http://es.dbpedia.org/resource/Bizkargi"^^xsd:string, "http://es.dbpedia.org/resource/José_Antonio_Aguirre"^^xsd:string, "http://es.dbpedia.org/resource/5_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/9_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Marina_de_Guerra_Auxiliar_de_Euzkadi"^^xsd:string, "http://es.dbpedia.org/resource/Batalla_de_Bilbao"^^xsd:string, "http://es.dbpedia.org/resource/Archivo:Flag_of_Spain_1931_1939.svg"^^xsd:string, "http://es.dbpedia.org/resource/Acción_Nacionalista_Vasca"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Guerra_Civil_Española_en_el_País_Vasco"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Batallas_de_la_Guerra_Civil_Española"^^xsd:string, "http://es.dbpedia.org/resource/3_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Éibar"^^xsd:string, "http://es.dbpedia.org/resource/País_Vasco"^^xsd:string, "http://es.dbpedia.org/resource/Ofensiva_de_Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Guerra_Civil_Española"^^xsd:string, "http://es.dbpedia.org/resource/Juan_Bautista_Sánchez"^^xsd:string, "http://es.dbpedia.org/resource/Mundaca"^^xsd:string, "http://es.dbpedia.org/resource/Bando_sublevado"^^xsd:string, "http://es.dbpedia.org/resource/Sandro_Piazzoni"^^xsd:string, "http://es.dbpedia.org/resource/2_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Artillería"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Historia_de_Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Sollube"^^xsd:string, "http://es.dbpedia.org/resource/Batalla_de_Sollube"^^xsd:string, "http://es.dbpedia.org/resource/Cinturón_de_Hierro"^^xsd:string, "http://es.dbpedia.org/resource/Cinturón_de_Hierro_de_Bilbao"^^xsd:string, "http://es.dbpedia.org/resource/Archivo:Bandera_del_bando_nacional_1936-1938.svg"^^xsd:string, "http://es.dbpedia.org/resource/Batallón_Isaac_Puente"^^xsd:string, "http://es.dbpedia.org/resource/17_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Bilbao"^^xsd:string, "http://es.dbpedia.org/resource/30_de_abril"^^xsd:string, "http://es.dbpedia.org/resource/Guipúzcoa"^^xsd:string, "http://es.dbpedia.org/resource/11_de_mayo"^^xsd:string, "http://es.dbpedia.org/resource/Wolfram_von_Richthofen"^^xsd:string ;
+  ns1:bajas 600, 400 ;
+  ns1:batallas "http://es.dbpedia.org/resource/Cinturón_de_Hierro_de_Bilbao"^^xsd:string, "http://es.dbpedia.org/resource/Bombardeo_de_Guernica"^^xsd:string, "http://es.dbpedia.org/resource/Batalla_de_Bilbao"^^xsd:string, "http://es.dbpedia.org/resource/Cinturón_de_Hierro"^^xsd:string, "http://es.dbpedia.org/resource/Bombardeo_de_Durango"^^xsd:string, "http://es.dbpedia.org/resource/Batalla_de_Sollube"^^xsd:string ;
+  ns1:comandante "Von Richtofen"@es, 22, "Sandro Piazzoni"@es ;
+  ns1:combatientes 22, 23 ;
+  ns1:consecuencias """* La comarca de Busturialdea es controlada por los sublevados.
+* Estancamiento del frente vizcaíno hasta el 12 de junio.
+* Los sublevados alcanzan el Río Butrón, posición estratégica para tomar Bilbao."""@es ;
+  ns1:descripciónImagen "Monte Sollube, posición donde se desarrollaron los combates."@es ;
+
+#  ns1:fecha 6 ;
+#  ns1:fin 1 ;
+	ns0:date	"1937-05-06"^^xsd:date ;
+  ns1:imagen "Sollube antena.JPG"@es ;
+  ns1:inicio 31 ;
+  ns1:lugar "Entre los montes Sollube y Bizkargi"@es ;
+  ns1:nombre "Campaña de Vizcaya"@es, "Batalla de Sollube"@es ;
+  ns1:parteDe "http://es.dbpedia.org/resource/Ofensiva_de_Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Guerra_Civil_Española"^^xsd:string, "http://es.dbpedia.org/resource/Campaña_de_Vizcaya"^^xsd:string ;
+  ns1:resultado "Victoria de los sublevados."@es ;
+  ns1:wikiPageUsesTemplate "http://es.dbpedia.org/resource/Plantilla:Listaref"^^xsd:string, "http://es.dbpedia.org/resource/Plantilla:Campaña_militar"^^xsd:string, "http://es.dbpedia.org/resource/Plantilla:Ficha_de_conflicto_militar"^^xsd:string ;
+  dc:subject "http://es.dbpedia.org/resource/Categoría:España_en_1937"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Historia_de_Vizcaya"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Guerra_Civil_Española_en_el_País_Vasco"^^xsd:string, "http://es.dbpedia.org/resource/Categoría:Batallas_de_la_Guerra_Civil_Española"^^xsd:string ;
+  ns2:point "43.41777777777778 -1.4413888888888888"^^xsd:string ;
+  rdfs:comment "La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizcaína de Bermeo en el País Vasco, España. Enfrentó a las fuerzas sublevadas contra la segunda república española de Bautista Sánchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao."@es ;
+  rdfs:label "Batalla de Sollube"@es ;
+  owl:sameAs "http://wikidata.dbpedia.org/resource/Q5722997"^^xsd:string, "http://wikidata.org/entity/Q5722997"^^xsd:string ;
+  geo:lat "4.341777801513672E1"^^xsd:float ;
+  geo:long "-1.441388845443726E0"^^xsd:float ;
+  prov:wasDerivedFrom "http://es.wikipedia.org/wiki/Batalla_de_Sollube?oldid=69393668"^^xsd:string ;
+  foaf:depiction "http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG"^^xsd:string ;
+  foaf:isPrimaryTopicOf "http://es.wikipedia.org/wiki/Batalla_de_Sollube"^^xsd:string ;
+  foaf:name "Batalla de Sollube"@es .
+
+<http://es.dbpedia.org/resource/Marcelino_Bilbao> ns0:wikiPageWikiLink "http://es.dbpedia.org/resource/Batalla_de_Sollube"^^xsd:string .
+<http://es.dbpedia.org/resource/Sollube> ns0:wikiPageWikiLink "http://es.dbpedia.org/resource/Batalla_de_Sollube"^^xsd:string .
+<http://es.wikipedia.org/wiki/Batalla_de_Sollube> foaf:primaryTopic "http://es.dbpedia.org/resource/Batalla_de_Sollube"^^xsd:string .

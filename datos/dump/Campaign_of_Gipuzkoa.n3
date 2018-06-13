@@ -1,0 +1,105 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jos\u00E9_Solchaga>	dbo:battle	dbr:Campaign_of_Gipuzkoa .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Campaign_of_Gipuzkoa	foaf:primaryTopic	dbr:Campaign_of_Gipuzkoa .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	wikidata:Q1656682 ,
+		dbo:SocietalEvent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:GroupAction101080366 ,
+		yago:Abstraction100002137 .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	ns7:Event ,
+		yago:WikicatBattlesOfTheSpanishCivilWar ,
+		yago:Act100030358 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	owl:Thing ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:WikicatConflictsIn1936 .
+@prefix schema:	<http://schema.org/> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	schema:Event ,
+		yago:Event100029378 .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Campaign_of_Gipuzkoa	rdf:type	umbel-rc:ConflictEvent ,
+		yago:PsychologicalFeature100023100 ,
+		umbel-rc:Event .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Campaign_of_Gipuzkoa	rdfs:label	"Campa\u00F1a de Guip\u00FAzcoa"@es ,
+		"Campaign of Gipuzkoa"@en ,
+		"\u0413\u0438\u043F\u0443\u0441\u043A\u043E\u0430\u0441\u0441\u043A\u0430\u044F \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044F"@ru ,
+		"Campagne du Guipuscoa"@fr ,
+		"Offensive von Guip\u00FAzcoa"@de ;
+	rdfs:comment	"La campagne du Guipuscoa d\u00E9signe une des premi\u00E8res grandes campagnes de la guerre d'Espagne, durant laquelle les forces nationalistes repouss\u00E8rent les troupes r\u00E9publicaines et occup\u00E8rent le Guipuscoa, qui faisait partie du Pays basque."@fr ,
+		"La campa\u00F1a de Guip\u00FAzcoa fue una campa\u00F1a de la Guerra Civil Espa\u00F1ola en la que el ej\u00E9rcito franquista conquist\u00F3 el norte de la provincia de Guip\u00FAzcoa, en poder de la Rep\u00FAblica. Inicialmente concebido por el general Emilio Mola para avanzar sobre Ir\u00FAn para cortar las comunicaciones entre el norte de la pen\u00EDnsula y Francia y conectar con los rebeldes de la guarnici\u00F3n de San Sebasti\u00E1n que se vieron sitiados por las fuerzas de Augusto P\u00E9rez Garmendia."@es ,
+		"\u0413\u0438\u043F\u0443\u0441\u043A\u043E\u0430\u0441\u0441\u043A\u0430\u044F \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \u2014 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \u0413\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u0432 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0430\u0440\u043C\u0438\u044F \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0438\u0441\u0442\u043E\u0432 \u0437\u0430\u0445\u0432\u0430\u0442\u0438\u043B\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u0443\u044E \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044E \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0413\u0438\u043F\u0443\u0441\u043A\u043E\u0430, \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0435\u0439\u0441\u044F \u0432 \u0440\u0443\u043A\u0430\u0445 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0446\u0435\u0432."@ru ,
+		"Die Offensive von Guip\u00FAzcoa war eine Offensive zu Beginn des Spanischen B\u00FCrgerkrieges, in dem die Nationalisten die Provinz Guip\u00FAzcoa eroberten. Die nationalistische Offensive begann im August 1936 und hatte das Ziel, das Baskenland von Frankreich abzuschneiden."@de ,
+		"The Campaign of Gipuzkoa was part of the Spanish Civil War, where the Nationalist Army conquered the northern province of Gipuzkoa, held by the Republic."@en ;
+	owl:sameAs	dbr:Campaign_of_Gipuzkoa ,
+		<http://rdf.freebase.com/ns/m.03h4mx0> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:Campaign_of_Gipuzkoa	owl:sameAs	yago-res:Campaign_of_Gipuzkoa ,
+		<http://es.dbpedia.org/resource/Campa\u00F1a_de_Guip\u00FAzcoa> ,
+		wikidata:Q2015719 ,
+		<http://de.dbpedia.org/resource/Offensive_von_Guip\u00FAzcoa> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Campaign_of_Gipuzkoa	owl:sameAs	dbpedia-eu:Gipuzkoako_kanpaina .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:Campaign_of_Gipuzkoa	owl:sameAs	dbpedia-wikidata:Q2015719 .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Campaign_of_Gipuzkoa	owl:sameAs	dbpedia-fr:Campagne_du_Guipuscoa .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Campaign_of_Gipuzkoa	dct:subject	dbc:Gipuzkoa ,
+		<http://dbpedia.org/resource/Category:1936_in_Spain> ,
+		dbc:Battles_of_the_Spanish_Civil_War ,
+		dbc:Conflicts_in_1936 ;
+	foaf:name	"Campaign of Gipuzkoa"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gipuzkoa_frontline_1936.gif> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Campaign_of_Gipuzkoa ;
+	dbo:causalties	"?" ;
+	dbo:combatant	"Nationalist Spain" ,
+		"Spanish Republic" ;
+	dbo:commander	dbr:Alfonso_Beorlegui_Canet ,
+		dbr:Emilio_Mola ,
+		<http://dbpedia.org/resource/Augusto_P\u00E9rez_Garmendia> ,
+		dbr:Colonel_Antonio_Ortega .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Campaign_of_Gipuzkoa	dbo:date	"1936-09-26"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Decisive Nationalist victory" ;
+	dbo:strength	"3,000" ,
+		"someJu-52bombers" ,
+		"1 destroyer" ,
+		"1 battleship" ,
+		"1 cruiser" ,
+		"somePanzer Itanks" ,
+		"3,500 men" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Campaign_of_Gipuzkoa	dbp:casualties	"?"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Campaign_of_Gipuzkoa	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Campaign_of_Gipuzkoa?oldid=741612317> ;
+	dbo:wikiPageExternalLink	<http://www.gipuzkoa1936.com/verano-e.php> ;
+	dbp:caption	"Campaign in one-week intervals"@en ;
+	dbo:abstract	"\u0413\u0438\u043F\u0443\u0441\u043A\u043E\u0430\u0441\u0441\u043A\u0430\u044F \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \u2014 \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \u0413\u0440\u0430\u0436\u0434\u0430\u043D\u0441\u043A\u043E\u0439 \u0432\u043E\u0439\u043D\u044B \u0432 \u0418\u0441\u043F\u0430\u043D\u0438\u0438, \u0432 \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0430\u0440\u043C\u0438\u044F \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0438\u0441\u0442\u043E\u0432 \u0437\u0430\u0445\u0432\u0430\u0442\u0438\u043B\u0430 \u0441\u0435\u0432\u0435\u0440\u043D\u0443\u044E \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044E \u0418\u0441\u043F\u0430\u043D\u0438\u0438 \u0413\u0438\u043F\u0443\u0441\u043A\u043E\u0430, \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0435\u0439\u0441\u044F \u0432 \u0440\u0443\u043A\u0430\u0445 \u0440\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\u043D\u0446\u0435\u0432."@ru ,
+		"The Campaign of Gipuzkoa was part of the Spanish Civil War, where the Nationalist Army conquered the northern province of Gipuzkoa, held by the Republic."@en ,
+		"La campagne du Guipuscoa d\u00E9signe une des premi\u00E8res grandes campagnes de la guerre d'Espagne, durant laquelle les forces nationalistes repouss\u00E8rent les troupes r\u00E9publicaines et occup\u00E8rent le Guipuscoa, qui faisait partie du Pays basque."@fr ,
+		"Die Offensive von Guip\u00FAzcoa war eine Offensive zu Beginn des Spanischen B\u00FCrgerkrieges, in dem die Nationalisten die Provinz Guip\u00FAzcoa eroberten. Die nationalistische Offensive begann im August 1936 und hatte das Ziel, das Baskenland von Frankreich abzuschneiden. Im August trafen sich Emilio Mola und Francisco Franco in Sevilla und beschlossen, San Sebastian und Irun zu erobern. Die nationalistischen Truppen stie\u00DFen daraufhin mit 3.500 Mann von Pamplona in Richtung San Sebastian und Irun vor. Den Nationalisten gelang es am 11. August, die alte Baskenhauptstadt Tolosa einzunehmen. Des Weiteren r\u00FCckten die Nationalisten entlang der franz\u00F6sischen Grenze in Richtung Irun vor und eroberten am 11. August den Bergr\u00FCcken von Picoqueta, ca. 15 Kilometer s\u00FCdlich von Irun. Durch die Zerst\u00F6rung der Br\u00FCcke bei Endarlatsa gelang es aber den Republikanern, den Vormarsch der Nationalisten \u00FCber die Nationalstra\u00DFe N-121a auf Irun aufzuhalten. Am 26. August begann Oberst Alfonso Beorlegui Canet den Angriff auf Irun und eroberte die Stadt nach blutigen K\u00E4mpfen am 3. September. Am 13. September folgte der Abschluss der Offensive mit der Eroberung von San Sebastian. Hiernach erfolgte der Vorsto\u00DF der Nationalisten auf die Provinz Bizkaia."@de ,
+		"La campa\u00F1a de Guip\u00FAzcoa fue una campa\u00F1a de la Guerra Civil Espa\u00F1ola en la que el ej\u00E9rcito franquista conquist\u00F3 el norte de la provincia de Guip\u00FAzcoa, en poder de la Rep\u00FAblica. Inicialmente concebido por el general Emilio Mola para avanzar sobre Ir\u00FAn para cortar las comunicaciones entre el norte de la pen\u00EDnsula y Francia y conectar con los rebeldes de la guarnici\u00F3n de San Sebasti\u00E1n que se vieron sitiados por las fuerzas de Augusto P\u00E9rez Garmendia."@es ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gipuzkoa_frontline_1936.gif?width=300> ;
+	dbo:wikiPageRevisionID	741612317 ;
+	dbo:wikiPageID	15012736 ;
+	dbo:place	dbr:Spain ,
+		dbr:Gipuzkoa .
+@prefix ns21:	<http://purl.org/linguistics/gold/> .
+dbr:Campaign_of_Gipuzkoa	ns21:hypernym	dbr:Part .
+<http://dbpedia.org/resource/Antonio_Ortega_(soldier)>	dbo:battle	dbr:Campaign_of_Gipuzkoa .
+dbr:Campaign_of_Guipuzcoa	dbo:wikiPageRedirects	dbr:Campaign_of_Gipuzkoa .
+<http://dbpedia.org/resource/Campaign_of_Guip\u00FAzcoa>	dbo:wikiPageRedirects	dbr:Campaign_of_Gipuzkoa .

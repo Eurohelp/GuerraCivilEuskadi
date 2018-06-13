@@ -1,0 +1,125 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+wikipedia-en:War_in_the_North	foaf:primaryTopic	dbr:War_in_the_North .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Asturias_Offensive	dbo:territory	dbr:War_in_the_North .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:War_in_the_North	rdf:type	wikidata:Q1656682 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbr:War_in_the_North	rdf:type	yago:Event100029378 ,
+		yago:WikicatConflictsIn1937 ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix ns7:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbr:War_in_the_North	rdf:type	ns7:Event ,
+		yago:WikicatBattlesOfTheSpanishCivilWar .
+@prefix schema:	<http://schema.org/> .
+dbr:War_in_the_North	rdf:type	schema:Event ,
+		yago:Act100030358 ,
+		yago:Abstraction100002137 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:War_in_the_North	rdf:type	owl:Thing ,
+		yago:PsychologicalFeature100023100 ,
+		dbo:SocietalEvent ,
+		yago:Battle100953559 ,
+		dbo:Event ,
+		dbo:MilitaryConflict ,
+		yago:MilitaryAction100952963 ,
+		yago:Conflict100958896 ,
+		yago:GroupAction101080366 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:War_in_the_North	rdfs:label	"Ofensiva del Norte"@es ,
+		"Campagne du Nord"@fr ,
+		"Krieg im Norden"@de ,
+		"War in the North"@en ,
+		"Campanha do Norte"@pt ;
+	rdfs:comment	"La campagne du Nord d\u00E9signe la campagne de la Guerre d'Espagne durant laquelle les forces nationalistes repouss\u00E8rent les troupes r\u00E9publicaines et occup\u00E8rent la zone r\u00E9publicaine du nord. Elle s'\u00E9tala entre les mois de juin et octobre 1937. Elle comprend plusieurs batailles majeures, \u00E0 commencer par celle de Bilbao, au mois de juin 1937, qui provoqua la perte totale et d\u00E9finitive du Pays basque. Les bombardements de Guernica et de Durango peuvent \u00E9galement \u00EAtre consid\u00E9r\u00E9s comme des \u00E9tapes importantes de cette campagne. La bataille de Santander provoqua la perte de la Cantabrie, puis celle d'El Mazuco des Asturies."@fr ,
+		"Der Krieg im Norden fand w\u00E4hrend des Spanischen B\u00FCrgerkriegs im Norden Spaniens zwischen dem 31. M\u00E4rz 1937 und dem 21. Oktober 1937 statt. Die nationalistischen Kr\u00E4fte unter Franco besiegten dabei in mehreren Schlachten die republikanischen Truppen."@de ,
+		"La Ofensiva del Norte, tambi\u00E9n denominada Campa\u00F1a del Norte, es el nombre que recibe el conjunto de operaciones y combates que tuvieron lugar en la franja cant\u00E1brica desde la primavera al oto\u00F1o de 1937, entre las fuerzas sublevadas y las de la zona leal al gobierno republicano durante la Guerra Civil Espa\u00F1ola."@es ,
+		"A Campanha do Norte foi uma serie de opera\u00E7\u00F5es militares, durante a Guerra Civil Espanhola, na qual as for\u00E7as nacionalistas ocuparam as partes do norte da Espanha que ainda permaneciam leais ao governo republicano. A campanha incluiu v\u00E1rias batalhas separadas. A Campanha da Biscaia resultou na perda de parte do Pa\u00EDs Basco ainda controlada pela Rep\u00FAblica e a Bilbao, o maior centro industrial espanhol. Esta parte da campanha viu o  bombardeio de Durango e o de  Guernica."@pt ,
+		"The War in the North, in the Spanish Civil War was the campaign in which the Nationalist forces defeated and occupied the parts of northern Spain that remained loyal to the Republican government. The campaign included several separate battles. The Biscay Campaign resulted in the loss of the part of the Basque Country still held by the Republic and Bilbao, the greatest Spanish industrial center. This part of the campaign saw the Bombing of Guernica and Durango. The Battle of Santander caused the loss of the province of Santander in Cantabrian Castile for the Republic. The Battle of El Mazuco lead to the capture of the Republican-controlled part of Asturias and the fall of Gij\u00F3n, the Republic's last stronghold in the North, to the Nationalists. The campaign ended on October 21, 1937 with a d"@en .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	dbpedia-es:Ofensiva_del_Norte ,
+		<http://rdf.freebase.com/ns/m.02pzln3> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	dbpedia-de:Krieg_im_Norden .
+@prefix dbpedia-wikidata:	<http://wikidata.dbpedia.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	dbpedia-wikidata:Q966525 .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	dbpedia-pt:Campanha_do_Norte ,
+		dbr:War_in_the_North .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	dbpedia-fr:Campagne_du_Nord ,
+		<http://eu.dbpedia.org/resource/Iparraldeko_frontea_(Espainiako_Gerra_Zibila)> .
+@prefix yago-res:	<http://yago-knowledge.org/resource/> .
+dbr:War_in_the_North	owl:sameAs	yago-res:War_in_the_North ,
+		wikidata:Q966525 .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:War_in_the_North	dct:subject	dbc:Battles_of_the_Spanish_Civil_War ,
+		dbc:Basque_history ,
+		dbc:Conflicts_in_1937 ,
+		<http://dbpedia.org/resource/Category:1937_in_Spain> ;
+	foaf:name	"War in the North"@en ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Frente_del_Norte_-_Spanish_Civil_War_(March-Sept_1937).svg> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:War_in_the_North ;
+	dbo:causalties	"100,000 prisoners" ,
+		"one destroyer" ,
+		"33,000 dead" ;
+	dbo:combatant	"Condor Legion" ,
+		"Spanish Republic" ,
+		"Basque Army" ,
+		"Nationalist Spain" ,
+		"(Italian CTV)" ;
+	dbo:commander	dbr:Ettore_Bastico ,
+		dbr:Adolfo_Prada ,
+		dbr:Francisco_Ciutat_de_Miguel ,
+		dbr:Fidel_Davila ,
+		<http://dbpedia.org/resource/Francisco_Gal\u00E1n> ,
+		<http://dbpedia.org/resource/Jos\u00E9_Solchaga> ,
+		dbr:Francisco_Llano_de_la_Encomienda ,
+		dbr:Emilio_Mola ,
+		<http://dbpedia.org/resource/Belarmino_Tom\u00E1s> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:War_in_the_North	dbo:date	"1937-10-21"^^xsd:date ;
+	dbo:isPartOfMilitaryConflict	dbr:Spanish_Civil_War ;
+	dbo:result	"Decisive Nationalist victory" ;
+	dbo:strength	"400 artillery pieces" ,
+		"thousands of anarchists milicianos" ,
+		"1 destroyer" ,
+		"230 aircraft" ,
+		"60,000 Italian soldiers" ,
+		"120,000 soldiers" ,
+		"250 artillery pieces" ,
+		"1 battleship" ,
+		"2 cruisers" ,
+		"70 aircraft" ,
+		"7 armed trawlers" ,
+		"2 destroyers" ,
+		"100,000 Nationalist soldiers" ,
+		"40 tanks" .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:War_in_the_North	dbp:casualties	"one battleship"@en ,
+		10000 .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:War_in_the_North	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/War_in_the_North?oldid=738550403> ;
+	dbo:wikiPageExternalLink	<http://www.revistanaval.com/armada/buques1/cervera.htm> ,
+		<http://www.speleogroup.org/files/ElMazuco-LaDefensaImposible.pdf> ,
+		<http://www.speleogroup.org/files/ElMazuco-impossible-defence.html> ,
+		<https://web.archive.org/web/20091027111235/http:/es.geocities.com/su_biografia/guerra_civil.htm> ;
+	dbp:caption	"Map of the campaign"@en ;
+	dbo:abstract	"A Campanha do Norte foi uma serie de opera\u00E7\u00F5es militares, durante a Guerra Civil Espanhola, na qual as for\u00E7as nacionalistas ocuparam as partes do norte da Espanha que ainda permaneciam leais ao governo republicano. A campanha incluiu v\u00E1rias batalhas separadas. A Campanha da Biscaia resultou na perda de parte do Pa\u00EDs Basco ainda controlada pela Rep\u00FAblica e a Bilbao, o maior centro industrial espanhol. Esta parte da campanha viu o  bombardeio de Durango e o de  Guernica. A Batalha de Santander causou a perda da prov\u00EDncia de Santander na Cant\u00E1bria  e a Batalha de El Mazuco levou \u00E0 captura de parte controlada pelos republicanos da Asturias e a queda de Gij\u00F3n, \u00FAltimo reduto da Rep\u00FAblica no Norte. A campanha terminou no dia 21 de outubro de 1937 com uma vit\u00F3ria nacionalista decisiva e total."@pt ,
+		"The War in the North, in the Spanish Civil War was the campaign in which the Nationalist forces defeated and occupied the parts of northern Spain that remained loyal to the Republican government. The campaign included several separate battles. The Biscay Campaign resulted in the loss of the part of the Basque Country still held by the Republic and Bilbao, the greatest Spanish industrial center. This part of the campaign saw the Bombing of Guernica and Durango. The Battle of Santander caused the loss of the province of Santander in Cantabrian Castile for the Republic. The Battle of El Mazuco lead to the capture of the Republican-controlled part of Asturias and the fall of Gij\u00F3n, the Republic's last stronghold in the North, to the Nationalists. The campaign ended on October 21, 1937 with a decisive and total Nationalist victory."@en ,
+		"Der Krieg im Norden fand w\u00E4hrend des Spanischen B\u00FCrgerkriegs im Norden Spaniens zwischen dem 31. M\u00E4rz 1937 und dem 21. Oktober 1937 statt. Die nationalistischen Kr\u00E4fte unter Franco besiegten dabei in mehreren Schlachten die republikanischen Truppen."@de ,
+		"La Ofensiva del Norte, tambi\u00E9n denominada Campa\u00F1a del Norte, es el nombre que recibe el conjunto de operaciones y combates que tuvieron lugar en la franja cant\u00E1brica desde la primavera al oto\u00F1o de 1937, entre las fuerzas sublevadas y las de la zona leal al gobierno republicano durante la Guerra Civil Espa\u00F1ola. El desarrollo de las operaciones fue completamente contrario a las armas republicanas, que adem\u00E1s de encontrarse pol\u00EDticamente divididas, en lo que se refiere al equipo y armamento de su Ej\u00E9rcito en el Norte, \u00E9ste era muy inferior al que dispon\u00EDan los ej\u00E9rcito republicanos en la zona centro. Esta superioridad fue aprovechada por los militares franquistas para conseguir una victoria que inclinara la balanza de la guerra a su favor. En una serie de grandes operaciones militares, las fuerzas sublevadas (con el siempre decisivo apoyo militar de la Legi\u00F3n C\u00F3ndor y el Corpo Truppe Volontarie) destruyeron a las fuerzas republicanas en la cornisa Cant\u00E1brica y se hicieron con el control de Vizcaya, Santander y Asturias. El desastre republicano en el Norte preparar\u00EDa el camino para siguientes derrotas hasta la ca\u00EDda de la Rep\u00FAblica en la primavera de 1939."@es ,
+		"La campagne du Nord d\u00E9signe la campagne de la Guerre d'Espagne durant laquelle les forces nationalistes repouss\u00E8rent les troupes r\u00E9publicaines et occup\u00E8rent la zone r\u00E9publicaine du nord. Elle s'\u00E9tala entre les mois de juin et octobre 1937. Elle comprend plusieurs batailles majeures, \u00E0 commencer par celle de Bilbao, au mois de juin 1937, qui provoqua la perte totale et d\u00E9finitive du Pays basque. Les bombardements de Guernica et de Durango peuvent \u00E9galement \u00EAtre consid\u00E9r\u00E9s comme des \u00E9tapes importantes de cette campagne. La bataille de Santander provoqua la perte de la Cantabrie, puis celle d'El Mazuco des Asturies."@fr ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Frente_del_Norte_-_Spanish_Civil_War_(March-Sept_1937).svg?width=300> ;
+	dbo:wikiPageRevisionID	738550403 ;
+	dbo:wikiPageID	10006121 .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbr:War_in_the_North	dbp:wordnet_type	ns22:synset-war-noun-1 ;
+	dbo:place	dbr:Spain .
+@prefix ns23:	<http://purl.org/linguistics/gold/> .
+dbr:War_in_the_North	ns23:hypernym	dbr:Campaign .
+dbr:Corpo_Truppe_Volontarie	dbo:battle	dbr:War_in_the_North .
