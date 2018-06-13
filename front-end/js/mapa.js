@@ -65,23 +65,25 @@ function generarMapa() {
             "Cache-Control": "true",
         },
 
-        "data": "query=PREFIX dbp: <http://dbpedia.org/property/>" +
-            "PREFIX dbr: <http://dbpedia.org/resource/>" +
-            "PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>" +
-            "PREFIX dbo: <http://dbpedia.org/ontology/>" +
+        "data": "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> " +
+            "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
+            "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>" +
+            "PREFIX owl: <http://www.w3.org/2002/07/owl#>" +
             "PREFIX schema: <http://schema.org/>" +
-            "SELECT * " +
-            "WHERE { " +
-            "   ?resource rdf:type ?type .	" +
-            "   ?resource geo-pos:lat ?latitude ." +
-            "   ?resource geo-pos:long ?longitude ." +
-            "}"
+            "SELECT DISTINCT *  " +
+            "WHERE {" +
+            "   {?place geo-pos:lat ?latitude ." +
+            "   ?place geo-pos:long ?longitude ." +
+            "       ?place rdf:type ?type .}" +
+            "   OPTIONAL {?place rdfs:comment ?comment .}" +
+            "   OPTIONAL {?place schema:location ?location .}" +
+            "} "
 
     }
 
     $.ajax(options).done(function(respuesta) {
 
-        console.log(respuesta);
+        //console.log(respuesta);
 
         $(respuesta).find("results").find("result").each(function(index, element) {
 
@@ -91,54 +93,23 @@ function generarMapa() {
 
             longitud = $(element).find("binding[name='longitude']").find("literal").text();
 
+            localizacion = $(element).find("binding[name='location']").find("uri").text();
+
+            place = $(element).find("binding[name='place']").find("uri").text();
+
+            comment = $(element).find("binding[name='comment']").find("literal").text();
+
+            if (comment == "") { comment = "SIN INFORMACIÓN"; }
+
             if (name.includes("bombing")) {
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(name));
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
             } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(name));
+                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
             } else {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(name));
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
             }
 
         });
     });
 
-
-
-    /******************************************** */
-    //Llamada a la Triple Store
-
-    //var options = {
-    //    "async": true,
-    //    "crossDomain": true,
-    //    "url": url,
-    //    "method": "POST",
-    //    "dataType": "json",
-    //    "headers": {
-    //        "Content-Type": "application/x-www-form-urlencoded",
-    //        "Accept": "application/sparql-results+xml;charset=UTF-8",
-    //        "Cache-Control": "true",
-    //    },
-    //
-    //    "data": "query=PREFIX dbp: <http://dbpedia.org/property/>" +
-    //        "PREFIX dbr: < http: //dbpedia.org/resource/>" +
-    //        "PREFIX geo - pos: < http: //www.w3.org/2003/01/geo/wgs84_pos#>" +
-    //        "PREFIX dbo: < http: //dbpedia.org/ontology/>" +
-    //        "PREFIX schema: < http: //schema.org/>" +
-    //        "SELECT *" +
-    //        "WHERE { ?" +
-    //        "bombardment dbp: plannedBy dbr: Francoist_Spain. ?" +
-    //        "bombardment geo - pos : lat ? latitude. ?" +
-    //        "bombardment geo - pos : long ? longitude. ?" +
-    //        "bombardment dbo : date ? date. ?" +
-    //        "bombardment schema : location ? location." +
-    //        "}"
-    //
-    //}
-    //
-    //$.ajax(options).done(function(respuesta) {
-    //    console.log(respuesta);
-    //
-    //});
-
-    /******************************************** */
 }
