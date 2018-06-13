@@ -28,27 +28,11 @@ function generarTimeline() {
             "}" +
             "LIMIT 4000"
 
-        //"query=PREFIX dbp: <http://dbpedia.org/property/>" +
-        //    "PREFIX dbr: <http://dbpedia.org/resource/>" +
-        //    "PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>" +
-        //    "PREFIX dbo: <http://dbpedia.org/ontology/>" +
-        //    "PREFIX schema: <http://schema.org/>" +
-        //    "SELECT * " +
-        //    "WHERE { " +
-        //    "" +
-        //    "?bombardment dbo:date ?date ." +
-        //    "?bombardment rdfs:comment ?comment ." +
-        //    "" +
-        //    "}" +
-        //    "LIMIT 100"
-
     }
 
     $.ajax(options).done(function(respuesta) {
         console.log(respuesta);
         var container = document.getElementById('visualization');
-        var i = 0;
-        var z = 0;
         var fechasDOF = [];
         var temporalRepeticiones = 0;
 
@@ -58,17 +42,12 @@ function generarTimeline() {
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
 
             if (UriBombardeoURL.includes("missing-person")) {
-                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||missing-person";
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://id.euskadi.eus/def/euskadipedia/missing-person";
             } else if (UriBombardeoURL.includes("dof")) {
-                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||dof";
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://data.europa.eu/eli/ontology#LegalResource";
             } else if (UriBombardeoURL.includes("bombardment")) {
-                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||bombardment";
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://dbpedia.org/resource/Aerial_bombing_of_cities";
             }
-
-            //console.log(NombreBombardeo);
-            //console.log(FechaBombardeo);
-
-            //if (UriBombardeoURL.includes("missing-person")) {
 
             if (!fechasDOF.includes(FechaBombardeo)) {
                 fechasDOF.push(FechaBombardeo);
@@ -78,16 +57,6 @@ function generarTimeline() {
                 temporalRepeticiones++;
                 FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
             }
-            //}
-
-            //if (!FechasHashMap.has(FechaBombardeo)) {
-            //    FechasHashMap.set(FechaBombardeo, i);
-            //} else {
-            //    var temp = FechasHashMap.get(FechaBombardeo) + 1;
-            //    FechasHashMap.set(FechaBombardeo, temp);
-            //}
-            //
-            //data.push({ id: i, content: String(UriBombardeoURL), start: String(FechaBombardeo) });
 
         });
 
@@ -98,13 +67,13 @@ function generarTimeline() {
             datos.push(value);
             var temp = [];
             temp = value[0].split("||");
-            if (temp[1] == "missing-person") {
+            if (temp[1] == "http://id.euskadi.eus/def/euskadipedia/missing-person") {
                 var icono = '<img src="assets/map-markers/persona-corriendo.png" alt="Persona desaparecida" height="24" width="24">'
             }
-            if (temp[1] == "dof") {
+            if (temp[1] == "http://data.europa.eu/eli/ontology#LegalResource") {
                 var icono = '<img src="assets/map-markers/equilibrar.png" alt="Ley" height="24" width="24">'
             }
-            if (temp[1] == "bombardment") { var icono = '<img src="assets/map-markers/bomba.png" alt="Bombardeo" height="24" width="24">' }
+            if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") { var icono = '<img src="assets/map-markers/bomba.png" alt="Bombardeo" height="24" width="24">' }
 
             data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }
