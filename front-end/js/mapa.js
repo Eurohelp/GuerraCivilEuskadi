@@ -38,7 +38,7 @@ function generarMapa() {
 
     var LeafIcon = L.Icon.extend({
         options: {
-            shadowUrl: 'dist/images/markers-shadow.png',
+            shadowUrl: 'map-markers/markers-shadow.png',
             iconSize: [38, 95],
             shadowSize: [50, 64],
             iconAnchor: [22, 94],
@@ -47,9 +47,9 @@ function generarMapa() {
         }
     });
 
-    var bombingIcon = new LeafIcon({ iconUrl: 'dist/images/2079_-_Explosion_I-512.png' });
+    var bombingIcon = new LeafIcon({ iconUrl: 'map-markers/2079_-_Explosion_I-512.png' });
 
-    var infrastructureIcon = new LeafIcon({ iconUrl: 'dist/images/09_home-3-512.png' });
+    var infrastructureIcon = new LeafIcon({ iconUrl: 'map-markers/09_home-3-512.png' });
 
     mymap.on('click', onMapClick);
 
