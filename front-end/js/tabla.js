@@ -47,29 +47,46 @@ function generarTabla() {
         $(respuesta).find("results").find("result").each(function(index, element) {
 
             tabla += "<tr>";
-            for (l = 0; l < datosTeclado.length; l++) {
-                uniquesFor = datosTeclado[l].replace("?", "");
-                try {
-                    if ($(element).find("binding[name=" + uniquesFor + "]").find("uri").text() !== '') {
-                        tabla += '<td class=' + uniquesFor + '>' + '<a href=' + $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + ' target="_blank">' +
-                            $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + '</a></td>';
-                        uniquesFor = "?" + uniquesFor;
+            person = $(element).find("binding[name='person']").find("uri").text();
+            birthPlace = $(element).find("binding[name='birthPlace']").find("uri").text();
+            deathPlace = $(element).find("binding[name='deathPlace']").find("uri").text();
+            deathMode = $(element).find("binding[name='deathMode']").find("uri").text();
+            label = $(element).find("binding[name='label']").find("literal").text();
 
-                    } else { tabla += '<td class=' + uniquesFor + '>' + $(element).find("binding[name=" + uniquesFor + "]").find("literal").text() + '</td>'; }
+            tabla += '<td>' + '<a href=' + person + ' target="_blank">' +
+                person + '</a></td>';
+            tabla += '<td>' + '<a href=' + birthPlace + ' target="_blank">' +
+                birthPlace + '</a></td>';
+            tabla += '<td>' + '<a href=' + deathPlace + ' target="_blank">' +
+                deathPlace + '</a></td>';
+            tabla += '<td>' + '<a href=' + deathMode + ' target="_blank">' +
+                deathMode + '</a></td>';
+            tabla += '<td>' + '<a href=' + label + ' target="_blank">' +
+                label + '</a></td>';
 
-                } catch (err) {
-                    console.log("No existe este formato");
-                }
-            }
+            tabla += "</tr>";
+            console.log(person + birthPlace + deathPlace + deathMode + label);
+            //for (l = 0; l < datosTeclado.length; l++) {
+            //    try {
+            //        if ($(element).find("binding[name=" + uniquesFor + "]").find("uri").text() !== '') {
+            //            tabla += '<td class=' + uniquesFor + '>' + '<a href=' + $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + ' target="_blank">' +
+            //                $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + '</a></td>';
+            //            uniquesFor = "?" + uniquesFor;
+            //
+            //        } else { tabla += '<td class=' + uniquesFor + '>' + $(element).find("binding[name=" + uniquesFor + "]").find("literal").text() + '</td>'; }
+            //
+            //    } catch (err) {
+            //        console.log("No existe este formato");
+            //    }
+            //}
 
             tabla += "</tr>";
         });
 
         var posicionTabla = document.getElementById('contenedorTabla');
         posicionTabla.innerHTML = '<table border=1>' + tabla + '</table>';
-        contador++;
 
-        datosRepetidos = datosTeclado;
+        //datosRepetidos = datosTeclado;
 
     });
 
