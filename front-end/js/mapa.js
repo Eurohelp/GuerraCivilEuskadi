@@ -30,15 +30,15 @@ function generarMapa() {
     var popup = L.popup();
 
     function onMapClick(e) {
-        popup
-            .setLatLng(e.latlng)
-            .setContent("You clicked the map at " + e.latlng.toString())
-            .openOn(mymap);
+        //    popup
+        //        .setLatLng(e.latlng)
+        //        .setContent("You clicked the map at " + e.latlng.toString())
+        //        .openOn(mymap);
     }
 
     var LeafIcon = L.Icon.extend({
         options: {
-            shadowUrl: 'map-markers/markers-shadow.png',
+            shadowUrl: 'assets/map-markers/markers-shadow.png',
             iconSize: [38, 95],
             shadowSize: [50, 64],
             iconAnchor: [22, 94],
@@ -47,9 +47,9 @@ function generarMapa() {
         }
     });
 
-    var bombingIcon = new LeafIcon({ iconUrl: 'map-markers/2079_-_Explosion_I-512.png' });
+    var bombingIcon = new LeafIcon({ iconUrl: 'assets/map-markers/2079_-_Explosion_I-512.png' });
 
-    var infrastructureIcon = new LeafIcon({ iconUrl: 'map-markers/09_home-3-512.png' });
+    var infrastructureIcon = new LeafIcon({ iconUrl: 'assets/map-markers/09_home-3-512.png' });
 
     mymap.on('click', onMapClick);
 
@@ -102,11 +102,11 @@ function generarMapa() {
             if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
 
             if (name.includes("bombing")) {
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
+                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             } else {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             }
 
         });
