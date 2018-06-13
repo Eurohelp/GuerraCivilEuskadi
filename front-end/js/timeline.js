@@ -56,7 +56,15 @@ function generarTimeline() {
 
             //NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
-            FechaBombardeo = $(element).find("binding[name='date']").find("literal").text();
+
+            if (UriBombardeoURL.includes("missing-person")) {
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||missing-person";
+            } else if (UriBombardeoURL.includes("dof")) {
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||dof";
+            } else if (UriBombardeoURL.includes("bombardment")) {
+                FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||bombardment";
+            }
+
             //console.log(NombreBombardeo);
             //console.log(FechaBombardeo);
 
@@ -88,8 +96,17 @@ function generarTimeline() {
 
         for (var value of FechasHashMap) {
             datos.push(value);
-            var icono = '<img src="assets/map-markers/bomba.png" alt="Smiley face" height="24" width="24">'
-            data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(value[0]) });
+            var temp = [];
+            temp = value[0].split("||");
+            if (temp[1] == "missing-person") {
+                var icono = '<img src="assets/map-markers/persona-corriendo.png" alt="Persona desaparecida" height="24" width="24">'
+            }
+            if (temp[1] == "dof") {
+                var icono = '<img src="assets/map-markers/equilibrar.png" alt="Ley" height="24" width="24">'
+            }
+            if (temp[1] == "bombardment") { var icono = '<img src="assets/map-markers/bomba.png" alt="Bombardeo" height="24" width="24">' }
+
+            data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }
         //for (var value in FechasHashMap) {
         //    a.push(value);
