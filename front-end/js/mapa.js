@@ -93,20 +93,20 @@ function generarMapa() {
 
             longitud = $(element).find("binding[name='longitude']").find("literal").text();
 
-            localizacion = $(element).find("binding[name='location']").find("uri").text();
+            localizacion = '<a href=' + $(element).find("binding[name='location']").find("uri").text() + '>' + "Dataset de localizaciones</a></p>";
 
-            place = $(element).find("binding[name='place']").find("uri").text();
+            place = '<a href=' + $(element).find("binding[name='place']").find("uri").text() + '>' + "Dataset de lugares</a></p>";
 
             comment = $(element).find("binding[name='comment']").find("literal").text();
 
-            if (comment == "") { comment = "SIN INFORMACIÓN"; }
+            if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
 
             if (name.includes("bombing")) {
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
             } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
+                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
             } else {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br>" + comment));
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String(place + "<br>" + localizacion + "<br> Descripción: " + comment));
             }
 
         });
