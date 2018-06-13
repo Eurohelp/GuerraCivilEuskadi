@@ -1,6 +1,11 @@
 var FechasHashMap = new Map();
+var data = [];
+var datos = [];
+var a = new Map();
 
 function generarTimeline() {
+
+    repeticionesFecha = 1;
 
     var options = {
         "async": true,
@@ -21,7 +26,7 @@ function generarTimeline() {
             "      ?resource dbo:date ?date ." +
             "      ?resource rdf:type ?type ." +
             "}" +
-            "LIMIT 100"
+            "LIMIT 2000"
 
         //"query=PREFIX dbp: <http://dbpedia.org/property/>" +
         //    "PREFIX dbr: <http://dbpedia.org/resource/>" +
@@ -44,28 +49,48 @@ function generarTimeline() {
         var container = document.getElementById('visualization');
         var i = 0;
         var z = 0;
-        var data = [];
-
+        var fechasDOF = [];
+        var temporalRepeticiones = 0;
 
         $(respuesta).find("results").find("result").each(function(index, element) {
 
-            i++;
             //NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
             FechaBombardeo = $(element).find("binding[name='date']").find("literal").text();
             //console.log(NombreBombardeo);
-            console.log(FechaBombardeo);
+            //console.log(FechaBombardeo);
 
-            if (!FechasHashMap.has(FechaBombardeo)) {
-                FechasHashMap.set(FechaBombardeo, i);
+            if (!fechasDOF.includes(FechaBombardeo)) {
+                fechasDOF.push(FechaBombardeo);
+                FechasHashMap.set(FechaBombardeo, repeticionesFecha);
             } else {
-                var temp = FechasHashMap.get(FechaBombardeo) + 1;
-                FechasHashMap.set(FechaBombardeo, temp);
+                temporalRepeticiones = FechasHashMap.get(FechaBombardeo);
+                temporalRepeticiones++;
+                FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
             }
 
-            data.push({ id: i, content: String(UriBombardeoURL), start: String(FechaBombardeo) });
+            //if (!FechasHashMap.has(FechaBombardeo)) {
+            //    FechasHashMap.set(FechaBombardeo, i);
+            //} else {
+            //    var temp = FechasHashMap.get(FechaBombardeo) + 1;
+            //    FechasHashMap.set(FechaBombardeo, temp);
+            //}
+            //
+            //data.push({ id: i, content: String(UriBombardeoURL), start: String(FechaBombardeo) });
 
         });
+
+
+        console.log(FechasHashMap);
+
+        for (var value of FechasHashMap) {
+            datos.push(value);
+            data.push({ id: value[0], content: String(value[1]), start: String(value[0]) });
+        }
+        //for (var value in FechasHashMap) {
+        //    a.push(value);
+        //    //a.push(FechasHashMap[value]);
+        //}
 
         //$(respuesta).find("results").find("result").each(function(index, element) {
         //    i++;
@@ -88,3 +113,37 @@ function generarTimeline() {
     });
 
 }
+/*
+$(respuesta).find("results").find("result").each(function(index, element) {
+
+    i++;
+    //NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
+    UriBombardeoURL = $(element).find("binding[name='resource']").find("uri").text();
+    FechaBombardeo = $(element).find("binding[name='date']").find("literal").text();
+
+    if (UriBombardeoURL.includes("dof")) {
+        if (!FechasHashMap.has(FechaBombardeo)) {
+            FechasHashMap.set(FechaBombardeo, i);
+        } else {
+            var temp = FechasHashMap.get(FechaBombardeo) + 1;
+            FechasHashMap.set(FechaBombardeo, temp);
+        }
+        data.push({ id: i, content: UriBombardeoURL, start: String(FechaBombardeo) });
+    }
+
+    //AQUI FALLA
+    //var contadorClaves = 0;
+    //for (var [clave, valor] of FechasHashMap) {
+    //    if (contadorClaves < 33) {
+    //        try {
+    //            //console.log(clave + " = " + valor);
+    //            data.push({ id: clave, content: valor, start: String(clave) });
+    //        } catch (err) {
+    //            console.log("Valor repetido");
+    //        }
+    //        contadorClaves++;
+    //    }
+    //}
+
+});
+*/
