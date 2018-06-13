@@ -60,7 +60,6 @@ function generarTimeline() {
 
         });
 
-
         console.log(FechasHashMap);
 
         for (var value of FechasHashMap) {
@@ -68,33 +67,15 @@ function generarTimeline() {
             var temp = [];
             temp = value[0].split("||");
             if (temp[1] == "http://id.euskadi.eus/def/euskadipedia/missing-person") {
-                var icono = '<img src="assets/map-markers/persona-corriendo.png" alt="Persona desaparecida" height="24" width="24">'
+                var icono = '<a href="tabla.html"> <img src="assets/map-markers/persona-corriendo.png"  alt="Persona desaparecida" height="24" width="24"></a>'
             }
             if (temp[1] == "http://data.europa.eu/eli/ontology#LegalResource") {
-                var icono = '<img src="assets/map-markers/equilibrar.png" alt="Ley" height="24" width="24">'
+                var icono = '<a href="tabla.html"> <img src="assets/map-markers/equilibrar.png"  alt="Ley" height="24" width="24"></a>'
             }
-            if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") { var icono = '<img src="assets/map-markers/bomba.png" alt="Bombardeo" height="24" width="24">' }
+            if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") { var icono = '<a href="tabla.html"> <img src="assets/map-markers/bomba.png"  alt="Bombardeo" height="24" width="24"></a>' }
 
             data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }
-        //for (var value in FechasHashMap) {
-        //    a.push(value);
-        //    //a.push(FechasHashMap[value]);
-        //}
-
-        //$(respuesta).find("results").find("result").each(function(index, element) {
-        //    i++;
-        //    NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
-        //    UriBombardeoURL = '<a href=' + $(element).find("binding[name='bombardment']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='bombardment']").find("uri").text() + '</a>';
-        //    FechaBombardeo = $(element).find("binding[name='date']").find("literal").text();
-        //    //console.log(NombreBombardeo);
-        //    console.log(FechaBombardeo);
-        //
-        //    data.push({ id: i, content: String(NombreBombardeo), start: String(FechaBombardeo) });
-        //
-        //});
-        //
-        //console.log(data);
 
         var options = {};
 
@@ -103,37 +84,3 @@ function generarTimeline() {
     });
 
 }
-/*
-$(respuesta).find("results").find("result").each(function(index, element) {
-
-    i++;
-    //NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
-    UriBombardeoURL = $(element).find("binding[name='resource']").find("uri").text();
-    FechaBombardeo = $(element).find("binding[name='date']").find("literal").text();
-
-    if (UriBombardeoURL.includes("dof")) {
-        if (!FechasHashMap.has(FechaBombardeo)) {
-            FechasHashMap.set(FechaBombardeo, i);
-        } else {
-            var temp = FechasHashMap.get(FechaBombardeo) + 1;
-            FechasHashMap.set(FechaBombardeo, temp);
-        }
-        data.push({ id: i, content: UriBombardeoURL, start: String(FechaBombardeo) });
-    }
-
-    //AQUI FALLA
-    //var contadorClaves = 0;
-    //for (var [clave, valor] of FechasHashMap) {
-    //    if (contadorClaves < 33) {
-    //        try {
-    //            //console.log(clave + " = " + valor);
-    //            data.push({ id: clave, content: valor, start: String(clave) });
-    //        } catch (err) {
-    //            console.log("Valor repetido");
-    //        }
-    //        contadorClaves++;
-    //    }
-    //}
-
-});
-*/
