@@ -47,6 +47,8 @@ function generarMapa() {
         }
     });
 
+    var GraveIcon = new LeafIcon({ iconUrl: 'assets/map-markers/23-512.png' });
+
     var bombingIcon = new LeafIcon({ iconUrl: 'assets/map-markers/2079_-_Explosion_I-512.png' });
 
     var infrastructureIcon = new LeafIcon({ iconUrl: 'assets/map-markers/09_home-3-512.png' });
@@ -104,7 +106,7 @@ function generarMapa() {
             if (name.includes("bombing")) {
                 var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud]).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             } else {
                 var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
             }
