@@ -26,7 +26,7 @@ function generarTimeline() {
             "      ?resource dbo:date ?date ." +
             "      ?resource rdf:type ?type ." +
             "}" +
-            "LIMIT 2000"
+            "LIMIT 4000"
 
         //"query=PREFIX dbp: <http://dbpedia.org/property/>" +
         //    "PREFIX dbr: <http://dbpedia.org/resource/>" +
@@ -60,6 +60,8 @@ function generarTimeline() {
             //console.log(NombreBombardeo);
             //console.log(FechaBombardeo);
 
+            //if (UriBombardeoURL.includes("missing-person")) {
+
             if (!fechasDOF.includes(FechaBombardeo)) {
                 fechasDOF.push(FechaBombardeo);
                 FechasHashMap.set(FechaBombardeo, repeticionesFecha);
@@ -68,6 +70,7 @@ function generarTimeline() {
                 temporalRepeticiones++;
                 FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
             }
+            //}
 
             //if (!FechasHashMap.has(FechaBombardeo)) {
             //    FechasHashMap.set(FechaBombardeo, i);
@@ -85,7 +88,8 @@ function generarTimeline() {
 
         for (var value of FechasHashMap) {
             datos.push(value);
-            data.push({ id: value[0], content: String(value[1]), start: String(value[0]) });
+            var icono = '<img src="assets/map-markers/bomba.png" alt="Smiley face" height="24" width="24">'
+            data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(value[0]) });
         }
         //for (var value in FechasHashMap) {
         //    a.push(value);
