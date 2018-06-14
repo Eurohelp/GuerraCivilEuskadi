@@ -13,361 +13,361 @@
 @prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zaldibar-29-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zaldibar-29-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bolibar-%28alava%29-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bolibar-%28alava%29-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/tellamendi--07-04-1937-22-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/tellamendi--07-04-1937-22-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-23-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-23-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aramaio-07-04-1937-08-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aramaio-07-04-1937-08-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aulesti-16-11-1936-18-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aulesti-16-11-1936-18-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/berriz--29-09-1936-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/berriz--29-09-1936-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/oiz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/oiz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/legutiano--26-08-1936-31-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/legutiano--26-08-1936-31-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urkiola--02-04-1937-17-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urkiola--02-04-1937-17-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz--17-09-1936-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz--17-09-1936-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/betolaza-15-12-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/betolaza-15-12-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urdaibai-03-05-1937-10-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urdaibai-03-05-1937-10-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava--01-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava--01-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/cigoitia--10-12-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/cigoitia--10-12-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ubide-29-07-1936-18-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ubide-29-07-1936-18-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ondategi--16-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ondategi--16-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--14-12-1936-06-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--14-12-1936-06-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/busturialdea---urdaibai--26-04-1937-10-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/busturialdea---urdaibai--26-04-1937-10-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/dima-spain--06-04-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/dima-spain--06-04-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--09-05-1937-04-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--09-05-1937-04-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zeanuri--02-04-1937-10-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zeanuri--02-04-1937-10-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--02-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--02-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/areatza--02-04-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/areatza--02-04-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-03-05-1937-17-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-03-05-1937-17-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/fruiz--14-05-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/fruiz--14-05-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-11-06-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-11-06-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-19-05-1937-20-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-19-05-1937-20-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lezama--21-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lezama--21-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bakio-12-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bakio-12-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artxanda--14-06-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artxanda--14-06-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ibaizabal-07-05-1937-11-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ibaizabal-07-05-1937-11-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga--09-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga--09-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/basauri--25-09-1936-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/basauri--25-09-1936-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-26-05-1937-31-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-26-05-1937-31-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-26-05-1937-27-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-26-05-1937-27-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/erandio--04-01-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/erandio--04-01-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/laudio-24-05-1937-14-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/laudio-24-05-1937-14-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-14-06-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-14-06-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena--29-04-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena--29-04-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zalla--13-05-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zalla--13-05-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sopuerta-22-06-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sopuerta-22-06-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/balmaseda--21-06-1937-14-08-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/balmaseda--21-06-1937-14-08-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/algorta-13-05-1937-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/algorta-13-05-1937-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/santurtzi--08-08-1936-20-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/santurtzi--08-08-1936-20-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n--12-08-1936-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n--12-08-1936-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/karrantza--17-06-1937-02-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/karrantza--17-06-1937-02-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara--05-10-1936-09-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara--05-10-1936-09-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrasate--26-10-1936-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate--26-10-1936-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gipuzkoa-02-04-1937-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gipuzkoa-02-04-1937-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mutriku-24-10-1936-23-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mutriku-24-10-1936-23-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/hernani-gipuzkoa--20-08-1937-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-gipuzkoa--20-08-1937-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lasarte-oria--27-08-1936-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lasarte-oria--27-08-1936-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/errenteria-01-09-1936-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/errenteria-01-09-1936-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> rdfs:comment "La aviación franquista bombardeó el pueblo de Andoain el 26 de agosto de 1936. Se arrojaron tan solo cuatro bombas. Hubo daños materiales, pero no víctimas." .
 
