@@ -89,7 +89,16 @@ function generarTimeline() {
             data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }
 
-        var options = {};
+        var options = {
+
+            height: '650px',
+            min: new Date(1936, 0, 18), // lower limit of visible range
+            max: new Date(1937, 2, 1), // upper limit of visible range
+            start: new Date(1936, 0, 18),
+            zoomMin: 1000 * 60 * 60 * 24, // one day in milliseconds
+            zoomMax: 1000 * 60 * 60 * 24 * 31 * 3 // about three months in milliseconds
+
+        };
 
         var timeline = new vis.Timeline(container, data, options);
 
