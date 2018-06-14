@@ -11,7 +11,7 @@ var longitud;
 var arrayLatitud = [];
 var arrayLongitud = [];
 var resultadosPosicion = [];
-var url = "http://guerracivileuskadi.eurohelp.es:18888/blazegraph/namespace/kb/sparql";
+var url = "http://guerracivileuskadi.eurohelp.es/blazegraph/namespace/kb/sparql";
 var sentencia = "";
 /***************************************************************************** */
 
