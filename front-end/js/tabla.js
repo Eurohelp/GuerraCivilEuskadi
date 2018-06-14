@@ -208,10 +208,10 @@ function generarTabla(tipoEvento, fecha) {
                 titulo = $(element).find("binding[name='title']").find("literal").text();
                 legeguneaurl = $(element).find("binding[name='legeguneaurl']").find("uri").text();
 
-                tabla += '<td>' +
-                    titulo + '</a></td>';
                 tabla += '<td>' + '<a href=' + legeguneaurl + ' target="_blank">' +
                     legeguneaurl + '</a></td>';
+                tabla += '<td>' +
+                    titulo + '</a></td>';
 
                 tabla += "</tr>";
 

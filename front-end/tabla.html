@@ -17,8 +17,26 @@
         var tipoEvento = getParameterByName('motive');
         var fecha = getParameterByName('selectedDate');
         generarTabla(tipoEvento, fecha);
+
+        function h1(text) {
+            var textoTitular = "Dataset de ";
+            if (text == "LegalResource") {
+                textoTitular += "leyes"
+            }
+            if (text.includes("missing-person")) {
+                textoTitular += "personas desaparecidas"
+            }
+            if (text.includes("_bombing_")) {
+                textoTitular += "bombardeos"
+            }
+            document.write('<h1>' + textoTitular + '</h1>');
+        }
     </script>
-    <h1>TABLA!!</h1>
+    <div>
+        <script>
+            h1(tipoEvento);
+        </script>
+    </div>
 
     <div id="tabla" class="bloques">
         <div id="contenedorTabla">

@@ -21,10 +21,11 @@ function generarTimeline() {
 
         "data": "query=PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
             "PREFIX dbo: <http://dbpedia.org/ontology/>" +
-            "SELECT  DISTINCT *" +
+            "SELECT DISTINCT *" +
             "WHERE {" +
-            "      ?resource dbo:date ?date ." +
-            "      ?resource rdf:type ?type ." +
+            " ?resource dbo:date ?date ." +
+            " ?resource rdf:type ?type ." +
+            ' FILTER (?date > "' + "1936-01-18" + '"^^xsd:date)' +
             "}" +
             "LIMIT 4000"
 
