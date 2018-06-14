@@ -139,12 +139,79 @@ function generarTabla(tipoEvento, fecha) {
 
                 tabla += '<td>' + '<a href=' + bombardment + ' target="_blank">' +
                     bombardment + '</a></td>';
-                tabla += '<td>' + '<a href=' + source + ' target="_blank">' +
+                tabla += '<td>' +
                     source + '</a></td>';
                 tabla += '<td>' + '<a href=' + localizacion + ' target="_blank">' +
                     localizacion + '</a></td>';
-                tabla += '<td>' + '<a href=' + comment + ' target="_blank">' +
+                tabla += '<td>' +
                     comment + '</a></td>';
+
+                tabla += "</tr>";
+
+                tabla += "</tr>";
+            });
+
+            var posicionTabla = document.getElementById('contenedorTabla');
+            posicionTabla.innerHTML = '<table border=1>' + tabla + '</table>';
+
+        });
+    }
+
+    if (tipoEvento.includes("LegalResource")) {
+
+        var sentencia = "PREFIX eli: <http://data.europa.eu/eli/ontology#>" +
+            "PREFIX schema: <http://schema.org/>" +
+            "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" +
+            "PREFIX dbo: <http://dbpedia.org/ontology/>" +
+            "select ?legeguneaurl ?title where { " +
+            "     ?legalResource dbo:date '" + fecha + "'^^xsd:date ." +
+            "   ?legalResource rdf:type <http://data.europa.eu/eli/ontology#LegalResource> ." +
+            "     ?legalResource eli:is_realized_by ?legalexpresion ." +
+            "   ?legalexpresion eli:title ?title ." +
+            "?eliformat eli:embodies ?legalexpresion ." +
+            "?eliformat schema:mainEntityOfPage ?legeguneaurl ." +
+            "}";
+
+        contadorRepeticiones = 0;
+
+        var options = {
+            "async": true,
+            "crossDomain": true,
+            "url": url,
+            "method": "POST",
+            "dataType": "xml",
+            "headers": {
+                "Content-Type": "application/x-www-form-urlencoded",
+                "Accept": "application/sparql-results+xml;charset=UTF-8",
+                "Cache-Control": "true",
+            },
+            "data": "query=" + sentencia
+        }
+
+        $.ajax(options).done(function(respuesta) {
+            console.log(respuesta);
+
+            tabla = "";
+            tabla += "<tr>";
+
+            $(respuesta).find("head").find("variable").each(function(index, element) {
+                tabla += "<th>" + $(element).attr("name") + '</th>';
+                contadorRepeticiones++;
+            });
+
+            tabla += "</tr>";
+            var l;
+
+            $(respuesta).find("results").find("result").each(function(index, element) {
+
+                tabla += "<tr>";
+                titulo = $(element).find("binding[name='title']").find("literal").text();
+                legeguneaurl = $(element).find("binding[name='legeguneaurl']").find("uri").text();
+
+                tabla += '<td>' +
+                    titulo + '</a></td>';
+                tabla += '<td>' + '<a href=' + legeguneaurl + ' target="_blank">' +
+                    legeguneaurl + '</a></td>';
 
                 tabla += "</tr>";
 
