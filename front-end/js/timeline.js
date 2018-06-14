@@ -66,8 +66,12 @@ function generarTimeline() {
             datos.push(value);
             var temp = [];
             temp = value[0].split("||");
+            var motive = "";
+            var selectedDate = "";
             if (temp[1] == "http://id.euskadi.eus/def/euskadipedia/missing-person") {
-                var icono = '<a href="tabla.html"> <img src="assets/map-markers/persona-corriendo.png"  alt="Persona desaparecida" height="24" width="24"></a>'
+                motive = temp[1];
+                selectedDate = temp[0];
+                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/persona-corriendo.png"  alt="Persona desaparecida" height="24" width="24"></a>'
             }
             if (temp[1] == "http://data.europa.eu/eli/ontology#LegalResource") {
                 var icono = '<a href="tabla.html"> <img src="assets/map-markers/equilibrar.png"  alt="Ley" height="24" width="24"></a>'

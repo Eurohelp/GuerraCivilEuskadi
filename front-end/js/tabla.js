@@ -1,6 +1,19 @@
 var url = "http://guerracivileuskadi.eurohelp.es:18888/blazegraph/namespace/kb/sparql";
 
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
 function generarTabla() {
+
+    var tipoEvento = getParameterByName('motive');
+    var fecha = getParameterByName('selectedDate');
+
+    console.log(tipoEvento);
+    console.log(fecha);
 
     var sentencia = "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" +
         "PREFIX dbo: <http://dbpedia.org/ontology/>" +
@@ -30,8 +43,6 @@ function generarTabla() {
     }
 
     $.ajax(options).done(function(respuesta) {
-        console.log(respuesta);
-
 
         tabla = "";
         tabla += "<tr>";
@@ -64,28 +75,12 @@ function generarTabla() {
             tabla += '<td>' + label + '</a></td>';
 
             tabla += "</tr>";
-            console.log(person + birthPlace + deathPlace + deathMode + label);
-            //for (l = 0; l < datosTeclado.length; l++) {
-            //    try {
-            //        if ($(element).find("binding[name=" + uniquesFor + "]").find("uri").text() !== '') {
-            //            tabla += '<td class=' + uniquesFor + '>' + '<a href=' + $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + ' target="_blank">' +
-            //                $(element).find("binding[name=" + uniquesFor + "]").find("uri").text() + '</a></td>';
-            //            uniquesFor = "?" + uniquesFor;
-            //
-            //        } else { tabla += '<td class=' + uniquesFor + '>' + $(element).find("binding[name=" + uniquesFor + "]").find("literal").text() + '</td>'; }
-            //
-            //    } catch (err) {
-            //        console.log("No existe este formato");
-            //    }
-            //}
 
             tabla += "</tr>";
         });
 
         var posicionTabla = document.getElementById('contenedorTabla');
         posicionTabla.innerHTML = '<table border=1>' + tabla + '</table>';
-
-        //datosRepetidos = datosTeclado;
 
     });
 
