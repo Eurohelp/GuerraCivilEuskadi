@@ -74,9 +74,15 @@ function generarTimeline() {
                 var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/persona-corriendo.png"  alt="Persona desaparecida" height="24" width="24"></a>'
             }
             if (temp[1] == "http://data.europa.eu/eli/ontology#LegalResource") {
-                var icono = '<a href="tabla.html"> <img src="assets/map-markers/equilibrar.png"  alt="Ley" height="24" width="24"></a>'
+                motive = temp[1];
+                selectedDate = temp[0];
+                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/equilibrar.png"  alt="Ley" height="24" width="24"></a>'
             }
-            if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") { var icono = '<a href="tabla.html"> <img src="assets/map-markers/bomba.png"  alt="Bombardeo" height="24" width="24"></a>' }
+            if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") {
+                motive = temp[1];
+                selectedDate = temp[0];
+                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/bomba.png"  alt="Bombardeo" height="24" width="24"></a>'
+            }
 
             data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }

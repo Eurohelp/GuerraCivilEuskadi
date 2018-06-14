@@ -14,7 +14,9 @@
 <body>
 
     <script>
-        generarTabla()
+        var tipoEvento = getParameterByName('motive');
+        var fecha = getParameterByName('selectedDate');
+        generarTabla(tipoEvento, fecha);
     </script>
     <h1>TABLA!!</h1>
 
