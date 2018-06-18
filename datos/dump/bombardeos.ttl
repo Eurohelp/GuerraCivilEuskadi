@@ -13,361 +13,361 @@
 @prefix sesame: <http://www.openrdf.org/schema/sesame#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ondarroa-29-10-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-17-10-1936-21-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-spain-14-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/etxebarria-26-04-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mendexa-23-10-1936-27-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-05-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arratzu-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gautegiz-arteaga-27-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-13-12-1936-14-12-1936-16-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-01-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aramayona-02-12-1936-10-12-1936-16-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/busturia-06-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-08-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-02-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/morga-12-05-1937-15-05-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artea-06-04-1937-11-05-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrieta-%28bizkaia%29-03-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urkulu-%28monte%29-22-05-1937-28-05-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gatika-21-05-1937-24-05-1937-10-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zuya-26-5-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zaratamo--24-04-1937--13-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/orozko-15-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/maruri-jatabe-12-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/derio-07-05-1937-19-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-24-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/luyando-01-01-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/berango-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/getxo-24-04-1937-29-04-1937-30-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/neguri-13-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/alonsotegi-13-05-1937-13-06-1937-19-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sopela-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/trapagaran-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n-27-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta-25-10-1936-30-10-1936-22-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lezo-26-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-04-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pasaia-12-08-1936-19-08-1936-01-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun-28-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgoibar-31-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-18-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/jaizkibel-10-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zumaia-23-12-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urnieta-28-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zaldibar-29-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zaldibar-29-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bolibar-%28alava%29-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bolibar-%28alava%29-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/tellamendi--07-04-1937-22-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/tellamendi--07-04-1937-22-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-23-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-23-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aramaio-07-04-1937-08-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aramaio-07-04-1937-08-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/aulesti-16-11-1936-18-11-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/aulesti-16-11-1936-18-11-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/berriz--29-09-1936-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/berriz--29-09-1936-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/oiz-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/oiz-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/legutiano--26-08-1936-31-03-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/legutiano--26-08-1936-31-03-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urkiola--02-04-1937-17-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urkiola--02-04-1937-17-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz--17-09-1936-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz--17-09-1936-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/betolaza-15-12-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/betolaza-15-12-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/urdaibai-03-05-1937-10-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/urdaibai-03-05-1937-10-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava--01-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava--01-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/cigoitia--10-12-1936-21-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/cigoitia--10-12-1936-21-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ubide-29-07-1936-18-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ubide-29-07-1936-18-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ondategi--16-12-1936-19-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ondategi--16-12-1936-19-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--14-12-1936-06-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--14-12-1936-06-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/busturialdea---urdaibai--26-04-1937-10-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/busturialdea---urdaibai--26-04-1937-10-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/dima-spain--06-04-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/dima-spain--06-04-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--09-05-1937-04-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--09-05-1937-04-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zeanuri--02-04-1937-10-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zeanuri--02-04-1937-10-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--02-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--02-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/areatza--02-04-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/areatza--02-04-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-03-05-1937-17-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-03-05-1937-17-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/fruiz--14-05-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/fruiz--14-05-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-11-06-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-11-06-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-19-05-1937-20-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-19-05-1937-20-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lezama--21-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lezama--21-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bakio-12-05-1937-14-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bakio-12-05-1937-14-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artxanda--14-06-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artxanda--14-06-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ibaizabal-07-05-1937-11-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ibaizabal-07-05-1937-11-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga--09-04-1937-29-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga--09-04-1937-29-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/basauri--25-09-1936-16-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/basauri--25-09-1936-16-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-26-05-1937-31-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-26-05-1937-31-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-26-05-1937-27-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-26-05-1937-27-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/erandio--04-01-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/erandio--04-01-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/laudio-24-05-1937-14-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/laudio-24-05-1937-14-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-14-06-1937-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-14-06-1937-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena--29-04-1937-17-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena--29-04-1937-17-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zalla--13-05-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/zalla--13-05-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sopuerta-22-06-1937-25-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/sopuerta-22-06-1937-25-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/balmaseda--21-06-1937-14-08-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/balmaseda--21-06-1937-14-08-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/algorta-13-05-1937-26-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/algorta-13-05-1937-26-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/santurtzi--08-08-1936-20-05-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/santurtzi--08-08-1936-20-05-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n--12-08-1936-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/donostia-san-sebasti%C3%A1n--12-08-1936-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/karrantza--17-06-1937-02-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/karrantza--17-06-1937-02-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara--05-10-1936-09-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara--05-10-1936-09-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/arrasate--26-10-1936-24-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/arrasate--26-10-1936-24-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gipuzkoa-02-04-1937-04-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/gipuzkoa-02-04-1937-04-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mutriku-24-10-1936-23-12-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/mutriku-24-10-1936-23-12-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/hernani-gipuzkoa--20-08-1937-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/hernani-gipuzkoa--20-08-1937-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lasarte-oria--27-08-1936-11-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/lasarte-oria--27-08-1936-11-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/errenteria-01-09-1936-26-04-1937> a <http://dbpedia.org/ontology/MilitaryConflict> , <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
+<http://id.euskadi.eus/public-sector/history/bombardment/errenteria-01-09-1936-26-04-1937> a  <http://dbpedia.org/resource/Aerial_bombing_of_cities> .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/andoain-26-08-1936> rdfs:comment "La aviación franquista bombardeó el pueblo de Andoain el 26 de agosto de 1936. Se arrojaron tan solo cuatro bombas. Hubo daños materiales, pero no víctimas." .
 
@@ -391,7 +391,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> rdfs:comment "Elorrio fue bombardeado en 7 ocasiones entre noviembre de 1936 y abril de 1937. En una ocasión el bombardeo se dirigió contra la zona de Garbe. Como consecuencia de estos bombardeos resultaron dañadas varias casas y caseríos de la zona, así como el edificio del Batzoki, el de Asistencia Social, los hoteles de Paz Misericordia y Viuda de Arregui, la ermita de San Fausto y el palacio del marqués de Tola. Además se registraron al menos 9 víctimas debido a los ataques, si bien no es una cifra definitiva. En al menos 2 de los ataques no hubo víctimas, según las crónicas de la época. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> rdfs:comment "La aviación franquista bombardeó el municipio de Munitibar y los barrios de Arbatzategi y Gerrikaitz pertenecientes al mismo. El Gobierno Vasco registró en el mes de abril de 1937 30 muertos y 12 heridos en este lugar. El corresponsal Mathieu Corman del periódico “Paris Ce Soir�? habló de 9 “Heinkel He51�? que bombardearon Gerrikaitz al mediodía del 26 de abril. Richtofen escribió en su diario: “A/88 y J/88 de caza sobre las carreteras de la zona de Markina-Gernika-Gerrikaitz.�? El día 30 añadió que no quedaba una casa en pie en Gerrikaitz. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> rdfs:comment "La aviación franquista bombardeó el municipio de Munitibar y los barrios de Arbatzategi y Gerrikaitz pertenecientes al mismo. El Gobierno Vasco registró en el mes de abril de 1937 30 muertos y 12 heridos en este lugar. El corresponsal Mathieu Corman del periódico “Paris Ce Soir\" habló de 9 “Heinkel He51\" que bombardearon Gerrikaitz al mediodía del 26 de abril. Richtofen escribió en su diario: “A/88 y J/88 de caza sobre las carreteras de la zona de Markina-Gernika-Gerrikaitz.\" El día 30 añadió que no quedaba una casa en pie en Gerrikaitz. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> rdfs:comment "La aviación franquista bombardeó las posiciones republicanas en la zona del monte Anboto, perteneciente a Abadiño. No se dispone de información sobre los efectos de este bombardeo." .
 
@@ -413,9 +413,9 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> rdfs:comment "La aviación franquista bombardeó el pueblo de Ajangiz. No se dispone de más información." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> rdfs:comment "Las posiciones republicanas situadas en el monte Sebigain fueron bombardeadas tres veces durante el mes de abril de 1937.  El propio Franco y el general Kindelán estuvieron presentes junto al comandante de la aviación alemana Richtofen en uno de los ataques. Este último escribió esto: \"la acción empezó en mi ausencia, algo inexactamente. Una parte de las bombas cae en la infantería propia, que sin embargo toma Sebigan. Error particularmente penoso, porque Franco y Kindelán querían justamente contemplar el terreno de lucha en colaboración con nosotros�?. No se dispone de información sobre el número de víctimas que pudieron causar estos ataques." .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> rdfs:comment "Las posiciones republicanas situadas en el monte Sebigain fueron bombardeadas tres veces durante el mes de abril de 1937.  El propio Franco y el general Kindelán estuvieron presentes junto al comandante de la aviación alemana Richtofen en uno de los ataques. Este último escribió esto: \"la acción empezó en mi ausencia, algo inexactamente. Una parte de las bombas cae en la infantería propia, que sin embargo toma Sebigan. Error particularmente penoso, porque Franco y Kindelán querían justamente contemplar el terreno de lucha en colaboración con nosotros\". No se dispone de información sobre el número de víctimas que pudieron causar estos ataques." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> rdfs:comment "Richtofen escribió en su diario que observó aviones del modelo Junker Ju52, luchadores del grupo Jv/88 (quizás fueran modelos Heinkel He51 o Stuka) y a los Italianos bombardeando la zona. “El macizo se vuelve un horroroso mar de llamas y de humo con las bombas-aproximadamente sesenta toneladas en el espacio de dos minutos�? escribió. Al día siguiente volvió al lugar y describió los efectos del bombardeo: “En la hondonada, cuadros horribles, allí corrieron los rojos. Cadáveres espantosamente destrozados. De visión agradable-¡estética!-nada. Posiciones construidas muy fuerte y aplicadamente. Alambradas en tres escalones, trampas para tanques. Si no hubiéramos sacado a bombazos al enemigo, nos hubiera costado otros dos días de combates�?. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> rdfs:comment "Richtofen escribió en su diario que observó aviones del modelo Junker Ju52, luchadores del grupo Jv/88 (quizás fueran modelos Heinkel He51 o Stuka) y a los Italianos bombardeando la zona. “El macizo se vuelve un horroroso mar de llamas y de humo con las bombas-aproximadamente sesenta toneladas en el espacio de dos minutos\" escribió. Al día siguiente volvió al lugar y describió los efectos del bombardeo: “En la hondonada, cuadros horribles, allí corrieron los rojos. Cadáveres espantosamente destrozados. De visión agradable-¡estética!-nada. Posiciones construidas muy fuerte y aplicadamente. Alambradas en tres escalones, trampas para tanques. Si no hubiéramos sacado a bombazos al enemigo, nos hubiera costado otros dos días de combates\". " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> rdfs:comment "La carretera entre Otxandiano y Dima fue bombardeada por la aviación franquista en un intento por dañar las comunicaciones en la zona republicana. No se dispone de más información sobre este hecho. " .
 
@@ -425,7 +425,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> rdfs:comment "Las posiciones republicanas en la zona del monte Altun fueron bombardeadas en tres ocasiones entre abril y mayo de 1937. Aviones del modelo \"Jun ker Ju52\" tomaron parte en estos ataques. No se dispone de información sobre el número de víctimas que pudieran causar. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> rdfs:comment "La aviación franquista dejó caer algunas bombas sobre Mundaka. 6 aviones modelo “Savoia Marchetti SM.81�? del grupo Z7 llevaron a cabo el ataque. No se dispone de información al sobre el número de víctimas que pudieron causar. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> rdfs:comment "La aviación franquista dejó caer algunas bombas sobre Mundaka. 6 aviones modelo “Savoia Marchetti SM.81\" del grupo Z7 llevaron a cabo el ataque. No se dispone de información al sobre el número de víctimas que pudieron causar. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lakua-12-12-1936> rdfs:comment "Bombardeo por parte de ocho aviones del aeródromo de Lakua en Vitoria. Fueron destruidos varios aviones y un hangar" .
 
@@ -475,7 +475,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/loiu-14-06-1937> rdfs:comment "Loiu fue bombardeado el 14 de junio de 1937. La Legión Condor alemana participó en el ataque. No se dispone de más información sobre este hecho. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> rdfs:comment "La aviación franquista bombardeó la zona de Gorliz, destruyendo algunas casas y dañando el Sanatorio Marino. Según “El Liberal�? no se registraron víctimas. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/gorliz-12-06-1937> rdfs:comment "La aviación franquista bombardeó la zona de Gorliz, destruyendo algunas casas y dañando el Sanatorio Marino. Según “El Liberal\" no se registraron víctimas. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrankudiaga-15-05-1937> rdfs:comment "La aviación franquista bombardeó la zona de Arrankudiaga lanzando proyectiles de cañón del calibre 21. No se dispone de más información." .
 
@@ -493,13 +493,13 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ortuella-16-06-1937> rdfs:comment "Ortuella fue bombardeado por la aviación franquista el 16 de junio de 1937. No se dispone de información  sobre las consecuencias de dicho ataque." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> rdfs:comment "Una avioneta franquista que volaba a unos 1500 metros de altura se acercó hasta la zona soltando propaganda en varios lugares de camino. Después, bombardeo la zona de Gallarta tras pasar por Santurtzi. Hirió a algunas vecinas, sin que se especifique más. En “El Noticiero Bilbaíno�? se habla del bombardeo y de los heridos causados, pero se afirma que no se pudo “confirmar el rumor�?.  " .
+<http://id.euskadi.eus/public-sector/history/bombardment/valle-de-tr%C3%A1paga-trapagaran-08-08-1936> rdfs:comment "Una avioneta franquista que volaba a unos 1500 metros de altura se acercó hasta la zona soltando propaganda en varios lugares de camino. Después, bombardeo la zona de Gallarta tras pasar por Santurtzi. Hirió a algunas vecinas, sin que se especifique más. En “El Noticiero Bilbaíno\" se habla del bombardeo y de los heridos causados, pero se afirma que no se pudo “confirmar el rumor\".  " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/muskiz-13-06-1937-30-06-1937-01-07-1937> rdfs:comment "Muskiz fue bombardeado en tres ocasiones entre junio y julio de 1937. La Legión Condor alemana participó en estos ataques. No se dispone de información sobre el número de víctimas que pudieron causar. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/artziniega-26-05-1937> rdfs:comment "La aviación franquista bombardeó la zona de Baratza, en Artziniega. Las crónicas de la época no reflejaron las consecuencias del ataque. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> rdfs:comment "Dos aviones franquistas bombardearon la zona internacional situada en Las Arenas.  Tres de los proyectiles cayeron al mar, cerca de los barcos “Altuna Mendi�? y “Esk�?, así como del Club Marítimo del Abra. Otro cayó en la carretera, frente al cuartel de la Policía Internacional, y otro al lado del Consulado de Perú. En lo que a las víctimas se refiere, oscilan dependiendo de la fuente. Así, en “Euzkadi�?  y “El Nervión�? se contabilizan, dando los nombres de varios de ellos, 8 muertos y 4 heridos. En “El Liberal�? y “El Noticiero Bilbaíno�? y “La Gaceta del Norte�? se mencionan 5 muertos y cuatro heridos graves (2 en el caso de “El Liberal�?). Un artículo publicado en “Euzkadi�? el 8 de noviembre de 1936 mostraba que las bombas lanzadas eran de procedencia alemana." .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-21-10-1936> rdfs:comment "Dos aviones franquistas bombardearon la zona internacional situada en Las Arenas.  Tres de los proyectiles cayeron al mar, cerca de los barcos “Altuna Mendi\" y “Esk\", así como del Club Marítimo del Abra. Otro cayó en la carretera, frente al cuartel de la Policía Internacional, y otro al lado del Consulado de Perú. En lo que a las víctimas se refiere, oscilan dependiendo de la fuente. Así, en “Euzkadi\"  y “El Nervión\" se contabilizan, dando los nombres de varios de ellos, 8 muertos y 4 heridos. En “El Liberal\" y “El Noticiero Bilbaíno\" y “La Gaceta del Norte\" se mencionan 5 muertos y cuatro heridos graves (2 en el caso de “El Liberal\"). Un artículo publicado en “Euzkadi\" el 8 de noviembre de 1936 mostraba que las bombas lanzadas eran de procedencia alemana." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/g%C3%BCe%C3%B1es-14-06-1937-22-06-1937-25-06-1937> rdfs:comment "Güeñes fue bombardeado en tres ocasiones en junio de 1937. La zona de Quadra-Lakabex resultó dañada. La Legión Condor alemana participó al menos en uno de los ataques. No se dispone de información sobre las víctimas que pudieron haber causado." .
 
@@ -511,11 +511,11 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/cuevas-de-san-marcos-spain-06-08-1936> rdfs:comment "Un avión sobrevoló la zona arrojando dos bombas en Igeldo y otras dos en San Marcos. Las arrojadas en Igeldo tenían la intención de destruir las antenas de radio que allí había. Se produjeron daños materiales de escasa gravedad en ambos lugares. No hubo víctimas." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> rdfs:comment "Un bimotor “Dragón�?, al ser derribado por aviones republicanos en un combate aéreo, soltó las bombas que llevaba sobre la población de Bergara, según la crónica de \"El Liberal\"" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bergara-28-12-1936> rdfs:comment "Un bimotor “Dragón\", al ser derribado por aviones republicanos en un combate aéreo, soltó las bombas que llevaba sobre la población de Bergara, según la crónica de \"El Liberal\"" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrasate-21-10-1936-17-12-1936-19-12-1936> rdfs:comment "La aviación republicana bombardeó Arrasate en tres ocasiones entre octubre y diciembre de 1936. Las zonas de Santa Bárbara y Kurtze Txiki fueron dañadas en estos ataques, y varios edificios fueron destruidos. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> rdfs:comment "Los Cuarteles de Loyola, en los que se habían atrincherado algunos sublevados, fueron bombardeados primero por una avioneta y después por un trimotor, mediante obuses y bombas incendiarias. En “El Liberal�? del día 29 de julio se menciona el bombardeo y se habla de un enorme cráter abierto por el trimotor y de 6 heridos, cuatro graves y dos muy graves. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/loyola-san-sebasti%C3%A1n-27-07-1937> rdfs:comment "Los Cuarteles de Loyola, en los que se habían atrincherado algunos sublevados, fueron bombardeados primero por una avioneta y después por un trimotor, mediante obuses y bombas incendiarias. En “El Liberal\" del día 29 de julio se menciona el bombardeo y se habla de un enorme cráter abierto por el trimotor y de 6 heridos, cuatro graves y dos muy graves. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/leintz-gatzaga-10-03-1937> rdfs:comment "La aviación republicana bombardeó el 10 de marzo de 1936 la zona de San Martín en Leintz-Gatzaga, destruyendo las posiciones franquistas de dicho sector. Las crónicas periodísticas no daban más información. " .
 
@@ -539,7 +539,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/tolosa-spain-01-08-1936> rdfs:comment "La aviación franquista bombardeó Tolosa, según la crónica del \"Frente Popular\", que no daba más información acerca de las consecuencias del acto. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> rdfs:comment "Lekeitio fue bombardeado en 6 ocasiones durante el mes de octubre de 1936, en un plazo de 9 días. Zonas del muelle, el cuartel de las milicias vascas y casas del pueblo resultaron dañadas. Aviones italianos del modelo “Caproni 133�? participaron al menos en alguno de los ataques. En \"El Liberal\" se contabilizaron 7 muertos y 19 heridos producto de estos bombardeos, si bien no es una cifra contrastada. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/lekeitio--22-10-1936-30-10-1936> rdfs:comment "Lekeitio fue bombardeado en 6 ocasiones durante el mes de octubre de 1936, en un plazo de 9 días. Zonas del muelle, el cuartel de las milicias vascas y casas del pueblo resultaron dañadas. Aviones italianos del modelo “Caproni 133\" participaron al menos en alguno de los ataques. En \"El Liberal\" se contabilizaron 7 muertos y 19 heridos producto de estos bombardeos, si bien no es una cifra contrastada. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zaldibar-29-09-1936> rdfs:comment "Según la crónica de \"El Noticiero Bilbaíno\" tres bombas fueron lanzadas en la zona de Sallovente, en Zaldibar, aparentemente sin causar daños reseñables." .
 
@@ -559,7 +559,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> rdfs:comment "La aviación republicana bombardeó la zona de Isuskitza en el frente alavés en 2 ocasiones. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> rdfs:comment "Durango fue bombardeado al menos en 14 ocasiones entre septiembre de 1936 y abril de 1937. Fue una de las poblaciones más castigadas por los ataques aéreos. Buena parte de la ciudad resultó dañada, y sabemos que sufrieron daños la estación de tren, el frontón Ezkurdi, la parroquia de Santa María, la residencia de los jesuitas,  el convento de Santa Susana y numerosos edificios y casas. Participaron en estos ataques la aviación alemana e italiana, con los grupos J/88 y F/88 y aviones de los modelos “Heinkel He51�? , Messerschmitt Bf.109�?,“Heinkel He45�? y “Fiat Cr.32�?.  Buena parte de los bombardeos se produjeron en abril de 1937. Respecto al número de víctimas, si bien no podemos dar cifras exactas, sabemos que hubo más de 100 en los meses anteriores a abril de 1937, y más de 350 en total, pudiendo ser incluso más. Estas cifras convierten a Durango en una de las poblaciones que más víctimas tuvo durante el conflicto en el País Vasco." .
+<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> rdfs:comment "Durango fue bombardeado al menos en 14 ocasiones entre septiembre de 1936 y abril de 1937. Fue una de las poblaciones más castigadas por los ataques aéreos. Buena parte de la ciudad resultó dañada, y sabemos que sufrieron daños la estación de tren, el frontón Ezkurdi, la parroquia de Santa María, la residencia de los jesuitas,  el convento de Santa Susana y numerosos edificios y casas. Participaron en estos ataques la aviación alemana e italiana, con los grupos J/88 y F/88 y aviones de los modelos “Heinkel He51\" , Messerschmitt Bf.109\",“Heinkel He45\" y “Fiat Cr.32\".  Buena parte de los bombardeos se produjeron en abril de 1937. Respecto al número de víctimas, si bien no podemos dar cifras exactas, sabemos que hubo más de 100 en los meses anteriores a abril de 1937, y más de 350 en total, pudiendo ser incluso más. Estas cifras convierten a Durango en una de las poblaciones que más víctimas tuvo durante el conflicto en el País Vasco." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> rdfs:comment "El pueblo de Abadiño fue bombardeado en dos ocasiones durante la guerra civil, en septiembre de 1936 y en abril de 1937. No se dispone de información sobre los daños o sobre el número de víctimas. En uno de los casos tan solo fue arrojada una bomba en el pueblo, según la crónica de la época aparecida en \"El Noticiero Bilbaíno\"" .
 
@@ -569,7 +569,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> rdfs:comment "La aviación franquista bombardeó en dos ocasiones la zona de Urrutxua en el barrio de Albiz, en Mendata, durante el mes de mayo de 1937. No se dispone de más información. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> rdfs:comment "Otxandiano fue bombardeo al menos en 15 ocasiones entre julio  de 1936 y abril de 1937. Aviones de los modelos “Junker Ju52�?, “Heinkel 51�? y “DCA�? bombardearon la población en diversas ocasiones, causando importantes destrozos en todo el casco urbano de Otxandiano.  No se conoce el número exacto de víctimas de todos los bombardeos, pero solamente con las que están documentadas a través de periódicos de la época o de informes del Gobierno Vasco llegan a 98 entre los muertos y los heridos. Otxandiano fue uno de los pueblos más castigados por este tipo de bombardeos, que el comandante alemán Richtofen calificó en una ocasión como \"Ensayo de nuevo método de bombardeo\". Podemos afirmar que Otxandiano fue objeto de un experimento de guerra durante este periodo. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> rdfs:comment "Otxandiano fue bombardeo al menos en 15 ocasiones entre julio  de 1936 y abril de 1937. Aviones de los modelos “Junker Ju52\", “Heinkel 51\" y “DCA\" bombardearon la población en diversas ocasiones, causando importantes destrozos en todo el casco urbano de Otxandiano.  No se conoce el número exacto de víctimas de todos los bombardeos, pero solamente con las que están documentadas a través de periódicos de la época o de informes del Gobierno Vasco llegan a 98 entre los muertos y los heridos. Otxandiano fue uno de los pueblos más castigados por este tipo de bombardeos, que el comandante alemán Richtofen calificó en una ocasión como \"Ensayo de nuevo método de bombardeo\". Podemos afirmar que Otxandiano fue objeto de un experimento de guerra durante este periodo. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> rdfs:comment "Mañaria fue bombardeada en cinco ocasiones en abril de 1937. La aviación franquista bombardeó las posiciones republicanas en la zona. Los grupos K/88 y A/88 de la aviación alemana tomaron parte en dichos ataques. Se desconoce el número de víctimas que pudieron causar. " .
 
@@ -581,7 +581,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava--01-12-1936-19-12-1936> rdfs:comment "La aviación republicana bombardeó las posiciones franquistas  en el pueblo de Elosu hasta en 11 ocasiones durante le mes de diciembre de 1936. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> rdfs:comment "La aviación franquista bombardeo la anteiglesia de Ibarruri, perteneciente a Muxika, en dos ocasiones. Aviones de los modelos “Heinkel He45�? y “Breguet Br.19�? participaron en los ataques. No se dispone de información sobre el número de víctimas que pudieron causar" .
+<http://id.euskadi.eus/public-sector/history/bombardment/m%C3%BAgica-30-04-1937-02-05-1937> rdfs:comment "La aviación franquista bombardeo la anteiglesia de Ibarruri, perteneciente a Muxika, en dos ocasiones. Aviones de los modelos “Heinkel He45\" y “Breguet Br.19\" participaron en los ataques. No se dispone de información sobre el número de víctimas que pudieron causar" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/cigoitia--10-12-1936-21-12-1936> rdfs:comment "La aviación franquista bombardeó las posiciones republicanas en la zona de Okoizta, perteneciente a Zigoiti" .
 
@@ -589,9 +589,9 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> rdfs:comment "El barrio de Euba, perteneciente a Amorebieta, fue bombardeado en dos ocasiones en abril de 1937. En uno de los bombardeos no hubo víctimas, mientras que en el otro, según \"Euzkadi\", se ametralló a \"algunas personas\". No disponemos de más información." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> rdfs:comment "Bermeo fue bombardeado en 9 ocasiones entre abril y mayo de 1937. Uno de estos bombardeos fue un ataque naval, perpetrado por los barcos franquistas “Galerna�? y “Almirante Cervera�? , que no causaron víctimas y solo algunos daños menores en la zona del puerto. En cuanto a los bombardeos aéreos, participaron los grupos A/88, J/88, y aviones modelo “Savoia Marchetti SM.81�? pertenecientes al grupo Z7,  junto a los “Romeo Ro.37�? del grupo Lo-1. No se dispone de información sobre el número de víctimas que pudieron causar. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> rdfs:comment "Bermeo fue bombardeado en 9 ocasiones entre abril y mayo de 1937. Uno de estos bombardeos fue un ataque naval, perpetrado por los barcos franquistas “Galerna\" y “Almirante Cervera\" , que no causaron víctimas y solo algunos daños menores en la zona del puerto. En cuanto a los bombardeos aéreos, participaron los grupos A/88, J/88, y aviones modelo “Savoia Marchetti SM.81\" pertenecientes al grupo Z7,  junto a los “Romeo Ro.37\" del grupo Lo-1. No se dispone de información sobre el número de víctimas que pudieron causar. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> rdfs:comment "Amorebieta-Etxano fue bombardeado en 20 ocasiones entre abril y junio de 1937. Durante una semana de mayo el pueblo fue bombardeado a diario. Los barrios de Bernagoitia y Astepe fue dañado en algunos de estos ataques. Aviones de los modelos “Fiat Cr.32�? ,y \"Heinkel He51\" de la aviación italiana y alemana tomaron parte en estos ataques. Hasta el mes de abril el Gobierno Vasco registró 22 muertos y 34 heridos en Amorebieta-Etxano. Durante los meses de mayo y junio se desconoce el número de víctimas que causaron los bombardeos. Sea como fuere, Amorebieta-Etxano fue uno de los pueblos más intensamente bombardeados en un corto periodo de tiempo. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> rdfs:comment "Amorebieta-Etxano fue bombardeado en 20 ocasiones entre abril y junio de 1937. Durante una semana de mayo el pueblo fue bombardeado a diario. Los barrios de Bernagoitia y Astepe fue dañado en algunos de estos ataques. Aviones de los modelos “Fiat Cr.32\" ,y \"Heinkel He51\" de la aviación italiana y alemana tomaron parte en estos ataques. Hasta el mes de abril el Gobierno Vasco registró 22 muertos y 34 heridos en Amorebieta-Etxano. Durante los meses de mayo y junio se desconoce el número de víctimas que causaron los bombardeos. Sea como fuere, Amorebieta-Etxano fue uno de los pueblos más intensamente bombardeados en un corto periodo de tiempo. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ondategi--16-12-1936-19-12-1936> rdfs:comment "La aviación franquista bombardeó la zona de Ondategi. Se produjeron 4 bombardeos entre el 16 y el 19 de diciembre de 1936. " .
 
@@ -639,7 +639,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> rdfs:comment "Zamudio fue bombardeado en seis ocasiones entre mayo y junio de 1937. La aviación italiana participó en al menos en alguno de estos bombardeos. En cuatro de estos ataques no se registraron víctimas, mientras que en los otros dos no se dispone de datos al respecto. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> rdfs:comment "Mungia fue bombardeado en 19 ocasiones entre mayo y junio de 1937, aunque la mayoría de los ataques se concentraron en mayo. Aviones de los modelos “Savoia Marchetti SM.81�? del grupo Z7  y \"Savoia Marchetti SM.79�? , Junker Ju52�? del grupo K/88 y “Fiat Cr.32�? participaron en los ataques. Tanto el pueblo como las carreteras adyacentes fueron bombardeadas. Se desconoce el número de víctimas que pudieron causar estos ataques, si bien en las crónicas de la época se menciona en múltiples ocasiones que hubo víctimas. En la crónica de \"El Liberal\" del 13 de junio de 1937 se planteó un panorama de destrucción total en el que el pueblo de Mungia ardía en gran parte. La destrucción material debió de ser importante. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> rdfs:comment "Mungia fue bombardeado en 19 ocasiones entre mayo y junio de 1937, aunque la mayoría de los ataques se concentraron en mayo. Aviones de los modelos “Savoia Marchetti SM.81\" del grupo Z7  y \"Savoia Marchetti SM.79\" , Junker Ju52\" del grupo K/88 y “Fiat Cr.32\" participaron en los ataques. Tanto el pueblo como las carreteras adyacentes fueron bombardeadas. Se desconoce el número de víctimas que pudieron causar estos ataques, si bien en las crónicas de la época se menciona en múltiples ocasiones que hubo víctimas. En la crónica de \"El Liberal\" del 13 de junio de 1937 se planteó un panorama de destrucción total en el que el pueblo de Mungia ardía en gran parte. La destrucción material debió de ser importante. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> rdfs:comment "Zeberio fue bombardeado en cuatro ocasiones entre abril y mayo de 1937., participando en los ataques la Legión Condor alemana. El pueblo sufrió importantes destrozos según la crónica del \"Euzkadi\". El Gobierno Vasco registró en abril un muerto y cuatro heridos. En mayo hubo un bombardeo sin víctimas y en los otros dos se mencionan \"algunas víctimas\" en las crónicas de la época. " .
 
@@ -659,15 +659,15 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> rdfs:comment "La zona del monte Pagasarri, donde existían posiciones republicanas, fue bombardeada en dos ocasiones por la aviación franquista. No se dispone de más datos al respecto." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> rdfs:comment "Bilbao y las inmediaciones de la ciudad fueron bombardeados en 40 ocasiones entre septiembre de 1936 y junio de 1937. Fue una de las ciudades más castigadas por la aviación y los destrozos causados por las bombas fueron muy graves, además de las víctimas que hubo. Tanto la aviación italiana con aviones de los modelos \"Caproni 133\" y Savoia Marchetti SM.79�?, como la Legión Condor alemana, con los modelos “Junker Ju52�?, \"Messerschmitt Bf.109�?  y “Heinkel He52�?  participaron en estos ataques. Buena parte de la ciudad resultó dañada: las calles Correo, Bailén, Bidebarrieta, Calzadas, El Arenal, Plaza Nueva, Estación, Muelle de Ripa, Plaza de Albia, Muelle de Uribitarte, Colón de Larreategui, Ledesma, Avenida Mazarredo, Berástegui, Henao, Plaza de Zabalburu, Rampas de Uribitarte,  Hurtado de Amézaga, Plaza de Abando y García Salazar, Santutxu, Zumarraga, Larrinaga, San Francisco, Iturribide, Ollerías o el muelle de Marzana  así como en los barrios de Deusto, Zorroza, Buia y Buena Vista,  la Universidad Comercial,  los Diques Euskalduna, los puentes de la ciudad y en las inmediaciones del Hospital de San Luis. Los caseríos de las inmediaciones del casco urbano y las carreteras de la zona también fueron atacadas y sufrieron daños considerables. En cuanto a las víctimas, si bien es imposible dar cifras exactas, con los datos de los que se dispone, sacados de informes del Gobierno Vasco y de las crónicas periodísticas de la época, se llega a sumar aproximadamente 354 muertos y más de 800 heridos. En cualquier caso, estas no serían cifras definitivas. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> rdfs:comment "Bilbao y las inmediaciones de la ciudad fueron bombardeados en 40 ocasiones entre septiembre de 1936 y junio de 1937. Fue una de las ciudades más castigadas por la aviación y los destrozos causados por las bombas fueron muy graves, además de las víctimas que hubo. Tanto la aviación italiana con aviones de los modelos \"Caproni 133\" y Savoia Marchetti SM.79\", como la Legión Condor alemana, con los modelos “Junker Ju52\", \"Messerschmitt Bf.109\"  y “Heinkel He52\"  participaron en estos ataques. Buena parte de la ciudad resultó dañada: las calles Correo, Bailén, Bidebarrieta, Calzadas, El Arenal, Plaza Nueva, Estación, Muelle de Ripa, Plaza de Albia, Muelle de Uribitarte, Colón de Larreategui, Ledesma, Avenida Mazarredo, Berástegui, Henao, Plaza de Zabalburu, Rampas de Uribitarte,  Hurtado de Amézaga, Plaza de Abando y García Salazar, Santutxu, Zumarraga, Larrinaga, San Francisco, Iturribide, Ollerías o el muelle de Marzana  así como en los barrios de Deusto, Zorroza, Buia y Buena Vista,  la Universidad Comercial,  los Diques Euskalduna, los puentes de la ciudad y en las inmediaciones del Hospital de San Luis. Los caseríos de las inmediaciones del casco urbano y las carreteras de la zona también fueron atacadas y sufrieron daños considerables. En cuanto a las víctimas, si bien es imposible dar cifras exactas, con los datos de los que se dispone, sacados de informes del Gobierno Vasco y de las crónicas periodísticas de la época, se llega a sumar aproximadamente 354 muertos y más de 800 heridos. En cualquier caso, estas no serían cifras definitivas. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> rdfs:comment "Sondika fue bombardeado en 17 ocasiones entre abril y junio de 1937. .  El grupo VB/88 compuesto por aviones de los modelos “Junker Ju52�?, “Dornier Do17�? y “Heinkel He111�?  y el grupo K/88 participaron en los ataques. El centro del pueblo y las carreteras cercanas fueron atacadas y sufrieron daños. No se dispone de datos concretos sobre el número de víctimas que pudieron producir estos bombardeos. Sabemos que en dos de ellos no hubo víctimas. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> rdfs:comment "Sondika fue bombardeado en 17 ocasiones entre abril y junio de 1937. .  El grupo VB/88 compuesto por aviones de los modelos “Junker Ju52\", “Dornier Do17\" y “Heinkel He111\"  y el grupo K/88 participaron en los ataques. El centro del pueblo y las carreteras cercanas fueron atacadas y sufrieron daños. No se dispone de datos concretos sobre el número de víctimas que pudieron producir estos bombardeos. Sabemos que en dos de ellos no hubo víctimas. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> rdfs:comment "Leioa fue bombardeado  en 22 ocasiones entre agosto de 1936 y mayo de 1937. Buena parte de estos ataques se centraron en el barrio de Lamiako, cercano a Las Arenas, en Getxo. El barrio de Artaza también fue bombardeado, y la estación de ferrocarril también sufrió daños. En Lamiako, que fue atacado hasta en 20 ocasiones, sufrieron daños la fábrica de vidrios, la zona del campo de aviación y el interior del barrio. Los grupos VB/88, A/88 y J/88 de la aviación alemana tomaron parte al menos en algunos de estos ataques. No se dispone de datos concretos sobre el número de víctimas, aunque no fueron menos de 19." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> rdfs:comment "La aviación franquista bombardeó Amurrio en dos ocasiones entre el 26 y el 31 de mayo de 1937.  Un caza alemán lanzó desde el aire bombas de mano que causaron un muerto y un número de heridos indefinido en uno de los casos. En el otro ataque no hubo víctimas aunque sí destrozos materiales. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> rdfs:comment "Orduña fue bombardeado en 7 ocasiones entre diciembre de 1936 y junio de 1937.  Participó en los ataques el grupo de la aviación italiana Lo-1 con aviones de los modelos “Romeo  Ro.37�? y “Savoia Marchetti SM.79�?, y en algunos casos la Legión Condor. Varios edificios del pueblo sufrieron daños de consideración durante los bombardeos. En dos de ellos no hubo víctimas, mientras que no se dispone de información al respecto en los demás casos. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> rdfs:comment "Orduña fue bombardeado en 7 ocasiones entre diciembre de 1936 y junio de 1937.  Participó en los ataques el grupo de la aviación italiana Lo-1 con aviones de los modelos “Romeo  Ro.37\" y “Savoia Marchetti SM.79\", y en algunos casos la Legión Condor. Varios edificios del pueblo sufrieron daños de consideración durante los bombardeos. En dos de ellos no hubo víctimas, mientras que no se dispone de información al respecto en los demás casos. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> rdfs:comment "La zona de Areeta, perteneciente a Getxo, fue bombardeada en seis ocasiones entre abril y junio de 1937. Aviones italiano y alemanes tomaron parte en estos ataques. Las zonas del puerto, el centro del pueblo, la carretera que conecta con Portugalete y el convento de los Padres Trinitarios resultaron dañados. Sobre el número de víctimas, se pueden registrar al menos 4, si bien en tres de los ataques no disponemos de información a este respecto. " .
 
@@ -679,7 +679,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-14-06-1937-15-06-1937> rdfs:comment "La zona de Asua en Erandio fue bombardeada en dos ocasiones en junio de 1937. No se dispone de información sobre las consecuencias de dichos ataques." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> rdfs:comment "Sestao fue bombardeado en seis ocasiones entre enero y mayo de 1937. Las fábricas de “Altos Hornos�?, “Aurrerá�? y “La Naval�?, la zona junto al tren, la campa de San Francisco y la carretera de entrada al pueblo sufrieron daños de consideración, así como las calles y casas del pueblo. También quedaron destruidos completamente varios edificios en las calles Txabarri, Lorenzo Llona e Iberia, así como en los barrios de Vista Alegre y la Unión. Hasta el mes de abril el Gobierno Vasco registró 14 muertos y 18 heridos, a los que habría que sumar los 22 muertos y 80 heridos que se produjeron, según el Secretario General de Gobernación en testimonio dado al \"Euzkadi\" tras el bombardeo del 23 de mayo. No se dispone de más datos a este respecto, por lo que no se puede dar un número exacto de víctimas. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> rdfs:comment "Sestao fue bombardeado en seis ocasiones entre enero y mayo de 1937. Las fábricas de “Altos Hornos\", “Aurrerá\" y “La Naval\", la zona junto al tren, la campa de San Francisco y la carretera de entrada al pueblo sufrieron daños de consideración, así como las calles y casas del pueblo. También quedaron destruidos completamente varios edificios en las calles Txabarri, Lorenzo Llona e Iberia, así como en los barrios de Vista Alegre y la Unión. Hasta el mes de abril el Gobierno Vasco registró 14 muertos y 18 heridos, a los que habría que sumar los 22 muertos y 80 heridos que se produjeron, según el Secretario General de Gobernación en testimonio dado al \"Euzkadi\" tras el bombardeo del 23 de mayo. No se dispone de más datos a este respecto, por lo que no se puede dar un número exacto de víctimas. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> rdfs:comment "Barakaldo fue bombardeado por la aviación franquista en 10 ocasiones entre septiembre de 1936 y junio de 1937. Los barrios de Ariz, Lutxana y Burceña fueron objetivo de estos ataques. Más concretamente, sabemos que en uno de los bombardeos resultaron dañadas la cooperativa Bide Onera, los comedores de Asistencia Social y el Matadero Municipal. Sobre el número de víctimas no se tienen datos concretos, pero en abril de 1937 el Gobierno Vasco registró 30 muertos y 22 heridos, a los que habría que sumar algunas víctimas tanto anteriores como posteriores. " .
 
@@ -701,7 +701,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> rdfs:comment "La zona de Deba fue bombardeada por la aviación republicana en dos ocasiones entre septiembre y diciembre de 1936. No se dispone de información sobre las consecuencias de estos ataques. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> rdfs:comment "La aviación franquista bombardeó Elgeta en ocho ocasiones. Los daños materiales fueron cuantiosos. En abril de 1937, el comandante de la Legión Condor Richtofen escribió: “ Elgeta, de la que se encargaron totalmente los italianos el día 23, presenta un aspecto horroroso. Muy buenos efectos del bombardeo, los impactos cayeron muy apretadamente. Mejor que entre nosotros. Cuando ellos encuentran objetivo y atinan lo cual no ocurre a menudo, no vuelve a crecer la hierba.�? Al visitar el día 26 Elgeta escribió: “Todavía examinamos Elgeta a fondo. Impresión de un magnífico efecto de los bombardeos italianos, plenamente confirmada mediante un examen más preciso�?. No se tiene datos sobre el número de víctimas que pudieron causar estos bombardeos.  " .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> rdfs:comment "La aviación franquista bombardeó Elgeta en ocho ocasiones. Los daños materiales fueron cuantiosos. En abril de 1937, el comandante de la Legión Condor Richtofen escribió: “ Elgeta, de la que se encargaron totalmente los italianos el día 23, presenta un aspecto horroroso. Muy buenos efectos del bombardeo, los impactos cayeron muy apretadamente. Mejor que entre nosotros. Cuando ellos encuentran objetivo y atinan lo cual no ocurre a menudo, no vuelve a crecer la hierba.\" Al visitar el día 26 Elgeta escribió: “Todavía examinamos Elgeta a fondo. Impresión de un magnífico efecto de los bombardeos italianos, plenamente confirmada mediante un examen más preciso\". No se tiene datos sobre el número de víctimas que pudieron causar estos bombardeos.  " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> rdfs:comment "Eibar fue bombardeado en 18 ocasiones, 14 de ellas entre septiembre y noviembre de 1936 y las otras en abril de 1937. Fue una de las poblaciones más castigadas de Gipuzkoa. Los daños materiales fueron muy importantes, tanto en el casco urbano como en las afueras y en las carreteras adyacentes. Barrios como Jardines y Arragueta sufrieron grandes destrozos, y edificios como la estación, fábricas de la zona fabril, la Casa del Pueblo, la Aberri-Etxea, el ayuntamiento o e el local del orfeón fueron al menos parcialmente destruidos. La Legión Condor participó en estos ataques, y en abril de 1937 el comandante alemán Richtofen describía la ciudad incendiada, especialmente el centro de la misma, y mencionaba la labor de la aviación italiana en dichos ataques. No se dispone de información suficiente para especificar el número de víctimas, pero faltando datos de bastantes de estos bombardeos al menos hubo al menos 77 muertos y 116 heridos. " .
 
@@ -721,7 +721,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lasarte-oria--27-08-1936-11-09-1936> rdfs:comment "La aviación franquista bombardeó la zona de Lasarte en cinco ocasiones entre agosto y septiembre de 1936. Varios edificios fueron gravemente dañados. Se registraron un muerto y tres heridos, si bien en dos de los ataques no se dispone de información a este respecto. " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> rdfs:comment "Irún fue bombardeado en trece ocasiones entre agosto y septiembre de 1936. Las zonas de Saroya y San Marcial, la plaza, la estación ferroviaria, el ayuntamiento, el cuartel, el convento de los Escolapios, el Círculo Republicano y la fábrica de cerillas resultaron dañados. La Legión Condor alemana y la aviación italiana participaron en estos ataques. Para el final de la ofensiva, las crónicas del \"Euzkadi\" hablan de que “Irún está ardiendo. Es una inmensa hoguera�?. Se desconoce el número de víctimas que pudieron causar estos ataques. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/irun--20-08-1936-04-09-1936> rdfs:comment "Irún fue bombardeado en trece ocasiones entre agosto y septiembre de 1936. Las zonas de Saroya y San Marcial, la plaza, la estación ferroviaria, el ayuntamiento, el cuartel, el convento de los Escolapios, el Círculo Republicano y la fábrica de cerillas resultaron dañados. La Legión Condor alemana y la aviación italiana participaron en estos ataques. Para el final de la ofensiva, las crónicas del \"Euzkadi\" hablan de que “Irún está ardiendo. Es una inmensa hoguera\". Se desconoce el número de víctimas que pudieron causar estos ataques. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/errenteria-01-09-1936-26-04-1937> rdfs:comment "Errenteria fue bombardeado en dos ocasiones, una en septiembre de 1936 y la otra en abril de 1937. En el primero de los ataques se registraron un muertos y dos heridos, además de los daños materiales. Sobre el segundo no se dispone de información la respecto del número de víctimas. " .
 
@@ -3231,23 +3231,23 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/markina--29-09-1936-26-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  El Nervión  El Noticiero Bilbaíno  La Gaceta del Norte  Testimonios de Alberto Onaindia y George Steer" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  El Noticiero Bilbaíno  Euzkadi  La Gaceta del Norte " .
+<http://id.euskadi.eus/public-sector/history/bombardment/ermua-24-09-1936-25-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  El Noticiero Bilbaíno  Euzkadi  La Gaceta del Norte " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/portugalete-24-10-1936-26-10-1936-05-11-1936> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  El Liberal  EL Noticiero Bilbaíno  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Orden de Misión de las Fuerzas Aéreas del Norte. (OMFAN)  El Liberal  El Noticiero Bilbaíno  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--01-10-1936--01-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Orden de Misión de las Fuerzas Aéreas del Norte. (OMFAN)  El Liberal  El Noticiero Bilbaíno  Euzkadi" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/elorrio--12-11-1936-25-04-1937> :source "Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Arma de Aviación. Parte de Operaciones. (AAPO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Attivitá Giornaliera dell´Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937, Vol. 1.(AGAL)  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Noticiero Bilbaíno  La Gaceta del Norte  El Pensamiento Alavés" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Testimonios de George Steer, Mathieu Corman, Enrike Goitiandia, Joxe Mari Gerrikabeitia y Alberto Onaindia" .
+<http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-26-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Testimonios de George Steer, Mathieu Corman, Enrike Goitiandia, Joxe Mari Gerrikabeitia y Alberto Onaindia" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/anboto-20-04-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/anboto-04-04-1937> :source "Partes de la Misión de las Fuerzas Aéreas del Norte (PMFAN)" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> :source "El Noticiero Bilbaíno  Euzkadi  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  " .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-09-10-1936-31-03-1937-04-04-1937> :source "El Noticiero Bilbaíno  Euzkadi  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  El Liberal" .
+<http://id.euskadi.eus/public-sector/history/bombardment/axpe-achondo-22-04-1937-10-05-1937-12-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  El Liberal" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrazua-ubarrundia-10-03-1937> :source "El Noticiero Bilbaíno  El Liberal " .
 
@@ -3261,17 +3261,17 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ajangiz-26-04-1937> :source "Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-05-04-1937-06-04-1937-13-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132." .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-04-04-1937> :source "Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ochandiano-13-04-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/muxika-09-05-1937-10-05-1937-14-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> :source "Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Relazione sulla Missione in Spagna. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare  Spagna, AM Busta 70, Fasc. 7. (RMS)  Euzkadi " .
+<http://id.euskadi.eus/public-sector/history/bombardment/gernika-26-04-1937-27-04-1937-29-04-1937> :source "Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Relazione sulla Missione in Spagna. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare  Spagna, AM Busta 70, Fasc. 7. (RMS)  Euzkadi " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132." .
+<http://id.euskadi.eus/public-sector/history/bombardment/%C3%A1lava-06-04-1937-07-04-1937-22-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mundaka-03-05-1937> :source "Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)" .
 
@@ -3301,7 +3301,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gamiz-fika-11-06-1937-12-06-1937-13-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal  El Pemsamiento Alavés" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bizkaia-29-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco-26-05-1937-31-05-1937-07-06-1937> :source "EL Liberal " .
 
@@ -3407,7 +3407,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/plencia-02-12-1936-03-12-1936> :source "El Noticiero Bilbaíno  El Liberal " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> :source "Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA) Ejército del Norte. Estado Mayor. Tercera Sección. Partes de Operaciones. (ENEMPO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Attivitá Giornaliera dell’Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Euzkadi  El Liberal  El Noticiero Bilbaíno  La Gaceta del Norte  Testimonios de Joxe Iturria y George Steer. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/durango-%28spain%29--25-09-1936-29-04-1937> :source "Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA) Ejército del Norte. Estado Mayor. Tercera Sección. Partes de Operaciones. (ENEMPO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Attivitá Giornaliera dell’Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1. Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Euzkadi  El Liberal  El Noticiero Bilbaíno  La Gaceta del Norte  Testimonios de Joxe Iturria y George Steer. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/abadi%C3%B1o-29-09-1936-22-04-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Noticiero Bilbaíno" .
 
@@ -3417,9 +3417,9 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/munitibar-arbatzegi-gerrikaitz-20-05-1937-22-05-1937> :source "Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> :source "Arma de Aviación. Parte de Operaciones. (AAPO)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Orden de Misión de las Fuerzas Aéreas del Norte. (OMFAN)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Attivitá Giornaliera dell’Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1.  Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  El Liberal  El Noticiero Bilbaíno  El Nervión  Euzkadi  La Gaceta del Norte  Testimonios de George Steer, Carmelo Bernaola y José Antonio Marulagoitia.  " .
+<http://id.euskadi.eus/public-sector/history/bombardment/ochandiano--22-07-1936-25-04-1937> :source "Arma de Aviación. Parte de Operaciones. (AAPO)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Orden de Misión de las Fuerzas Aéreas del Norte. (OMFAN)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Attivitá Giornaliera dell’Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937. Volume 1.  Uffizio Storico de la Aeronautica Militare, OMS Operazione Militare Spagna, AM Busta 70. (AGAL)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  El Liberal  El Noticiero Bilbaíno  El Nervión  Euzkadi  La Gaceta del Norte  Testimonios de George Steer, Carmelo Bernaola y José Antonio Marulagoitia.  " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> :source "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132." .
+<http://id.euskadi.eus/public-sector/history/bombardment/ma%C3%B1aria--02-04-1937-15-04-1937> :source "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/vitoria-gasteiz--17-09-1936-29-05-1937> :source "El Noticiero Bilbaíno  El Liberal  El Pensamiento Alavés  Euzkadi  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  " .
 
@@ -3437,7 +3437,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano-09-04-1937-28-04-1937> :source "Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Euzkadi  El LIberal  Testimonio de George Steer. " .
+<http://id.euskadi.eus/public-sector/history/bombardment/bermeo--09-04-1937-26-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Euzkadi  El LIberal  Testimonio de George Steer. " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amorebieta-etxano--13-04-1937-13-06-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  El Liberal  Euzkadi  El Pensamiento Alavés  Testimonio de George Steer. " .
 
@@ -3453,21 +3453,21 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zeanuri--02-04-1937-10-04-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Ministerio de Guerra de la República. Sección de información. Resumen de Noticias (MGSI)  Attivitá Giornaliera dell´Aviazione Legionaria del Continente dal Luglio 1936 al Dicember 1937, Vol. 1.(AGAL)  Euzkadi  El Liberal" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  El Liberal  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/lemoa--08-05-1937-13-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  El Liberal  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  El Liberal  Euzkadi  El Pensamiento Alavés" .
+<http://id.euskadi.eus/public-sector/history/bombardment/igorre--06-04-1937-29-05-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  El Liberal  Euzkadi  El Pensamiento Alavés" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorbeia--02-04-1937-29-05-1937> :source "Partes de la Misión de las Fuerzas Aéreas del Norte (PMFAN). Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las  Operaciones (CJEMRO) Euzkadi (03/04/1937)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/areatza--02-04-1937-23-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bedia-spain--04-01-1937-07-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-12-05-1937-14-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-03-05-1937-17-05-1937> :source "El Liberal  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal" .
+<http://id.euskadi.eus/public-sector/history/bombardment/larrabetzu--29-04-1937-11-06-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Liberal" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/fruiz--14-05-1937-15-06-1937> :source "Euzkadi  El Liberal  Testimonio de George Steer" .
 
@@ -3475,19 +3475,19 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/mungu%C3%ADa-19-05-1937-20-05-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  El Pensamietno Alavés  Testimonio de George Steer." .
+<http://id.euskadi.eus/public-sector/history/bombardment/galdakao--04-01-1937-15-06-1937> :source "Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  El Pensamietno Alavés  Testimonio de George Steer." .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Pensamiento Alavés" .
+<http://id.euskadi.eus/public-sector/history/bombardment/pais-vasco--12-05-1937-19-05-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Euzkadi  El Pensamiento Alavés" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/lezama--21-05-1937-12-06-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  El Liberal  Euzkadi  Testimonio de George Steer" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bakio-12-05-1937-14-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> :source "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  El Liberal  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/us%C3%A1nsolo-01-04-1937-09-04-1937> :source "Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  El Liberal  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  Testimonio de George Steer" .
+<http://id.euskadi.eus/public-sector/history/bombardment/zamudio-%28bizkaia%29--05-05-1937-12-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  Testimonio de George Steer" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)   Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Euzkadi  El Liberal  Testimonio de George Steer" .
+<http://id.euskadi.eus/public-sector/history/bombardment/mungia--01-05-1937-12-06-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)   Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  Euzkadi  El Liberal  Testimonio de George Steer" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/zeberio--29-04-1937-24-05-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  El Liberal  Euzkadi" .
 
@@ -3495,7 +3495,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/ibaizabal-07-05-1937-11-05-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  El Liberal  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO) Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal" .
+<http://id.euskadi.eus/public-sector/history/bombardment/miravalles--09-04-1937-16-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO) Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/arrigorriaga--09-04-1937-29-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El Liberal" .
 
@@ -3503,21 +3503,21 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/gorbeia-26-05-1937-31-05-1937> :source "El Lilberal" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)" .
+<http://id.euskadi.eus/public-sector/history/bombardment/plentzia-14-05-1937-23-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/pagasarri-02-04-1937-17-06-1937> :source "Partes de Misión de las Fuerzas Aéreas del Norte. (PMFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  El Pensamiento Alavés  La Gaceta del Norte  EL Nervión  Testimonio de George Steer" .
+<http://id.euskadi.eus/public-sector/history/bombardment/bilbo--25-09-1936-19-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della Aviazione Legionaria. (CALJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Euzkadi  El Liberal  El Pensamiento Alavés  La Gaceta del Norte  EL Nervión  Testimonio de George Steer" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/sondika--24-04-1937-15-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Resumen de las operaciones del día. 3ª Sección (enero a agosto 1937). (JAROD)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  El Liberal  El Noticiero Bilbaíno  Euzkadi  Frente Popular  La Gaceta del Norte  Testimonio de George Steer " .
+<http://id.euskadi.eus/public-sector/history/bombardment/leioa--31-08-1936-16-05-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Secretaría General de S.E. el Jefe de Estado. Oficina de Información. Salamanca. (SGOI)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  El Liberal  El Noticiero Bilbaíno  Euzkadi  Frente Popular  La Gaceta del Norte  Testimonio de George Steer " .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/amurrio-26-05-1937-31-05-1937> :source "Euzkadi  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI) " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El Nervión  EL Liberal " .
+<http://id.euskadi.eus/public-sector/history/bombardment/ordu%C3%B1a-%28spanien%29--31-12-1936-07-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Comando Aviazione Legionaria. Jefatura del’Aire. Salamanca. Velani [Vincenzo Velardi], comendante della  Aviazione Legionaria. (CALJA)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Euzkadi  El Nervión  EL Liberal " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi" .
+<http://id.euskadi.eus/public-sector/history/bombardment/areeta--22-04-1937-13-06-1937> :source "Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/uzkiano-26-05-1937-27-05-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones (CJEMRO)  Legión Cóndor. Informe a la Jefatura del Aire de Salamanca (LCIJA)  Euzkadi  El Pensamiento Alavés " .
 
@@ -3529,7 +3529,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/sestao--04-01-1937-23-05-1937> :source "IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  El Liberal  Euzkadi  El Noticiero Bilbaíno" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  El Liberal  EL Noticiero Bilbaíno  La Gaceta del Norte  Testimonio de George Steer." .
+<http://id.euskadi.eus/public-sector/history/bombardment/barakaldo--25-09-1936-18-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Euzkadi  El Liberal  EL Noticiero Bilbaíno  La Gaceta del Norte  Testimonio de George Steer." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/abanto-zierbena--29-04-1937-17-06-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Euzkadi  El Liberal" .
 
@@ -3541,7 +3541,7 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/algorta-13-05-1937-26-05-1937> :source "El Liberal" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  El Liberal  El Noticiero Bilbaíno  Euzkadi  Frente Popular  La Gaceta del Norte." .
+<http://id.euskadi.eus/public-sector/history/bombardment/portugalete--31-08-1936-15-06-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Informes de Henry Chilton, embajador de Gran Bretaña, a los servicios de inteligencia aérea británicos. (IHCh)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  El Liberal  El Noticiero Bilbaíno  Euzkadi  Frente Popular  La Gaceta del Norte." .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/santurtzi--08-08-1936-20-05-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  El Liberal  El Nervión  El Noticiero Bilbaíno  Euzkadi  Frente Popular  La Gaceta del Norte  Testimonio de George Steer" .
 
@@ -3549,13 +3549,13 @@
 
 <http://id.euskadi.eus/public-sector/history/bombardment/deba-river-09-10-1936-24-12-1936> :source "El Liberal  El Noticiero Bilbaíno  Euzkadi  El Nervión " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  El Liberal  El Noticiero Bilbaíno  Euzkadi  El Nervión  Testimonio de George Steer" .
+<http://id.euskadi.eus/public-sector/history/bombardment/elgeta--08-10-1936-24-04-1937> :source "Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Partes de operaciones de las Fuerzas Aéreas del Norte. (POFAN)  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  El Liberal  El Noticiero Bilbaíno  Euzkadi  El Nervión  Testimonio de George Steer" .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica�?, Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  La Gaceta del Norte  El Noticiero Bilbaíno  El Nervión  Testimonio de George Steer" .
+<http://id.euskadi.eus/public-sector/history/bombardment/eibar--29-08-1936-25-04-1937> :source "Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Jefatura del Aire. Estado Mayor. Información (octubre a diciembre 1936). (JAEMI)  IRARGI, Euskadiko Ondarearen Zentroa/Centro de Patrimonio Documental de Euskadi, Doc. GE-0037-03. Relación de víctimas causadas por la aviación facciosa en sus incursiones del mes de abril de 1937.  Diario de Richtofen. Maier, Klaus A., Guernica. La intervención alemana en España y el “caso Guernica\", Sedmay, Madrid, 1976, pp. 98-132.  Scrittori sulla guerra civile spagnola. Ministero degli Affari Esteri, Gabinetto del Ministro 1236. (SSGCS)  Euzkadi  El Liberal  La Gaceta del Norte  El Noticiero Bilbaíno  El Nervión  Testimonio de George Steer" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/karrantza--17-06-1937-02-07-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Attivitá Giornaliera dell’Aviazione Legionaria. British Intelligence. Kew archives. HW 21 1. (AGALBI)  Testimonio de Mercedes Iribarren " .
 
-<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivit�  di Volo. (ALAVO)" .
+<http://id.euskadi.eus/public-sector/history/bombardment/artzentales--22-06-1937-02-07-1937> :source "Legión Cóndor. Informe a la Jefatura del Aire de Salamanca. (LCIJA)  Coronel Jefe de Estado Mayor. Tercera Sección. Resumen de las Operaciones. (CJEMRO)  Aviazione Legionaria. Comando Base Aerea Salamanca. Attivita  di Volo. (ALAVO)" .
 
 <http://id.euskadi.eus/public-sector/history/bombardment/bergara--05-10-1936-09-04-1937> :source "El Liberal  Euzkadi  El Nervión" .
 
