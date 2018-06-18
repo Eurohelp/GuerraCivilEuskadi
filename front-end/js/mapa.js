@@ -85,7 +85,7 @@ function generarMapa() {
 
     $.ajax(options).done(function(respuesta) {
 
-        //console.log(respuesta);
+        console.log(respuesta);
 
         $(respuesta).find("results").find("result").each(function(index, element) {
 

@@ -1,4 +1,4 @@
-var url = "http://guerracivileuskadi.eurohelp.es:18888/blazegraph/namespace/kb/sparql";
+var url = "http://guerracivileuskadi.eurohelp.es/blazegraph/namespace/kb/sparql";
 
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");

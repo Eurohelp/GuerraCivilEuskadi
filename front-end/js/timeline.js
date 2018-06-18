@@ -91,11 +91,11 @@ function generarTimeline() {
 
         var options = {
 
-            height: '650px',
+            height: '670px',
             min: new Date(1936, 0, 18), // lower limit of visible range
             max: new Date(1937, 2, 1), // upper limit of visible range
             start: new Date(1936, 0, 18),
-            zoomMin: 1000 * 60 * 60 * 24 * 7, // one day in milliseconds
+            zoomMin: 1000 * 60 * 60 * 24 * 7, // one week in milliseconds
             zoomMax: 1000 * 60 * 60 * 24 * 31 * 3 // about three months in milliseconds
 
         };
