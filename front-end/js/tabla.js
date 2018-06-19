@@ -28,17 +28,17 @@ function generarTabla(tipoEvento, fecha) {
         contadorRepeticiones = 0;
 
         var options = {
-            "async": true,
-            "crossDomain": true,
-            "url": url,
-            "method": "POST",
-            "dataType": "xml",
-            "headers": {
-                "Content-Type": "application/x-www-form-urlencoded",
-                "Accept": "application/sparql-results+xml;charset=UTF-8",
-                "Cache-Control": "true",
+            type: 'POST',
+            url: url,
+            crossDomain: true,
+            data: "query=" + sentencia,
+            dataType: 'xml',
+            success: function(responseData, textStatus, jqXHR) {
+                var value = responseData.someKey;
             },
-            "data": "query=" + sentencia
+            error: function(responseData, textStatus, errorThrown) {
+                alert('POST failed.');
+            }
         }
 
         $.ajax(options).done(function(respuesta) {
@@ -102,17 +102,17 @@ function generarTabla(tipoEvento, fecha) {
         contadorRepeticiones = 0;
 
         var options = {
-            "async": true,
-            "crossDomain": true,
-            "url": url,
-            "method": "POST",
-            "dataType": "xml",
-            "headers": {
-                "Content-Type": "application/x-www-form-urlencoded",
-                "Accept": "application/sparql-results+xml;charset=UTF-8",
-                "Cache-Control": "true",
+            type: 'POST',
+            url: url,
+            crossDomain: true,
+            data: "query=" + sentencia,
+            dataType: 'xml',
+            success: function(responseData, textStatus, jqXHR) {
+                var value = responseData.someKey;
             },
-            "data": "query=" + sentencia
+            error: function(responseData, textStatus, errorThrown) {
+                alert('POST failed.');
+            }
         }
 
         $.ajax(options).done(function(respuesta) {
@@ -175,17 +175,17 @@ function generarTabla(tipoEvento, fecha) {
         contadorRepeticiones = 0;
 
         var options = {
-            "async": true,
-            "crossDomain": true,
-            "url": url,
-            "method": "POST",
-            "dataType": "xml",
-            "headers": {
-                "Content-Type": "application/x-www-form-urlencoded",
-                "Accept": "application/sparql-results+xml;charset=UTF-8",
-                "Cache-Control": "true",
+            type: 'POST',
+            url: url,
+            crossDomain: true,
+            data: "query=" + sentencia,
+            dataType: 'xml',
+            success: function(responseData, textStatus, jqXHR) {
+                var value = responseData.someKey;
             },
-            "data": "query=" + sentencia
+            error: function(responseData, textStatus, errorThrown) {
+                alert('POST failed.');
+            }
         }
 
         $.ajax(options).done(function(respuesta) {
