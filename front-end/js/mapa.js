@@ -65,25 +65,51 @@ function generarMapa() {
             "Content-Type": "application/x-www-form-urlencoded",
             "Accept": "application/sparql-results+xml;charset=UTF-8",
             "Cache-Control": "true",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST",
+            "Access-Control-Allow-Headers": "Content-Type"
         },
 
-        "data": "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> " +
-            "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
-            "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>" +
-            "PREFIX owl: <http://www.w3.org/2002/07/owl#>" +
-            "PREFIX schema: <http://schema.org/>" +
-            "SELECT DISTINCT *  " +
-            "WHERE {" +
-            "   {?place geo-pos:lat ?latitude ." +
-            "   ?place geo-pos:long ?longitude ." +
-            "       ?place rdf:type ?type .}" +
-            "   OPTIONAL {?place rdfs:comment ?comment .}" +
-            "   OPTIONAL {?place schema:location ?location .}" +
-            "} "
-
+        "data": "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> \
+            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
+            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>\
+            PREFIX schema: <http://schema.org/>\
+            SELECT DISTINCT *  \
+            WHERE {\
+               {?place geo-pos:lat ?latitude .\
+               ?place geo-pos:long ?longitude .\
+                   ?place rdf:type ?type .}\
+               OPTIONAL {?place rdfs:comment ?comment .}\
+               OPTIONAL {?place schema:location ?location .}\
+            } "
     }
 
-    $.ajax(options).done(function(respuesta) {
+    $.ajax({
+        type: 'POST',
+        url: url,
+        crossDomain: true,
+        data: "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> \
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
+        PREFIX owl: <http://www.w3.org/2002/07/owl#>\
+        PREFIX schema: <http://schema.org/>\
+        SELECT DISTINCT *  \
+        WHERE {\
+           {?place geo-pos:lat ?latitude .\
+           ?place geo-pos:long ?longitude .\
+               ?place rdf:type ?type .}\
+           OPTIONAL {?place rdfs:comment ?comment .}\
+           OPTIONAL {?place schema:location ?location .}\
+        } ",
+        dataType: 'xml',
+        success: function(responseData, textStatus, jqXHR) {
+            var value = responseData.someKey;
+        },
+        error: function(responseData, textStatus, errorThrown) {
+            alert('POST failed.');
+        }
+    }).done(function(respuesta) {
 
         console.log(respuesta);
 
@@ -113,5 +139,36 @@ function generarMapa() {
 
         });
     });
+
+    //$.ajax(options).done(function(respuesta) {
+    //
+    //    console.log(respuesta);
+    //
+    //    $(respuesta).find("results").find("result").each(function(index, element) {
+    //
+    //        name = $(element).find("binding[name='type']").find("uri").text();
+    //
+    //        latitud = $(element).find("binding[name='latitude']").find("literal").text();
+    //
+    //        longitud = $(element).find("binding[name='longitude']").find("literal").text();
+    //
+    //        localizacion = '<a href=' + $(element).find("binding[name='location']").find("uri").text() + '>' + "Dataset de localizaciones</a></p>";
+    //
+    //        place = '<a href=' + $(element).find("binding[name='place']").find("uri").text() + '>' + "Dataset de lugares</a></p>";
+    //
+    //        comment = $(element).find("binding[name='comment']").find("literal").text();
+    //
+    //        if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
+    //
+    //        if (name.includes("bombing")) {
+    //            var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+    //        } else if (name.includes("Mass_grave")) {
+    //            var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+    //        } else {
+    //            var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+    //        }
+    //
+    //    });
+    //});
 
 }
