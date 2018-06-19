@@ -56,52 +56,22 @@ function generarMapa() {
     mymap.on('click', onMapClick);
 
     var options = {
-        "async": true,
-        "crossDomain": true,
-        "url": url,
-        "method": "POST",
-        "dataType": "xml",
-        "headers": {
-            "Content-Type": "application/x-www-form-urlencoded",
-            "Accept": "application/sparql-results+xml;charset=UTF-8",
-            "Cache-Control": "true",
-            "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Methods": "POST",
-            "Access-Control-Allow-Headers": "Content-Type"
-        },
-
-        "data": "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> \
-            PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
-            PREFIX owl: <http://www.w3.org/2002/07/owl#>\
-            PREFIX schema: <http://schema.org/>\
-            SELECT DISTINCT *  \
-            WHERE {\
-               {?place geo-pos:lat ?latitude .\
-               ?place geo-pos:long ?longitude .\
-                   ?place rdf:type ?type .}\
-               OPTIONAL {?place rdfs:comment ?comment .}\
-               OPTIONAL {?place schema:location ?location .}\
-            } "
-    }
-
-    $.ajax({
         type: 'POST',
         url: url,
         crossDomain: true,
         data: "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> \
-        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
-        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
-        PREFIX owl: <http://www.w3.org/2002/07/owl#>\
-        PREFIX schema: <http://schema.org/>\
-        SELECT DISTINCT *  \
-        WHERE {\
-           {?place geo-pos:lat ?latitude .\
-           ?place geo-pos:long ?longitude .\
-               ?place rdf:type ?type .}\
-           OPTIONAL {?place rdfs:comment ?comment .}\
-           OPTIONAL {?place schema:location ?location .}\
-        } ",
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
+    PREFIX owl: <http://www.w3.org/2002/07/owl#>\
+    PREFIX schema: <http://schema.org/>\
+    SELECT DISTINCT *  \
+    WHERE {\
+       {?place geo-pos:lat ?latitude .\
+       ?place geo-pos:long ?longitude .\
+           ?place rdf:type ?type .}\
+       OPTIONAL {?place rdfs:comment ?comment .}\
+       OPTIONAL {?place schema:location ?location .}\
+    } ",
         dataType: 'xml',
         success: function(responseData, textStatus, jqXHR) {
             var value = responseData.someKey;
@@ -109,7 +79,9 @@ function generarMapa() {
         error: function(responseData, textStatus, errorThrown) {
             alert('POST failed.');
         }
-    }).done(function(respuesta) {
+    }
+
+    $.ajax(options).done(function(respuesta) {
 
         console.log(respuesta);
 

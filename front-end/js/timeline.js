@@ -8,18 +8,10 @@ function generarTimeline() {
     repeticionesFecha = 1;
 
     var options = {
-        "async": true,
-        "crossDomain": true,
-        "url": url,
-        "method": "POST",
-        "dataType": "xml",
-        "headers": {
-            "Content-Type": "application/x-www-form-urlencoded",
-            "Accept": "application/sparql-results+xml;charset=UTF-8",
-            "Cache-Control": "true",
-        },
-
-        "data": "query=PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
+        type: 'POST',
+        url: url,
+        crossDomain: true,
+        data: "query=PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
             "PREFIX dbo: <http://dbpedia.org/ontology/>" +
             "SELECT DISTINCT *" +
             "WHERE {" +
@@ -27,8 +19,14 @@ function generarTimeline() {
             " ?resource rdf:type ?type ." +
             ' FILTER (?date > "' + "1936-01-18" + '"^^xsd:date)' +
             "}" +
-            "LIMIT 4000"
-
+            "LIMIT 4000",
+        dataType: 'xml',
+        success: function(responseData, textStatus, jqXHR) {
+            var value = responseData.someKey;
+        },
+        error: function(responseData, textStatus, errorThrown) {
+            alert('POST failed.');
+        }
     }
 
     $.ajax(options).done(function(respuesta) {
