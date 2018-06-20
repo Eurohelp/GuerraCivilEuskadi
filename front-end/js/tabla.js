@@ -1,4 +1,17 @@
 var url = "http://guerracivileuskadi.eurohelp.es/blazegraph/namespace/kb/sparql";
+var diccionarioLabels = {
+    person: "Persona",
+    birthPlace: "Lugar de nacimiento",
+    deathPlace: "Lugar de fallecimiento",
+    deathMode: "Causa de la muerte",
+    label: "Nombre",
+    bombardment: "Bombardeo",
+    location: "Localización",
+    source: "Fuente",
+    comment: "Información",
+    legeguneaurl: "Url",
+    title: "Título"
+};
 
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -47,7 +60,9 @@ function generarTabla(tipoEvento, fecha) {
             tabla += "<tr>";
 
             $(respuesta).find("head").find("variable").each(function(index, element) {
-                tabla += "<th>" + $(element).attr("name") + '</th>';
+
+                tabla += "<th>" + diccionarioLabels[String($(element).attr("name"))] + '</th>';
+
                 contadorRepeticiones++;
             });
 
@@ -122,7 +137,9 @@ function generarTabla(tipoEvento, fecha) {
             tabla += "<tr>";
 
             $(respuesta).find("head").find("variable").each(function(index, element) {
-                tabla += "<th>" + $(element).attr("name") + '</th>';
+
+                tabla += "<th>" + diccionarioLabels[String($(element).attr("name"))] + '</th>';
+
                 contadorRepeticiones++;
             });
 
@@ -195,7 +212,9 @@ function generarTabla(tipoEvento, fecha) {
             tabla += "<tr>";
 
             $(respuesta).find("head").find("variable").each(function(index, element) {
-                tabla += "<th>" + $(element).attr("name") + '</th>';
+
+                tabla += "<th>" + diccionarioLabels[String($(element).attr("name"))] + '</th>';
+
                 contadorRepeticiones++;
             });
 
