@@ -19,7 +19,9 @@ var sentencia = "";
 
 function generarMapa() {
 
-    var mymap = L.map('mapid').setView([43.2603479, -2.9334110], 13);
+    var mymap = L.map('mapid', {
+        scrollWheelZoom: false,
+    }).setView([43.2603479, -2.9334110], 13);
 
     L.tileLayer('https://{s}.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png?apikey={apikey}', {
         attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -100,47 +102,22 @@ function generarMapa() {
             comment = $(element).find("binding[name='comment']").find("literal").text();
 
             if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
+            var text = String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion);
+            var popup = L.popup({
+                maxHeight: 100
+            }).setContent(text);
 
             if (name.includes("bombing")) {
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(popup);
+
             } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(popup);
             } else {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(popup);
             }
 
         });
     });
-
-    //$.ajax(options).done(function(respuesta) {
-    //
-    //    console.log(respuesta);
-    //
-    //    $(respuesta).find("results").find("result").each(function(index, element) {
-    //
-    //        name = $(element).find("binding[name='type']").find("uri").text();
-    //
-    //        latitud = $(element).find("binding[name='latitude']").find("literal").text();
-    //
-    //        longitud = $(element).find("binding[name='longitude']").find("literal").text();
-    //
-    //        localizacion = '<a href=' + $(element).find("binding[name='location']").find("uri").text() + '>' + "Dataset de localizaciones</a></p>";
-    //
-    //        place = '<a href=' + $(element).find("binding[name='place']").find("uri").text() + '>' + "Dataset de lugares</a></p>";
-    //
-    //        comment = $(element).find("binding[name='comment']").find("literal").text();
-    //
-    //        if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
-    //
-    //        if (name.includes("bombing")) {
-    //            var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
-    //        } else if (name.includes("Mass_grave")) {
-    //            var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
-    //        } else {
-    //            var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(String("<br> Descripción: " + comment + "<br>" + place + "<br>" + localizacion));
-    //        }
-    //
-    //    });
-    //});
 
 }
