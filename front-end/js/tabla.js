@@ -12,6 +12,7 @@ var diccionarioLabels = {
     legeguneaurl: "Url",
     title: "Título"
 };
+var userLang = navigator.language || navigator.userLanguage;
 
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -90,7 +91,6 @@ function generarTabla(tipoEvento, fecha) {
 
                 tabla += "</tr>";
 
-                tabla += "</tr>";
             });
 
             var posicionTabla = document.getElementById('contenedorTabla');
@@ -165,7 +165,6 @@ function generarTabla(tipoEvento, fecha) {
 
                 tabla += "</tr>";
 
-                tabla += "</tr>";
             });
 
             var posicionTabla = document.getElementById('contenedorTabla');
@@ -223,18 +222,25 @@ function generarTabla(tipoEvento, fecha) {
 
             $(respuesta).find("results").find("result").each(function(index, element) {
 
-                tabla += "<tr>";
                 titulo = $(element).find("binding[name='title']").find("literal").text();
                 legeguneaurl = $(element).find("binding[name='legeguneaurl']").find("uri").text();
 
-                tabla += '<td>' + '<a href=' + legeguneaurl + ' target="_blank">' +
-                    legeguneaurl + '</a></td>';
-                tabla += '<td>' +
-                    titulo + '</a></td>';
+                if ((userLang == "es-ES" || userLang == "es") && legeguneaurl.includes("es_def")) {
+                    tabla += "<tr>";
+                    tabla += '<td>' + '<a href=' + legeguneaurl + ' target="_blank">' +
+                        legeguneaurl + '</a></td>';
+                    tabla += '<td>' +
+                        titulo + '</a></td>';
+                    tabla += "</tr>";
+                } else if (userLang == "eu" && legeguneaurl.includes("eu_def")) {
+                    tabla += "<tr>";
+                    tabla += '<td>' + '<a href=' + legeguneaurl + ' target="_blank">' +
+                        legeguneaurl + '</a></td>';
+                    tabla += '<td>' +
+                        titulo + '</a></td>';
+                    tabla += "</tr>";
+                }
 
-                tabla += "</tr>";
-
-                tabla += "</tr>";
             });
 
             var posicionTabla = document.getElementById('contenedorTabla');
