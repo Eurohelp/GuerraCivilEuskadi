@@ -49,6 +49,20 @@ function generarMapa() {
         }
     });
 
+    var info = L.control();
+
+    info.onAdd = function(map) {
+        this._div = L.DomUtil.create('div', 'info');
+        this.update();
+        return this._div;
+    };
+
+    info.update = function(props) {
+        //this._div.innerHTML = '<h4>Zoom in: Doble click </h4>' + '<br><h4>Zoom out: Shift+Doble click </h4>';
+    };
+
+    info.addTo(mymap);
+
     var GraveIcon = new LeafIcon({ iconUrl: 'assets/map-markers/23-512.png' });
 
     var bombingIcon = new LeafIcon({ iconUrl: 'assets/map-markers/2079_-_Explosion_I-512.png' });
