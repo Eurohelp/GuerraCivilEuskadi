@@ -17,7 +17,8 @@ function generarTimeline() {
             "WHERE {" +
             " ?resource dbo:date ?date ." +
             " ?resource rdf:type ?type ." +
-            ' FILTER (?date > "' + "1936-01-18" + '"^^xsd:date)' +
+            ' FILTER (?date > "' + "1936-07-18" + '"^^xsd:date)' +
+            ' FILTER (?date < "' + "1937-07-31" + '"^^xsd:date)' +
             "}" +
             "LIMIT 4000",
         dataType: 'xml',
@@ -37,9 +38,8 @@ function generarTimeline() {
 
         $(respuesta).find("results").find("result").each(function(index, element) {
 
-            //NombreBombardeo = $(element).find("binding[name='comment']").find("literal").text();
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
-
+            var FechaBombardeo = "";
             if (UriBombardeoURL.includes("missing-person")) {
                 FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://id.euskadi.eus/def/euskadipedia/missing-person";
             } else if (UriBombardeoURL.includes("dof")) {
@@ -48,10 +48,16 @@ function generarTimeline() {
                 FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://dbpedia.org/resource/Aerial_bombing_of_cities";
             }
 
-            if (!fechasDOF.includes(FechaBombardeo)) {
+            var temp = FechaBombardeo.split("||");
+            var tempCriba = temp[0];
+            var fechaTempCriba = tempCriba.split("-");
+            var dateTemp = new Date(Number(fechaTempCriba[0]), Number(fechaTempCriba[1] - 1), Number(fechaTempCriba[2]));
+            var fechaMinima = new Date(1936, 6, 18);
+            var fechaMaxima = new Date(1937, 2, 1);
+            if (!fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
                 fechasDOF.push(FechaBombardeo);
                 FechasHashMap.set(FechaBombardeo, repeticionesFecha);
-            } else {
+            } else if (fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
                 temporalRepeticiones = FechasHashMap.get(FechaBombardeo);
                 temporalRepeticiones++;
                 FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
@@ -90,9 +96,9 @@ function generarTimeline() {
         var options = {
 
             height: '670px',
-            min: new Date(1936, 0, 18), // lower limit of visible range
-            max: new Date(1937, 2, 1), // upper limit of visible range
-            start: new Date(1936, 0, 18),
+            min: new Date(1936, 6, 1), // lower limit of visible range
+            max: new Date(1937, 3, 1), // upper limit of visible range
+            start: new Date(1936, 8, 1),
             zoomMin: 1000 * 60 * 60 * 24 * 7, // one week in milliseconds
             zoomMax: 1000 * 60 * 60 * 24 * 31 * 3 // about three months in milliseconds
 
