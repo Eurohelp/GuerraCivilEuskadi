@@ -2,6 +2,9 @@ var FechasHashMap = new Map();
 var data = [];
 var datos = [];
 var a = new Map();
+var diccionarioCriba = ["Zuazo-Urquiaga-Aniceto", "Ramirez-De-La-Piscina-Ruiz-De-Zuazo-Ignacio", "Sancho-Velasco-Angel",
+    "Gorostegui-Mugica-Agustina-Alegia", "Lluvia-Rodriguez-Eladio"
+];
 
 function generarTimeline() {
 
@@ -40,7 +43,8 @@ function generarTimeline() {
 
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
             var FechaBombardeo = "";
-            if (UriBombardeoURL.includes("missing-person")) {
+            var itemp = !diccionarioCriba.includes(UriBombardeoURL)
+            if (UriBombardeoURL.includes("missing-person") && !diccionarioCriba.includes(UriBombardeoURL)) {
                 FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://id.euskadi.eus/def/euskadipedia/missing-person";
             } else if (UriBombardeoURL.includes("dof")) {
                 FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://data.europa.eu/eli/ontology#LegalResource";
@@ -48,19 +52,21 @@ function generarTimeline() {
                 FechaBombardeo = $(element).find("binding[name='date']").find("literal").text() + "||http://dbpedia.org/resource/Aerial_bombing_of_cities";
             }
 
-            var temp = FechaBombardeo.split("||");
-            var tempCriba = temp[0];
-            var fechaTempCriba = tempCriba.split("-");
-            var dateTemp = new Date(Number(fechaTempCriba[0]), Number(fechaTempCriba[1] - 1), Number(fechaTempCriba[2]));
-            var fechaMinima = new Date(1936, 6, 18);
-            var fechaMaxima = new Date(1937, 2, 1);
-            if (!fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
-                fechasDOF.push(FechaBombardeo);
-                FechasHashMap.set(FechaBombardeo, repeticionesFecha);
-            } else if (fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
-                temporalRepeticiones = FechasHashMap.get(FechaBombardeo);
-                temporalRepeticiones++;
-                FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
+            if (FechaBombardeo != "") {
+                var temp = FechaBombardeo.split("||");
+                var tempCriba = temp[0];
+                var fechaTempCriba = tempCriba.split("-");
+                var dateTemp = new Date(Number(fechaTempCriba[0]), Number(fechaTempCriba[1] - 1), Number(fechaTempCriba[2]));
+                var fechaMinima = new Date(1936, 6, 18);
+                var fechaMaxima = new Date(1937, 2, 1);
+                if (!fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
+                    fechasDOF.push(FechaBombardeo);
+                    FechasHashMap.set(FechaBombardeo, repeticionesFecha);
+                } else if (fechasDOF.includes(FechaBombardeo) && dateTemp > fechaMinima && dateTemp < fechaMaxima) {
+                    temporalRepeticiones = FechasHashMap.get(FechaBombardeo);
+                    temporalRepeticiones++;
+                    FechasHashMap.set(FechaBombardeo, temporalRepeticiones);
+                }
             }
 
         });

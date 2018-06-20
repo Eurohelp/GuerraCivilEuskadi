@@ -125,17 +125,19 @@ function generarMapa() {
             }).setContent(text);
 
             var posicion = latitud + longitud;
-            if (name.includes("bombing") && !arrayPosiciones.includes(posicion)) {
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).bindPopup(popup);
-            } else if (name.includes("Mass_grave") && !arrayPosiciones.includes(posicion)) {
-                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).bindPopup(popup);
-            } else if (!arrayPosiciones.includes(posicion)) {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).bindPopup(popup);
+            if (!place.includes("http://dbpedia.org/resource/Bilbao's_Iron_Ring")) {
+                if (name.includes("bombing") && !arrayPosiciones.includes(posicion)) {
+                    var marker = L.marker([latitud, longitud], { icon: bombingIcon }).bindPopup(popup);
+                } else if (name.includes("Mass_grave") && !arrayPosiciones.includes(posicion)) {
+                    var marker = L.marker([latitud, longitud], { icon: GraveIcon }).bindPopup(popup);
+                } else if (!arrayPosiciones.includes(posicion)) {
+                    var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).bindPopup(popup);
+                }
+                try {
+                    arrayPosiciones.push(posicion);
+                    markers.addLayer(marker);
+                } catch (err) {}
             }
-            try {
-                arrayPosiciones.push(posicion);
-                markers.addLayer(marker);
-            } catch (err) {}
 
         });
 
