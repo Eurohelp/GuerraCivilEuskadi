@@ -13,6 +13,7 @@ var arrayLongitud = [];
 var resultadosPosicion = [];
 var url = "http://guerracivileuskadi.eurohelp.es/blazegraph/namespace/kb/sparql";
 var sentencia = "";
+var arrayPosiciones = [];
 /***************************************************************************** */
 
 /*Scripts mapa*/
@@ -29,7 +30,9 @@ function generarMapa() {
         maxZoom: 22
     }).addTo(mymap);
 
-    var popup = L.popup();
+    var markers = L.markerClusterGroup({
+        chunkedLoading: true
+    });
 
     function onMapClick(e) {
         //    popup
@@ -121,17 +124,21 @@ function generarMapa() {
                 maxHeight: 100
             }).setContent(text);
 
-            if (name.includes("bombing")) {
-
-                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).addTo(mymap).bindPopup(popup);
-
-            } else if (name.includes("Mass_grave")) {
-                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).addTo(mymap).bindPopup(popup);
-            } else {
-                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).addTo(mymap).bindPopup(popup);
+            var posicion = latitud + longitud;
+            if (name.includes("bombing") && !arrayPosiciones.includes(posicion)) {
+                var marker = L.marker([latitud, longitud], { icon: bombingIcon }).bindPopup(popup);
+            } else if (name.includes("Mass_grave") && !arrayPosiciones.includes(posicion)) {
+                var marker = L.marker([latitud, longitud], { icon: GraveIcon }).bindPopup(popup);
+            } else if (!arrayPosiciones.includes(posicion)) {
+                var marker = L.marker([latitud, longitud], { icon: infrastructureIcon }).bindPopup(popup);
             }
+            try {
+                arrayPosiciones.push(posicion);
+                markers.addLayer(marker);
+            } catch (err) {}
 
         });
-    });
 
+    });
+    mymap.addLayer(markers);
 }
