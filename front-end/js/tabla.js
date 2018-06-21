@@ -71,11 +71,9 @@ function generarTabla(tipoEvento, fecha) {
             });
 
             tabla += "<th>" + diccionarioLabels[tablaCabeceras[4]] + '</th>';
-            tabla += "<th>" + diccionarioLabels[tablaCabeceras[0]] + '</th>';
-            tabla += "<th>" + diccionarioLabels[tablaCabeceras[1]] + '</th>';
-            tabla += "<th>" + diccionarioLabels[tablaCabeceras[2]] + '</th>';
-            tabla += "<th>" + diccionarioLabels[tablaCabeceras[3]] + '</th>';
-
+            for (i = 0; i < tablaCabeceras.length - 1; i++) {
+                tabla += "<th>" + diccionarioLabels[tablaCabeceras[i]] + '</th>';
+            }
             tabla += "</tr>";
             var l;
 
