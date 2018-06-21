@@ -59,13 +59,22 @@ function generarTabla(tipoEvento, fecha) {
 
             tabla = "";
             tabla += "<tr>";
+            var tablaCabeceras = [];
 
             $(respuesta).find("head").find("variable").each(function(index, element) {
 
-                tabla += "<th>" + diccionarioLabels[String($(element).attr("name"))] + '</th>';
+                console.log(respuesta);
+
+                tablaCabeceras.push(String($(element).attr("name")));
 
                 contadorRepeticiones++;
             });
+
+            tabla += "<th>" + diccionarioLabels[tablaCabeceras[4]] + '</th>';
+            tabla += "<th>" + diccionarioLabels[tablaCabeceras[0]] + '</th>';
+            tabla += "<th>" + diccionarioLabels[tablaCabeceras[1]] + '</th>';
+            tabla += "<th>" + diccionarioLabels[tablaCabeceras[2]] + '</th>';
+            tabla += "<th>" + diccionarioLabels[tablaCabeceras[3]] + '</th>';
 
             tabla += "</tr>";
             var l;
@@ -79,6 +88,7 @@ function generarTabla(tipoEvento, fecha) {
                 deathMode = $(element).find("binding[name='deathMode']").find("uri").text();
                 label = $(element).find("binding[name='label']").find("literal").text();
 
+                tabla += '<td>' + label + '</a></td>';
                 tabla += '<td>' + '<a href=' + person + ' target="_blank">' +
                     person + '</a></td>';
                 tabla += '<td>' + '<a href=' + birthPlace + ' target="_blank">' +
@@ -87,7 +97,6 @@ function generarTabla(tipoEvento, fecha) {
                     deathPlace + '</a></td>';
                 tabla += '<td>' + '<a href=' + deathMode + ' target="_blank">' +
                     deathMode + '</a></td>';
-                tabla += '<td>' + label + '</a></td>';
 
                 tabla += "</tr>";
 
