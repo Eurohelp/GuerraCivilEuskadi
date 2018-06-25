@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no , user-scalable=no">
+    <title>Tablas</title>
+		<link rel="stylesheet" href="assets/css/main.css" />
+
+    <link rel="stylesheet" href="assets/css/tabla-timeline.css" />
+    <script src="assets/js/tabla.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+    
+
+    <script>
+        var tipoEvento = getParameterByName('motive');
+        var fecha = getParameterByName('selectedDate');
+        generarTabla(tipoEvento, fecha);
+    </script>
+    
+
+    <div class="top-img-dark-header">
+    	    <p><a href="index.html#lineatiempo">&lt; Volver atrás</a></p>
+
+    </div>
+    
+    <script>
+        var tipoEvento = getParameterByName('motive');
+        var fecha = getParameterByName('selectedDate');
+        generarTabla(tipoEvento, fecha);
+
+        function h1(text) {
+            var textoTitular = "Dataset de ";
+            if (text == "LegalResource") {
+                textoTitular += "leyes"
+            }
+            if (text.includes("missing-person")) {
+                textoTitular += "personas desaparecidas"
+            }
+            if (text.includes("_bombing_")) {
+                textoTitular += "bombardeos"
+            }
+            document.write('<h1>' + textoTitular + '</h1>');
+        }
+    </script>
+
+
+    <div class="contenedor-tabla">
+
+		<div class="row 200%">
+			<div class="6u 12u$(medium)">
+				<header>
+					<script>
+						h1(tipoEvento);
+					</script>
+				</header>
+			</div>
+
+		</div>
+
+		<div id="tabla" class="bloques">
+			<div id="contenedorTabla">
+				<div id="soporte"></div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

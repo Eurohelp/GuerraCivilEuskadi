@@ -61,7 +61,9 @@ function generarMapa() {
     };
 
     info.update = function(props) {
-        //this._div.innerHTML = '<h4>Zoom in: Doble click </h4>' + '<br><h4>Zoom out: Shift+Doble click </h4>';
+        this._div.innerHTML = '<div class="tooltip"><h4>Información relevante</h4>' + (props ?
+            '<b>' + props + '</b><br /> people / mi<sup>2</sup>' :
+            'Hover over a state');
     };
 
     info.addTo(mymap);
@@ -128,6 +130,11 @@ function generarMapa() {
             if (!place.includes("http://dbpedia.org/resource/Bilbao's_Iron_Ring")) {
                 if (name.includes("bombing") && !arrayPosiciones.includes(posicion)) {
                     var marker = L.marker([latitud, longitud], { icon: bombingIcon }).bindPopup(popup);
+                    var text = "EEEEEEEO";
+                    info.update = function(text) {
+                        this._div.innerHTML = '<div class="tooltip"><h4>Información relevante</h4>' +
+                            'Haz click sobre el elemento de interés</div><b>' + text + '</b><br />';
+                    };
                 } else if (name.includes("Mass_grave") && !arrayPosiciones.includes(posicion)) {
                     var marker = L.marker([latitud, longitud], { icon: GraveIcon }).bindPopup(popup);
                 } else if (!arrayPosiciones.includes(posicion)) {
