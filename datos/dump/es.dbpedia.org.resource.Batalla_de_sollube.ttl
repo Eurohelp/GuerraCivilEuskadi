@@ -1,67 +1,49 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rdf:RDF
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-	xmlns:ns2="http://www.w3.org/ns/prov#"
-	xmlns:owl="http://www.w3.org/2002/07/owl#"
-	xmlns:ns4="http://purl.org/dc/terms/"
-	xmlns:ns5="http://dbpedia.org/ontology/"
-	xmlns:foaf="http://xmlns.com/foaf/0.1/"
-	xmlns:ns7="http://es.dbpedia.org/property/" >
-  <rdf:Description rdf:about="http://es.wikipedia.org/wiki/Batalla_de_Sollube">
-    <foaf:primaryTopic rdf:resource="http://es.dbpedia.org/resource/Batalla_de_Sollube" />
-  </rdf:Description>
-  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Batalla_de_Sollube">
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryConflict" />
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event" />
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
-    <rdf:type rdf:resource="http://dbpedia.org/ontology/SocietalEvent" />
-    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event" />
-    <rdf:type rdf:resource="http://schema.org/Event" />
-    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1656682" />
-    <rdfs:label xml:lang="es">Batalla de Sollube</rdfs:label>
-    <rdfs:comment xml:lang="es">La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizcaína de Bermeo en el País Vasco, España. Enfrentó a las fuerzas sublevadas contra la segunda república española de Bautista Sánchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao.</rdfs:comment>
-    <ns2:wasDerivedFrom rdf:resource="http://es.wikipedia.org/wiki/Batalla_de_Sollube?oldid=91913226" />
-    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q12267501" />
-    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12267501" />
-    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Sollubeko_gudua" />
-    <ns4:subject rdf:resource="http://es.dbpedia.org/resource/Categoría:España_en_1937" />
-    <ns4:subject rdf:resource="http://es.dbpedia.org/resource/Categoría:Batallas_de_la_Guerra_Civil_Española" />
-    <ns4:subject rdf:resource="http://es.dbpedia.org/resource/Categoría:Historia_de_Vizcaya" />
-    <ns4:subject rdf:resource="http://es.dbpedia.org/resource/Categoría:Guerra_Civil_Española_en_el_País_Vasco" />
-    <ns5:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG?width=300" />
-    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG" />
-    <ns7:batallas rdf:resource="http://es.dbpedia.org/resource/Batalla_de_Sollube" />
-    <ns7:batallas rdf:resource="http://es.dbpedia.org/resource/Bombardeo_de_Durango" />
-    <ns7:batallas rdf:resource="http://es.dbpedia.org/resource/Bombardeo_de_Guernica" />
-    <ns7:batallas rdf:resource="http://es.dbpedia.org/resource/Cinturón_de_Hierro" />
-    <ns7:batallas rdf:resource="http://es.dbpedia.org/resource/Batalla_de_Bilbao" />
-    <ns7:consecuencias rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* La comarca de Busturialdea es controlada por los sublevados.
-* Estancamiento del frente vizcaíno hasta el 12 de junio.
-* Los sublevados alcanzan el Río Butrón, posición estratégica para tomar Bilbao.</ns7:consecuencias>
-    <ns7:descripciónImagen rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Monte Sollube, posición donde se desarrollaron los combates.</ns7:descripciónImagen>
-    <ns7:fecha rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns7:fecha>
-    <ns7:fin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns7:fin>
-    <ns7:imagen rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sollube antena.JPG</ns7:imagen>
-    <ns7:inicio rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ns7:inicio>
-    <ns7:nombre rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Campaña de Vizcaya</ns7:nombre>
-    <ns7:parteDe rdf:resource="http://es.dbpedia.org/resource/Guerra_Civil_Española" />
-    <ns7:parteDe rdf:resource="http://es.dbpedia.org/resource/Ofensiva_de_Vizcaya" />
-    <ns5:commander rdf:resource="http://es.dbpedia.org/resource/Juan_Bautista_Sánchez" />
-    <ns5:commander rdf:resource="http://es.dbpedia.org/resource/Sandro_Piazzoni" />
-    <ns5:commander rdf:resource="http://es.dbpedia.org/resource/Wolfram_von_Richthofen" />
-    <ns5:commander rdf:resource="http://es.dbpedia.org/resource/Pablo_Belderrain" />
-    <ns5:place rdf:resource="http://es.dbpedia.org/resource/Sollube" />
-    <ns5:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5014938</ns5:wikiPageID>
-    <ns5:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91913226</ns5:wikiPageRevisionID>
-    <ns5:wikiPageExternalLink rdf:resource="http://www.edsombra.com/sotano/index.asp?rev=76&amp;sec=7&amp;pag=1" />
-    <ns5:abstract xml:lang="es">La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizcaína de Bermeo en el País Vasco, España. Enfrentó a las fuerzas sublevadas contra la segunda república española de Bautista Sánchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao.</ns5:abstract>
-    <ns5:causalties>600 muertos</ns5:causalties>
-    <ns5:causalties>400 muertos</ns5:causalties>
-    <ns5:combatant>22pxRepública española</ns5:combatant>
-    <ns5:combatant>23px|Bandera de las fuerzas sublevadas en 1937.Bando sublevado</ns5:combatant>
-    <ns5:result>Victoria de los sublevados.</ns5:result>
-    <foaf:name xml:lang="es">Batalla de Sollube</foaf:name>
-    <foaf:isPrimaryTopicOf rdf:resource="http://es.wikipedia.org/wiki/Batalla_de_Sollube" />
-  </rdf:Description>
-</rdf:RDF>
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/commander>	<http://es.dbpedia.org/resource/Juan_Bautista_S\u00E1nchez> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/inicio>	"31"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/parteDe>	<http://es.dbpedia.org/resource/Guerra_Civil_Espa\u00F1ola> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/parteDe>	<http://es.dbpedia.org/resource/Ofensiva_de_Vizcaya> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/consecuencias>	"* La comarca de Busturialdea es controlada por los sublevados.\n* Estancamiento del frente vizca\u00EDno hasta el 12 de junio.\n* Los sublevados alcanzan el R\u00EDo Butr\u00F3n, posici\u00F3n estrat\u00E9gica para tomar Bilbao."^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://xmlns.com/foaf/0.1/name>	"Batalla de Sollube"@es .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/commander>	<http://es.dbpedia.org/resource/Sandro_Piazzoni> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/batallas>	<http://es.dbpedia.org/resource/Batalla_de_Sollube> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/fecha>	"6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://xmlns.com/foaf/0.1/isPrimaryTopicOf>	<http://es.wikipedia.org/wiki/Batalla_de_Sollube> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/MilitaryConflict> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Event> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#Thing> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/descripci\u00F3nImagen>	"Monte Sollube, posici\u00F3n donde se desarrollaron los combates."^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/wikiPageRevisionID>	"91913226"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/batallas>	<http://es.dbpedia.org/resource/Bombardeo_de_Durango> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://purl.org/dc/terms/subject>	<http://es.dbpedia.org/resource/Categor\u00EDa:Espa\u00F1a_en_1937> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://www.edsombra.com/sotano/index.asp?rev=76&sec=7&pag=1> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://purl.org/dc/terms/subject>	<http://es.dbpedia.org/resource/Categor\u00EDa:Batallas_de_la_Guerra_Civil_Espa\u00F1ola> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/causalties>	"600 muertos" .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/2000/01/rdf-schema#comment>	"La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizca\u00EDna de Bermeo en el Pa\u00EDs Vasco, Espa\u00F1a. Enfrent\u00F3 a las fuerzas sublevadas contra la segunda rep\u00FAblica espa\u00F1ola de Bautista S\u00E1nchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao."@es .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/2002/07/owl#sameAs>	<http://wikidata.dbpedia.org/resource/Q12267501> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/SocietalEvent> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/causalties>	"400 muertos" .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/entity/Q12267501> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/wikiPageID>	"5014938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://purl.org/dc/terms/subject>	<http://es.dbpedia.org/resource/Categor\u00EDa:Historia_de_Vizcaya> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/fin>	"1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/nombre>	"Campa\u00F1a de Vizcaya"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/abstract>	"La Batalla de Sollube fue un enfrentamiento militar ocurrido entre el 6 y el 14 de mayo de 1937 en los alrededores de la localidad vizca\u00EDna de Bermeo en el Pa\u00EDs Vasco, Espa\u00F1a. Enfrent\u00F3 a las fuerzas sublevadas contra la segunda rep\u00FAblica espa\u00F1ola de Bautista S\u00E1nchez y a algunos de los batallones del Bando republicano que participaban de la defensa de Bilbao."@es .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/2000/01/rdf-schema#label>	"Batalla de Sollube"@es .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://es.wikipedia.org/wiki/Batalla_de_Sollube?oldid=91913226> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/combatant>	"22pxRep\u00FAblica espa\u00F1ola" .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/2002/07/owl#sameAs>	<http://eu.dbpedia.org/resource/Sollubeko_gudua> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/batallas>	<http://es.dbpedia.org/resource/Bombardeo_de_Guernica> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/thumbnail>	<http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG?width=300> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/commander>	<http://es.dbpedia.org/resource/Wolfram_von_Richthofen> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Sollube_antena.JPG> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/place>	<http://es.dbpedia.org/resource/Sollube> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/batallas>	<http://es.dbpedia.org/resource/Cintur\u00F3n_de_Hierro> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/combatant>	"23px|Bandera de las fuerzas sublevadas en 1937.Bando sublevado" .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/imagen>	"Sollube antena.JPG"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Event> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://purl.org/dc/terms/subject>	<http://es.dbpedia.org/resource/Categor\u00EDa:Guerra_Civil_Espa\u00F1ola_en_el_Pa\u00EDs_Vasco> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/result>	"Victoria de los sublevados." .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://dbpedia.org/ontology/commander>	<http://es.dbpedia.org/resource/Pablo_Belderrain> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.wikidata.org/entity/Q1656682> .
+<http://es.dbpedia.org/resource/Batalla_de_Sollube>	<http://es.dbpedia.org/property/batallas>	<http://es.dbpedia.org/resource/Batalla_de_Bilbao> .
