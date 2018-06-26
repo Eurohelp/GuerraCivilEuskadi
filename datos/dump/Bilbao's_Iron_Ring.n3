@@ -44,16 +44,16 @@
 		<http://dbpedia.org/resource/Category:1936_in_military_history> ,
 		dbc:Buildings_and_structures_in_Bilbao .
 @prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
-<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	geo:lat	"39.9333343505859375"^^xsd:float ;
+<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	geo:lat	"43.264144"^^xsd:float ;
 	geo:long	"-0.56666666269302368164"^^xsd:float ;
 	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cinturondehierro.jpg> ;
 	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Bilbao\u0027s_Iron_Ring> .
 @prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .
-<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	geo:geometry	"POINT(-0.56666666269302 39.933334350586)"^^virtrdf:Geometry .
+<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	geo:geometry	"POINT(-2.923565 43.264144)"^^virtrdf:Geometry .
 @prefix prov:	<http://www.w3.org/ns/prov#> .
 <http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bilbao\u0027s_Iron_Ring?oldid=743013334> .
 @prefix georss:	<http://www.georss.org/georss/> .
-<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	georss:point	"39.93333333333333 -0.5666666666666667" ;
+<http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	georss:point	"43.264144 -2.923565" ;
 	dbo:abstract	"El Cintur\u00F3n de Hierro de Bilbao hace referencia a un sistema de fortificaci\u00F3n formado por t\u00FAneles, b\u00FAnkeres y trincheras que se construy\u00F3 durante la Guerra Civil Espa\u00F1ola a trav\u00E9s de la costa y los montes que rodean Bilbao (Gaztelumendi, Archanda, etc.) con el objetivo de defender la ciudad ante un ataque de las Fuerzas sublevadas. A pesar del enorme esfuerzo econ\u00F3mico y los recursos invertidos en su construcci\u00F3n, cuando las tropas sublevadas atacaron estas fortificaciones (que se encontraban incompletas), las defensas bilba\u00EDnas quedaron r\u00E1pidamente en inferioridad. Cuando se produjo el asalto final de las brigadas sublevadas, los fortines de la l\u00EDnea no resistieron los bombardeos de artiller\u00EDa y aviaci\u00F3n ni tampoco lograron evitar la ca\u00EDda de Bilbao, debido a que el ej\u00E9rcito invasor conoc\u00EDa con exactitud las posiciones enemigas, ya que el ingeniero que dirigi\u00F3 su construcci\u00F3n les facilit\u00F3 \u00E9sta informaci\u00F3n. A posteriori, la eficacia del Cintur\u00F3n de Hierro ha sido elogiada por unos y criticada por otros."@es ,
 		"Bilbao's Iron Ring (Spanish: Cintur\u00F3n de Hierro, Basque: Bilboko Burdin Hesia), was a vast, labyrinthine fortification around Bilbao, consisting of bunkers, tunnels, and fortified trenches in several rings, protected by artillery. It was hurriedly built during the Spanish Civil War by the Basque Government. However, it was quite an antiquated defence concept akin to First World War fortifications, so it was vulnerable to modern warfare weapons of its time such as aircraft and artillery, and only 30,000 troops were defending it (it was conceived to be defended by 70,000) \u2014 therefore the Iron Ring was rather easily overcome by the Nationalist faction forces in the battle of Bilbao."@en ,
 		"La Ceinture de Fer de Bilbao est un syst\u00E8me de fortifications form\u00E9 par des tunnels, des bunkers et des tranch\u00E9es construit lors de la guerre d'Espagne. Ce syst\u00E8me de d\u00E9fense entoure la ville de Bilbao de la c\u00F4te atlantique en passant par les montagnes alentour (Gaztelumendi, Artxanda, etc.)."@fr ;
