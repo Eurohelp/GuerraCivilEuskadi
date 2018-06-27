@@ -1,6 +1,4 @@
 # Leyes emitidas por el gobierno provisional de Euzkadi sobre alistamiento
-
-
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX schema: <http://schema.org/> 
 PREFIX eli: <http://data.europa.eu/eli/ontology#> 
