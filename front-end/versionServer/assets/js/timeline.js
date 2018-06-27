@@ -40,7 +40,6 @@ function generarTimeline() {
         var contadorDesaparecidos = 0;
 
         $(respuesta).find("results").find("result").each(function(index, element) {
-            console.log(respuesta);
 
             UriBombardeoURL = '<a href=' + $(element).find("binding[name='resource']").find("uri").text() + ' target="_blank">' + $(element).find("binding[name='resource']").find("uri").text() + '</a>';
             var FechaBombardeo = "";

@@ -20,6 +20,10 @@ var arrayPosiciones = [];
 
 function generarMapa() {
 
+    $("#informacion").hide();
+    $(".tooltipInformacion").hide();
+    $("#burl").hide();
+    $("#burl2").hide();
     var contadorBombardeosMapa = 0;
     var contadorFosasMapa = 0;
     var contadorBatallasMapa = 0;
@@ -55,8 +59,13 @@ function generarMapa() {
         document.getElementById("burl").href = event.layer.testURL;
         document.getElementById("burl2").href = event.layer.testLocalizacion;
         if (document.getElementById("burl2").href.includes("file:///C:") || document.getElementById("burl2").href.includes("http://guerracivileuskadi.eurohelp.es/")) {
+            $("#informacion").show();
+            $(".tooltipInformacion").show();
             $("#burl2").hide();
         } else {
+            $(".tooltipInformacion").show();
+            $("#informacion").show();
+            $("#burl").show();
             $("#burl2").show();
         }
     }
