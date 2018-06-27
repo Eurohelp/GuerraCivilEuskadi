@@ -37,7 +37,7 @@
             <ul>
                 <li><a href="index.html">Inicio</a></li>
                 <li><a class="ancla-proyecto" href="#proyecto">Proyecto</a></li>
-                <li><a class="ancla-ejemplos" href="#ejemplos">Ejemplos de datos</a></li>
+                <li><a class="ancla-ejemplos" href="#ejemplos">Conclusiones</a></li>
                 <li><a class="ancla-mapa" href="#mapa">Mapa</a></li>
                 <li><a class="ancla-lineatiempo" href="#lineatiempo">Línea de tiempo</a></li>
                 <li class="specialnav"><a href="playground.html">SparQL Playground</a></li>
@@ -68,8 +68,8 @@
                     </header>
                 </div>
                 <div class="6u$ 12u$(medium)">
-                    <p>Esta web ofrece una visión integral de los datos abiertos sobre la Guerra Civil en Euskadi: bombardeos, fosas comunes, personas desaparecidas, batallas, y leyes aprobadas por el "Gobierno Provisional de Euzkadi". Su objetivo principal
-                        es contribuir a la tan necesaria memoria histórica.</p>
+                    <p>En aras de mejorar la tan necesaria memoria histórica, la web ofrece una visión integral sobre la Guerra Civil en Euskadi basada en los datos abiertos: bombardeos, fosas comunes, personas desaparecidas, batallas, y leyes aprobadas
+                        por el "Gobierno Provisional de Euzkadi"</p>
                 </div>
             </div>
         </div>
@@ -90,12 +90,9 @@
 
                     <h3>La magia de los Datos Enlazados</h3>
 
-                    <p> Estos datos están publicados mediante la técnica de Datos Enlazados (Linked Data), que permite integrar datos dispares creando valor añadido (Los datos siempre adquieren más valor en relación a otros datos). Hemos añadido alrededor
-                        de 4000 enlaces, de manera semiautomática, que unen lugares (Localidades, ríos, etc.) a sus equivalentes en la DBPedia (La versión Linked Data de la Wikipedia): esto quiere decir que los datos de la DBpedia de esas entidades, que
-                        no estaban en los datos originales, está disponibles para realizar consultas. Los datos se pueden explorar mediante las visualizaciones de mapa (para datos geolocalizados) o timeline (para eventos), inluyendo indicadores a modo
-                        de ejemplo de conclusiones que se pueden sacar explotando la potencia de los Datos Enlazados (Linked Data). También incluye una página web para desarrolladores donde hacer consultas SPARQL directamente sobre los datos.
-
-                    </p>
+                    <p>Los datos disponibles en esta web están publicados mediante la técnica de Datos Enlazados (Linked Data), que en este caso permite enlazar los catálogos de datos abiertos de la Guerra Civil publicados en el portal de Open Data Euskadi
+                        con otros datos relacionados y expuestos en la web, proporcionando información enriquecida . Se han añadido alrededor de 4000 enlaces, de manera semiautomática, que unen los lugares a sus equivalentes en la DBPedia (la versión
+                        Linked Data de la Wikipedia): esto quiere decir que los datos de la DBpedia de los lugares, que originalmente no estaban en los datos , están ahora disponibles para realizar consultas. </p>
 
                     <h3>
                         ¿A quíen va dirigido este proyecto?
@@ -143,11 +140,11 @@
                 <div id="titulo-padding" class="6u 12u$(medium)">
                     <header class="major">
                         <h2 id="ejemplos">Conclusiones</h2>
-                        <p>Información extraía de datos abiertos disponibles</p>
+                        <p>Información extraída de datos abiertos disponibles</p>
                     </header>
                 </div>
                 <div id="cuerpo-padding" class="6u$ 12u$(medium)">
-                    <p>A continuación se ofrecen algunas conclusiones interesantes que se han sacado de los datos, mediante consultas SPARQL. Algunas de las consultas explotan los enlaces con la DBPedia ya mencionados, aumentando las posibilidades de análisis
+                    <p>A continuación se ofrecen algunas conclusiones interesantes obtenidas a partir de los datos, mediante consultas SPARQL. Algunas de las consultas explotan los enlaces con la DBPedia ya mencionados, aumentando las posibilidades de análisis
                         mediante los Datos Enlazados</p>
                 </div>
             </div>
@@ -158,10 +155,10 @@
                         <header>
                             <h4>Leyes emitidas durante el conflicto</h4>
                         </header>
-                        <p>Leyes emitidas por el "Gobierno Grovisional de Euzkadi" sobre alistamiento</p>
+                        <p>Leyes emitidas por el "Gobierno Provisional de Euzkadi" sobre alistamiento</p>
                         <ul class="actions">
                             <li><a href="http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=PREFIX+xsd%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E+%0D%0APREFIX+eli%3A+%3Chttp%3A%2F%2Fdata.europa.eu%2Feli%2Fontology%23%3E+%0D%0APREFIX+graph%3A%3Chttp%3A%2F%2Fdata.euskadi.eus%2Fgraph%2F%3E%0D%0A%0D%0ASELECT++DISTINCT+%3FdatePub+%3Flegeguneaurl+%3Ftitle%0D%0AWHERE+%7B%0D%0A%0D%0A%09%09%3Flegalresource+eli%3Adate_publication+%3FdatePub+.%0D%0A%09%09%3Flegalresource+eli%3Ais_realized_by+%3Flegalexpresion+.%0D%0A++++++++%3Flegalexpresion+eli%3Alanguage++%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fauthority%2Flanguage%2FSPA%3E+.%0D%0A++++%09%3Flegalexpresion+eli%3Atitle+%3Ftitle+.%0D%0A%09%09%3Feliformat+eli%3Aembodies+%3Flegalexpresion+.%0D%0A%09%09%3Feliformat+schema%3AmainEntityOfPage+%3Flegeguneaurl+.%0D%0A+++++FILTER+%28%3FdatePub+%3E+%221936-07-18%22%5E%5Exsd%3Adate++%26%26+%3FdatePub+%3C+%221937-07-31%22%5E%5Exsd%3Adate%29%0D%0A++%09+FILTER+regex+%28str%28%3Ftitle%29%2C+%22alistamiento%22%2C+%22i%22%29%0D%0A%7D"
-                                    class="button special">Ejecutar consulta</a></li>
+                                    class="button special">Descargar datos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -171,10 +168,10 @@
                         <header>
                             <h4>Partidos políticos y fosas comunes</h4>
                         </header>
-                        <p>¿Cuál es el partido politico actual en poder en pueblos que han tenido fosas comunes?</p>
+                        <p>¿Cuál es el actual partido político en el poder en localidades con fosas comunes?</p>
                         <ul class="actions">
                             <li><a href="http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=PREFIX+dbo%3A%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0APREFIX+schema%3A%3Chttp%3A%2F%2Fschema.org%2F%3E%0D%0APREFIX+rdf%3A%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0D%0APREFIX+rdfs%3A%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0D%0A%0D%0ASELECT+DISTINCT+%2A%0D%0AWHERE+%7B%0D%0A++++%3Ffosa+rdf%3Atype+%3Chttp%3A%2F%2Frdf.muninn-project.org%2Fontologies%2Fgraves%23Mass_grave%3E+.%0D%0A%09%3Ffosa+schema%3Alocation+%3Fpueblofosa+.%0D%0A%09SERVICE+%3Chttps%3A%2F%2Fdbpedia.org%2Fsparql%3E+%7B%0D%0A%09%09%3Fpueblofosa+dbo%3AleaderParty+%3Fparty+.%0D%0A%09%7D%0D%0A%7D"
-                                    class="button special">Ejecutar consulta</a></li>
+                                    class="button special">Descargar datos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -184,10 +181,10 @@
                         <header>
                             <h4>Desaparecidos y causas de muerte en el conflicto</h4>
                         </header>
-                        <p>De las causas de muerte recogidas en los datos de desaparaciones, ¿Cuál es la que más muertos causó?</p>
+                        <p>De las causas de muerte recogidas en los datos de desapariciones, ¿cuántos muertos causó cada una por tipo?</p>
                         <ul class="actions">
                             <li><a href="http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=SELECT+%3Fmode+%28COUNT%28%3Fperson%29+as+%3FnumeroMode%29%0D%0AWHERE+%7B%0D%0A%09%3Fperson+%3Chttp%3A%2F%2Fid.euskadi.eus%2Fdef%2Feuskadipedia%2Fdeath-mode%3E+%3Fmode%0D%0A%7D%0D%0AGROUP+BY+%3Fmode%0D%0AORDER+BY+%28%3FnumeroMode%29"
-                                    class="button special">Ejecutar consulta</a></li>
+                                    class="button special">Descargar datos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -195,12 +192,12 @@
                     <div class="image"><img src="images/pic07.jpg" alt="" /></div>
                     <div class="content">
                         <header>
-                            <h4>Bombardeos efectuados de la legión Cóndor</h4>
+                            <h4>Bombardeos efectuados por la legión Cóndor</h4>
                         </header>
-                        <p>Bombardeos efectuados en el territorio durante la guerra guerra llevados a cabo por la Legión Cóndor</p>
+                        <p>Bombardeos efectuados en Euskadi durante la Guerra Civil llevados a cabo por la Legión Cóndor</p>
                         <ul class="actions">
                             <li><a href="http://guerracivileuskadi.eurohelp.es:18888/blazegraph/sparql?query=SELECT++DISTINCT+%3Flocation+%3Fdate+%3Fsource+%3Fcomment%0D%0AWHERE+%7B%0D%0A%09%3Fbombing+rdf%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAerial_bombing_of_cities%3E+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fschema.org%2Flocation%3E+%3Flocation+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2Fdate%3E+%3Fdate+.+++++++++%0D%0A++%09%3Fbombing+rdfs%3Acomment+%3Fcomment+.%0D%0A++++%3Fbombing+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fsource%3E+%3Fsource%0D%0A++++FILTER+regex+%28str%28%3Fsource%29%2C+%22C%C3%B3ndor%22%2C+%22i%22%29%0D%0A%7D%0D%0AORDER+BY+%3Fdate"
-                                    class="button special">Ejecutar consulta</a></li>
+                                    class="button special">Descargar datos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -231,31 +228,33 @@
                     <li id="contadorBatallasMapa">0</li>
                 </ul>
             </div>
-            <div class="component-p controls-info">
-                <p>Zoom in: Doble click | Zoom out: Shift+Doble click </p>
 
-            </div>
+        </div>
+        <div class="component-p controls-info">
+            <p>Zoom in: Doble click | Zoom out: Shift+Doble click </p>
 
-            <div id="mapid" style="width: 100%; height: 550px;">
-                <div class="leaflet-top leaflet-right ">
-                    <div class="info leaflet-control tooltipInformacion">
-                        <p id="informacion">Haz click sobre un marcador</p>
-                        <p><a href="" id="burl">Datos del recurso</a></p>
-                        <p><a href="" id="burl2">Lugar</a></p>
-                    </div>
+        </div>
+
+        <div id="mapid" style="width: 100%; height: 550px;">
+            <div class="leaflet-top leaflet-right ">
+                <div class="info leaflet-control tooltipInformacion">
+                    <p id="informacion">Haz click sobre un marcador</p>
+                    <p><a href="" id="burl">Datos del recurso</a></p>
+                    <p><a href="" id="burl2">Lugar</a></p>
                 </div>
-
             </div>
-            <script>
-                generarMapa();
-            </script>
+
+        </div>
+        <script>
+            generarMapa();
+        </script>
     </section>
     <section id="six">
         <header id="lineatiempo" class="major text-center timeline-header">
-            <h2>Línea temporal</h2>
+            <h2>Línea de tiempo</h2>
             <p>Eventos destacados durante la guerra civil en Euskadi</p>
         </header>
-        <p class="component-p">Este timeline ofrece los datos temporales sobre la Guerra civil. El timeline se puede ensanchar mediante el scroll del raton. Pinchando en cada item se proveen detalles.</p>
+        <p class="component-p">Este timeline ofrece los datos temporales sobre la Guerra Civil. El timeline se puede ensanchar mediante el scroll del ratón. Pinchando en cada icono se navega a una página de detalle.</p>
         <div class="leyenda-timeline">
             <img src="assets/map-markers/bomba-timeline.png" alt="" /><span>Bombardeo</span>
             <img src="assets/map-markers/persona-timeline.png" alt="" /><span>Persona desaparecida</span>

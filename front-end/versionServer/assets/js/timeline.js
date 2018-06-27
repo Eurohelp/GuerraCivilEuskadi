@@ -73,7 +73,7 @@ function generarTimeline() {
 
         });
 
-        //console.log(FechasHashMap);
+        console.log(FechasHashMap);
 
         for (var value of FechasHashMap) {
             datos.push(value);
@@ -84,14 +84,14 @@ function generarTimeline() {
             if (temp[1] == "http://id.euskadi.eus/def/euskadipedia/missing-person") {
                 var motive = temp[1];
                 var selectedDate = temp[0];
-                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/persona-timeline.png"  alt="Persona desaparecida" height="24" width="24"></a>';
+                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/persona-timeline.png"  alt="Persona desaparecida" height="24" width="24"></a>'
                 contadorDesaparecidos++;
             }
             if (temp[1] == "http://data.europa.eu/eli/ontology#LegalResource") {
                 var sinHashTag = temp[1].split("#");
                 var motive = sinHashTag[1];
                 var selectedDate = temp[0];
-                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/justicia-timeline.png"  alt="Ley" height="24" width="24"></a>';
+                var icono = '<a href="tabla.html?motive=' + motive + "&selectedDate=" + selectedDate + '"> <img src="assets/map-markers/justicia-timeline.png"  alt="Ley" height="24" width="24"></a>'
                 contadorLeyes++;
             }
             if (temp[1] == "http://dbpedia.org/resource/Aerial_bombing_of_cities") {
@@ -103,6 +103,7 @@ function generarTimeline() {
 
             data.push({ id: value[0], content: String(value[1]) + " " + icono, start: String(temp[0]) });
         }
+
 
         document.getElementById("contadorBombardeosTimeline").textContent = contadorBombardeos;
         document.getElementById("contadorDesaparecidosTimeline").textContent = contadorDesaparecidos;
