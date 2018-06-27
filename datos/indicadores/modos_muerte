@@ -1,6 +1,4 @@
 # Modos de muerte de personas desaparecidas, ordenadas por numero
-
-
 SELECT ?mode (COUNT(?person) as ?numeroMode)
 WHERE {
 ?person <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/death-mode> ?mode

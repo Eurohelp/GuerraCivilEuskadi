@@ -1,0 +1,3 @@
+#Query obtiene numero personas desaparecidas
+SELECT (COUNT(distinct ?recurso) AS ?total) where {?recurso rdf:type <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/missing-person> 
+  }

@@ -1,0 +1,7 @@
+#Query obtiene numero leyes
+
+SELECT (COUNT(distinct ?recurso) AS ?total) where{ {
+  ?recurso rdf:type <http://www.wikidata.org/entity/Q1656682> ;
+  rdfs:label ?label.
+  
+} UNION {	?recurso rdf:type <http://dbpedia.org/ontology/MilitaryStructure>   }  UNION {	?recurso rdf:type <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing>   }UNION {	?recurso rdf:type <http://dbpedia.org/class/yago/Battle100953559>   }}
