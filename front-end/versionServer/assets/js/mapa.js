@@ -61,6 +61,7 @@ function generarMapa() {
         if (document.getElementById("burl2").href.includes("file:///C:") || document.getElementById("burl2").href.includes("http://guerracivileuskadi.eurohelp.es/")) {
             $("#informacion").show();
             $(".tooltipInformacion").show();
+            $("#burl").show();
             $("#burl2").hide();
         } else {
             $(".tooltipInformacion").show();

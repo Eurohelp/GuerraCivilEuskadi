@@ -107,7 +107,7 @@ function generarTartaMuerte() {
             options: {
                 title: {
                     display: true,
-                    text: 'Número de muertos por modo de defunción'
+                    text: 'Muertos y desaparecidos por tipo'
                 }
             }
         });
@@ -127,7 +127,7 @@ function generarBarrasDesaparecidos() {
         crossDomain: true,
         data: "query=SELECT ?localidad ?numDesaparecidos WHERE{SELECT distinct ?localidad (COUNT(?localidad) as ?numDesaparecidos) (SUM(?numMuertos) as ?numero) WHERE{\
             ?persona rdf:type <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/missing-person>;\
-          <http://dbpedia.org/ontology/birthPlace> ?localidad }GROUP BY ?localidad ORDER BY ?numMuertos} ORDER BY DESC(?numDesaparecidos) LIMIT 10",
+          <http://dbpedia.org/ontology/birthPlace> ?localidad }GROUP BY ?localidad ORDER BY ?numMuertos} ORDER BY DESC(?numDesaparecidos) LIMIT 5",
         dataType: 'xml',
         success: function(responseData, textStatus, jqXHR) {
             var value = responseData.someKey;
@@ -168,7 +168,7 @@ function generarBarrasDesaparecidos() {
                 legend: { display: false },
                 title: {
                     display: true,
-                    text: 'Número de desaparecidos por provincia'
+                    text: 'Número de desaparecidos por localidad'
                 }
             }
         });
@@ -187,7 +187,7 @@ function generarBarrasBombardeos() {
         crossDomain: true,
         data: "query=SELECT ?provincia ?numBombardeos WHERE{SELECT distinct ?provincia (COUNT(?provincia) as ?numBombardeos) (SUM(?numFosas) as ?numero) WHERE{\
             ?bombardeo rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities>;\
-           <http://schema.org/location> ?provincia }GROUP BY ?provincia ORDER BY ?numFosas} ORDER BY DESC(?numBombardeos) LIMIT 10",
+           <http://schema.org/location> ?provincia }GROUP BY ?provincia ORDER BY ?numFosas} ORDER BY DESC(?numBombardeos) LIMIT 7",
         dataType: 'xml',
         success: function(responseData, textStatus, jqXHR) {
             var value = responseData.someKey;
@@ -202,16 +202,18 @@ function generarBarrasBombardeos() {
         console.log(respuesta);
         var arrayTempProvincia = [];
         var arrayNumBombardeos = [];
-
+        var contador = 0;
         $(respuesta).find("results").find("result").each(function(index, element) {
 
-            var provincia = $(element).find("binding[name='provincia']").find("uri").text();
-            var numBombardeos = $(element).find("binding[name='numBombardeos']").find("literal").text();
-            tempProvincia = provincia.split("/");
-            provincia = tempProvincia[4];
-            arrayTempProvincia.push(provincia);
-            arrayNumBombardeos.push(numBombardeos);
-
+            if (contador > 1) {
+                var provincia = $(element).find("binding[name='provincia']").find("uri").text();
+                var numBombardeos = $(element).find("binding[name='numBombardeos']").find("literal").text();
+                tempProvincia = provincia.split("/");
+                provincia = tempProvincia[4];
+                arrayTempProvincia.push(provincia);
+                arrayNumBombardeos.push(numBombardeos);
+            }
+            contador++;
         });
 
         new Chart(document.getElementById("bar-chartBombardeos"), {
@@ -228,12 +230,13 @@ function generarBarrasBombardeos() {
                 legend: { display: false },
                 title: {
                     display: true,
-                    text: 'Número de bombardeos por provincia'
+                    text: 'Número de bombardeos por localidad'
                 },
                 scales: {
                     yAxes: [{
                         ticks: {
-                            beginAtZero: true
+                            beginAtZero: true,
+                            max: 6
                         }
                     }]
                 }

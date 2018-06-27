@@ -43,11 +43,13 @@
                 <pre><code>PREFIX xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt;
 PREFIX schema: &lt;http://schema.org/&gt; 
 PREFIX eli: &lt;http://data.europa.eu/eli/ontology#&gt; 
-PREFIX graph:&lt;http://data.euskadi.eus/graph/&gt;
+PREFIX graph: &lt;http://data.euskadi.eus/graph/&gt;
+PREFIX dbo: &lt;http://dbpedia.org/ontology/&gt;
+
 
 SELECT  DISTINCT ?datePub ?legeguneaurl ?title
 WHERE {
-	?legalresource eli:date_publication ?datePub .
+	?legalresource dbo:date ?datePub .
 	?legalresource eli:is_realized_by ?legalexpresion .
 	?legalexpresion eli:language  &lt;http://publications.europa.eu/resource/authority/language/SPA&gt; .
 	?legalexpresion eli:title ?title .
@@ -56,7 +58,7 @@ WHERE {
 	FILTER (?datePub &gt; "1936-07-18"^^xsd:date  && ?datePub &lt; "1937-07-31"^^xsd:date)
 	FILTER regex (str(?title), "alistamiento", "i")
 }</code></pre>
-                <p class="btn-descarga"><a href="http://guerracivileuskadi.eurohelp.es/blazegraph/sparql?query=PREFIX+xsd%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E+%0D%0APREFIX+eli%3A+%3Chttp%3A%2F%2Fdata.europa.eu%2Feli%2Fontology%23%3E+%0D%0APREFIX+graph%3A%3Chttp%3A%2F%2Fdata.euskadi.eus%2Fgraph%2F%3E%0D%0A%0D%0ASELECT++DISTINCT+%3FdatePub+%3Flegeguneaurl+%3Ftitle%0D%0AWHERE+%7B%0D%0A%0D%0A%09%09%3Flegalresource+eli%3Adate_publication+%3FdatePub+.%0D%0A%09%09%3Flegalresource+eli%3Ais_realized_by+%3Flegalexpresion+.%0D%0A++++++++%3Flegalexpresion+eli%3Alanguage++%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fauthority%2Flanguage%2FSPA%3E+.%0D%0A++++%09%3Flegalexpresion+eli%3Atitle+%3Ftitle+.%0D%0A%09%09%3Feliformat+eli%3Aembodies+%3Flegalexpresion+.%0D%0A%09%09%3Feliformat+schema%3AmainEntityOfPage+%3Flegeguneaurl+.%0D%0A+++++FILTER+%28%3FdatePub+%3E+%221936-07-18%22%5E%5Exsd%3Adate++%26%26+%3FdatePub+%3C+%221937-07-31%22%5E%5Exsd%3Adate%29%0D%0A++%09+FILTER+regex+%28str%28%3Ftitle%29%2C+%22alistamiento%22%2C+%22i%22%29%0D%0A%7D"
+                <p class="btn-descarga"><a href="http://guerracivileuskadi.eurohelp.es/blazegraph/sparql?query=PREFIX+xsd%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0D%0APREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E+%0D%0APREFIX+eli%3A+%3Chttp%3A%2F%2Fdata.europa.eu%2Feli%2Fontology%23%3E+%0D%0APREFIX+graph%3A%3Chttp%3A%2F%2Fdata.euskadi.eus%2Fgraph%2F%3E%0D%0APREFIX+dbo%3A%09%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E+%0D%0A%0D%0A%0D%0ASELECT++DISTINCT+%3FdatePub+%3Flegeguneaurl+%3Ftitle%0D%0AWHERE+%7B%0D%0A%09%3Flegalresource+dbo%3Adate+%3FdatePub+.%0D%0A%09%3Flegalresource+eli%3Ais_realized_by+%3Flegalexpresion+.%0D%0A%09%3Flegalexpresion+eli%3Alanguage++%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fauthority%2Flanguage%2FSPA%3E+.%0D%0A%09%3Flegalexpresion+eli%3Atitle+%3Ftitle+.%0D%0A%09%3Feliformat+eli%3Aembodies+%3Flegalexpresion+.%0D%0A%09%3Feliformat+schema%3AmainEntityOfPage+%3Flegeguneaurl+.%0D%0A%09FILTER+(%3FdatePub+%3E+%221936-07-18%22%5E%5Exsd%3Adate++%26%26+%3FdatePub+%3C+%221937-07-31%22%5E%5Exsd%3Adate)%0D%0A%09FILTER+regex+(str(%3Ftitle)%2C+%22alistamiento%22%2C+%22i%22)%0D%0A%7D"
                         class="button special">Descargar datos</a></p>
 
 
