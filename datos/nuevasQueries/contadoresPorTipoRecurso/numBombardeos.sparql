@@ -1,0 +1,3 @@
+#Query obtiene numero bombardeos
+SELECT (COUNT(distinct ?recurso) AS ?total) where {?recurso rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities>
+  }

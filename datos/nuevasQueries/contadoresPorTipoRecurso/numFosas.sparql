@@ -1,0 +1,3 @@
+#Query obtiene numero fosas comunes
+SELECT (COUNT(distinct ?recurso) AS ?total) where {?recurso rdf:type <http://rdf.muninn-project.org/ontologies/graves#Mass_grave>
+  }

@@ -1,0 +1,3 @@
+#Query obtiene numero leyes
+SELECT (COUNT(distinct ?recurso) AS ?total) where {?recurso rdf:type <http://data.europa.eu/eli/ontology#Format> 
+  }
