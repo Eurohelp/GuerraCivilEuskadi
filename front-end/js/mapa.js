@@ -114,9 +114,9 @@ function generarMapa() {
 
             longitud = $(element).find("binding[name='longitude']").find("literal").text();
 
-            localizacion = '<a href=' + $(element).find("binding[name='location']").find("uri").text() + '>' + "Dataset de localizaciones</a></p>";
+            localizacion = '<a href=' + $(element).find("binding[name='location']").find("uri").text() + '>' + "Lugar</a></p>";
 
-            place = '<a href=' + $(element).find("binding[name='place']").find("uri").text() + '>' + "Dataset de lugares</a></p>";
+            place = '<a href=' + $(element).find("binding[name='place']").find("uri").text() + '>' + "Datos del recurso</a></p>";
 
             comment = $(element).find("binding[name='comment']").find("literal").text();
 

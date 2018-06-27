@@ -41,16 +41,21 @@ function generarMapa() {
     }
 
     var myFeatureGroup = L.featureGroup().addTo(mymap).on("click", groupClick);
-var marker, test;
+    var marker, test;
 
-function groupClick(event) {
-    //console.log("Clicked on marker " + event.layer.test);
-    var temp=event.layer.test;
-    var tempURL=event.layer.testURL;
-    document.getElementById("informacion").textContent=event.layer.test;
-    document.getElementById("burl").href = event.layer.testURL;
-    document.getElementById("burl2").href = event.layer.testLocalizacion;
-  }
+    function groupClick(event) {
+        //console.log("Clicked on marker " + event.layer.test);
+        var temp = event.layer.test;
+        var tempURL = event.layer.testURL;
+        document.getElementById("informacion").textContent = event.layer.test;
+        document.getElementById("burl").href = event.layer.testURL;
+        document.getElementById("burl2").href = event.layer.testLocalizacion;
+        if (document.getElementById("burl2").href.includes("file:///C:") || document.getElementById("burl2").href.includes("http://guerracivileuskadi.eurohelp.es/")) {
+            $("#burl2").hide();
+        } else {
+            $("#burl2").show();
+        }
+    }
 
     var LeafIcon = L.Icon.extend({
         options: {
@@ -100,7 +105,7 @@ function groupClick(event) {
            ?place rdf:type ?type .}\
        OPTIONAL {?place rdfs:comment ?comment .}\
        OPTIONAL {?place schema:location ?location .}\
-    } ",
+    } ", //FILTER (lang(?comment) = 'es')
         dataType: 'xml',
         success: function(responseData, textStatus, jqXHR) {
             var value = responseData.someKey;
@@ -124,14 +129,14 @@ function groupClick(event) {
 
             localizacion = $(element).find("binding[name='location']").find("uri").text();
 
-            place =  $(element).find("binding[name='place']").find("uri").text();
+            place = $(element).find("binding[name='place']").find("uri").text();
 
             comment = $(element).find("binding[name='comment']").find("literal").text();
 
-            if (comment == "") { comment = "SIN DESCRIPCIÓN"; }
+            if (comment == "") { comment = "SIN INFORMACIÓN"; }
             var text = "Descripción: " + comment; // + "<div class='textpop'>" + place + "</div>" + localizacion;
-            var placeURL= place;
-            var localizacionURL=localizacion;
+            var placeURL = place;
+            var localizacionURL = localizacion;
             var popup = L.popup({
                 maxHeight: 200
             }).setContent(text);
@@ -140,18 +145,18 @@ function groupClick(event) {
             if (name.includes("bombing") && !arrayPosiciones.includes(posicion)) {
                 var marker = L.marker([latitud, longitud], { icon: bombingIcon });
                 marker.test = text;
-                marker.testURL=placeURL;
-                marker.testLocalizacion=localizacionURL;
+                marker.testURL = placeURL;
+                marker.testLocalizacion = localizacionURL;
             } else if (name.includes("Mass_grave") && !arrayPosiciones.includes(posicion)) {
                 var marker = L.marker([latitud, longitud], { icon: GraveIcon });
                 marker.test = text;
-                marker.testURL=placeURL;
-                marker.testLocalizacion=localizacionURL;
+                marker.testURL = placeURL;
+                marker.testLocalizacion = localizacionURL;
             } else if (!arrayPosiciones.includes(posicion)) {
                 var marker = L.marker([latitud, longitud], { icon: infrastructureIcon });
                 marker.test = text;
-                marker.testURL=placeURL;
-                marker.testLocalizacion=localizacionURL;
+                marker.testURL = placeURL;
+                marker.testLocalizacion = localizacionURL;
             }
             try {
                 arrayPosiciones.push(posicion);

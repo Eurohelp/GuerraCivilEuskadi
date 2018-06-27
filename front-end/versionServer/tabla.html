@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no , user-scalable=no">
     <title>Tablas</title>
-		<link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
 
     <link rel="stylesheet" href="assets/css/tabla-timeline.css" />
     <script src="assets/js/tabla.js"></script>
@@ -15,27 +15,27 @@
 </head>
 
 <body>
-    
+
 
     <script>
         var tipoEvento = getParameterByName('motive');
         var fecha = getParameterByName('selectedDate');
         generarTabla(tipoEvento, fecha);
     </script>
-    
+
 
     <div class="top-img-dark-header">
-    	    <p><a href="index.html#lineatiempo">&lt; Volver atrás</a></p>
+        <p><a href="index.html#lineatiempo">&lt; Volver atrás</a></p>
 
     </div>
-    
+
     <script>
         var tipoEvento = getParameterByName('motive');
         var fecha = getParameterByName('selectedDate');
         generarTabla(tipoEvento, fecha);
 
         function h1(text) {
-            var textoTitular = "Dataset de ";
+            var textoTitular = "";
             if (text == "LegalResource") {
                 textoTitular += "leyes"
             }
@@ -52,23 +52,23 @@
 
     <div class="contenedor-tabla">
 
-		<div class="row 200%">
-			<div class="6u 12u$(medium)">
-				<header>
-					<script>
-						h1(tipoEvento);
-					</script>
-				</header>
-			</div>
+        <div class="row 200%">
+            <div class="6u 12u$(medium)">
+                <header>
+                    <script>
+                        h1(tipoEvento);
+                    </script>
+                </header>
+            </div>
 
-		</div>
+        </div>
 
-		<div id="tabla" class="bloques">
-			<div id="contenedorTabla">
-				<div id="soporte"></div>
-			</div>
-		</div>
-	</div>
+        <div id="tabla" class="bloques">
+            <div id="contenedorTabla">
+                <div id="soporte"></div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>

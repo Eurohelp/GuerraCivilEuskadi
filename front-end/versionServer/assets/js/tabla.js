@@ -12,6 +12,12 @@ var diccionarioLabels = {
     legeguneaurl: "Url",
     title: "Título"
 };
+var arrayTabla = ["http://guerracivileuskadi.eurohelp.es/linkeddata/resource/euskadipedia/death-mode/fusilado",
+    "http://guerracivileuskadi.eurohelp.es/linkeddata/resource/euskadipedia/death-mode/muerto-frente",
+    "http://guerracivileuskadi.eurohelp.es/linkeddata/resource/euskadipedia/death-mode/bombardeo",
+    "http://guerracivileuskadi.eurohelp.es/linkeddata/resource/euskadipedia/death-mode/muerto-prision",
+    "http://guerracivileuskadi.eurohelp.es/linkeddata/resource/euskadipedia/death-mode/otras-circunstancias"
+]
 var userLang = navigator.language || navigator.userLanguage;
 
 function getParameterByName(name) {
@@ -93,8 +99,12 @@ function generarTabla(tipoEvento, fecha) {
                     birthPlace + '</a></td>';
                 tabla += '<td>' + '<a href=' + deathPlace + ' target="_blank">' +
                     deathPlace + '</a></td>';
-                tabla += '<td>' + '<a href=' + deathMode + ' target="_blank">' +
-                    deathMode + '</a></td>';
+                if (!arrayTabla.includes(deathMode)) {
+                    tabla += '<td>' + '<a href=' + deathMode + ' target="_blank">' +
+                        deathMode + '</a></td>';
+                } else {
+                    tabla += '<td>' + deathMode + '</td>';
+                }
 
                 tabla += "</tr>";
 
