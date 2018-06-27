@@ -1,0 +1,4 @@
+#Top ten localidades mas bombardeadas
+SELECT ?provincia ?numFosas WHERE{SELECT distinct ?provincia (COUNT(?provincia) as ?numFosas) (SUM(?numFosas) as ?numero) WHERE{
+  ?fosa rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities>;
+ <http://schema.org/location> ?provincia }GROUP BY ?provincia ORDER BY ?numFosas} ORDER BY DESC(?numFosas) LIMIT 10
