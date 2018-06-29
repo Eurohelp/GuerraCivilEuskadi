@@ -45,7 +45,7 @@
 		dbc:Buildings_and_structures_in_Bilbao .
 @prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
 <http://dbpedia.org/resource/Bilbao\u0027s_Iron_Ring>	geo:lat	"43.264144"^^xsd:float ;
-	geo:long	"-0.56666666269302368164"^^xsd:float ;
+	geo:long	"-2.923565"^^xsd:float ;
 	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cinturondehierro.jpg> ;
 	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Bilbao\u0027s_Iron_Ring> .
 @prefix virtrdf:	<http://www.openlinksw.com/schemas/virtrdf#> .

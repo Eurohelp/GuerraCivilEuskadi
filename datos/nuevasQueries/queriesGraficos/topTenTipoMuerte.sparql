@@ -1,4 +1,4 @@
 #Numero muertos por tipo muerte
-SELECT ?modoMuerte ?numBombardeos WHERE{SELECT distinct ?modoMuerte (COUNT(?modoMuerte) as ?numBombardeos) (SUM(?numMuertos) as ?numero) WHERE{
+SELECT ?modoMuerte (?bombardeosTotales*100/4881 as ?numBombardeos) WHERE{SELECT distinct ?modoMuerte (COUNT(?modoMuerte) as ?bombardeosTotales) (SUM(?numMuertos) as ?numero) WHERE{
   ?bombardeo rdf:type <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/missing-person>;
- <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/death-mode> ?modoMuerte }GROUP BY ?modoMuerte ORDER BY ?numMuertos} ORDER BY DESC(?numBombardeos)
+ <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/death-mode> ?modoMuerte }GROUP BY ?modoMuerte ORDER BY ?numMuertos} ORDER BY DESC(?bombardeosTotales)

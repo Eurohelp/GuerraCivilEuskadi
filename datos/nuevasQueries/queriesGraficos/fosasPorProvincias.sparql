@@ -1,4 +1,4 @@
-#numFosasPorProvincia
-SELECT distinct ?provincia (COUNT(?provincia) as ?numFosas) WHERE{
+#cantidadFosasPorProvincia
+SELECT distinct ?provincia (?cantidadFosas*100/52 as ?numFosas) WHERE {SELECT distinct ?provincia (COUNT(?provincia) as ?cantidadFosas) WHERE{
   ?fosa rdf:type <http://rdf.muninn-project.org/ontologies/graves#Mass_grave>;
- <http://schema.org/State> ?provincia }GROUP BY ?provincia ORDER BY ?numFosas
+ <http://schema.org/State> ?provincia }GROUP BY ?provincia ORDER BY ?cantidadFosas}

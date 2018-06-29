@@ -1,4 +1,5 @@
-#Top ten localidades mas bombardeadas
-SELECT ?provincia ?numBombardeos WHERE{SELECT distinct ?provincia (COUNT(?provincia) as ?numBombardeos) (SUM(?numFosas) as ?numero) WHERE{
+#Top 5 localidades mas bombardeadas en porcentaje
+SELECT ?provincia (?totalProvincia*100/749 as ?numBombardeos) WHERE{SELECT ?provincia (SUM (?numTotales) as ?totalProvincia){SELECT ?provincia ?bombardeo (SUM(?numeroBombardeosPorProvincia) as ?numTotales) WHERE{
   ?bombardeo rdf:type <http://dbpedia.org/resource/Aerial_bombing_of_cities>;
- <http://schema.org/location> ?provincia }GROUP BY ?provincia ORDER BY ?numFosas} ORDER BY DESC(?numBombardeos) LIMIT 10
+ <http://guerracivileuskadi.eurohelp.es/linkeddata/def/euskadipedia/numerobombardeos> ?numeroBombardeosPorProvincia . ?bombardeo <http://schema.org/location> ?provincia } 
+GROUP BY ?bombardeo ?provincia} GROUP BY ?provincia ORDER BY DESC(?totalProvincia) LIMIT 7}
