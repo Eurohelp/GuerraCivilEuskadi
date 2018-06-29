@@ -18,18 +18,29 @@ var arrayPosiciones = [];
 
 /*Scripts mapa*/
 
+function cerrarBoton() {
+    $("#informacion").hide();
+    $(".tooltipInformacion").hide();
+    $("#burl").hide();
+    $("#burl2").hide();
+};
+
 function generarMapa() {
 
+    $("#informacion").hide();
+    $(".tooltipInformacion").hide();
+    $("#burl").hide();
+    $("#burl2").hide();
     var contadorBombardeosMapa = 0;
     var contadorFosasMapa = 0;
     var contadorBatallasMapa = 0;
 
     var mymap = L.map('mapid', {
         scrollWheelZoom: false,
-    }).setView([43.2603479, -2.9334110], 13);
+    }).setView([43.2603479, -2.9434230], 10);
 
     L.tileLayer('https://{s}.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png?apikey={apikey}', {
-        apikey: '97fe5e926bfa4a0d8e4d894799973f6a',
+        apikey: '4d6a167bf2c048ae88dc9806a128afce',
         maxZoom: 22
     }).addTo(mymap);
 
@@ -38,25 +49,27 @@ function generarMapa() {
     });
 
     function onMapClick(e) {
-        //    popup
-        //        .setLatLng(e.latlng)
-        //        .setContent("You clicked the map at " + e.latlng.toString())
-        //        .openOn(mymap);
+
     }
 
     var myFeatureGroup = L.featureGroup().addTo(mymap).on("click", groupClick);
     var marker, test;
 
     function groupClick(event) {
-        //console.log("Clicked on marker " + event.layer.test);
         var temp = event.layer.test;
         var tempURL = event.layer.testURL;
         document.getElementById("informacion").textContent = event.layer.test;
         document.getElementById("burl").href = event.layer.testURL;
         document.getElementById("burl2").href = event.layer.testLocalizacion;
         if (document.getElementById("burl2").href.includes("file:///C:") || document.getElementById("burl2").href.includes("http://guerracivileuskadi.eurohelp.es/")) {
+            $("#informacion").show();
+            $(".tooltipInformacion").show();
+            $("#burl").show();
             $("#burl2").hide();
         } else {
+            $(".tooltipInformacion").show();
+            $("#informacion").show();
+            $("#burl").show();
             $("#burl2").show();
         }
     }
@@ -97,19 +110,19 @@ function generarMapa() {
         type: 'POST',
         url: url,
         crossDomain: true,
-        data: "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> \
-    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \
-    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\
-    PREFIX owl: <http://www.w3.org/2002/07/owl#>\
-    PREFIX schema: <http://schema.org/>\
-    SELECT DISTINCT *  \
-    WHERE {\
-       {?place geo-pos:lat ?latitude .\
-       ?place geo-pos:long ?longitude .\
-           ?place rdf:type ?type .}\
-       OPTIONAL {?place rdfs:comment ?comment .}\
-       OPTIONAL {?place schema:location ?location .}\
-    } ", //FILTER (lang(?comment) = 'es')
+        data: "query=PREFIX geo-pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>" +
+            "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
+            "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>" +
+            "PREFIX owl: <http://www.w3.org/2002/07/owl#>" +
+            "PREFIX schema: <http://schema.org/>" +
+            "SELECT DISTINCT *" +
+            "WHERE {" +
+            "   {?place geo-pos:lat ?latitude ." +
+            "   ?place geo-pos:long ?longitude ." +
+            "       ?place rdf:type ?type .}" +
+            "   OPTIONAL {?place rdfs:comment ?comment . FILTER (lang(?comment) != 'en') FILTER (lang(?comment) != 'fr')  FILTER(lang(?comment) != 'pt') FILTER(lang(?comment) != 'ru') FILTER (lang(?comment) != 'it')}" +
+            "   OPTIONAL {?place schema:location ?location .}" +
+            "} ", //FILTER (lang(?comment) = 'es')
         dataType: 'xml',
         success: function(responseData, textStatus, jqXHR) {
             var value = responseData.someKey;
@@ -120,8 +133,6 @@ function generarMapa() {
     }
 
     $.ajax(options).done(function(respuesta) {
-
-        console.log(respuesta);
 
         $(respuesta).find("results").find("result").each(function(index, element) {
 
@@ -171,10 +182,6 @@ function generarMapa() {
             } catch (err) {}
 
         });
-
-        document.getElementById("contadorBombardeosMapa").textContent = contadorBombardeosMapa;
-        document.getElementById("contadorFosasMapa").textContent = contadorFosasMapa;
-        document.getElementById("contadorBatallasMapa").textContent = contadorBatallasMapa;
 
     });
     myFeatureGroup.addLayer(markers);

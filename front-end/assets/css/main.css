@@ -2041,7 +2041,7 @@ font-family: 'Montserrat', sans-serif;
 			background: rgba(189, 141, 76, 0.1);
 			transition:.3s ease;
 		}
-
+		#seven .feature-grid .feature:hover{background: rgba(255, 251, 245, 0.7);}
 		.feature-grid .feature:hover{background: #1a1915;}
 		.feature-grid .feature:hover p{color: #fff;}
 		.feature p {
@@ -3519,6 +3519,7 @@ font-family: 'Montserrat', sans-serif;
 		}
 
 		section#three{background: #F2E0C8;}
+		section#seven{background: #E8D3B6;}
 
 		section#four {
 			padding-top: 15em;
@@ -3764,7 +3765,7 @@ font-family: 'Montserrat', sans-serif;
 	  width:100%;
 	   height:95px;
 		left:0;
-		 top:-30px;
+		 top:-11px;
 		  z-index: 999999;
 		  content:" "; 
 		  background-image: url(../../images/bottom_dark.png);
@@ -3778,7 +3779,7 @@ font-family: 'Montserrat', sans-serif;
 				bottom:-30px;
 				 z-index: 9999;
 				 content:" "; 
-				 background-image: url(../../images/top_light.png);
+				 background-image: url(../../images/top_dark.png);
 			   }
 
 			   .leaflet-popup-content-wrapper, .leaflet-popup-tip {
@@ -4021,7 +4022,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .tooltipInformacion{
-	background:rgb(239, 241, 244,0.9);
+	background: rgb(0, 0, 0);
 	margin-top: 50px;
 	padding-top:40px;
 	width: 600px;
@@ -4029,7 +4030,42 @@ font-family: 'Montserrat', sans-serif;
 }
 
 #informacion{
-	background:rgb(239, 241, 244,0.9);
+	background: rgb(0, 0, 0);
+    padding: 94px 46px 145px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+.info p:nth-child(2) {
+    position: absolute;
+    margin-top: -139px;
+	margin-left: 44px;
+	font-size: 14px;
+}
+
+.info p:nth-child(3) {
+    position: absolute;
+    margin-top: -95px;
+	margin-left: 44px;
+	font-size: 14px;
+}
+
+.info p:nth-child(4) {
+	position: absolute;
+    top: 69px;
+    left: -23px;
+
+}
+
+button#close-burl {
+	padding: 0px 17px;
+    border-radius: 46px;
+    font-size: 18px;
+    font-weight: bold;
+    background: #bd8d4c;
+    height: 46px;
+    line-height: 0px;
 }
 
 .leaflet-control-attribution{
@@ -4038,4 +4074,10 @@ font-family: 'Montserrat', sans-serif;
 	height: 0px;
 }
 
+.btn-descarga{
+	margin-bottom: 4em;
+}
 
+.no-mbotton{
+	margin-bottom: 0;
+}

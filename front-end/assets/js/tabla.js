@@ -29,9 +29,6 @@ function getParameterByName(name) {
 
 function generarTabla(tipoEvento, fecha) {
 
-    console.log(tipoEvento);
-    console.log(fecha);
-
     if (tipoEvento.includes("missing-person")) {
 
         var sentencia = "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>" +
@@ -68,8 +65,6 @@ function generarTabla(tipoEvento, fecha) {
             var tablaCabeceras = [];
 
             $(respuesta).find("head").find("variable").each(function(index, element) {
-
-                console.log(respuesta);
 
                 tablaCabeceras.push(String($(element).attr("name")));
 
@@ -148,7 +143,6 @@ function generarTabla(tipoEvento, fecha) {
         }
 
         $.ajax(options).done(function(respuesta) {
-            console.log(respuesta);
 
             tabla = "";
             tabla += "<tr>";
@@ -222,7 +216,6 @@ function generarTabla(tipoEvento, fecha) {
         }
 
         $.ajax(options).done(function(respuesta) {
-            console.log(respuesta);
 
             tabla = "";
             tabla += "<tr>";
